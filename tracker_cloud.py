@@ -10,10 +10,12 @@ from zoneinfo import ZoneInfo
 # SETTINGS
 # ============================================================
 
-RANKING_URL = (
+RANKING_BASE_URL = (
     "https://initiald.sega.jp/inidac/json/ranking/v1/"
-    "roundPoint/rp_round-76_area-all.json"
+    "roundPoint/"
 )
+
+JAPAN_AREAS = range(47)
 
 ACTIVE_MINUTES = 30
 REFRESH_SECONDS = 60
@@ -84,25 +86,56 @@ RANKS = [
 
 def download_ranking():
 
-    print("Downloading Initial D ranking...")
+    print("Downloading Japan ranking...")
 
-    response = requests.get(
-        RANKING_URL,
-        headers=HEADERS,
-        timeout=30
-    )
+    all_records = []
 
-    response.raise_for_status()
+    for area in JAPAN_AREAS:
 
-    data = response.json()
-
-    if "records" not in data:
-
-        raise Exception(
-            "Could not find 'records' in JSON"
+        url = (
+            RANKING_BASE_URL
+            + f"rp_round-76_area-{area}.json"
         )
 
-    return data["records"]
+        try:
+
+            response = requests.get(
+                url,
+                headers=HEADERS,
+                timeout=30
+            )
+
+            response.raise_for_status()
+
+            data = response.json()
+
+            if "records" not in data:
+                print(
+                    f"Area {area}: no records"
+                )
+                continue
+
+            records = data["records"]
+
+            all_records.extend(records)
+
+            print(
+                f"Area {area}: "
+                f"{len(records)} players"
+            )
+
+        except Exception as e:
+
+            print(
+                f"Area {area} failed: {e}"
+            )
+
+    print(
+        f"Japan total records: "
+        f"{len(all_records)}"
+    )
+
+    return all_records
 
 # ============================================================
 # GET PLAYER RANK
@@ -329,32 +362,26 @@ def write_website_data(rank_players):
 
 def update_github():
     try:
-        github_data = os.path.join(
-            GITHUB_DIR,
-            "data.json"
-        )
 
-        subprocess.run(
-            ["cp", DATA_FILE, github_data],
-            check=True
-        )
-
+        # Stage the generated data
         subprocess.run(
             ["git", "add", "data.json"],
             cwd=GITHUB_DIR,
             check=True
         )
 
+        # Check whether data.json actually changed
         result = subprocess.run(
-            ["git", "status", "--porcelain"],
-            cwd=GITHUB_DIR,
-            capture_output=True,
-            text=True
+            ["git", "diff", "--cached", "--quiet"],
+            cwd=GITHUB_DIR
         )
 
-        if not result.stdout.strip():
+        # Exit code 0 = no staged changes
+        if result.returncode == 0:
+            print("No GitHub data changes.")
             return
 
+        # Commit the new data locally
         subprocess.run(
             [
                 "git",
@@ -366,8 +393,23 @@ def update_github():
             check=True
         )
 
+        # Get the latest remote commits
         subprocess.run(
-            ["git", "push"],
+            ["git", "fetch", "origin"],
+            cwd=GITHUB_DIR,
+            check=True
+        )
+
+        # Rebase our new data commit on top of the latest GitHub data
+        subprocess.run(
+            ["git", "rebase", "origin/main"],
+            cwd=GITHUB_DIR,
+            check=True
+        )
+
+        # Push the rebased commit
+        subprocess.run(
+            ["git", "push", "origin", "main"],
             cwd=GITHUB_DIR,
             check=True
         )
@@ -377,6 +419,7 @@ def update_github():
     except Exception as e:
         print("GitHub update failed:", e)
 
+
 # ============================================================
 # PRINT TERMINAL
 # ============================================================
@@ -385,7 +428,7 @@ def print_terminal(rank_players):
 
     now = datetime.now(ZoneInfo("Asia/Tokyo"))
 
-    print()
+
     print("=" * 78)
 
     print(
@@ -514,6 +557,8 @@ try:
     )
 
     print()
+
+    update_github()
 
     print("Tracker run completed.")
 
