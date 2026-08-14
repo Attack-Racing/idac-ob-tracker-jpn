@@ -3,7 +3,7 @@ import time
 import json
 import os
 import subprocess
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 # ============================================================
 # SETTINGS
@@ -154,7 +154,7 @@ def get_activity_status(update_time, now):
 
 def get_active_players(records):
 
-    now = datetime.now()
+    now = datetime.now(timezone.utc).astimezone(timezone(timedelta(hours=9)))
 
     rank_players = {
 
