@@ -273,6 +273,8 @@ async function loadData() {
 
         const data = await response.json();
 
+updateSummary(data);
+
         document.getElementById("total").textContent =
             data.total ?? 0;
 
@@ -378,11 +380,45 @@ ${escapeHTML(player.shop || "")}
     }
 }
 
+function updateSummary(data) {
+    const summary = document.getElementById("summaryContent");
+
+    let total = 0;
+    let html = "";
+
+    for (const rank of ranks) {
+        const count = data.ranks?.[rank]?.length || 0;
+        total += count;
+
+        html += `
+            <div class="summary-row">
+                <span>${escapeHTML(rank)}</span>
+                <span>${count}</span>
+            </div>
+        `;
+    }
+
+    html += `
+        <div class="summary-total">
+            <span>TOTAL</span>
+            <span>${total}</span>
+        </div>
+    `;
+
+    summary.innerHTML = html;
+}
+
 loadData();
 
 setInterval(loadData, 60000);
 
+
 </script>
+
+<div id="summary" class="summary">
+    <h2>Player Summary</h2>
+    <div id="summaryContent">Loading...</div>
+</div>
 
 </body>
 </html>
