@@ -271,7 +271,7 @@ def get_active_players(records):
 
 def write_website_data(rank_players):
 
-    now = datetime.now()
+    now = datetime.now(timezone.utc).astimezone(timezone(timedelta(hours=9)))
 
     total = sum(
         len(players)
@@ -382,7 +382,7 @@ def update_github():
 
 def print_terminal(rank_players):
 
-    now = datetime.now()
+    now = datetime.now(timezone.utc).astimezone(timezone(timedelta(hours=9)))
 
     print()
     print("=" * 78)
