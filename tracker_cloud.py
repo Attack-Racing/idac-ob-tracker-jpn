@@ -514,7 +514,7 @@ try:
 
     print()
 
-    update_github()
+    print("Tracker run completed.")
 
 except Exception as e:
 
