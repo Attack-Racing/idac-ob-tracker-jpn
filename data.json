@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-15 08:51:17",
-  "activeSince": "2026-08-15 08:21:17",
-  "total": 19,
+  "trackerTime": "2026-08-15 08:52:18",
+  "activeSince": "2026-08-15 08:22:18",
+  "total": 24,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "ラウンドワン宮崎店",
         "update": "2026/08/15 08:46:21",
         "status": "green",
-        "ageSeconds": 296
+        "ageSeconds": 357
       },
       {
         "name": "右代宮戦人",
@@ -22,7 +22,7 @@
         "shop": "アミューズメントパークＭＧ府中天満屋店",
         "update": "2026/08/15 08:43:33",
         "status": "green",
-        "ageSeconds": 464
+        "ageSeconds": 525
       },
       {
         "name": "上伊那ぼたん",
@@ -32,7 +32,7 @@
         "shop": "ＧｉＧＯ会津若松",
         "update": "2026/08/15 08:25:51",
         "status": "yellow",
-        "ageSeconds": 1526
+        "ageSeconds": 1587
       }
     ],
     "Ruby": [
@@ -44,7 +44,17 @@
         "shop": "ＧｉＧＯ今福",
         "update": "2026/08/15 08:43:26",
         "status": "green",
-        "ageSeconds": 471
+        "ageSeconds": 532
+      },
+      {
+        "name": "満腹丸パグ様",
+        "rank": "Ruby",
+        "point": 9040,
+        "car": "ST205[AR]",
+        "shop": "シルクハット伊勢佐木町",
+        "update": "2026/08/15 08:43:40",
+        "status": "green",
+        "ageSeconds": 518
       },
       {
         "name": "竹中詩乃重治",
@@ -54,17 +64,17 @@
         "shop": "ＧｉＧＯ東名ボール",
         "update": "2026/08/15 08:34:08",
         "status": "yellow",
-        "ageSeconds": 1029
+        "ageSeconds": 1090
       },
       {
         "name": "♪ゲルドの谷",
         "rank": "Ruby",
-        "point": 1980,
-        "car": "JZA80[AR]",
+        "point": 1920,
+        "car": "CE9Aエボ3[AR]",
         "shop": "ＧｉＧＯ日光",
-        "update": "2026/08/15 08:30:45",
-        "status": "yellow",
-        "ageSeconds": 1232
+        "update": "2026/08/15 08:38:17",
+        "status": "green",
+        "ageSeconds": 841
       },
       {
         "name": "ＫｉｓｓＭｅ",
@@ -74,7 +84,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/15 08:46:20",
         "status": "green",
-        "ageSeconds": 297
+        "ageSeconds": 358
       },
       {
         "name": "かのえまる．",
@@ -84,7 +94,7 @@
         "shop": "ＧｉＧＯ高松",
         "update": "2026/08/15 08:43:42",
         "status": "green",
-        "ageSeconds": 455
+        "ageSeconds": 516
       },
       {
         "name": "神崎エルザ",
@@ -94,7 +104,7 @@
         "shop": "タイトーＦステーション静岡",
         "update": "2026/08/15 08:41:06",
         "status": "green",
-        "ageSeconds": 611
+        "ageSeconds": 672
       },
       {
         "name": "滋賀の峰竜太",
@@ -104,7 +114,7 @@
         "shop": "彦根パスカ",
         "update": "2026/08/15 08:43:49",
         "status": "green",
-        "ageSeconds": 448
+        "ageSeconds": 509
       },
       {
         "name": "レモンちゃん",
@@ -114,7 +124,7 @@
         "shop": "バンダイナムコＣｒｏｓｓＳｔｏｒｅ京都",
         "update": "2026/08/15 08:43:26",
         "status": "green",
-        "ageSeconds": 471
+        "ageSeconds": 532
       },
       {
         "name": "美琴",
@@ -124,7 +134,7 @@
         "shop": "ゲームアイビス太子",
         "update": "2026/08/15 08:36:05",
         "status": "yellow",
-        "ageSeconds": 912
+        "ageSeconds": 973
       },
       {
         "name": "イけたらイく",
@@ -134,10 +144,40 @@
         "shop": "ウェアハウス草加店別館",
         "update": "2026/08/15 08:28:17",
         "status": "yellow",
-        "ageSeconds": 1380
+        "ageSeconds": 1441
       }
     ],
     "Sapphire": [
+      {
+        "name": "ＪＥＴＭＡＮ",
+        "rank": "Sapphire",
+        "point": 14740,
+        "car": "CP9Aエボ6[AR]",
+        "shop": "ユーズランド大河原店",
+        "update": "2026/08/15 08:40:25",
+        "status": "green",
+        "ageSeconds": 713
+      },
+      {
+        "name": "もんキチ＠",
+        "rank": "Sapphire",
+        "point": 3080,
+        "car": "GC8[AR]",
+        "shop": "ＤＡＩＫＥＩＥＮ",
+        "update": "2026/08/15 08:40:25",
+        "status": "green",
+        "ageSeconds": 713
+      },
+      {
+        "name": "るぅ",
+        "rank": "Sapphire",
+        "point": 940,
+        "car": "FD3S6[AR]",
+        "shop": "イスカンダル五井金杉店",
+        "update": "2026/08/15 08:44:50",
+        "status": "green",
+        "ageSeconds": 448
+      },
       {
         "name": "鬼舞辻　無惨",
         "rank": "Sapphire",
@@ -146,7 +186,7 @@
         "shop": "Ａ．Ｃ．グランド",
         "update": "2026/08/15 08:31:01",
         "status": "yellow",
-        "ageSeconds": 1216
+        "ageSeconds": 1277
       },
       {
         "name": "鬼舞辻　無惨",
@@ -156,7 +196,7 @@
         "shop": "岐阜レジャーランド穂積店",
         "update": "2026/08/15 08:38:25",
         "status": "green",
-        "ageSeconds": 772
+        "ageSeconds": 833
       },
       {
         "name": "鬼舞辻　無惨",
@@ -166,7 +206,7 @@
         "shop": "ラウンドワンモレラ岐阜店",
         "update": "2026/08/15 08:45:15",
         "status": "green",
-        "ageSeconds": 362
+        "ageSeconds": 423
       },
       {
         "name": "偽黒木＝ラヤ",
@@ -176,7 +216,7 @@
         "shop": "ラウンドワン三宮駅前店",
         "update": "2026/08/15 08:44:50",
         "status": "green",
-        "ageSeconds": 387
+        "ageSeconds": 448
       }
     ],
     "Emerald": [
@@ -188,7 +228,7 @@
         "shop": "ＧｉＧＯ生桑",
         "update": "2026/08/15 08:25:09",
         "status": "yellow",
-        "ageSeconds": 1568
+        "ageSeconds": 1629
       },
       {
         "name": "Ａｄｏ♪♪",
@@ -198,11 +238,22 @@
         "shop": "バンダイナムコＣｒｏｓｓＳｔｏｒｅ京都",
         "update": "2026/08/15 08:45:14",
         "status": "green",
-        "ageSeconds": 363
+        "ageSeconds": 424
       }
     ],
     "Clear Blue": [],
-    "Clear Red": [],
+    "Clear Red": [
+      {
+        "name": "１",
+        "rank": "Clear Red",
+        "point": 2140,
+        "car": "FD3S[AR]",
+        "shop": "ラウンドワン板橋店",
+        "update": "2026/08/15 08:44:55",
+        "status": "green",
+        "ageSeconds": 443
+      }
+    ],
     "Clear Green": [],
     "Unknown Online Rank": []
   }
