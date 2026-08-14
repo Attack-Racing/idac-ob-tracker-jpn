@@ -1,19 +1,70 @@
 {
-  "trackerTime": "2026-08-15 08:06:13",
-  "activeSince": "2026-08-15 07:36:13",
-  "total": 5,
+  "trackerTime": "2026-08-15 08:07:25",
+  "activeSince": "2026-08-15 07:37:25",
+  "total": 14,
   "ranks": {
-    "Pride": [],
+    "Pride": [
+      {
+        "name": "右代宮戦人",
+        "rank": "Pride",
+        "point": 1760,
+        "car": "ST205[AR]",
+        "shop": "アミューズメントパークＭＧ府中天満屋店",
+        "update": "2026/08/15 07:54:16",
+        "status": "green",
+        "ageSeconds": 789
+      }
+    ],
     "Ruby": [
+      {
+        "name": "るな",
+        "rank": "Ruby",
+        "point": 21000,
+        "car": "FD3S6[AR]",
+        "shop": "ＧｉＧＯ今福",
+        "update": "2026/08/15 07:58:39",
+        "status": "green",
+        "ageSeconds": 526
+      },
       {
         "name": "白銀　圭",
         "rank": "Ruby",
-        "point": 1820,
-        "car": "CE9Aエボ3[DH]",
+        "point": 2340,
+        "car": "CT9Aエボ9[AR]",
         "shop": "ジーパラ出雲",
-        "update": "2026/08/15 07:42:35",
-        "status": "yellow",
-        "ageSeconds": 1417
+        "update": "2026/08/15 07:56:23",
+        "status": "green",
+        "ageSeconds": 662
+      },
+      {
+        "name": "♪ゲルドの谷",
+        "rank": "Ruby",
+        "point": 1900,
+        "car": "JZA80[AR]",
+        "shop": "ＧｉＧＯ日光",
+        "update": "2026/08/15 07:54:15",
+        "status": "green",
+        "ageSeconds": 790
+      },
+      {
+        "name": "竹中詩乃重治",
+        "rank": "Ruby",
+        "point": 1560,
+        "car": "FD3S6[AR]",
+        "shop": "ＧｉＧＯ東名ボール",
+        "update": "2026/08/15 07:57:19",
+        "status": "green",
+        "ageSeconds": 606
+      },
+      {
+        "name": "あーちゃん",
+        "rank": "Ruby",
+        "point": 1240,
+        "car": "ST205[AR]",
+        "shop": "ユーズランド太田店",
+        "update": "2026/08/15 07:56:23",
+        "status": "green",
+        "ageSeconds": 662
       },
       {
         "name": "ＫｉｓｓＭｅ",
@@ -23,17 +74,17 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/15 07:46:20",
         "status": "yellow",
-        "ageSeconds": 1192
+        "ageSeconds": 1265
       },
       {
-        "name": "美琴",
+        "name": "かのえまる．",
         "rank": "Ruby",
-        "point": 200,
-        "car": "CE9Aエボ3[AR]",
-        "shop": "ゲームアイビス太子",
-        "update": "2026/08/15 07:46:19",
-        "status": "yellow",
-        "ageSeconds": 1193
+        "point": 240,
+        "car": "NB8C[DH]",
+        "shop": "ＧｉＧＯ高松",
+        "update": "2026/08/15 08:00:05",
+        "status": "green",
+        "ageSeconds": 440
       },
       {
         "name": "ひらたかなな",
@@ -43,22 +94,63 @@
         "shop": "彦根パスカ",
         "update": "2026/08/15 07:45:22",
         "status": "yellow",
-        "ageSeconds": 1250
+        "ageSeconds": 1323
+      },
+      {
+        "name": "美琴",
+        "rank": "Ruby",
+        "point": 80,
+        "car": "FD3S6[AR]",
+        "shop": "ゲームアイビス太子",
+        "update": "2026/08/15 07:58:40",
+        "status": "green",
+        "ageSeconds": 525
       }
     ],
     "Sapphire": [
       {
+        "name": "はる",
+        "rank": "Sapphire",
+        "point": 3720,
+        "car": "S15[AR]",
+        "shop": "ラウンドワン市原店",
+        "update": "2026/08/15 07:51:08",
+        "status": "yellow",
+        "ageSeconds": 977
+      },
+      {
         "name": "下弦の鬼幻魔",
         "rank": "Sapphire",
-        "point": 260,
+        "point": 500,
         "car": "S15[AR]",
         "shop": "ラウンドワンモレラ岐阜店",
-        "update": "2026/08/15 07:45:23",
+        "update": "2026/08/15 07:51:08",
         "status": "yellow",
-        "ageSeconds": 1249
+        "ageSeconds": 977
       }
     ],
-    "Emerald": [],
+    "Emerald": [
+      {
+        "name": "かい",
+        "rank": "Emerald",
+        "point": 2640,
+        "car": "CE9Aエボ3[DH]",
+        "shop": "ＧｉＧＯ生桑",
+        "update": "2026/08/15 07:54:59",
+        "status": "green",
+        "ageSeconds": 746
+      },
+      {
+        "name": "ＬＥＲ３",
+        "rank": "Emerald",
+        "point": 300,
+        "car": "EK9[AR]",
+        "shop": "紀ノ川ボウル",
+        "update": "2026/08/15 07:55:06",
+        "status": "green",
+        "ageSeconds": 739
+      }
+    ],
     "Clear Blue": [],
     "Clear Red": [],
     "Clear Green": [],
