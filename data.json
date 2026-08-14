@@ -1,50 +1,60 @@
 {
-  "trackerTime": "2026-08-15 03:06:10",
-  "activeSince": "2026-08-15 02:36:10",
-  "total": 4,
+  "trackerTime": "2026-08-15 03:07:33",
+  "activeSince": "2026-08-15 02:37:33",
+  "total": 5,
   "ranks": {
     "Pride": [
       {
-        "name": "あ＠とくしま",
-        "rank": "Pride",
-        "point": 15560,
-        "car": "GC8[HC]",
-        "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/15 02:36:22",
-        "status": "yellow",
-        "ageSeconds": 1788
-      },
-      {
         "name": "Ｖｉｏｌｅｔ",
         "rank": "Pride",
-        "point": 980,
-        "car": "FC3S[AR]",
+        "point": 1240,
+        "car": "FD3S[AR]",
         "shop": "アミューズメントパフェパレパレ田宮店",
-        "update": "2026/08/15 02:46:41",
+        "update": "2026/08/15 02:51:55",
         "status": "yellow",
-        "ageSeconds": 1169
+        "ageSeconds": 938
       }
     ],
     "Ruby": [
       {
+        "name": "れな姫＠愛Ｒ",
+        "rank": "Ruby",
+        "point": 63480,
+        "car": "85レビン[HC]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/15 02:57:17",
+        "status": "green",
+        "ageSeconds": 616
+      },
+      {
+        "name": "未来の三原色",
+        "rank": "Ruby",
+        "point": 5960,
+        "car": "SW20[AR]",
+        "shop": "ラウンドワンダイバーシティ東京プラザ店",
+        "update": "2026/08/15 02:57:55",
+        "status": "green",
+        "ageSeconds": 578
+      },
+      {
         "name": "旧都市愛好家",
         "rank": "Ruby",
-        "point": 3300,
-        "car": "FD3S[AR]",
+        "point": 3500,
+        "car": "CP9Aエボ6[HC]",
         "shop": "Ｈｅｙ",
-        "update": "2026/08/15 02:45:00",
-        "status": "yellow",
-        "ageSeconds": 1270
+        "update": "2026/08/15 02:57:10",
+        "status": "green",
+        "ageSeconds": 623
       },
       {
         "name": "今この瞬間を",
         "rank": "Ruby",
-        "point": 480,
-        "car": "ER34[AR]",
+        "point": 420,
+        "car": "CP9Aエボ6[AR]",
         "shop": "アミューズメントフィールドバイヨン",
-        "update": "2026/08/15 02:45:00",
+        "update": "2026/08/15 02:50:01",
         "status": "yellow",
-        "ageSeconds": 1270
+        "ageSeconds": 1052
       }
     ],
     "Sapphire": [],
