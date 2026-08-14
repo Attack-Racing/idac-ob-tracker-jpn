@@ -1,20 +1,9 @@
 {
-  "trackerTime": "2026-08-15 08:00:09",
-  "activeSince": "2026-08-15 07:30:09",
-  "total": 6,
+  "trackerTime": "2026-08-15 08:01:13",
+  "activeSince": "2026-08-15 07:31:13",
+  "total": 5,
   "ranks": {
-    "Pride": [
-      {
-        "name": "絶対的第六感",
-        "rank": "Pride",
-        "point": 20540,
-        "car": "CP9Aエボ6[HC]",
-        "shop": "アミューズメントゲーム　マグレブ",
-        "update": "2026/08/15 07:30:27",
-        "status": "yellow",
-        "ageSeconds": 1782
-      }
-    ],
+    "Pride": [],
     "Ruby": [
       {
         "name": "白銀　圭",
@@ -24,7 +13,7 @@
         "shop": "ジーパラ出雲",
         "update": "2026/08/15 07:42:35",
         "status": "yellow",
-        "ageSeconds": 1054
+        "ageSeconds": 1118
       },
       {
         "name": "ＫｉｓｓＭｅ",
@@ -34,7 +23,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/15 07:46:20",
         "status": "green",
-        "ageSeconds": 829
+        "ageSeconds": 893
       },
       {
         "name": "美琴",
@@ -44,7 +33,7 @@
         "shop": "ゲームアイビス太子",
         "update": "2026/08/15 07:46:19",
         "status": "green",
-        "ageSeconds": 830
+        "ageSeconds": 894
       },
       {
         "name": "ひらたかなな",
@@ -53,8 +42,8 @@
         "car": "FD3S6[AR]",
         "shop": "彦根パスカ",
         "update": "2026/08/15 07:45:22",
-        "status": "green",
-        "ageSeconds": 887
+        "status": "yellow",
+        "ageSeconds": 951
       }
     ],
     "Sapphire": [
@@ -65,8 +54,8 @@
         "car": "S15[AR]",
         "shop": "ラウンドワンモレラ岐阜店",
         "update": "2026/08/15 07:45:23",
-        "status": "green",
-        "ageSeconds": 886
+        "status": "yellow",
+        "ageSeconds": 950
       }
     ],
     "Emerald": [],
