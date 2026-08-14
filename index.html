@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Initial D THE ARCADE - Active Player Tracker</title>
+
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        margin: 0;
+        background: #0b0b0f;
+        color: #eeeeee;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    header {
+        background: linear-gradient(135deg, #15151d, #252532);
+        border-bottom: 2px solid #444;
+        padding: 24px 20px;
+        text-align: center;
+    }
+
+    h1 {
+        margin: 0;
+        font-size: 28px;
+        letter-spacing: 1px;
+    }
+
+    .subtitle {
+        margin-top: 8px;
+        color: #aaa;
+        font-size: 14px;
+    }
+
+    .status {
+        margin: 18px auto;
+        max-width: 1000px;
+        display: flex;
+        justify-content: center;
+        gap: 25px;
+        flex-wrap: wrap;
+        font-size: 14px;
+    }
+
+    .green {
+        color: #4cff73;
+    }
+
+    .yellow {
+        color: #ffd84d;
+    }
+
+    .container {
+        max-width: 1100px;
+        margin: auto;
+        padding: 20px;
+    }
+
+    .summary {
+        display: flex;
+        justify-content: center;
+        gap: 15px;
+        flex-wrap: wrap;
+        margin-bottom: 25px;
+    }
+
+    .summary-box {
+        background: #17171f;
+        border: 1px solid #333;
+        border-radius: 10px;
+        padding: 15px 25px;
+        text-align: center;
+        min-width: 150px;
+    }
+
+    .summary-number {
+        font-size: 28px;
+        font-weight: bold;
+    }
+
+    .summary-label {
+        color: #999;
+        font-size: 13px;
+        margin-top: 4px;
+    }
+
+    .rank-section {
+        background: #121218;
+        border: 1px solid #292933;
+        border-radius: 12px;
+        margin-bottom: 18px;
+        overflow: hidden;
+    }
+
+    .rank-header {
+        padding: 15px 18px;
+        background: #1b1b24;
+        font-size: 20px;
+        font-weight: bold;
+        border-bottom: 1px solid #30303a;
+    }
+
+    .player {
+        display: grid;
+        grid-template-columns: 45px 1fr 130px 180px;
+        gap: 10px;
+        align-items: center;
+        padding: 12px 18px;
+        border-bottom: 1px solid #22222a;
+    }
+
+    .player:last-child {
+        border-bottom: none;
+    }
+
+    .player:hover {
+        background: #191922;
+    }
+
+    .activity {
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .name {
+        font-weight: bold;
+        overflow-wrap: anywhere;
+    }
+
+    .rp {
+        text-align: right;
+        color: #ddd;
+        font-weight: bold;
+    }
+
+    .details {
+        color: #999;
+        font-size: 12px;
+        text-align: right;
+    }
+
+    .empty {
+        padding: 18px;
+        color: #777;
+        text-align: center;
+    }
+
+    footer {
+        text-align: center;
+        color: #666;
+        padding: 25px;
+        font-size: 12px;
+    }
+
+    @media (max-width: 700px) {
+        .player {
+            grid-template-columns: 35px 1fr;
+        }
+
+        .rp,
+        .details {
+            grid-column: 2;
+            text-align: left;
+        }
+
+        .details {
+            margin-top: -5px;
+        }
+    }
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>INITIAL D THE ARCADE</h1>
+    <div class="subtitle">LIVE ACTIVE PLAYER TRACKER</div>
+
+    <div class="status">
+        <span class="green">🟢 Recently Active &lt;15 min</span>
+        <span class="yellow">🟡 Possibly Active 15–30 min</span>
+    </div>
+</header>
+
+<div class="container">
+
+    <div class="summary">
+        <div class="summary-box">
+            <div id="total" class="summary-number">--</div>
+            <div class="summary-label">ACTIVE PLAYERS</div>
+        </div>
+
+        <div class="summary-box">
+            <div id="updated" class="summary-number">--</div>
+            <div class="summary-label">LAST UPDATE</div>
+        </div>
+    </div>
+
+    <div id="players"></div>
+
+</div>
+
+<footer>
+    Initial D THE ARCADE Active Player Tracker
+</footer>
+
+<script>
+
+const ranks = [
+    "Pride",
+    "Ruby",
+    "Sapphire",
+    "Emerald",
+    "Clear Blue",
+    "Clear Red",
+    "Clear Green",
+    "Unknown Online Rank"
+];
+
+function escapeHTML(text) {
+    const div = document.createElement("div");
+    div.textContent = text ?? "";
+    return div.innerHTML;
+}
+
+function formatTime(seconds) {
+
+    seconds = Math.max(0, Math.floor(seconds));
+
+    const minutes = Math.floor(seconds / 60);
+    const secs = seconds % 60;
+
+    if (minutes > 0) {
+        return `${minutes}m ${secs}s ago`;
+    }
+
+    return `${secs}s ago`;
+}
+
+function getActivity(seconds) {
+
+    if (seconds < 900) {
+        return {
+            icon: "🟢",
+            className: "green"
+        };
+    }
+
+    if (seconds <= 1800) {
+        return {
+            icon: "🟡",
+            className: "yellow"
+        };
+    }
+
+    return null;
+}
+
+async function loadData() {
+
+    try {
+
+        const response = await fetch("data.json?cache=" + Date.now());
+
+        if (!response.ok) {
+            throw new Error("Could not load data.json");
+        }
+
+        const data = await response.json();
+
+        document.getElementById("total").textContent =
+            data.total ?? 0;
+
+        document.getElementById("updated").textContent =
+            data.trackerTime ?? "--";
+
+        const container = document.getElementById("players");
+
+        container.innerHTML = "";
+
+        for (const rank of ranks) {
+
+            const players = data.ranks?.[rank] || [];
+
+            const section = document.createElement("div");
+
+            section.className = "rank-section";
+
+            const header = document.createElement("div");
+
+            header.className = "rank-header";
+
+            header.textContent =
+                `${rank} (${players.length})`;
+
+            section.appendChild(header);
+
+            if (players.length === 0) {
+
+                const empty = document.createElement("div");
+
+                empty.className = "empty";
+
+                empty.textContent = "No players";
+
+                section.appendChild(empty);
+
+            } else {
+
+                for (const player of players) {
+
+                    const seconds =
+                        player.secondsAgo ??
+                        player.ageSeconds ??
+                        0;
+
+                    const activity =
+                        getActivity(seconds);
+
+                    if (!activity) {
+                        continue;
+                    }
+
+                    const row =
+                        document.createElement("div");
+
+                    row.className = "player";
+
+                    row.innerHTML = `
+
+                        <div class="activity ${activity.className}">
+                            ${activity.icon}
+                        </div>
+
+                        <div class="name">
+                            ${escapeHTML(player.name)}
+                        </div>
+
+                        <div class="rp">
+                            ${Number(player.rp || 0).toLocaleString()} RP
+                        </div>
+
+                        <div class="details">
+                            ${escapeHTML(player.car || "")}
+${player.car && player.shop ? " | " : ""}
+${escapeHTML(player.shop || "")}
+                            <br>
+                            ${formatTime(seconds)}
+                        </div>
+
+                    `;
+
+                    section.appendChild(row);
+                }
+            }
+
+            container.appendChild(section);
+        }
+
+    } catch (error) {
+
+        console.error(error);
+
+        document.getElementById("players").innerHTML = `
+            <div class="rank-section">
+                <div class="empty">
+                    Unable to load tracker data.
+                    <br><br>
+                    Make sure tracker.py is running.
+                </div>
+            </div>
+        `;
+    }
+}
+
+loadData();
+
+setInterval(loadData, 10000);
+
+</script>
+
+</body>
+</html>
