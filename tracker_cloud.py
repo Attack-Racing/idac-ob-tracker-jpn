@@ -3,7 +3,8 @@ import time
 import json
 import os
 import subprocess
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 
 # ============================================================
 # SETTINGS
@@ -154,7 +155,7 @@ def get_activity_status(update_time, now):
 
 def get_active_players(records):
 
-    now = datetime.now(timezone.utc).astimezone(timezone(timedelta(hours=9)))
+    now = datetime.now(ZoneInfo("Asia/Tokyo"))
 
     rank_players = {
 
@@ -179,7 +180,7 @@ def get_active_players(records):
             update_time = datetime.strptime(
                 update_string,
                 "%Y/%m/%d %H:%M:%S"
-            )
+            ).replace(tzinfo=ZoneInfo("Asia/Tokyo"))
 
         except ValueError:
 
@@ -271,7 +272,7 @@ def get_active_players(records):
 
 def write_website_data(rank_players):
 
-    now = datetime.now(timezone.utc).astimezone(timezone(timedelta(hours=9)))
+    now = datetime.now(ZoneInfo("Asia/Tokyo"))
 
     total = sum(
         len(players)
@@ -382,7 +383,7 @@ def update_github():
 
 def print_terminal(rank_players):
 
-    now = datetime.now(timezone.utc).astimezone(timezone(timedelta(hours=9)))
+    now = datetime.now(ZoneInfo("Asia/Tokyo"))
 
     print()
     print("=" * 78)
