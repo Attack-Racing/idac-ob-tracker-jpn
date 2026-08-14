@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-15 07:50:13",
-  "activeSince": "2026-08-15 07:20:13",
-  "total": 1,
+  "trackerTime": "2026-08-15 07:51:12",
+  "activeSince": "2026-08-15 07:21:12",
+  "total": 6,
   "ranks": {
     "Pride": [
       {
@@ -12,11 +12,63 @@
         "shop": "アミューズメントゲーム　マグレブ",
         "update": "2026/08/15 07:30:27",
         "status": "yellow",
-        "ageSeconds": 1186
+        "ageSeconds": 1245
       }
     ],
-    "Ruby": [],
-    "Sapphire": [],
+    "Ruby": [
+      {
+        "name": "白銀　圭",
+        "rank": "Ruby",
+        "point": 1820,
+        "car": "CE9Aエボ3[DH]",
+        "shop": "ジーパラ出雲",
+        "update": "2026/08/15 07:42:35",
+        "status": "green",
+        "ageSeconds": 517
+      },
+      {
+        "name": "ＫｉｓｓＭｅ",
+        "rank": "Ruby",
+        "point": 1140,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/15 07:46:20",
+        "status": "green",
+        "ageSeconds": 292
+      },
+      {
+        "name": "美琴",
+        "rank": "Ruby",
+        "point": 200,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "ゲームアイビス太子",
+        "update": "2026/08/15 07:46:19",
+        "status": "green",
+        "ageSeconds": 293
+      },
+      {
+        "name": "ひらたかなな",
+        "rank": "Ruby",
+        "point": 140,
+        "car": "FD3S6[AR]",
+        "shop": "彦根パスカ",
+        "update": "2026/08/15 07:45:22",
+        "status": "green",
+        "ageSeconds": 350
+      }
+    ],
+    "Sapphire": [
+      {
+        "name": "下弦の鬼幻魔",
+        "rank": "Sapphire",
+        "point": 260,
+        "car": "S15[AR]",
+        "shop": "ラウンドワンモレラ岐阜店",
+        "update": "2026/08/15 07:45:23",
+        "status": "green",
+        "ageSeconds": 349
+      }
+    ],
     "Emerald": [],
     "Clear Blue": [],
     "Clear Red": [],
