@@ -1,50 +1,80 @@
 {
-  "trackerTime": "2026-08-15 02:20:28",
-  "activeSince": "2026-08-15 01:50:28",
-  "total": 9,
+  "trackerTime": "2026-08-15 02:22:18",
+  "activeSince": "2026-08-15 01:52:18",
+  "total": 12,
   "ranks": {
     "Pride": [
       {
         "name": "下神アンダー",
         "rank": "Pride",
-        "point": 94480,
-        "car": "ST205[AR]",
+        "point": 94740,
+        "car": "CP9Aエボ6[HC]",
         "shop": "ＧｉＧＯｍｏｚｏワンダーシティ",
-        "update": "2026/08/15 01:59:40",
+        "update": "2026/08/15 02:04:45",
         "status": "yellow",
-        "ageSeconds": 1248
+        "ageSeconds": 1053
       },
       {
         "name": "バレンシーア",
         "rank": "Pride",
-        "point": 17700,
+        "point": 18220,
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯスエヒロボウル徳島",
-        "update": "2026/08/15 01:58:31",
-        "status": "yellow",
-        "ageSeconds": 1317
+        "update": "2026/08/15 02:09:41",
+        "status": "green",
+        "ageSeconds": 757
       }
     ],
     "Ruby": [
       {
         "name": "れな姫＠愛Ｒ",
         "rank": "Ruby",
-        "point": 62900,
+        "point": 63080,
         "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/15 02:00:05",
-        "status": "yellow",
-        "ageSeconds": 1223
+        "update": "2026/08/15 02:13:24",
+        "status": "green",
+        "ageSeconds": 534
+      },
+      {
+        "name": "未来の三原色",
+        "rank": "Ruby",
+        "point": 6080,
+        "car": "ST205[AR]",
+        "shop": "ラウンドワンダイバーシティ東京プラザ店",
+        "update": "2026/08/15 02:14:28",
+        "status": "green",
+        "ageSeconds": 470
+      },
+      {
+        "name": "ルイボス新山",
+        "rank": "Ruby",
+        "point": 3640,
+        "car": "FD3S[AR]",
+        "shop": "ゲーム　アルカナ",
+        "update": "2026/08/15 02:13:18",
+        "status": "green",
+        "ageSeconds": 540
       },
       {
         "name": "ラクウェル．",
         "rank": "Ruby",
-        "point": 3340,
-        "car": "CZ4Aエボ10[AR]",
+        "point": 3480,
+        "car": "CP9Aエボ6[AR]",
         "shop": "半田メトロポリス",
-        "update": "2026/08/15 01:58:30",
-        "status": "yellow",
-        "ageSeconds": 1318
+        "update": "2026/08/15 02:15:42",
+        "status": "green",
+        "ageSeconds": 396
+      },
+      {
+        "name": "旧都市愛好家",
+        "rank": "Ruby",
+        "point": 2960,
+        "car": "FD3S[AR]",
+        "shop": "Ｈｅｙ",
+        "update": "2026/08/15 02:14:31",
+        "status": "green",
+        "ageSeconds": 467
       },
       {
         "name": "輪墓・辺獄",
@@ -54,17 +84,17 @@
         "shop": "ラウンドワン奈良・ミナーラ店",
         "update": "2026/08/15 02:00:05",
         "status": "yellow",
-        "ageSeconds": 1223
+        "ageSeconds": 1333
       },
       {
         "name": "ろっそもでろ",
         "rank": "Ruby",
-        "point": 1280,
-        "car": "CT9Aエボ9[AR]",
+        "point": 1160,
+        "car": "CP9Aエボ6[HC]",
         "shop": "トップラン岩岡",
-        "update": "2026/08/15 01:56:57",
-        "status": "yellow",
-        "ageSeconds": 1411
+        "update": "2026/08/15 02:11:43",
+        "status": "green",
+        "ageSeconds": 635
       },
       {
         "name": "ぴーーーーち",
@@ -74,29 +104,29 @@
         "shop": "アミパラ岡山店",
         "update": "2026/08/15 01:59:28",
         "status": "yellow",
-        "ageSeconds": 1260
+        "ageSeconds": 1370
       },
       {
         "name": "Ｍｎｋｏｕ．",
         "rank": "Ruby",
-        "point": 280,
+        "point": 480,
         "car": "ST205[AR]",
         "shop": "ＢＩＮＧＯ一関",
-        "update": "2026/08/15 01:59:40",
-        "status": "yellow",
-        "ageSeconds": 1248
+        "update": "2026/08/15 02:11:42",
+        "status": "green",
+        "ageSeconds": 636
       }
     ],
     "Sapphire": [
       {
         "name": "ｋｉｔｔｙ",
         "rank": "Sapphire",
-        "point": 4340,
-        "car": "S14[DH]",
+        "point": 4280,
+        "car": "BNR32[AR]",
         "shop": "ゲームメガみらい平店",
-        "update": "2026/08/15 02:01:44",
-        "status": "yellow",
-        "ageSeconds": 1124
+        "update": "2026/08/15 02:07:56",
+        "status": "green",
+        "ageSeconds": 862
       }
     ],
     "Emerald": [],
