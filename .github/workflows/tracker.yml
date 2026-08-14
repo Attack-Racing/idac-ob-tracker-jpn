@@ -2,7 +2,7 @@ name: Update IDAC Active Players
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+- cron: "55 9 * * *"
   workflow_dispatch:
 
 permissions:
