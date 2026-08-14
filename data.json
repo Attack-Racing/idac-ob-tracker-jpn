@@ -1,40 +1,40 @@
 {
-  "trackerTime": "2026-08-15 08:35:14",
-  "activeSince": "2026-08-15 08:05:14",
-  "total": 11,
+  "trackerTime": "2026-08-15 08:36:24",
+  "activeSince": "2026-08-15 08:06:24",
+  "total": 12,
   "ranks": {
     "Pride": [
       {
         "name": "右代宮戦人",
         "rank": "Pride",
-        "point": 2020,
+        "point": 2540,
         "car": "ST205[AR]",
         "shop": "アミューズメントパークＭＧ府中天満屋店",
-        "update": "2026/08/15 08:11:39",
-        "status": "yellow",
-        "ageSeconds": 1415
+        "update": "2026/08/15 08:23:53",
+        "status": "green",
+        "ageSeconds": 751
       }
     ],
     "Ruby": [
       {
         "name": "るな",
         "rank": "Ruby",
-        "point": 21140,
+        "point": 21600,
         "car": "FD3S6[AR]",
         "shop": "ＧｉＧＯ今福",
-        "update": "2026/08/15 08:14:19",
-        "status": "yellow",
-        "ageSeconds": 1255
+        "update": "2026/08/15 08:30:45",
+        "status": "green",
+        "ageSeconds": 339
       },
       {
         "name": "竹中詩乃重治",
         "rank": "Ruby",
-        "point": 2340,
-        "car": "86トレノ[HC]",
+        "point": 3120,
+        "car": "86トレノ2[DH]",
         "shop": "ＧｉＧＯ東名ボール",
-        "update": "2026/08/15 08:13:10",
-        "status": "yellow",
-        "ageSeconds": 1324
+        "update": "2026/08/15 08:28:10",
+        "status": "green",
+        "ageSeconds": 494
       },
       {
         "name": "♪ゲルドの谷",
@@ -44,7 +44,7 @@
         "shop": "ＧｉＧＯ日光",
         "update": "2026/08/15 08:13:11",
         "status": "yellow",
-        "ageSeconds": 1323
+        "ageSeconds": 1393
       },
       {
         "name": "あーちゃん",
@@ -54,7 +54,17 @@
         "shop": "ユーズランド太田店",
         "update": "2026/08/15 08:14:19",
         "status": "yellow",
-        "ageSeconds": 1255
+        "ageSeconds": 1325
+      },
+      {
+        "name": "ＫｉｓｓＭｅ",
+        "rank": "Ruby",
+        "point": 1080,
+        "car": "DC2[DH]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/15 08:18:05",
+        "status": "yellow",
+        "ageSeconds": 1099
       },
       {
         "name": "滋賀の峰竜太",
@@ -64,27 +74,17 @@
         "shop": "彦根パスカ",
         "update": "2026/08/15 08:10:11",
         "status": "yellow",
-        "ageSeconds": 1503
-      },
-      {
-        "name": "かのえまる．",
-        "rank": "Ruby",
-        "point": 480,
-        "car": "NB8C[DH]",
-        "shop": "ＧｉＧＯ高松",
-        "update": "2026/08/15 08:05:54",
-        "status": "yellow",
-        "ageSeconds": 1760
+        "ageSeconds": 1573
       },
       {
         "name": "美琴",
         "rank": "Ruby",
-        "point": 240,
+        "point": 420,
         "car": "FD3S6[AR]",
         "shop": "ゲームアイビス太子",
-        "update": "2026/08/15 08:16:08",
-        "status": "yellow",
-        "ageSeconds": 1146
+        "update": "2026/08/15 08:31:01",
+        "status": "green",
+        "ageSeconds": 323
       },
       {
         "name": "イけたらイく",
@@ -94,19 +94,19 @@
         "shop": "ウェアハウス草加店別館",
         "update": "2026/08/15 08:10:13",
         "status": "yellow",
-        "ageSeconds": 1501
+        "ageSeconds": 1571
       }
     ],
     "Sapphire": [
       {
-        "name": "ゆい",
+        "name": "鬼舞辻　無惨",
         "rank": "Sapphire",
-        "point": 580,
-        "car": "EK9[DH]",
-        "shop": "スポーツウェーブ鉄腕24",
-        "update": "2026/08/15 08:05:54",
-        "status": "yellow",
-        "ageSeconds": 1760
+        "point": 640,
+        "car": "S15[AR]",
+        "shop": "Ａ．Ｃ．グランド",
+        "update": "2026/08/15 08:31:01",
+        "status": "green",
+        "ageSeconds": 323
       },
       {
         "name": "鬼舞辻　無惨",
@@ -116,10 +116,21 @@
         "shop": "ラウンドワンモレラ岐阜店",
         "update": "2026/08/15 08:07:41",
         "status": "yellow",
-        "ageSeconds": 1653
+        "ageSeconds": 1723
       }
     ],
-    "Emerald": [],
+    "Emerald": [
+      {
+        "name": "オンニオンニ",
+        "rank": "Emerald",
+        "point": 2580,
+        "car": "CE9Aエボ3[DH]",
+        "shop": "ＧｉＧＯ生桑",
+        "update": "2026/08/15 08:25:09",
+        "status": "green",
+        "ageSeconds": 675
+      }
+    ],
     "Clear Blue": [],
     "Clear Red": [],
     "Clear Green": [],
