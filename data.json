@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-16 02:48:26",
-  "activeSince": "2026-08-16 02:18:26",
-  "total": 16,
+  "trackerTime": "2026-08-16 02:50:31",
+  "activeSince": "2026-08-16 02:20:31",
+  "total": 15,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "ＧｉＧＯｍｏｚｏワンダーシティ",
         "update": "2026/08/16 02:30:51",
         "status": "yellow",
-        "ageSeconds": 1055
+        "ageSeconds": 1179
       },
       {
         "name": "ふぁいなる",
@@ -22,7 +22,7 @@
         "shop": "ゲーム＆ビリヤード　遊ｉｎｇ",
         "update": "2026/08/16 02:31:35",
         "status": "yellow",
-        "ageSeconds": 1011
+        "ageSeconds": 1135
       },
       {
         "name": "いっぺいさん",
@@ -32,7 +32,7 @@
         "shop": "埼玉レジャーランド川越店",
         "update": "2026/08/16 02:28:28",
         "status": "yellow",
-        "ageSeconds": 1198
+        "ageSeconds": 1322
       },
       {
         "name": "犬塚日葵",
@@ -42,7 +42,7 @@
         "shop": "大田原スポーツランド",
         "update": "2026/08/16 02:22:13",
         "status": "yellow",
-        "ageSeconds": 1573
+        "ageSeconds": 1697
       },
       {
         "name": "あ＠とくしま",
@@ -52,7 +52,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/16 02:30:51",
         "status": "yellow",
-        "ageSeconds": 1055
+        "ageSeconds": 1179
       },
       {
         "name": "ＶＲ満喫鈴木",
@@ -62,7 +62,7 @@
         "shop": "ウェアハウス越谷店",
         "update": "2026/08/16 02:27:17",
         "status": "yellow",
-        "ageSeconds": 1269
+        "ageSeconds": 1393
       },
       {
         "name": "Ｓａｔ！ｖａ",
@@ -72,20 +72,30 @@
         "shop": "INTER PARK+1宇都宮",
         "update": "2026/08/16 02:27:17",
         "status": "yellow",
-        "ageSeconds": 1269
+        "ageSeconds": 1393
       },
       {
         "name": "ふねす＠髭Ｒ",
         "rank": "Pride",
-        "point": 2040,
-        "car": "BNR32[AR]",
+        "point": 2240,
+        "car": "86トレノ2[DH]",
         "shop": "楽市街道箱崎店",
-        "update": "2026/08/16 02:31:36",
-        "status": "yellow",
-        "ageSeconds": 1010
+        "update": "2026/08/16 02:42:08",
+        "status": "green",
+        "ageSeconds": 502
       }
     ],
     "Ruby": [
+      {
+        "name": "人間の端くれ",
+        "rank": "Ruby",
+        "point": 25200,
+        "car": "BNR32[AR]",
+        "shop": "ｎａｍｃｏ博多バスターミナル店",
+        "update": "2026/08/16 02:43:52",
+        "status": "green",
+        "ageSeconds": 398
+      },
       {
         "name": "在るべき形",
         "rank": "Ruby",
@@ -94,7 +104,7 @@
         "shop": "アピナ野々市店",
         "update": "2026/08/16 02:28:35",
         "status": "yellow",
-        "ageSeconds": 1191
+        "ageSeconds": 1315
       },
       {
         "name": "未来の三原色",
@@ -104,7 +114,7 @@
         "shop": "ラウンドワンダイバーシティ東京プラザ店",
         "update": "2026/08/16 02:25:50",
         "status": "yellow",
-        "ageSeconds": 1356
+        "ageSeconds": 1480
       },
       {
         "name": "ラクウェル．",
@@ -114,7 +124,7 @@
         "shop": "半田メトロポリス",
         "update": "2026/08/16 02:25:12",
         "status": "yellow",
-        "ageSeconds": 1394
+        "ageSeconds": 1518
       },
       {
         "name": "躯樹の墓守",
@@ -124,27 +134,7 @@
         "shop": "ドライブイン古城",
         "update": "2026/08/16 02:31:33",
         "status": "yellow",
-        "ageSeconds": 1013
-      },
-      {
-        "name": "だめにんげん",
-        "rank": "Ruby",
-        "point": 1760,
-        "car": "GC8[HC]",
-        "shop": "シーサイドリゾートアミューズメントパーク",
-        "update": "2026/08/16 02:20:21",
-        "status": "yellow",
-        "ageSeconds": 1685
-      },
-      {
-        "name": "ラムレザル",
-        "rank": "Ruby",
-        "point": 600,
-        "car": "ST205[AR]",
-        "shop": "群馬レジャーランド太田店",
-        "update": "2026/08/16 02:19:44",
-        "status": "yellow",
-        "ageSeconds": 1722
+        "ageSeconds": 1137
       },
       {
         "name": "般若",
@@ -154,7 +144,7 @@
         "shop": "埼玉レジャーランド春日部店",
         "update": "2026/08/16 02:30:21",
         "status": "yellow",
-        "ageSeconds": 1085
+        "ageSeconds": 1209
       }
     ],
     "Sapphire": [],
@@ -168,7 +158,7 @@
         "shop": "楽市街道箱崎店",
         "update": "2026/08/16 02:22:44",
         "status": "yellow",
-        "ageSeconds": 1542
+        "ageSeconds": 1666
       }
     ],
     "Clear Red": [],
