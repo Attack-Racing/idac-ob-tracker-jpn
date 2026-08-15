@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-16 08:05:21",
-  "activeSince": "2026-08-16 07:35:21",
-  "total": 7,
+  "trackerTime": "2026-08-16 08:06:32",
+  "activeSince": "2026-08-16 07:36:32",
+  "total": 9,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,17 @@
         "shop": "埼玉レジャーランド川越店",
         "update": "2026/08/16 07:42:12",
         "status": "yellow",
-        "ageSeconds": 1389
+        "ageSeconds": 1460
+      },
+      {
+        "name": "ＡｒＳｈｏ．",
+        "rank": "Pride",
+        "point": 14200,
+        "car": "CN9Aエボ4[AR]",
+        "shop": "ラウンドワン宮崎店",
+        "update": "2026/08/16 08:00:41",
+        "status": "green",
+        "ageSeconds": 351
       }
     ],
     "Ruby": [
@@ -24,7 +34,7 @@
         "shop": "関大前フタバボウル",
         "update": "2026/08/16 07:42:12",
         "status": "yellow",
-        "ageSeconds": 1389
+        "ageSeconds": 1460
       },
       {
         "name": "アグロ制限主",
@@ -34,7 +44,7 @@
         "shop": "アピナ四日市店",
         "update": "2026/08/16 07:46:02",
         "status": "yellow",
-        "ageSeconds": 1159
+        "ageSeconds": 1230
       },
       {
         "name": "なぁちゃん",
@@ -44,17 +54,27 @@
         "shop": "タイトーステーション 和光店",
         "update": "2026/08/16 07:46:02",
         "status": "yellow",
-        "ageSeconds": 1159
+        "ageSeconds": 1230
+      },
+      {
+        "name": "　清水美早",
+        "rank": "Ruby",
+        "point": 5320,
+        "car": "ST205[AR]",
+        "shop": "タイトーステーションフジグラン北島店",
+        "update": "2026/08/16 07:58:18",
+        "status": "green",
+        "ageSeconds": 494
       },
       {
         "name": "Ｒａｉ☆",
         "rank": "Ruby",
-        "point": 2420,
-        "car": "CP9Aエボ5[AR]",
+        "point": 2560,
+        "car": "ST205[AR]",
         "shop": "ＧｉＧＯ神戸ｕｍｉｅサウスモール",
-        "update": "2026/08/16 07:44:03",
-        "status": "yellow",
-        "ageSeconds": 1278
+        "update": "2026/08/16 08:01:32",
+        "status": "green",
+        "ageSeconds": 300
       },
       {
         "name": "８５でＧＯ／",
@@ -64,7 +84,7 @@
         "shop": "アミパラ光明池店",
         "update": "2026/08/16 07:41:14",
         "status": "yellow",
-        "ageSeconds": 1447
+        "ageSeconds": 1518
       }
     ],
     "Sapphire": [
@@ -76,7 +96,7 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/16 07:44:03",
         "status": "yellow",
-        "ageSeconds": 1278
+        "ageSeconds": 1349
       }
     ],
     "Emerald": [],
