@@ -1,10 +1,31 @@
 {
-  "trackerTime": "2026-08-16 07:20:33",
-  "activeSince": "2026-08-16 06:50:33",
-  "total": 0,
+  "trackerTime": "2026-08-16 07:22:24",
+  "activeSince": "2026-08-16 06:52:24",
+  "total": 2,
   "ranks": {
     "Pride": [],
-    "Ruby": [],
+    "Ruby": [
+      {
+        "name": "夢咲乃愛",
+        "rank": "Ruby",
+        "point": 25480,
+        "car": "CT9Aエボ9[AR]",
+        "shop": "関大前フタバボウル",
+        "update": "2026/08/16 07:15:05",
+        "status": "green",
+        "ageSeconds": 439
+      },
+      {
+        "name": "風ニモマケズ",
+        "rank": "Ruby",
+        "point": 9860,
+        "car": "ST205[AR]",
+        "shop": "上越レジャーランボウル",
+        "update": "2026/08/16 07:15:12",
+        "status": "green",
+        "ageSeconds": 432
+      }
+    ],
     "Sapphire": [],
     "Emerald": [],
     "Clear Blue": [],
