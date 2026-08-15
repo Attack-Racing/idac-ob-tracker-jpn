@@ -287,9 +287,13 @@ async function loadData() {
 
         const response = await fetch("data.json?cache=" + Date.now());
 
-        if (!response.ok) {
-            throw new Error("Could not load data.json");
-        }
+if (!response.ok) {
+    const errorText = await response.text();
+
+    throw new Error(
+        "Worker error: " + errorText
+    );
+}
 
         const data = await response.json();
 
@@ -465,6 +469,100 @@ async function loadNotes() {
 loadNotes();
 
 setInterval(loadNotes, 60000);
+
+async function loadNotes() {
+    try {
+        const response = await fetch(
+            "https://idac-notes.grgt1462.workers.dev/notes?cache=" + Date.now()
+        );
+
+        if (!response.ok) {
+            throw new Error("Could not load notes");
+        }
+
+        const notes = await response.json();
+
+        document.getElementById("notesTitle").textContent =
+            notes.title || "Notes";
+
+        document.getElementById("notesContent").textContent =
+            notes.content || "";
+
+    } catch (error) {
+        console.error(error);
+
+        document.getElementById("notesContent").textContent =
+            "Unable to load notes.";
+    }
+}
+
+
+document.getElementById("editNotesButton").addEventListener(
+    "click",
+    async function () {
+
+        const title =
+            prompt(
+                "Enter Notes title:",
+                document.getElementById("notesTitle").textContent
+            );
+
+        if (title === null) {
+            return;
+        }
+
+        const content =
+            prompt(
+                "Enter Notes content:",
+                document.getElementById("notesContent").textContent
+            );
+
+        if (content === null) {
+            return;
+        }
+
+        try {
+
+            const response = await fetch(
+                "https://idac-notes.grgt1462.workers.dev/notes",
+                {
+                    method: "POST",
+
+headers: {
+    "Content-Type": "application/json",
+    "X-Notes-Password": prompt("Enter Notes password:")
+},
+
+                    body: JSON.stringify({
+                        title: title,
+                        content: content
+                    })
+                }
+            );
+
+            if (!response.ok) {
+                throw new Error(
+                    "Failed to save notes"
+                );
+            }
+
+            await loadNotes();
+
+            alert("Notes updated!");
+
+        } catch (error) {
+
+            console.error(error);
+
+alert(
+    "Could not update Notes:\n\n" + error.message
+);
+
+        }
+    }
+);
+
+loadNotes();
 
 </script>
 
