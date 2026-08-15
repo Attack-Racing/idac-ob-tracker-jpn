@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,6 +7,36 @@
 <title>Initial D THE ARCADE - Active Player Tracker</title>
 
 <style>
+.notes-editor {
+    margin-top: 15px;
+}
+
+.notes-editor input,
+.notes-editor textarea {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-family: inherit; 
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+.notes-editor textarea {
+    min-height: 180px;
+    resize: vertical;
+}
+
+.notes-editor-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.notes-editor-buttons button {
+    padding: 8px 16px;
+    cursor: pointer;
+}
     * {
         box-sizing: border-box;
     }
@@ -212,10 +242,29 @@
 <!-- NOTES -->
 <div id="notesSection" class="notes-section">
 
-    <div class="notes-header">
-        <h2 id="notesTitle">Notes</h2>
-        <button id="editNotesButton">Edit</button>
+<div class="notes-header">
+    <h2 id="notesTitle">Notes</h2>
+    <button id="editNotesButton">Edit</button>
+</div>
+
+<div id="notesEditor" class="notes-editor" style="display: none;">
+    <input
+        id="notesTitleInput"
+        type="text"
+        placeholder="Notes title"
+    >
+
+    <textarea
+        id="notesContentInput"
+        placeholder="Enter your notes here..."
+        rows="8"
+    ></textarea>
+
+    <div class="notes-editor-buttons">
+        <button id="saveNotesButton">Save</button>
+        <button id="cancelNotesButton">Cancel</button>
     </div>
+</div>
 
     <div id="notesContent" class="notes-content">
         Loading...
@@ -499,25 +548,52 @@ async function loadNotes() {
 
 document.getElementById("editNotesButton").addEventListener(
     "click",
+    function () {
+
+        document.getElementById("notesTitleInput").value =
+            document.getElementById("notesTitle").textContent;
+
+        document.getElementById("notesContentInput").value =
+            document.getElementById("notesContent").textContent;
+
+        document.getElementById("notesEditor").style.display =
+            "block";
+
+        document.getElementById("editNotesButton").style.display =
+            "none";
+
+        document.getElementById("notesTitleInput").focus();
+    }
+);
+
+
+document.getElementById("cancelNotesButton").addEventListener(
+    "click",
+    function () {
+
+        document.getElementById("notesEditor").style.display =
+            "none";
+
+        document.getElementById("editNotesButton").style.display =
+            "inline-block";
+    }
+);
+
+
+document.getElementById("saveNotesButton").addEventListener(
+    "click",
     async function () {
 
         const title =
-            prompt(
-                "Enter Notes title:",
-                document.getElementById("notesTitle").textContent
-            );
-
-        if (title === null) {
-            return;
-        }
+            document.getElementById("notesTitleInput").value;
 
         const content =
-            prompt(
-                "Enter Notes content:",
-                document.getElementById("notesContent").textContent
-            );
+            document.getElementById("notesContentInput").value;
 
-        if (content === null) {
+        const password =
+            prompt("Enter Notes password:");
+
+        if (password === null) {
             return;
         }
 
@@ -528,10 +604,10 @@ document.getElementById("editNotesButton").addEventListener(
                 {
                     method: "POST",
 
-headers: {
-    "Content-Type": "application/json",
-    "X-Notes-Password": prompt("Enter Notes password:")
-},
+                    headers: {
+                        "Content-Type": "application/json",
+                        "X-Notes-Password": password
+                    },
 
                     body: JSON.stringify({
                         title: title,
@@ -541,12 +617,20 @@ headers: {
             );
 
             if (!response.ok) {
-                throw new Error(
-                    "Failed to save notes"
-                );
+
+                const errorText =
+                    await response.text();
+
+                throw new Error(errorText);
             }
 
             await loadNotes();
+
+            document.getElementById("notesEditor").style.display =
+                "none";
+
+            document.getElementById("editNotesButton").style.display =
+                "inline-block";
 
             alert("Notes updated!");
 
@@ -554,15 +638,14 @@ headers: {
 
             console.error(error);
 
-alert(
-    "Could not update Notes:\n\n" + error.message
-);
-
+            alert(
+                "Could not update Notes:\n\n" +
+                error.message
+            );
         }
     }
 );
 
-loadNotes();
 
 </script>
 
