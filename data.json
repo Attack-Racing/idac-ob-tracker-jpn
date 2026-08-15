@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-16 08:00:30",
-  "activeSince": "2026-08-16 07:30:30",
-  "total": 8,
+  "trackerTime": "2026-08-16 08:02:12",
+  "activeSince": "2026-08-16 07:32:12",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "埼玉レジャーランド川越店",
         "update": "2026/08/16 07:42:12",
         "status": "yellow",
-        "ageSeconds": 1098
+        "ageSeconds": 1200
       }
     ],
     "Ruby": [
@@ -24,7 +24,7 @@
         "shop": "関大前フタバボウル",
         "update": "2026/08/16 07:42:12",
         "status": "yellow",
-        "ageSeconds": 1098
+        "ageSeconds": 1200
       },
       {
         "name": "アグロ制限主",
@@ -33,8 +33,8 @@
         "car": "CT9Aエボ9[AR]",
         "shop": "アピナ四日市店",
         "update": "2026/08/16 07:46:02",
-        "status": "green",
-        "ageSeconds": 868
+        "status": "yellow",
+        "ageSeconds": 970
       },
       {
         "name": "なぁちゃん",
@@ -43,8 +43,8 @@
         "car": "ST205[AR]",
         "shop": "タイトーステーション 和光店",
         "update": "2026/08/16 07:46:02",
-        "status": "green",
-        "ageSeconds": 868
+        "status": "yellow",
+        "ageSeconds": 970
       },
       {
         "name": "Ｒａｉ☆",
@@ -54,7 +54,7 @@
         "shop": "ＧｉＧＯ神戸ｕｍｉｅサウスモール",
         "update": "2026/08/16 07:44:03",
         "status": "yellow",
-        "ageSeconds": 987
+        "ageSeconds": 1089
       },
       {
         "name": "８５でＧＯ／",
@@ -64,7 +64,7 @@
         "shop": "アミパラ光明池店",
         "update": "2026/08/16 07:41:14",
         "status": "yellow",
-        "ageSeconds": 1156
+        "ageSeconds": 1258
       }
     ],
     "Sapphire": [
@@ -76,17 +76,7 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/16 07:44:03",
         "status": "yellow",
-        "ageSeconds": 987
-      },
-      {
-        "name": "ＧＯＲＩＲＡ",
-        "rank": "Sapphire",
-        "point": 680,
-        "car": "S15[AR]",
-        "shop": "岐阜レジャーランド穂積店",
-        "update": "2026/08/16 07:31:13",
-        "status": "yellow",
-        "ageSeconds": 1757
+        "ageSeconds": 1089
       }
     ],
     "Emerald": [],
