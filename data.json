@@ -1,19 +1,30 @@
 {
-  "trackerTime": "2026-08-16 07:34:30",
-  "activeSince": "2026-08-16 07:04:30",
-  "total": 2,
+  "trackerTime": "2026-08-16 07:36:29",
+  "activeSince": "2026-08-16 07:06:29",
+  "total": 7,
   "ranks": {
-    "Pride": [],
+    "Pride": [
+      {
+        "name": "青眼の魔術師",
+        "rank": "Pride",
+        "point": 42120,
+        "car": "ST205[AR]",
+        "shop": "ＧｉＧＯ豊橋飯村",
+        "update": "2026/08/16 07:29:59",
+        "status": "green",
+        "ageSeconds": 390
+      }
+    ],
     "Ruby": [
       {
         "name": "夢咲乃愛",
         "rank": "Ruby",
-        "point": 25480,
+        "point": 25360,
         "car": "CT9Aエボ9[AR]",
         "shop": "関大前フタバボウル",
-        "update": "2026/08/16 07:15:05",
-        "status": "yellow",
-        "ageSeconds": 1165
+        "update": "2026/08/16 07:29:58",
+        "status": "green",
+        "ageSeconds": 391
       },
       {
         "name": "風ニモマケズ",
@@ -23,10 +34,51 @@
         "shop": "上越レジャーランボウル",
         "update": "2026/08/16 07:15:12",
         "status": "yellow",
-        "ageSeconds": 1158
+        "ageSeconds": 1277
+      },
+      {
+        "name": "なぁちゃん",
+        "rank": "Ruby",
+        "point": 4840,
+        "car": "ST205[AR]",
+        "shop": "タイトーステーション 和光店",
+        "update": "2026/08/16 07:23:21",
+        "status": "green",
+        "ageSeconds": 788
+      },
+      {
+        "name": "８５でＧＯ／",
+        "rank": "Ruby",
+        "point": 280,
+        "car": "85レビン[AR]",
+        "shop": "アミパラ光明池店",
+        "update": "2026/08/16 07:31:13",
+        "status": "green",
+        "ageSeconds": 316
       }
     ],
-    "Sapphire": [],
+    "Sapphire": [
+      {
+        "name": "ぐーちゃ",
+        "rank": "Sapphire",
+        "point": 2580,
+        "car": "シルエイティ[AR]",
+        "shop": "ＨａｐｉｐｉＬａｎｄプラッツ五香",
+        "update": "2026/08/16 07:25:35",
+        "status": "green",
+        "ageSeconds": 654
+      },
+      {
+        "name": "ＧＯＲＩＲＡ",
+        "rank": "Sapphire",
+        "point": 680,
+        "car": "S15[AR]",
+        "shop": "岐阜レジャーランド穂積店",
+        "update": "2026/08/16 07:31:13",
+        "status": "green",
+        "ageSeconds": 316
+      }
+    ],
     "Emerald": [],
     "Clear Blue": [],
     "Clear Red": [],
