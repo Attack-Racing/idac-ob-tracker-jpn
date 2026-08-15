@@ -201,11 +201,30 @@
         </div>
     </div>
 
-    <div id="players"></div>
+<div id="players"></div>
+
+<!-- PLAYER SUMMARY -->
+<div id="summary" class="summary">
+    <h2>Player Summary</h2>
+    <div id="summaryContent">Loading...</div>
+</div>
+
+<!-- NOTES -->
+<div id="notesSection" class="notes-section">
+    <div class="notes-header">
+        <h2 id="notesTitle">Notes</h2>
+        <button id="editNotesButton">Edit</button>
+    </div>
+
+    <div id="notesContent" class="notes-content">
+        Loading...
+    </div>
+</div>
 
 </div>
 
 <footer>
+
     Initial D THE ARCADE Active Player Tracker
 </footer>
 
@@ -216,8 +235,8 @@ const ranks = [
     "Ruby",
     "Sapphire",
     "Emerald",
-    "Clear Blue",
     "Clear Red",
+    "Clear Blue",
     "Clear Green",
     "Unknown Online Rank"
 ];
@@ -412,6 +431,39 @@ loadData();
 
 setInterval(loadData, 60000);
 
+// ===============================
+// NOTES
+// ===============================
+
+async function loadNotes() {
+    try {
+        const response = await fetch(
+            "https://idac-notes.grgt1462.workers.dev/notes?cache=" + Date.now()
+        );
+
+        if (!response.ok) {
+            throw new Error("Could not load notes");
+        }
+
+        const note = await response.json();
+
+        document.getElementById("notesTitle").textContent =
+            note.title || "Notes";
+
+        document.getElementById("notesContent").textContent =
+            note.content || "";
+
+    } catch (error) {
+        console.error(error);
+
+        document.getElementById("notesContent").textContent =
+            "Unable to load notes.";
+    }
+}
+
+loadNotes();
+
+setInterval(loadNotes, 60000);
 
 </script>
 
