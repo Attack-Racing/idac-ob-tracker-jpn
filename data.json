@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-16 07:44:29",
-  "activeSince": "2026-08-16 07:14:29",
-  "total": 7,
+  "trackerTime": "2026-08-16 07:46:29",
+  "activeSince": "2026-08-16 07:16:29",
+  "total": 6,
   "ranks": {
     "Pride": [
       {
@@ -11,8 +11,8 @@
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯ豊橋飯村",
         "update": "2026/08/16 07:29:59",
-        "status": "green",
-        "ageSeconds": 870
+        "status": "yellow",
+        "ageSeconds": 990
       }
     ],
     "Ruby": [
@@ -23,18 +23,8 @@
         "car": "CT9Aエボ9[AR]",
         "shop": "関大前フタバボウル",
         "update": "2026/08/16 07:29:58",
-        "status": "green",
-        "ageSeconds": 871
-      },
-      {
-        "name": "風ニモマケズ",
-        "rank": "Ruby",
-        "point": 9860,
-        "car": "ST205[AR]",
-        "shop": "上越レジャーランボウル",
-        "update": "2026/08/16 07:15:12",
         "status": "yellow",
-        "ageSeconds": 1757
+        "ageSeconds": 991
       },
       {
         "name": "なぁちゃん",
@@ -44,7 +34,7 @@
         "shop": "タイトーステーション 和光店",
         "update": "2026/08/16 07:23:21",
         "status": "yellow",
-        "ageSeconds": 1268
+        "ageSeconds": 1388
       },
       {
         "name": "８５でＧＯ／",
@@ -53,8 +43,8 @@
         "car": "85レビン[AR]",
         "shop": "アミパラ光明池店",
         "update": "2026/08/16 07:31:13",
-        "status": "green",
-        "ageSeconds": 796
+        "status": "yellow",
+        "ageSeconds": 916
       }
     ],
     "Sapphire": [
@@ -66,7 +56,7 @@
         "shop": "ＨａｐｉｐｉＬａｎｄプラッツ五香",
         "update": "2026/08/16 07:25:35",
         "status": "yellow",
-        "ageSeconds": 1134
+        "ageSeconds": 1254
       },
       {
         "name": "ＧＯＲＩＲＡ",
@@ -75,8 +65,8 @@
         "car": "S15[AR]",
         "shop": "岐阜レジャーランド穂積店",
         "update": "2026/08/16 07:31:13",
-        "status": "green",
-        "ageSeconds": 796
+        "status": "yellow",
+        "ageSeconds": 916
       }
     ],
     "Emerald": [],
