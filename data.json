@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-15 09:23:32",
-  "activeSince": "2026-08-15 08:53:32",
-  "total": 26,
+  "trackerTime": "2026-08-15 09:27:16",
+  "activeSince": "2026-08-15 08:57:16",
+  "total": 25,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "アミューズメントパークＭＧ朝生田",
         "update": "2026/08/15 09:16:32",
         "status": "green",
-        "ageSeconds": 420
+        "ageSeconds": 644
       },
       {
         "name": "ＡｒＳｈｏ．",
@@ -21,8 +21,8 @@
         "car": "CN9Aエボ4[AR]",
         "shop": "ラウンドワン宮崎店",
         "update": "2026/08/15 09:11:45",
-        "status": "green",
-        "ageSeconds": 707
+        "status": "yellow",
+        "ageSeconds": 931
       },
       {
         "name": "右代宮戦人",
@@ -32,7 +32,7 @@
         "shop": "アミューズメントパークＭＧ府中天満屋店",
         "update": "2026/08/15 09:12:51",
         "status": "green",
-        "ageSeconds": 641
+        "ageSeconds": 865
       }
     ],
     "Ruby": [
@@ -43,8 +43,8 @@
         "car": "86トレノ[AR]",
         "shop": "ＧｉＧＯ今福",
         "update": "2026/08/15 09:11:56",
-        "status": "green",
-        "ageSeconds": 696
+        "status": "yellow",
+        "ageSeconds": 920
       },
       {
         "name": "満腹丸パグ様",
@@ -54,7 +54,7 @@
         "shop": "シルクハット伊勢佐木町",
         "update": "2026/08/15 09:14:06",
         "status": "green",
-        "ageSeconds": 566
+        "ageSeconds": 790
       },
       {
         "name": "Ｒａｉａ．",
@@ -64,7 +64,7 @@
         "shop": "ｎａｍｃｏフェドラＰ＆Ｄ佐野店",
         "update": "2026/08/15 09:16:31",
         "status": "green",
-        "ageSeconds": 421
+        "ageSeconds": 645
       },
       {
         "name": "しっぽしっぽ",
@@ -74,7 +74,7 @@
         "shop": "ゲームスポット２０７",
         "update": "2026/08/15 09:12:58",
         "status": "green",
-        "ageSeconds": 634
+        "ageSeconds": 858
       },
       {
         "name": "小佐内ゆき",
@@ -84,7 +84,7 @@
         "shop": "ＧｉＧＯ小山",
         "update": "2026/08/15 09:14:13",
         "status": "green",
-        "ageSeconds": 559
+        "ageSeconds": 783
       },
       {
         "name": "＠",
@@ -94,7 +94,7 @@
         "shop": "モーリーファンタジーｆ 岐阜",
         "update": "2026/08/15 09:16:02",
         "status": "green",
-        "ageSeconds": 450
+        "ageSeconds": 674
       },
       {
         "name": "ＫｉｓｓＭｅ",
@@ -104,7 +104,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/15 09:14:39",
         "status": "green",
-        "ageSeconds": 533
+        "ageSeconds": 757
       },
       {
         "name": "春日　未来",
@@ -114,7 +114,7 @@
         "shop": "タイトーステーション 町田店",
         "update": "2026/08/15 09:14:39",
         "status": "green",
-        "ageSeconds": 533
+        "ageSeconds": 757
       },
       {
         "name": "レモンちゃん",
@@ -124,7 +124,7 @@
         "shop": "バンダイナムコＣｒｏｓｓＳｔｏｒｅ京都",
         "update": "2026/08/15 09:02:03",
         "status": "yellow",
-        "ageSeconds": 1289
+        "ageSeconds": 1513
       }
     ],
     "Sapphire": [
@@ -136,7 +136,7 @@
         "shop": "中川メトロポリス",
         "update": "2026/08/15 09:14:40",
         "status": "green",
-        "ageSeconds": 532
+        "ageSeconds": 756
       },
       {
         "name": "ＪＥＴＭＡＮ",
@@ -145,8 +145,8 @@
         "car": "CP9Aエボ6[AR]",
         "shop": "ユーズランド大河原店",
         "update": "2026/08/15 09:08:40",
-        "status": "green",
-        "ageSeconds": 892
+        "status": "yellow",
+        "ageSeconds": 1116
       },
       {
         "name": "マイキー",
@@ -156,7 +156,7 @@
         "shop": "ラウンドワン金沢店",
         "update": "2026/08/15 09:01:00",
         "status": "yellow",
-        "ageSeconds": 1352
+        "ageSeconds": 1576
       },
       {
         "name": "りょうめい",
@@ -166,17 +166,7 @@
         "shop": "ＧｉＧＯ大阪道頓堀本店",
         "update": "2026/08/15 09:14:51",
         "status": "green",
-        "ageSeconds": 521
-      },
-      {
-        "name": "もんキチ＠",
-        "rank": "Sapphire",
-        "point": 3260,
-        "car": "GC8[AR]",
-        "shop": "ＤＡＩＫＥＩＥＮ",
-        "update": "2026/08/15 08:55:51",
-        "status": "yellow",
-        "ageSeconds": 1661
+        "ageSeconds": 745
       },
       {
         "name": "ＫＮ",
@@ -186,7 +176,7 @@
         "shop": "ｎａｍｃｏアリオ鳳店",
         "update": "2026/08/15 09:14:39",
         "status": "green",
-        "ageSeconds": 533
+        "ageSeconds": 757
       },
       {
         "name": "１番隊指導掛",
@@ -196,7 +186,7 @@
         "shop": "ＧｉＧＯ我孫子",
         "update": "2026/08/15 09:16:07",
         "status": "green",
-        "ageSeconds": 445
+        "ageSeconds": 669
       },
       {
         "name": "夢先案内人",
@@ -205,8 +195,8 @@
         "car": "CN9Aエボ4[HC]",
         "shop": "Ａ．Ｃ．グランド",
         "update": "2026/08/15 09:10:41",
-        "status": "green",
-        "ageSeconds": 771
+        "status": "yellow",
+        "ageSeconds": 995
       }
     ],
     "Emerald": [
@@ -218,7 +208,7 @@
         "shop": "ラウンドワン板橋店",
         "update": "2026/08/15 09:14:08",
         "status": "green",
-        "ageSeconds": 564
+        "ageSeconds": 788
       },
       {
         "name": "ＭＡ＊＊ＳＡ",
@@ -228,7 +218,7 @@
         "shop": "バンダイナムコＣｒｏｓｓＳｔｏｒｅ京都",
         "update": "2026/08/15 09:07:46",
         "status": "yellow",
-        "ageSeconds": 946
+        "ageSeconds": 1170
       },
       {
         "name": "藤原拓美＠",
@@ -238,7 +228,7 @@
         "shop": "関大前フタバボウル",
         "update": "2026/08/15 09:12:58",
         "status": "green",
-        "ageSeconds": 634
+        "ageSeconds": 858
       },
       {
         "name": "Ａｄｏ♪♪",
@@ -248,7 +238,7 @@
         "shop": "バンダイナムコＣｒｏｓｓＳｔｏｒｅ京都",
         "update": "2026/08/15 09:14:11",
         "status": "green",
-        "ageSeconds": 561
+        "ageSeconds": 785
       },
       {
         "name": "匿名Ｄ",
@@ -258,7 +248,7 @@
         "shop": "タイトーＦステーション燕三条店",
         "update": "2026/08/15 09:12:59",
         "status": "green",
-        "ageSeconds": 633
+        "ageSeconds": 857
       }
     ],
     "Clear Blue": [],
@@ -271,7 +261,7 @@
         "shop": "ＧｉＧＯ仙台一番町",
         "update": "2026/08/15 09:03:01",
         "status": "yellow",
-        "ageSeconds": 1231
+        "ageSeconds": 1455
       }
     ],
     "Clear Green": [],
