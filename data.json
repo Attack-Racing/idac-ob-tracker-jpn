@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-17 00:50:02",
-  "activeSince": "2026-08-17 00:20:02",
-  "total": 7,
+  "trackerTime": "2026-08-17 00:50:51",
+  "activeSince": "2026-08-17 00:20:51",
+  "total": 9,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "アミパラ松江店",
         "update": "2026/08/17 00:28:46",
         "status": "yellow",
-        "ageSeconds": 1275
+        "ageSeconds": 1325
       },
       {
         "name": "つきあしさん",
@@ -22,19 +22,19 @@
         "shop": "ＧｉＧＯ北見",
         "update": "2026/08/17 00:23:34",
         "status": "yellow",
-        "ageSeconds": 1587
+        "ageSeconds": 1637
       }
     ],
     "Ruby": [
       {
         "name": "れな姫＠愛Ｒ",
         "rank": "Ruby",
-        "point": 74020,
+        "point": 74220,
         "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/17 00:28:46",
-        "status": "yellow",
-        "ageSeconds": 1275
+        "update": "2026/08/17 00:40:52",
+        "status": "green",
+        "ageSeconds": 599
       },
       {
         "name": "モリバトーレ",
@@ -44,7 +44,7 @@
         "shop": "ＧｉＧＯフレスポ東大阪",
         "update": "2026/08/17 00:26:13",
         "status": "yellow",
-        "ageSeconds": 1428
+        "ageSeconds": 1478
       },
       {
         "name": "なな７ナナ？",
@@ -54,7 +54,17 @@
         "shop": "ＧｉＧＯ入間",
         "update": "2026/08/17 00:26:39",
         "status": "yellow",
-        "ageSeconds": 1402
+        "ageSeconds": 1452
+      },
+      {
+        "name": "　清水美早",
+        "rank": "Ruby",
+        "point": 5660,
+        "car": "CP9Aエボ5[AR]",
+        "shop": "タイトーステーションフジグラン北島店",
+        "update": "2026/08/17 00:32:31",
+        "status": "yellow",
+        "ageSeconds": 1100
       }
     ],
     "Sapphire": [
@@ -66,7 +76,7 @@
         "shop": "アミパラ岡山店",
         "update": "2026/08/17 00:26:46",
         "status": "yellow",
-        "ageSeconds": 1395
+        "ageSeconds": 1445
       },
       {
         "name": "ＥＫ４",
@@ -76,10 +86,21 @@
         "shop": "モーリーファンタジー那覇",
         "update": "2026/08/17 00:21:39",
         "status": "yellow",
-        "ageSeconds": 1702
+        "ageSeconds": 1752
       }
     ],
-    "Emerald": [],
+    "Emerald": [
+      {
+        "name": "ＧＲＫ",
+        "rank": "Emerald",
+        "point": 2580,
+        "car": "ZN8[DH]",
+        "shop": "ラウンドワン沖縄・南風原店",
+        "update": "2026/08/17 00:37:33",
+        "status": "green",
+        "ageSeconds": 798
+      }
+    ],
     "Clear Blue": [],
     "Clear Red": [],
     "Clear Green": [],
