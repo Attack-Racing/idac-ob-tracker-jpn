@@ -1,40 +1,50 @@
 {
-  "trackerTime": "2026-08-17 01:05:05",
-  "activeSince": "2026-08-17 00:35:05",
-  "total": 5,
+  "trackerTime": "2026-08-17 01:07:03",
+  "activeSince": "2026-08-17 00:37:03",
+  "total": 8,
   "ranks": {
     "Pride": [
       {
         "name": "ｊｏｋｅｒ？",
         "rank": "Pride",
-        "point": 74420,
+        "point": 74680,
         "car": "ST205[AR]",
         "shop": "アミパラ松江店",
-        "update": "2026/08/17 00:40:44",
+        "update": "2026/08/17 00:47:23",
         "status": "yellow",
-        "ageSeconds": 1461
+        "ageSeconds": 1180
       },
       {
         "name": "つきあしさん",
         "rank": "Pride",
-        "point": 31160,
-        "car": "ST205[AR]",
+        "point": 31420,
+        "car": "CP9Aエボ6[AR]",
         "shop": "ＧｉＧＯ北見",
-        "update": "2026/08/17 00:40:44",
-        "status": "yellow",
-        "ageSeconds": 1461
+        "update": "2026/08/17 00:57:40",
+        "status": "green",
+        "ageSeconds": 563
+      },
+      {
+        "name": "あ＠とくしま",
+        "rank": "Pride",
+        "point": 18060,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/17 00:59:31",
+        "status": "green",
+        "ageSeconds": 452
       }
     ],
     "Ruby": [
       {
         "name": "れな姫＠愛Ｒ",
         "rank": "Ruby",
-        "point": 74220,
+        "point": 74400,
         "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/17 00:40:52",
-        "status": "yellow",
-        "ageSeconds": 1453
+        "update": "2026/08/17 01:00:48",
+        "status": "green",
+        "ageSeconds": 375
       },
       {
         "name": "モリバトーレ",
@@ -44,20 +54,41 @@
         "shop": "ＧｉＧＯフレスポ東大阪",
         "update": "2026/08/17 00:37:43",
         "status": "yellow",
-        "ageSeconds": 1642
+        "ageSeconds": 1760
       }
     ],
-    "Sapphire": [],
+    "Sapphire": [
+      {
+        "name": "モナユカ",
+        "rank": "Sapphire",
+        "point": 11980,
+        "car": "CT9Aエボ7[HC]",
+        "shop": "群馬レジャーランド太田店",
+        "update": "2026/08/17 00:59:32",
+        "status": "green",
+        "ageSeconds": 451
+      },
+      {
+        "name": "あわすばる",
+        "rank": "Sapphire",
+        "point": 3140,
+        "car": "JZA80[AR]",
+        "shop": "ＧｉＧＯスマーク伊勢崎",
+        "update": "2026/08/17 01:00:47",
+        "status": "green",
+        "ageSeconds": 376
+      }
+    ],
     "Emerald": [
       {
         "name": "ＧＲＫ",
         "rank": "Emerald",
-        "point": 2580,
+        "point": 2520,
         "car": "ZN8[DH]",
         "shop": "ラウンドワン沖縄・南風原店",
-        "update": "2026/08/17 00:37:33",
-        "status": "yellow",
-        "ageSeconds": 1652
+        "update": "2026/08/17 00:55:06",
+        "status": "green",
+        "ageSeconds": 717
       }
     ],
     "Clear Blue": [],
