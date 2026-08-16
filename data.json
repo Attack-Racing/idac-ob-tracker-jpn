@@ -1,10 +1,52 @@
 {
-  "trackerTime": "2026-08-17 07:20:53",
-  "activeSince": "2026-08-17 06:50:53",
-  "total": 0,
+  "trackerTime": "2026-08-17 07:22:01",
+  "activeSince": "2026-08-17 06:52:01",
+  "total": 4,
   "ranks": {
-    "Pride": [],
-    "Ruby": [],
+    "Pride": [
+      {
+        "name": "ＶＲ満喫鈴木",
+        "rank": "Pride",
+        "point": 15340,
+        "car": "ST205[AR]",
+        "shop": "ウェアハウス越谷店",
+        "update": "2026/08/17 07:15:01",
+        "status": "green",
+        "ageSeconds": 420
+      },
+      {
+        "name": "Ｈαｎｎｙ？",
+        "rank": "Pride",
+        "point": 14180,
+        "car": "NA1[AR]",
+        "shop": "ＧｉＧＯ西那須野",
+        "update": "2026/08/17 07:14:12",
+        "status": "green",
+        "ageSeconds": 469
+      }
+    ],
+    "Ruby": [
+      {
+        "name": "音もない世界",
+        "rank": "Ruby",
+        "point": 2500,
+        "car": "ST205[AR]",
+        "shop": "楽市楽座行橋店",
+        "update": "2026/08/17 07:15:08",
+        "status": "green",
+        "ageSeconds": 413
+      },
+      {
+        "name": "Ｘｉｇｂαｒ",
+        "rank": "Ruby",
+        "point": 280,
+        "car": "Z33[AR]",
+        "shop": "アミュージアム茂原店",
+        "update": "2026/08/17 07:14:18",
+        "status": "green",
+        "ageSeconds": 463
+      }
+    ],
     "Sapphire": [],
     "Emerald": [],
     "Clear Blue": [],
