@@ -1,31 +1,41 @@
 {
-  "trackerTime": "2026-08-17 07:36:06",
-  "activeSince": "2026-08-17 07:06:06",
-  "total": 4,
+  "trackerTime": "2026-08-17 07:37:51",
+  "activeSince": "2026-08-17 07:07:51",
+  "total": 9,
   "ranks": {
     "Pride": [
       {
         "name": "ＶＲ満喫鈴木",
         "rank": "Pride",
-        "point": 15340,
+        "point": 16120,
         "car": "ST205[AR]",
         "shop": "ウェアハウス越谷店",
-        "update": "2026/08/17 07:15:01",
-        "status": "yellow",
-        "ageSeconds": 1265
+        "update": "2026/08/17 07:29:18",
+        "status": "green",
+        "ageSeconds": 513
       },
       {
         "name": "Ｈαｎｎｙ？",
         "rank": "Pride",
-        "point": 14180,
+        "point": 14960,
         "car": "NA1[AR]",
         "shop": "ＧｉＧＯ西那須野",
-        "update": "2026/08/17 07:14:12",
-        "status": "yellow",
-        "ageSeconds": 1314
+        "update": "2026/08/17 07:28:40",
+        "status": "green",
+        "ageSeconds": 551
       }
     ],
     "Ruby": [
+      {
+        "name": "かき",
+        "rank": "Ruby",
+        "point": 8500,
+        "car": "ST205[AR]",
+        "shop": "ドラマ瑞穂店",
+        "update": "2026/08/17 07:28:47",
+        "status": "green",
+        "ageSeconds": 544
+      },
       {
         "name": "音もない世界",
         "rank": "Ruby",
@@ -34,7 +44,47 @@
         "shop": "楽市楽座行橋店",
         "update": "2026/08/17 07:15:08",
         "status": "yellow",
-        "ageSeconds": 1258
+        "ageSeconds": 1363
+      },
+      {
+        "name": "塩川洋介弟子",
+        "rank": "Ruby",
+        "point": 2080,
+        "car": "FC3S[AR]",
+        "shop": "アミューズメントＦＵＮＦＵＮ越谷店",
+        "update": "2026/08/17 07:19:01",
+        "status": "yellow",
+        "ageSeconds": 1130
+      },
+      {
+        "name": "夢の観覧車",
+        "rank": "Ruby",
+        "point": 2020,
+        "car": "GDBF[DH]",
+        "shop": "メジャーロード24",
+        "update": "2026/08/17 07:23:22",
+        "status": "green",
+        "ageSeconds": 869
+      },
+      {
+        "name": "俺の師匠北浦",
+        "rank": "Ruby",
+        "point": 1320,
+        "car": "CZ4Aエボ10[AR]",
+        "shop": "タイトーステーション 池袋西口店",
+        "update": "2026/08/17 07:19:45",
+        "status": "yellow",
+        "ageSeconds": 1086
+      },
+      {
+        "name": "Ｐ活セルシオ",
+        "rank": "Ruby",
+        "point": 340,
+        "car": "86トレノ[HC]",
+        "shop": "ベネクス川越店",
+        "update": "2026/08/17 07:24:40",
+        "status": "green",
+        "ageSeconds": 791
       },
       {
         "name": "Ｘｉｇｂαｒ",
@@ -44,7 +94,7 @@
         "shop": "アミュージアム茂原店",
         "update": "2026/08/17 07:14:18",
         "status": "yellow",
-        "ageSeconds": 1308
+        "ageSeconds": 1413
       }
     ],
     "Sapphire": [],
