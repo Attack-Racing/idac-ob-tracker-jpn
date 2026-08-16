@@ -1,18 +1,18 @@
 {
-  "trackerTime": "2026-08-17 01:20:49",
-  "activeSince": "2026-08-17 00:50:49",
-  "total": 6,
+  "trackerTime": "2026-08-17 01:22:08",
+  "activeSince": "2026-08-17 00:52:08",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
         "name": "つきあしさん",
         "rank": "Pride",
-        "point": 31420,
-        "car": "CP9Aエボ6[AR]",
+        "point": 31940,
+        "car": "CP9Aエボ6[HC]",
         "shop": "ＧｉＧＯ北見",
-        "update": "2026/08/17 00:57:40",
-        "status": "yellow",
-        "ageSeconds": 1389
+        "update": "2026/08/17 01:12:21",
+        "status": "green",
+        "ageSeconds": 586
       },
       {
         "name": "あ＠とくしま",
@@ -22,7 +22,17 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/17 01:14:58",
         "status": "green",
-        "ageSeconds": 351
+        "ageSeconds": 429
+      },
+      {
+        "name": "ｎ４ｉ",
+        "rank": "Pride",
+        "point": 1960,
+        "car": "CT9Aエボ9[AR]",
+        "shop": "ラウンドワン京都伏見店",
+        "update": "2026/08/17 01:14:57",
+        "status": "green",
+        "ageSeconds": 430
       }
     ],
     "Ruby": [
@@ -33,20 +43,20 @@
         "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/17 01:06:00",
-        "status": "green",
-        "ageSeconds": 889
+        "status": "yellow",
+        "ageSeconds": 967
       }
     ],
     "Sapphire": [
       {
         "name": "モナユカ",
         "rank": "Sapphire",
-        "point": 11980,
-        "car": "CT9Aエボ7[HC]",
+        "point": 12420,
+        "car": "S13[AR]",
         "shop": "群馬レジャーランド太田店",
-        "update": "2026/08/17 00:59:32",
-        "status": "yellow",
-        "ageSeconds": 1277
+        "update": "2026/08/17 01:15:42",
+        "status": "green",
+        "ageSeconds": 385
       },
       {
         "name": "あわすばる",
@@ -56,7 +66,7 @@
         "shop": "ＧｉＧＯスマーク伊勢崎",
         "update": "2026/08/17 01:00:47",
         "status": "yellow",
-        "ageSeconds": 1202
+        "ageSeconds": 1280
       }
     ],
     "Emerald": [
@@ -68,7 +78,7 @@
         "shop": "ラウンドワン沖縄・南風原店",
         "update": "2026/08/17 01:16:42",
         "status": "green",
-        "ageSeconds": 247
+        "ageSeconds": 325
       }
     ],
     "Clear Blue": [],
