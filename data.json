@@ -1,28 +1,28 @@
 {
-  "trackerTime": "2026-08-17 07:50:59",
-  "activeSince": "2026-08-17 07:20:59",
-  "total": 5,
+  "trackerTime": "2026-08-17 07:52:08",
+  "activeSince": "2026-08-17 07:22:08",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
         "name": "ＶＲ満喫鈴木",
         "rank": "Pride",
-        "point": 16120,
+        "point": 16900,
         "car": "ST205[AR]",
         "shop": "ウェアハウス越谷店",
-        "update": "2026/08/17 07:29:18",
-        "status": "yellow",
-        "ageSeconds": 1301
+        "update": "2026/08/17 07:44:26",
+        "status": "green",
+        "ageSeconds": 462
       },
       {
         "name": "Ｈαｎｎｙ？",
         "rank": "Pride",
-        "point": 14960,
+        "point": 15740,
         "car": "NA1[AR]",
         "shop": "ＧｉＧＯ西那須野",
-        "update": "2026/08/17 07:28:40",
-        "status": "yellow",
-        "ageSeconds": 1339
+        "update": "2026/08/17 07:42:51",
+        "status": "green",
+        "ageSeconds": 557
       }
     ],
     "Ruby": [
@@ -34,7 +34,17 @@
         "shop": "ドラマ瑞穂店",
         "update": "2026/08/17 07:28:47",
         "status": "yellow",
-        "ageSeconds": 1332
+        "ageSeconds": 1401
+      },
+      {
+        "name": "塩川洋介弟子",
+        "rank": "Ruby",
+        "point": 2020,
+        "car": "FC3S[AR]",
+        "shop": "アミューズメントＦＵＮＦＵＮ越谷店",
+        "update": "2026/08/17 07:42:58",
+        "status": "green",
+        "ageSeconds": 550
       },
       {
         "name": "夢の観覧車",
@@ -44,7 +54,7 @@
         "shop": "メジャーロード24",
         "update": "2026/08/17 07:23:22",
         "status": "yellow",
-        "ageSeconds": 1657
+        "ageSeconds": 1726
       },
       {
         "name": "Ｐ活セルシオ",
@@ -54,7 +64,17 @@
         "shop": "ベネクス川越店",
         "update": "2026/08/17 07:24:40",
         "status": "yellow",
-        "ageSeconds": 1579
+        "ageSeconds": 1648
+      },
+      {
+        "name": "Ｘｉｇｂαｒ",
+        "rank": "Ruby",
+        "point": 220,
+        "car": "Z33[AR]",
+        "shop": "アミュージアム茂原店",
+        "update": "2026/08/17 07:38:22",
+        "status": "green",
+        "ageSeconds": 826
       }
     ],
     "Sapphire": [],
