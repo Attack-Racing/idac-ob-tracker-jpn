@@ -1,18 +1,28 @@
 {
-  "trackerTime": "2026-08-17 03:20:12",
-  "activeSince": "2026-08-17 02:50:12",
-  "total": 5,
+  "trackerTime": "2026-08-17 03:21:52",
+  "activeSince": "2026-08-17 02:51:52",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
         "name": "絶対的第六感",
         "rank": "Pride",
-        "point": 22820,
-        "car": "EK9[DH]",
+        "point": 23340,
+        "car": "CP9Aエボ6[HC]",
         "shop": "アミューズメントゲーム　マグレブ",
-        "update": "2026/08/17 02:57:43",
-        "status": "yellow",
-        "ageSeconds": 1349
+        "update": "2026/08/17 03:09:55",
+        "status": "green",
+        "ageSeconds": 717
+      },
+      {
+        "name": "あ＠とくしま",
+        "rank": "Pride",
+        "point": 19640,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/17 03:16:10",
+        "status": "green",
+        "ageSeconds": 342
       },
       {
         "name": "ＫｓＤａｉ．",
@@ -22,29 +32,39 @@
         "shop": "ＧｉＧＯイオンモールむさし村山",
         "update": "2026/08/17 02:52:55",
         "status": "yellow",
-        "ageSeconds": 1637
+        "ageSeconds": 1737
+      },
+      {
+        "name": "Ｖｉｏｌｅｔ",
+        "rank": "Pride",
+        "point": 1760,
+        "car": "FD3S[AR]",
+        "shop": "アミューズメントパフェパレパレ田宮店",
+        "update": "2026/08/17 03:14:11",
+        "status": "green",
+        "ageSeconds": 461
       }
     ],
     "Ruby": [
       {
         "name": "人間の端くれ",
         "rank": "Ruby",
-        "point": 32420,
-        "car": "BNR32[AR]",
+        "point": 32620,
+        "car": "86トレノ[AR]",
         "shop": "ｎａｍｃｏ博多バスターミナル店",
-        "update": "2026/08/17 02:58:24",
-        "status": "yellow",
-        "ageSeconds": 1308
+        "update": "2026/08/17 03:16:10",
+        "status": "green",
+        "ageSeconds": 342
       },
       {
         "name": "未来の三原色",
         "rank": "Ruby",
-        "point": 6100,
+        "point": 5980,
         "car": "ST205[AR]",
         "shop": "ラウンドワンダイバーシティ東京プラザ店",
-        "update": "2026/08/17 02:58:24",
-        "status": "yellow",
-        "ageSeconds": 1308
+        "update": "2026/08/17 03:14:18",
+        "status": "green",
+        "ageSeconds": 454
       },
       {
         "name": "Ａｑｎｓｙ",
@@ -54,7 +74,7 @@
         "shop": "ウェアハウス三橋店",
         "update": "2026/08/17 02:57:50",
         "status": "yellow",
-        "ageSeconds": 1342
+        "ageSeconds": 1442
       }
     ],
     "Sapphire": [],
