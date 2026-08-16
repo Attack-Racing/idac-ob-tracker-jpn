@@ -1,60 +1,70 @@
 {
-  "trackerTime": "2026-08-17 03:50:09",
-  "activeSince": "2026-08-17 03:20:09",
+  "trackerTime": "2026-08-17 03:51:51",
+  "activeSince": "2026-08-17 03:21:51",
   "total": 7,
   "ranks": {
     "Pride": [
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 20160,
-        "car": "ST205[AR]",
+        "point": 20680,
+        "car": "CE9Aエボ3[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/17 03:31:15",
-        "status": "yellow",
-        "ageSeconds": 1134
+        "update": "2026/08/17 03:42:59",
+        "status": "green",
+        "ageSeconds": 532
       },
       {
         "name": "Ｖｉｏｌｅｔ",
         "rank": "Pride",
-        "point": 2280,
+        "point": 2540,
         "car": "CE9Aエボ3[AR]",
         "shop": "アミューズメントパフェパレパレ田宮店",
-        "update": "2026/08/17 03:25:58",
+        "update": "2026/08/17 03:31:53",
         "status": "yellow",
-        "ageSeconds": 1451
+        "ageSeconds": 1198
+      },
+      {
+        "name": "ベるゼブる",
+        "rank": "Pride",
+        "point": 260,
+        "car": "FD3S6[AR]",
+        "shop": "アミューズメントパークＭＧ徳島",
+        "update": "2026/08/17 03:44:10",
+        "status": "green",
+        "ageSeconds": 461
       }
     ],
     "Ruby": [
       {
         "name": "人間の端くれ",
         "rank": "Ruby",
-        "point": 32560,
+        "point": 32760,
         "car": "BNR32[AR]",
         "shop": "ｎａｍｃｏ博多バスターミナル店",
-        "update": "2026/08/17 03:21:05",
-        "status": "yellow",
-        "ageSeconds": 1744
+        "update": "2026/08/17 03:42:34",
+        "status": "green",
+        "ageSeconds": 557
       },
       {
         "name": "未来の三原色",
         "rank": "Ruby",
-        "point": 6180,
+        "point": 6380,
         "car": "ST205[AR]",
         "shop": "ラウンドワンダイバーシティ東京プラザ店",
-        "update": "2026/08/17 03:26:57",
-        "status": "yellow",
-        "ageSeconds": 1392
+        "update": "2026/08/17 03:42:35",
+        "status": "green",
+        "ageSeconds": 556
       },
       {
-        "name": "ビールテロ！",
+        "name": "ハゲト～さん",
         "rank": "Ruby",
-        "point": 1360,
-        "car": "DC2[HC]",
-        "shop": "コムテックスクウェア",
-        "update": "2026/08/17 03:21:32",
-        "status": "yellow",
-        "ageSeconds": 1717
+        "point": 3480,
+        "car": "GC8[AR]",
+        "shop": "ＧｉＧＯ秋葉原３号館",
+        "update": "2026/08/17 03:44:17",
+        "status": "green",
+        "ageSeconds": 454
       },
       {
         "name": "ハルカエコー",
@@ -64,17 +74,7 @@
         "shop": "コムテックタワー",
         "update": "2026/08/17 03:31:22",
         "status": "yellow",
-        "ageSeconds": 1127
-      },
-      {
-        "name": "いいなぁ～☆",
-        "rank": "Ruby",
-        "point": 260,
-        "car": "BNR34[AR]",
-        "shop": "アミューズメントフィールドバイヨン",
-        "update": "2026/08/17 03:26:58",
-        "status": "yellow",
-        "ageSeconds": 1391
+        "ageSeconds": 1229
       }
     ],
     "Sapphire": [],
