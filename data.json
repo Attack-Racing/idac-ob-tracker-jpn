@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-17 01:34:52",
-  "activeSince": "2026-08-17 01:04:52",
-  "total": 6,
+  "trackerTime": "2026-08-17 01:35:52",
+  "activeSince": "2026-08-17 01:05:52",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
@@ -12,17 +12,17 @@
         "shop": "ＧｉＧＯ北見",
         "update": "2026/08/17 01:12:21",
         "status": "yellow",
-        "ageSeconds": 1350
+        "ageSeconds": 1411
       },
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 18200,
-        "car": "NA1[HC]",
+        "point": 18460,
+        "car": "CP9Aエボ6[HC]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/17 01:14:58",
-        "status": "yellow",
-        "ageSeconds": 1193
+        "update": "2026/08/17 01:29:53",
+        "status": "green",
+        "ageSeconds": 359
       },
       {
         "name": "ｎ４ｉ",
@@ -32,7 +32,7 @@
         "shop": "ラウンドワン京都伏見店",
         "update": "2026/08/17 01:14:57",
         "status": "yellow",
-        "ageSeconds": 1194
+        "ageSeconds": 1255
       }
     ],
     "Ruby": [
@@ -44,7 +44,17 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/17 01:06:00",
         "status": "yellow",
-        "ageSeconds": 1731
+        "ageSeconds": 1792
+      },
+      {
+        "name": "人間の端くれ",
+        "rank": "Ruby",
+        "point": 32020,
+        "car": "BNR32[AR]",
+        "shop": "ｎａｍｃｏ博多バスターミナル店",
+        "update": "2026/08/17 01:27:52",
+        "status": "green",
+        "ageSeconds": 480
       }
     ],
     "Sapphire": [
@@ -56,19 +66,19 @@
         "shop": "群馬レジャーランド太田店",
         "update": "2026/08/17 01:15:42",
         "status": "yellow",
-        "ageSeconds": 1149
+        "ageSeconds": 1210
       }
     ],
     "Emerald": [
       {
         "name": "ＧＲＫ",
         "rank": "Emerald",
-        "point": 2860,
-        "car": "ZN8[DH]",
+        "point": 3020,
+        "car": "GXPA16[AR]",
         "shop": "ラウンドワン沖縄・南風原店",
-        "update": "2026/08/17 01:16:42",
-        "status": "yellow",
-        "ageSeconds": 1089
+        "update": "2026/08/17 01:29:23",
+        "status": "green",
+        "ageSeconds": 389
       }
     ],
     "Clear Blue": [],
