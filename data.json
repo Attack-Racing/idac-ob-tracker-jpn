@@ -1,9 +1,19 @@
 {
-  "trackerTime": "2026-08-17 00:34:09",
-  "activeSince": "2026-08-17 00:04:09",
-  "total": 11,
+  "trackerTime": "2026-08-17 00:36:10",
+  "activeSince": "2026-08-17 00:06:10",
+  "total": 13,
   "ranks": {
     "Pride": [
+      {
+        "name": "ｊｏｋｅｒ？",
+        "rank": "Pride",
+        "point": 73900,
+        "car": "ST205[AR]",
+        "shop": "アミパラ松江店",
+        "update": "2026/08/17 00:28:46",
+        "status": "green",
+        "ageSeconds": 444
+      },
       {
         "name": "つきあしさん",
         "rank": "Pride",
@@ -12,19 +22,19 @@
         "shop": "ＧｉＧＯ北見",
         "update": "2026/08/17 00:16:06",
         "status": "yellow",
-        "ageSeconds": 1083
+        "ageSeconds": 1204
       }
     ],
     "Ruby": [
       {
         "name": "れな姫＠愛Ｒ",
         "rank": "Ruby",
-        "point": 74140,
-        "car": "86トレノ[AR]",
+        "point": 74020,
+        "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/17 00:13:51",
-        "status": "yellow",
-        "ageSeconds": 1218
+        "update": "2026/08/17 00:28:46",
+        "status": "green",
+        "ageSeconds": 444
       },
       {
         "name": "モリバトーレ",
@@ -34,7 +44,7 @@
         "shop": "ＧｉＧＯフレスポ東大阪",
         "update": "2026/08/17 00:14:20",
         "status": "yellow",
-        "ageSeconds": 1189
+        "ageSeconds": 1310
       },
       {
         "name": "なな７ナナ？",
@@ -44,7 +54,7 @@
         "shop": "ＧｉＧＯ入間",
         "update": "2026/08/17 00:15:33",
         "status": "yellow",
-        "ageSeconds": 1116
+        "ageSeconds": 1237
       },
       {
         "name": "西田　汐里",
@@ -54,7 +64,7 @@
         "shop": "ＧｉＧＯ太田",
         "update": "2026/08/17 00:14:19",
         "status": "yellow",
-        "ageSeconds": 1190
+        "ageSeconds": 1311
       },
       {
         "name": "ＣＨ４ＮＧＥ",
@@ -64,7 +74,7 @@
         "shop": "エースレーン愛知川",
         "update": "2026/08/17 00:13:51",
         "status": "yellow",
-        "ageSeconds": 1218
+        "ageSeconds": 1339
       },
       {
         "name": "Ａｑｎｓｙ",
@@ -74,10 +84,20 @@
         "shop": "ウェアハウス三橋店",
         "update": "2026/08/17 00:10:50",
         "status": "yellow",
-        "ageSeconds": 1399
+        "ageSeconds": 1520
       }
     ],
     "Sapphire": [
+      {
+        "name": "∽眠姫めあ∽",
+        "rank": "Sapphire",
+        "point": 5720,
+        "car": "ER34[HC]",
+        "shop": "アミパラ岡山店",
+        "update": "2026/08/17 00:26:46",
+        "status": "green",
+        "ageSeconds": 564
+      },
       {
         "name": "しろくま",
         "rank": "Sapphire",
@@ -86,17 +106,17 @@
         "shop": "ＨａｐｉｐｉＬａｎｄ十日町",
         "update": "2026/08/17 00:16:16",
         "status": "yellow",
-        "ageSeconds": 1073
+        "ageSeconds": 1194
       },
       {
         "name": "ＥＫ４",
         "rank": "Sapphire",
-        "point": 240,
+        "point": 180,
         "car": "EK9[DH]",
         "shop": "モーリーファンタジー那覇",
-        "update": "2026/08/17 00:16:17",
-        "status": "yellow",
-        "ageSeconds": 1072
+        "update": "2026/08/17 00:21:39",
+        "status": "green",
+        "ageSeconds": 871
       }
     ],
     "Emerald": [
@@ -108,7 +128,7 @@
         "shop": "ラウンドワン沖縄・南風原店",
         "update": "2026/08/17 00:16:14",
         "status": "yellow",
-        "ageSeconds": 1075
+        "ageSeconds": 1196
       },
       {
         "name": "高松ひとみ",
@@ -118,7 +138,7 @@
         "shop": "ＧｉＧＯあべのアポロ３Ｆ",
         "update": "2026/08/17 00:16:15",
         "status": "yellow",
-        "ageSeconds": 1074
+        "ageSeconds": 1195
       }
     ],
     "Clear Blue": [],
