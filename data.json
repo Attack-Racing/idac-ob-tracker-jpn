@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-17 07:57:49",
-  "activeSince": "2026-08-17 07:27:49",
-  "total": 5,
+  "trackerTime": "2026-08-17 07:59:08",
+  "activeSince": "2026-08-17 07:29:08",
+  "total": 4,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "ウェアハウス越谷店",
         "update": "2026/08/17 07:44:26",
         "status": "green",
-        "ageSeconds": 803
+        "ageSeconds": 882
       },
       {
         "name": "Ｈαｎｎｙ？",
@@ -21,21 +21,11 @@
         "car": "NA1[AR]",
         "shop": "ＧｉＧＯ西那須野",
         "update": "2026/08/17 07:42:51",
-        "status": "green",
-        "ageSeconds": 898
+        "status": "yellow",
+        "ageSeconds": 977
       }
     ],
     "Ruby": [
-      {
-        "name": "かき",
-        "rank": "Ruby",
-        "point": 8500,
-        "car": "ST205[AR]",
-        "shop": "ドラマ瑞穂店",
-        "update": "2026/08/17 07:28:47",
-        "status": "yellow",
-        "ageSeconds": 1742
-      },
       {
         "name": "塩川洋介弟子",
         "rank": "Ruby",
@@ -43,8 +33,8 @@
         "car": "FC3S[AR]",
         "shop": "アミューズメントＦＵＮＦＵＮ越谷店",
         "update": "2026/08/17 07:42:58",
-        "status": "green",
-        "ageSeconds": 891
+        "status": "yellow",
+        "ageSeconds": 970
       },
       {
         "name": "Ｘｉｇｂαｒ",
@@ -54,7 +44,7 @@
         "shop": "アミュージアム茂原店",
         "update": "2026/08/17 07:38:22",
         "status": "yellow",
-        "ageSeconds": 1167
+        "ageSeconds": 1246
       }
     ],
     "Sapphire": [],
