@@ -1,41 +1,61 @@
 {
-  "trackerTime": "2026-08-18 08:20:57",
-  "activeSince": "2026-08-18 07:50:57",
-  "total": 7,
+  "trackerTime": "2026-08-18 08:22:11",
+  "activeSince": "2026-08-18 07:52:11",
+  "total": 11,
   "ranks": {
     "Pride": [
       {
         "name": "藤咲　可憐",
         "rank": "Pride",
-        "point": 18020,
+        "point": 18800,
         "car": "NA1[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/18 08:00:55",
-        "status": "yellow",
-        "ageSeconds": 1201
+        "update": "2026/08/18 08:16:19",
+        "status": "green",
+        "ageSeconds": 352
       },
       {
         "name": "森島Ｌはるか",
         "rank": "Pride",
-        "point": 13780,
+        "point": 14560,
         "car": "ST205[AR]",
         "shop": "ゲームランド草津店",
-        "update": "2026/08/18 07:57:50",
-        "status": "yellow",
-        "ageSeconds": 1386
+        "update": "2026/08/18 08:13:42",
+        "status": "green",
+        "ageSeconds": 509
+      },
+      {
+        "name": "　Ｎｏ．５　",
+        "rank": "Pride",
+        "point": 4180,
+        "car": "CZ4Aエボ10[AR]",
+        "shop": "アミューズメントスペースBAGIBAGI",
+        "update": "2026/08/18 08:11:09",
+        "status": "green",
+        "ageSeconds": 662
       },
       {
         "name": "藤和　エリオ",
         "rank": "Pride",
-        "point": 2600,
+        "point": 3380,
         "car": "FD3S6[AR]",
         "shop": "アミューズメントスペースBAGIBAGI",
-        "update": "2026/08/18 07:56:44",
-        "status": "yellow",
-        "ageSeconds": 1452
+        "update": "2026/08/18 08:13:01",
+        "status": "green",
+        "ageSeconds": 550
       }
     ],
     "Ruby": [
+      {
+        "name": "安牌す川田",
+        "rank": "Ruby",
+        "point": 5380,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "セガショールーム",
+        "update": "2026/08/18 08:08:19",
+        "status": "green",
+        "ageSeconds": 832
+      },
       {
         "name": "しけぽの弟子",
         "rank": "Ruby",
@@ -44,27 +64,47 @@
         "shop": "ラウンドワン梅田店",
         "update": "2026/08/18 07:57:40",
         "status": "yellow",
-        "ageSeconds": 1396
+        "ageSeconds": 1471
       },
       {
-        "name": "いっちゃん",
+        "name": "冗談は顔だけ",
         "rank": "Ruby",
-        "point": 2220,
-        "car": "NA1[AR]",
-        "shop": "アミパラ草津店",
-        "update": "2026/08/18 07:51:41",
-        "status": "yellow",
-        "ageSeconds": 1755
+        "point": 1940,
+        "car": "ST205[AR]",
+        "shop": "アピナ松本店",
+        "update": "2026/08/18 08:12:15",
+        "status": "green",
+        "ageSeconds": 596
       },
       {
         "name": "　石原希望",
         "rank": "Ruby",
-        "point": 1860,
+        "point": 1800,
         "car": "CT9Aエボ9[AR]",
         "shop": "ラウンドワンダイバーシティ東京プラザ店",
-        "update": "2026/08/18 07:52:59",
+        "update": "2026/08/18 08:13:07",
+        "status": "green",
+        "ageSeconds": 544
+      },
+      {
+        "name": "丸の内ててけ",
+        "rank": "Ruby",
+        "point": 1720,
+        "car": "ST205[DH]",
+        "shop": "東京レジャーランド秋葉原2号店",
+        "update": "2026/08/18 08:03:09",
         "status": "yellow",
-        "ageSeconds": 1677
+        "ageSeconds": 1142
+      },
+      {
+        "name": "税金で頭文字",
+        "rank": "Ruby",
+        "point": 860,
+        "car": "CZ4Aエボ10[AR]",
+        "shop": "アミューズメントスペースBAGIBAGI",
+        "update": "2026/08/18 08:16:25",
+        "status": "green",
+        "ageSeconds": 346
       },
       {
         "name": "Ｋｅｐ１ｅｒ",
@@ -74,7 +114,7 @@
         "shop": "ＧｉＧＯイオン仙台中山",
         "update": "2026/08/18 08:01:02",
         "status": "yellow",
-        "ageSeconds": 1194
+        "ageSeconds": 1269
       }
     ],
     "Sapphire": [],
