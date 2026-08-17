@@ -1,10 +1,92 @@
 {
-  "trackerTime": "2026-08-18 07:20:52",
-  "activeSince": "2026-08-18 06:50:52",
-  "total": 0,
+  "trackerTime": "2026-08-18 07:22:00",
+  "activeSince": "2026-08-18 06:52:00",
+  "total": 8,
   "ranks": {
-    "Pride": [],
-    "Ruby": [],
+    "Pride": [
+      {
+        "name": "余裕無し大谷",
+        "rank": "Pride",
+        "point": 18660,
+        "car": "ST205[AR]",
+        "shop": "ＧｉＧＯ帯広稲田",
+        "update": "2026/08/18 07:14:14",
+        "status": "green",
+        "ageSeconds": 466
+      },
+      {
+        "name": "藤咲　可憐",
+        "rank": "Pride",
+        "point": 15680,
+        "car": "NA1[AR]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/08/18 07:12:55",
+        "status": "green",
+        "ageSeconds": 545
+      },
+      {
+        "name": "森島Ｌはるか",
+        "rank": "Pride",
+        "point": 11440,
+        "car": "ST205[AR]",
+        "shop": "ゲームランド草津店",
+        "update": "2026/08/18 07:11:16",
+        "status": "green",
+        "ageSeconds": 644
+      },
+      {
+        "name": "ＢＡＤモード",
+        "rank": "Pride",
+        "point": 1060,
+        "car": "FD3S[AR]",
+        "shop": "アミューズメントスペースBAGIBAGI",
+        "update": "2026/08/18 07:12:59",
+        "status": "green",
+        "ageSeconds": 541
+      }
+    ],
+    "Ruby": [
+      {
+        "name": "風ニモマケズ",
+        "rank": "Ruby",
+        "point": 12840,
+        "car": "CT9Aエボ7[HC]",
+        "shop": "上越レジャーランボウル",
+        "update": "2026/08/18 07:08:18",
+        "status": "green",
+        "ageSeconds": 822
+      },
+      {
+        "name": "ウルフロード",
+        "rank": "Ruby",
+        "point": 9660,
+        "car": "S15[HC]",
+        "shop": "ベネクス浦和店",
+        "update": "2026/08/18 07:13:21",
+        "status": "green",
+        "ageSeconds": 519
+      },
+      {
+        "name": "しけぽの弟子",
+        "rank": "Ruby",
+        "point": 3140,
+        "car": "ST205[AR]",
+        "shop": "ラウンドワン梅田店",
+        "update": "2026/08/18 07:06:41",
+        "status": "yellow",
+        "ageSeconds": 919
+      },
+      {
+        "name": "丸の内ててけ",
+        "rank": "Ruby",
+        "point": 1840,
+        "car": "ST205[DH]",
+        "shop": "東京レジャーランド秋葉原2号店",
+        "update": "2026/08/18 07:11:23",
+        "status": "green",
+        "ageSeconds": 637
+      }
+    ],
     "Sapphire": [],
     "Emerald": [],
     "Clear Blue": [],
