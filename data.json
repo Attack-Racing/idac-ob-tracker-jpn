@@ -1,60 +1,80 @@
 {
-  "trackerTime": "2026-08-18 08:05:10",
-  "activeSince": "2026-08-18 07:35:10",
-  "total": 8,
+  "trackerTime": "2026-08-18 08:07:09",
+  "activeSince": "2026-08-18 07:37:09",
+  "total": 11,
   "ranks": {
     "Pride": [
       {
-        "name": "余裕無し大谷",
-        "rank": "Pride",
-        "point": 19700,
-        "car": "ST205[AR]",
-        "shop": "ＧｉＧＯ帯広稲田",
-        "update": "2026/08/18 07:35:20",
-        "status": "yellow",
-        "ageSeconds": 1789
-      },
-      {
         "name": "藤咲　可憐",
         "rank": "Pride",
-        "point": 17240,
+        "point": 18020,
         "car": "NA1[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/18 07:45:08",
-        "status": "yellow",
-        "ageSeconds": 1201
+        "update": "2026/08/18 08:00:55",
+        "status": "green",
+        "ageSeconds": 374
       },
       {
         "name": "森島Ｌはるか",
         "rank": "Pride",
-        "point": 13000,
+        "point": 13780,
         "car": "ST205[AR]",
         "shop": "ゲームランド草津店",
-        "update": "2026/08/18 07:42:33",
-        "status": "yellow",
-        "ageSeconds": 1356
+        "update": "2026/08/18 07:57:50",
+        "status": "green",
+        "ageSeconds": 559
       },
       {
         "name": "藤和　エリオ",
         "rank": "Pride",
-        "point": 1820,
+        "point": 2600,
         "car": "FD3S6[AR]",
         "shop": "アミューズメントスペースBAGIBAGI",
-        "update": "2026/08/18 07:41:38",
-        "status": "yellow",
-        "ageSeconds": 1411
+        "update": "2026/08/18 07:56:44",
+        "status": "green",
+        "ageSeconds": 625
       }
     ],
     "Ruby": [
       {
+        "name": "安牌す川田",
+        "rank": "Ruby",
+        "point": 5440,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "セガショールーム",
+        "update": "2026/08/18 07:47:23",
+        "status": "yellow",
+        "ageSeconds": 1186
+      },
+      {
         "name": "しけぽの弟子",
         "rank": "Ruby",
-        "point": 3020,
+        "point": 2960,
         "car": "ST205[AR]",
         "shop": "ラウンドワン梅田店",
-        "update": "2026/08/18 07:37:10",
+        "update": "2026/08/18 07:57:40",
+        "status": "green",
+        "ageSeconds": 569
+      },
+      {
+        "name": "いっちゃん",
+        "rank": "Ruby",
+        "point": 2220,
+        "car": "NA1[AR]",
+        "shop": "アミパラ草津店",
+        "update": "2026/08/18 07:51:41",
         "status": "yellow",
-        "ageSeconds": 1679
+        "ageSeconds": 928
+      },
+      {
+        "name": "　石原希望",
+        "rank": "Ruby",
+        "point": 1860,
+        "car": "CT9Aエボ9[AR]",
+        "shop": "ラウンドワンダイバーシティ東京プラザ店",
+        "update": "2026/08/18 07:52:59",
+        "status": "green",
+        "ageSeconds": 850
       },
       {
         "name": "丸の内ててけ",
@@ -64,7 +84,7 @@
         "shop": "東京レジャーランド秋葉原2号店",
         "update": "2026/08/18 07:42:14",
         "status": "yellow",
-        "ageSeconds": 1375
+        "ageSeconds": 1495
       },
       {
         "name": "超マリオ銀河",
@@ -74,7 +94,7 @@
         "shop": "プラサカプコン石巻店",
         "update": "2026/08/18 07:40:07",
         "status": "yellow",
-        "ageSeconds": 1502
+        "ageSeconds": 1622
       },
       {
         "name": "イキ×３藤井",
@@ -84,7 +104,17 @@
         "shop": "ＳＰＥＥＤ",
         "update": "2026/08/18 07:45:15",
         "status": "yellow",
-        "ageSeconds": 1194
+        "ageSeconds": 1314
+      },
+      {
+        "name": "Ｋｅｐ１ｅｒ",
+        "rank": "Ruby",
+        "point": 280,
+        "car": "NA1[AR]",
+        "shop": "ＧｉＧＯイオン仙台中山",
+        "update": "2026/08/18 08:01:02",
+        "status": "green",
+        "ageSeconds": 367
       }
     ],
     "Sapphire": [],
