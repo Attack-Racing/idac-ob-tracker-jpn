@@ -1,25 +1,67 @@
 {
-  "trackerTime": "2026-08-18 03:35:05",
-  "activeSince": "2026-08-18 03:05:05",
-  "total": 1,
+  "trackerTime": "2026-08-18 03:37:10",
+  "activeSince": "2026-08-18 03:07:10",
+  "total": 5,
   "ranks": {
     "Pride": [
       {
+        "name": "あ＠とくしま",
+        "rank": "Pride",
+        "point": 31520,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/18 03:19:01",
+        "status": "yellow",
+        "ageSeconds": 1089
+      },
+      {
         "name": "Ｒａｌｐｈ．",
         "rank": "Pride",
-        "point": 15460,
+        "point": 15400,
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯスエヒロボウル徳島",
-        "update": "2026/08/18 03:12:47",
+        "update": "2026/08/18 03:17:54",
         "status": "yellow",
-        "ageSeconds": 1338
+        "ageSeconds": 1156
+      },
+      {
+        "name": "ＳｋＹｕｋｉ",
+        "rank": "Pride",
+        "point": 2060,
+        "car": "CT9Aエボ9[AR]",
+        "shop": "ラウンドワン高槻店",
+        "update": "2026/08/18 03:17:54",
+        "status": "yellow",
+        "ageSeconds": 1156
       }
     ],
     "Ruby": [],
     "Sapphire": [],
     "Emerald": [],
-    "Clear Blue": [],
-    "Clear Red": [],
+    "Clear Blue": [
+      {
+        "name": "ｒｓ",
+        "rank": "Clear Blue",
+        "point": 2180,
+        "car": "RZ34[AR]",
+        "shop": "群馬レジャーランド伊勢崎店",
+        "update": "2026/08/18 03:18:31",
+        "status": "yellow",
+        "ageSeconds": 1119
+      }
+    ],
+    "Clear Red": [
+      {
+        "name": "ふりる",
+        "rank": "Clear Red",
+        "point": 1280,
+        "car": "FD3S[AR]",
+        "shop": "群馬レジャーランド太田店",
+        "update": "2026/08/18 03:18:31",
+        "status": "yellow",
+        "ageSeconds": 1119
+      }
+    ],
     "Clear Green": [],
     "Unknown Online Rank": []
   }
