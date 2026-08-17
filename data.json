@@ -1,18 +1,18 @@
 {
-  "trackerTime": "2026-08-18 01:50:54",
-  "activeSince": "2026-08-18 01:20:54",
+  "trackerTime": "2026-08-18 01:51:52",
+  "activeSince": "2026-08-18 01:21:52",
   "total": 12,
   "ranks": {
     "Pride": [
       {
         "name": "ｊｏｋｅｒ？",
         "rank": "Pride",
-        "point": 88100,
+        "point": 88360,
         "car": "ST205[AR]",
         "shop": "アミパラ松江店",
-        "update": "2026/08/18 01:30:27",
-        "status": "yellow",
-        "ageSeconds": 1227
+        "update": "2026/08/18 01:44:00",
+        "status": "green",
+        "ageSeconds": 472
       },
       {
         "name": "Ｒａｌｐｈ．",
@@ -22,17 +22,17 @@
         "shop": "ＧｉＧＯスエヒロボウル徳島",
         "update": "2026/08/18 01:31:53",
         "status": "yellow",
-        "ageSeconds": 1141
+        "ageSeconds": 1199
       },
       {
         "name": "フリースピン",
         "rank": "Pride",
-        "point": 1640,
-        "car": "ST205[AR]",
+        "point": 2160,
+        "car": "SW20[AR]",
         "shop": "キャロム青梅店",
-        "update": "2026/08/18 01:26:26",
-        "status": "yellow",
-        "ageSeconds": 1468
+        "update": "2026/08/18 01:44:29",
+        "status": "green",
+        "ageSeconds": 443
       },
       {
         "name": "Ｃｌｕｂ　Ａ",
@@ -42,7 +42,7 @@
         "shop": "アレックス",
         "update": "2026/08/18 01:38:53",
         "status": "green",
-        "ageSeconds": 721
+        "ageSeconds": 779
       }
     ],
     "Ruby": [
@@ -54,17 +54,27 @@
         "shop": "ゲームパニック三郷",
         "update": "2026/08/18 01:22:16",
         "status": "yellow",
-        "ageSeconds": 1718
+        "ageSeconds": 1776
       },
       {
         "name": "え",
         "rank": "Ruby",
-        "point": 1360,
-        "car": "ZZW30[HC]",
+        "point": 1240,
+        "car": "ER34[AR]",
         "shop": "アミューズメントフィールドバイヨン",
-        "update": "2026/08/18 01:26:02",
-        "status": "yellow",
-        "ageSeconds": 1492
+        "update": "2026/08/18 01:38:52",
+        "status": "green",
+        "ageSeconds": 780
+      },
+      {
+        "name": "ＭＩＳＴＹ",
+        "rank": "Ruby",
+        "point": 1120,
+        "car": "NA1[AR]",
+        "shop": "群馬レジャーランド高崎駅東口店",
+        "update": "2026/08/18 01:43:59",
+        "status": "green",
+        "ageSeconds": 473
       },
       {
         "name": "デスまんび",
@@ -74,17 +84,7 @@
         "shop": "INTER PARK+1宇都宮",
         "update": "2026/08/18 01:30:26",
         "status": "yellow",
-        "ageSeconds": 1228
-      },
-      {
-        "name": "ＭＩＳＴＹ",
-        "rank": "Ruby",
-        "point": 920,
-        "car": "NA1[AR]",
-        "shop": "群馬レジャーランド高崎駅東口店",
-        "update": "2026/08/18 01:30:38",
-        "status": "yellow",
-        "ageSeconds": 1216
+        "ageSeconds": 1286
       }
     ],
     "Sapphire": [
@@ -95,8 +95,18 @@
         "car": "FD3S[AR]",
         "shop": "ＧｉＧＯ北谷",
         "update": "2026/08/18 01:36:20",
+        "status": "yellow",
+        "ageSeconds": 932
+      },
+      {
+        "name": "プレイヤー",
+        "rank": "Sapphire",
+        "point": 8500,
+        "car": "86トレノ2[DH]",
+        "shop": "モンキートリック",
+        "update": "2026/08/18 01:43:19",
         "status": "green",
-        "ageSeconds": 874
+        "ageSeconds": 513
       },
       {
         "name": "Ｉｔちゃん",
@@ -106,20 +116,10 @@
         "shop": "ラウンドワン沖縄・南風原店",
         "update": "2026/08/18 01:43:19",
         "status": "green",
-        "ageSeconds": 455
+        "ageSeconds": 513
       }
     ],
     "Emerald": [
-      {
-        "name": "プレイヤー",
-        "rank": "Emerald",
-        "point": 8320,
-        "car": "FC3S[HC]",
-        "shop": "モンキートリック",
-        "update": "2026/08/18 01:31:30",
-        "status": "yellow",
-        "ageSeconds": 1164
-      },
       {
         "name": "Ｌｙｎｘ．",
         "rank": "Emerald",
@@ -128,7 +128,7 @@
         "shop": "ｎａｍｃｏ那覇メインプレイス店",
         "update": "2026/08/18 01:31:29",
         "status": "yellow",
-        "ageSeconds": 1165
+        "ageSeconds": 1223
       }
     ],
     "Clear Blue": [],
