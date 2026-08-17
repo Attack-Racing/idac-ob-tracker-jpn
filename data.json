@@ -1,40 +1,40 @@
 {
-  "trackerTime": "2026-08-17 10:37:54",
-  "activeSince": "2026-08-17 10:07:54",
-  "total": 41,
+  "trackerTime": "2026-08-17 10:38:52",
+  "activeSince": "2026-08-17 10:08:52",
+  "total": 66,
   "ranks": {
     "Pride": [
       {
         "name": "ビニルヒルム",
         "rank": "Pride",
-        "point": 63560,
-        "car": "ST205[AR]",
+        "point": 64340,
+        "car": "CE9Aエボ3[AR]",
         "shop": "ＧｉＧＯ豊田",
-        "update": "2026/08/17 10:15:12",
-        "status": "yellow",
-        "ageSeconds": 1361
+        "update": "2026/08/17 10:32:09",
+        "status": "green",
+        "ageSeconds": 403
       },
       {
         "name": "いこーる",
         "rank": "Pride",
-        "point": 52760,
+        "point": 52960,
         "car": "SW20[AR]",
         "shop": "ＭＩＲＡＩＮＯイオンモール土岐店",
-        "update": "2026/08/17 10:15:00",
-        "status": "yellow",
-        "ageSeconds": 1373
+        "update": "2026/08/17 10:26:36",
+        "status": "green",
+        "ageSeconds": 736
       }
     ],
     "Ruby": [
       {
         "name": "シランケド",
         "rank": "Ruby",
-        "point": 134040,
+        "point": 134180,
         "car": "964[AR]",
         "shop": "プラサカプコン羽生店",
-        "update": "2026/08/17 10:13:24",
-        "status": "yellow",
-        "ageSeconds": 1469
+        "update": "2026/08/17 10:27:39",
+        "status": "green",
+        "ageSeconds": 673
       },
       {
         "name": "リク",
@@ -44,7 +44,27 @@
         "shop": "ゲームメガみらい平店",
         "update": "2026/08/17 10:16:47",
         "status": "yellow",
-        "ageSeconds": 1266
+        "ageSeconds": 1325
+      },
+      {
+        "name": "Ａｃｏｄｎ．",
+        "rank": "Ruby",
+        "point": 14960,
+        "car": "AP1[AR]",
+        "shop": "ゲームアイビス太子",
+        "update": "2026/08/17 10:22:30",
+        "status": "yellow",
+        "ageSeconds": 982
+      },
+      {
+        "name": "雪花　ラミィ",
+        "rank": "Ruby",
+        "point": 14380,
+        "car": "4C[AR]",
+        "shop": "ＧｉＧＯトナリエ四日市",
+        "update": "2026/08/17 10:24:35",
+        "status": "green",
+        "ageSeconds": 857
       },
       {
         "name": "けんちんだぉ",
@@ -54,57 +74,87 @@
         "shop": "インターワールド伊勢崎店",
         "update": "2026/08/17 10:15:07",
         "status": "yellow",
-        "ageSeconds": 1366
+        "ageSeconds": 1425
       },
       {
         "name": "ＣｉｅＬ．",
         "rank": "Ruby",
-        "point": 10220,
-        "car": "EG6[HC]",
+        "point": 10360,
+        "car": "ST205[AR]",
         "shop": "ＧｉＧＯ延岡",
-        "update": "2026/08/17 10:16:08",
-        "status": "yellow",
-        "ageSeconds": 1305
+        "update": "2026/08/17 10:31:48",
+        "status": "green",
+        "ageSeconds": 424
       },
       {
-        "name": "ＳＴＲ",
+        "name": "やみかわりこ",
         "rank": "Ruby",
-        "point": 7240,
-        "car": "ST205[AR]",
-        "shop": "ソユーゲームフィールド菖蒲店",
-        "update": "2026/08/17 10:14:56",
-        "status": "yellow",
-        "ageSeconds": 1377
+        "point": 9120,
+        "car": "CP9Aエボ5[AR]",
+        "shop": "ラウンドワン伊丹店",
+        "update": "2026/08/17 10:27:27",
+        "status": "green",
+        "ageSeconds": 685
       },
       {
         "name": "Ｒｉｌｙ．",
         "rank": "Ruby",
-        "point": 7040,
-        "car": "JZX100[HC]",
+        "point": 7500,
+        "car": "FD3S6[AR]",
         "shop": "上越レジャーランボウル",
-        "update": "2026/08/17 10:16:15",
-        "status": "yellow",
-        "ageSeconds": 1298
+        "update": "2026/08/17 10:31:42",
+        "status": "green",
+        "ageSeconds": 430
+      },
+      {
+        "name": "ＳＴＲ",
+        "rank": "Ruby",
+        "point": 7380,
+        "car": "ST205[AR]",
+        "shop": "ソユーゲームフィールド菖蒲店",
+        "update": "2026/08/17 10:31:42",
+        "status": "green",
+        "ageSeconds": 430
       },
       {
         "name": "ＳＨＲ",
         "rank": "Ruby",
-        "point": 4940,
-        "car": "NA1[AR]",
+        "point": 5400,
+        "car": "GC8[HC]",
         "shop": "ＧｉＧＯ尾道",
-        "update": "2026/08/17 10:10:10",
-        "status": "yellow",
-        "ageSeconds": 1663
+        "update": "2026/08/17 10:27:32",
+        "status": "green",
+        "ageSeconds": 680
       },
       {
         "name": "Ｓｔｒａｗ．",
         "rank": "Ruby",
-        "point": 4820,
+        "point": 5020,
         "car": "ST205[AR]",
         "shop": "あみぱらんど福山店",
-        "update": "2026/08/17 10:15:12",
-        "status": "yellow",
-        "ageSeconds": 1361
+        "update": "2026/08/17 10:27:12",
+        "status": "green",
+        "ageSeconds": 700
+      },
+      {
+        "name": "餓鬼パんてィ",
+        "rank": "Ruby",
+        "point": 4540,
+        "car": "ST205[AR]",
+        "shop": "ＧｉＧＯイオンタウン小郡",
+        "update": "2026/08/17 10:32:16",
+        "status": "green",
+        "ageSeconds": 396
+      },
+      {
+        "name": "そりゃ",
+        "rank": "Ruby",
+        "point": 3980,
+        "car": "NA1[AR]",
+        "shop": "タイトーＦステーション燕三条店",
+        "update": "2026/08/17 10:30:01",
+        "status": "green",
+        "ageSeconds": 531
       },
       {
         "name": "大谷＠ＬＡＤ",
@@ -114,7 +164,7 @@
         "shop": "ピンクパンサー那珂店",
         "update": "2026/08/17 10:11:50",
         "status": "yellow",
-        "ageSeconds": 1563
+        "ageSeconds": 1622
       },
       {
         "name": "☆Ｒｙｕ☆",
@@ -124,20 +174,30 @@
         "shop": "マックスプラザ善通寺",
         "update": "2026/08/17 10:16:47",
         "status": "yellow",
-        "ageSeconds": 1266
+        "ageSeconds": 1325
       },
       {
         "name": "ｓａｋｕｒａ",
         "rank": "Ruby",
-        "point": 1020,
-        "car": "JZA80[AR]",
+        "point": 900,
+        "car": "CP9Aエボ6[HC]",
         "shop": "ラウンドワン沖縄・南風原店",
-        "update": "2026/08/17 10:14:56",
-        "status": "yellow",
-        "ageSeconds": 1377
+        "update": "2026/08/17 10:27:27",
+        "status": "green",
+        "ageSeconds": 685
       }
     ],
     "Sapphire": [
+      {
+        "name": "藤原　たくみ",
+        "rank": "Sapphire",
+        "point": 7460,
+        "car": "BNR32[AR]",
+        "shop": "アソビックスゲームワールド",
+        "update": "2026/08/17 10:32:02",
+        "status": "green",
+        "ageSeconds": 410
+      },
       {
         "name": "たいやき",
         "rank": "Sapphire",
@@ -146,7 +206,7 @@
         "shop": "ＧｉＧＯひたちなか",
         "update": "2026/08/17 10:15:45",
         "status": "yellow",
-        "ageSeconds": 1328
+        "ageSeconds": 1387
       },
       {
         "name": "雪夜桜",
@@ -156,17 +216,67 @@
         "shop": "群馬レジャーランド前橋店",
         "update": "2026/08/17 10:11:29",
         "status": "yellow",
-        "ageSeconds": 1584
+        "ageSeconds": 1643
       },
       {
         "name": "四君子",
         "rank": "Sapphire",
-        "point": 3580,
+        "point": 3740,
         "car": "86トレノ2[DH]",
         "shop": "ＶＡＭＰ中川店",
-        "update": "2026/08/17 10:16:41",
-        "status": "yellow",
-        "ageSeconds": 1272
+        "update": "2026/08/17 10:28:22",
+        "status": "green",
+        "ageSeconds": 630
+      },
+      {
+        "name": "サルガミ",
+        "rank": "Sapphire",
+        "point": 3540,
+        "car": "FD3S6[HC]",
+        "shop": "ＧｉＧＯアリオ北砂",
+        "update": "2026/08/17 10:30:40",
+        "status": "green",
+        "ageSeconds": 492
+      },
+      {
+        "name": "まもる",
+        "rank": "Sapphire",
+        "point": 3060,
+        "car": "S30[AR]",
+        "shop": "楽市楽座砂津店",
+        "update": "2026/08/17 10:30:59",
+        "status": "green",
+        "ageSeconds": 473
+      },
+      {
+        "name": "くくる♪",
+        "rank": "Sapphire",
+        "point": 2220,
+        "car": "ST205[AR]",
+        "shop": "ｎａｍｃｏ梅田店",
+        "update": "2026/08/17 10:32:02",
+        "status": "green",
+        "ageSeconds": 410
+      },
+      {
+        "name": "かずひろき",
+        "rank": "Sapphire",
+        "point": 1360,
+        "car": "ST205[AR]",
+        "shop": "ＧｉＧＯアルプラザ金沢",
+        "update": "2026/08/17 10:28:35",
+        "status": "green",
+        "ageSeconds": 617
+      },
+      {
+        "name": "タマモクロス",
+        "rank": "Sapphire",
+        "point": 1340,
+        "car": "FD3S6[AR]",
+        "shop": "ＰＡＬＯ小松島",
+        "update": "2026/08/17 10:29:47",
+        "status": "green",
+        "ageSeconds": 545
       },
       {
         "name": "高柳幸",
@@ -176,17 +286,17 @@
         "shop": "ユーズランド下田店",
         "update": "2026/08/17 10:15:16",
         "status": "yellow",
-        "ageSeconds": 1357
+        "ageSeconds": 1416
       },
       {
-        "name": "かずひろき",
+        "name": "Ｌｅｏｌ",
         "rank": "Sapphire",
-        "point": 1180,
-        "car": "ST205[AR]",
-        "shop": "ＧｉＧＯアルプラザ金沢",
-        "update": "2026/08/17 10:16:44",
-        "status": "yellow",
-        "ageSeconds": 1269
+        "point": 1080,
+        "car": "ZZW30[HC]",
+        "shop": "ＧｉＧＯあべのアポロ３Ｆ",
+        "update": "2026/08/17 10:25:55",
+        "status": "green",
+        "ageSeconds": 777
       },
       {
         "name": "Ｓ＿ｐｙｄｒ",
@@ -196,17 +306,37 @@
         "shop": "ＧｉＧＯスマーク伊勢崎",
         "update": "2026/08/17 10:12:56",
         "status": "yellow",
-        "ageSeconds": 1497
+        "ageSeconds": 1556
       },
       {
-        "name": "タマモクロス",
+        "name": "Ｌｉｓａ",
         "rank": "Sapphire",
-        "point": 920,
-        "car": "FD3S6[AR]",
-        "shop": "ＰＡＬＯ小松島",
-        "update": "2026/08/17 10:13:22",
+        "point": 940,
+        "car": "NA1[AR]",
+        "shop": "ＧｉＧＯイオンモール与野",
+        "update": "2026/08/17 10:28:35",
+        "status": "green",
+        "ageSeconds": 617
+      },
+      {
+        "name": "ＷＡＮＴＥＤ",
+        "rank": "Sapphire",
+        "point": 660,
+        "car": "FC3S[DH]",
+        "shop": "ＧｉＧＯ柳津",
+        "update": "2026/08/17 10:17:39",
         "status": "yellow",
-        "ageSeconds": 1471
+        "ageSeconds": 1273
+      },
+      {
+        "name": "長楽万年",
+        "rank": "Sapphire",
+        "point": 580,
+        "car": "NA1[HC]",
+        "shop": "ウェアハウス三橋店",
+        "update": "2026/08/17 10:27:47",
+        "status": "green",
+        "ageSeconds": 665
       },
       {
         "name": "くまお",
@@ -216,39 +346,59 @@
         "shop": "楽市楽座イオンモール土浦店",
         "update": "2026/08/17 10:16:45",
         "status": "yellow",
-        "ageSeconds": 1268
+        "ageSeconds": 1327
       },
       {
-        "name": "長楽万年",
+        "name": "Ｅ・ＨＥＲＯ",
         "rank": "Sapphire",
-        "point": 460,
-        "car": "NA1[HC]",
-        "shop": "ウェアハウス三橋店",
-        "update": "2026/08/17 10:11:28",
-        "status": "yellow",
-        "ageSeconds": 1585
+        "point": 340,
+        "car": "SE3P[DH]",
+        "shop": "中川メトロポリス",
+        "update": "2026/08/17 10:24:05",
+        "status": "green",
+        "ageSeconds": 887
       },
       {
-        "name": "ＷＡＮＴＥＤ",
+        "name": "ＨＡＲＵ",
         "rank": "Sapphire",
-        "point": 420,
-        "car": "S15[AR]",
-        "shop": "ＧｉＧＯ柳津",
-        "update": "2026/08/17 10:12:57",
+        "point": 240,
+        "car": "FD3S[AR]",
+        "shop": "アピナ伊那店",
+        "update": "2026/08/17 10:27:47",
+        "status": "green",
+        "ageSeconds": 665
+      },
+      {
+        "name": "金欠極１５段",
+        "rank": "Sapphire",
+        "point": 160,
+        "car": "AP1[AR]",
+        "shop": "パスカワールドグリーンランド店",
+        "update": "2026/08/17 10:19:56",
         "status": "yellow",
-        "ageSeconds": 1496
+        "ageSeconds": 1136
       }
     ],
     "Emerald": [
       {
         "name": "ひとみ",
         "rank": "Emerald",
-        "point": 6600,
-        "car": "AP1[HC]",
+        "point": 6840,
+        "car": "911[AR]",
         "shop": "楽市楽座イオン小郡店",
-        "update": "2026/08/17 10:15:09",
+        "update": "2026/08/17 10:20:34",
         "status": "yellow",
-        "ageSeconds": 1364
+        "ageSeconds": 1098
+      },
+      {
+        "name": "ぶどう",
+        "rank": "Emerald",
+        "point": 1180,
+        "car": "NA1[DH]",
+        "shop": "ラウンドワン岸和田店",
+        "update": "2026/08/17 10:23:01",
+        "status": "yellow",
+        "ageSeconds": 951
       },
       {
         "name": "ゾーミたん",
@@ -258,17 +408,27 @@
         "shop": "ピンクパンサー土浦店",
         "update": "2026/08/17 10:16:41",
         "status": "yellow",
-        "ageSeconds": 1272
+        "ageSeconds": 1331
       },
       {
         "name": "あちまん",
         "rank": "Emerald",
-        "point": 1040,
-        "car": "S13[AR]",
+        "point": 980,
+        "car": "FC3S[DH]",
         "shop": "Ｈｅｙ",
-        "update": "2026/08/17 10:16:17",
+        "update": "2026/08/17 10:21:11",
         "status": "yellow",
-        "ageSeconds": 1296
+        "ageSeconds": 1061
+      },
+      {
+        "name": "はじめて",
+        "rank": "Emerald",
+        "point": 900,
+        "car": "FD3S[AR]",
+        "shop": "ラウンドワン池袋店",
+        "update": "2026/08/17 10:31:47",
+        "status": "green",
+        "ageSeconds": 425
       },
       {
         "name": "だいぽん！？",
@@ -278,7 +438,17 @@
         "shop": "ＧｉＧＯ総本店",
         "update": "2026/08/17 10:16:17",
         "status": "yellow",
-        "ageSeconds": 1296
+        "ageSeconds": 1355
+      },
+      {
+        "name": "スー",
+        "rank": "Emerald",
+        "point": 620,
+        "car": "DC51T[DH]",
+        "shop": "カプコサーカス新潟東店",
+        "update": "2026/08/17 10:26:24",
+        "status": "green",
+        "ageSeconds": 748
       },
       {
         "name": "もとり",
@@ -288,17 +458,37 @@
         "shop": "ＦｅｅｄｙＡｒｃａｄｅ新潟亀田インター",
         "update": "2026/08/17 10:15:45",
         "status": "yellow",
-        "ageSeconds": 1328
+        "ageSeconds": 1387
       },
       {
-        "name": "スー",
+        "name": "Ｃｙｂｅｘ♪",
         "rank": "Emerald",
-        "point": 460,
-        "car": "DB42[DH]",
-        "shop": "カプコサーカス新潟東店",
-        "update": "2026/08/17 10:14:42",
-        "status": "yellow",
-        "ageSeconds": 1391
+        "point": 400,
+        "car": "RPS13[DH]",
+        "shop": "ＧｉＧＯｍｏｚｏワンダーシティ",
+        "update": "2026/08/17 10:28:11",
+        "status": "green",
+        "ageSeconds": 641
+      },
+      {
+        "name": "いほこちゃん",
+        "rank": "Emerald",
+        "point": 360,
+        "car": "964[AR]",
+        "shop": "楽市楽座イオン小郡店",
+        "update": "2026/08/17 10:28:22",
+        "status": "green",
+        "ageSeconds": 630
+      },
+      {
+        "name": "あさくんさん",
+        "rank": "Emerald",
+        "point": 140,
+        "car": "SE3P[HC]",
+        "shop": "アピナ伊那店",
+        "update": "2026/08/17 10:30:08",
+        "status": "green",
+        "ageSeconds": 524
       },
       {
         "name": "ユキヒロ",
@@ -308,51 +498,91 @@
         "shop": "ＧｉＧＯ日光",
         "update": "2026/08/17 10:11:52",
         "status": "yellow",
-        "ageSeconds": 1561
+        "ageSeconds": 1620
       }
     ],
     "Clear Blue": [
       {
         "name": "Ｃｈｉｈａ",
         "rank": "Clear Blue",
-        "point": 1200,
+        "point": 1520,
         "car": "S13[AR]",
         "shop": "ＧｉＧＯ岡崎",
-        "update": "2026/08/17 10:14:58",
-        "status": "yellow",
-        "ageSeconds": 1375
+        "update": "2026/08/17 10:29:12",
+        "status": "green",
+        "ageSeconds": 580
       },
       {
         "name": "ＴＫＧ",
         "rank": "Clear Blue",
-        "point": 880,
-        "car": "ZN6[DH]",
+        "point": 820,
+        "car": "4C[AR]",
         "shop": "サープラ横浜あそびタウン",
-        "update": "2026/08/17 10:14:33",
+        "update": "2026/08/17 10:20:20",
         "status": "yellow",
-        "ageSeconds": 1400
+        "ageSeconds": 1112
+      },
+      {
+        "name": "ああああああ",
+        "rank": "Clear Blue",
+        "point": 620,
+        "car": "BRZ S[HC]",
+        "shop": "あみぱらんど福山店",
+        "update": "2026/08/17 10:31:47",
+        "status": "green",
+        "ageSeconds": 425
       }
     ],
     "Clear Red": [
       {
         "name": "天王寺　蓮",
         "rank": "Clear Red",
-        "point": 2140,
-        "car": "BNR34[AR]",
+        "point": 2220,
+        "car": "JZX100[DH]",
         "shop": "上越レジャーランボウル",
-        "update": "2026/08/17 10:12:14",
-        "status": "yellow",
-        "ageSeconds": 1539
+        "update": "2026/08/17 10:30:49",
+        "status": "green",
+        "ageSeconds": 483
       },
       {
         "name": "ろーす",
         "rank": "Clear Red",
-        "point": 1520,
+        "point": 1940,
         "car": "CT9Aエボ9[AR]",
         "shop": "ＧｉＧＯ豊田",
-        "update": "2026/08/17 10:12:14",
-        "status": "yellow",
-        "ageSeconds": 1539
+        "update": "2026/08/17 10:26:24",
+        "status": "green",
+        "ageSeconds": 748
+      },
+      {
+        "name": "９３",
+        "rank": "Clear Red",
+        "point": 960,
+        "car": "911[HC]",
+        "shop": "ＧｉＧＯ成増",
+        "update": "2026/08/17 10:31:46",
+        "status": "green",
+        "ageSeconds": 426
+      },
+      {
+        "name": "朝倉アキオ",
+        "rank": "Clear Red",
+        "point": 880,
+        "car": "GC8[AR]",
+        "shop": "ストライクス",
+        "update": "2026/08/17 10:28:12",
+        "status": "green",
+        "ageSeconds": 640
+      },
+      {
+        "name": "＊ＯＮＣＥ＊",
+        "rank": "Clear Red",
+        "point": 360,
+        "car": "FD3S[AR]",
+        "shop": "プラサカプコン新居浜店",
+        "update": "2026/08/17 10:27:13",
+        "status": "green",
+        "ageSeconds": 699
       }
     ],
     "Clear Green": [
@@ -364,7 +594,7 @@
         "shop": "ラウンドワン大分店",
         "update": "2026/08/17 10:10:22",
         "status": "yellow",
-        "ageSeconds": 1651
+        "ageSeconds": 1710
       },
       {
         "name": "Ｑ",
@@ -374,57 +604,77 @@
         "shop": "ラウンドワン千日前店",
         "update": "2026/08/17 10:13:19",
         "status": "yellow",
-        "ageSeconds": 1474
+        "ageSeconds": 1533
       },
       {
         "name": "Ｍ．Ｋ．",
         "rank": "Clear Green",
-        "point": 820,
-        "car": "GC8[AR]",
+        "point": 920,
+        "car": "CT9Aエボ9[AR]",
         "shop": "アミュージアム周南店",
-        "update": "2026/08/17 10:16:24",
-        "status": "yellow",
-        "ageSeconds": 1289
+        "update": "2026/08/17 10:28:13",
+        "status": "green",
+        "ageSeconds": 639
+      },
+      {
+        "name": "ダイポン＞＜",
+        "rank": "Clear Green",
+        "point": 680,
+        "car": "NB8C[HC]",
+        "shop": "ＧｉＧＯ総本店",
+        "update": "2026/08/17 10:30:05",
+        "status": "green",
+        "ageSeconds": 527
       },
       {
         "name": "フリーナ",
         "rank": "Clear Green",
-        "point": 740,
-        "car": "4C[DH]",
+        "point": 680,
+        "car": "86トレノ[DH]",
         "shop": "ＪＯＹＬＡＮＤ敦賀店",
-        "update": "2026/08/17 10:15:05",
+        "update": "2026/08/17 10:21:47",
         "status": "yellow",
-        "ageSeconds": 1368
+        "ageSeconds": 1025
       },
       {
         "name": "ざと",
         "rank": "Clear Green",
-        "point": 420,
+        "point": 580,
         "car": "86トレノ[DH]",
         "shop": "ＧｉＧＯイオンモール与野",
-        "update": "2026/08/17 10:16:23",
+        "update": "2026/08/17 10:21:47",
         "status": "yellow",
-        "ageSeconds": 1290
+        "ageSeconds": 1025
       },
       {
         "name": "あかさ",
         "rank": "Clear Green",
-        "point": 360,
+        "point": 540,
         "car": "CZ4Aエボ10[AR]",
         "shop": "タイトーＦステーションニシムタ出水店",
-        "update": "2026/08/17 10:13:17",
+        "update": "2026/08/17 10:20:19",
         "status": "yellow",
-        "ageSeconds": 1476
+        "ageSeconds": 1113
+      },
+      {
+        "name": "ひま",
+        "rank": "Clear Green",
+        "point": 160,
+        "car": "GXPA16[AR]",
+        "shop": "ユーズランド倉敷店",
+        "update": "2026/08/17 10:30:05",
+        "status": "green",
+        "ageSeconds": 527
       },
       {
         "name": "マイク",
         "rank": "Clear Green",
-        "point": 160,
+        "point": 100,
         "car": "S30[HC]",
         "shop": "タイトーステーション広島紙屋町店",
-        "update": "2026/08/17 10:14:32",
-        "status": "yellow",
-        "ageSeconds": 1401
+        "update": "2026/08/17 10:28:12",
+        "status": "green",
+        "ageSeconds": 640
       }
     ],
     "Unknown Online Rank": []
