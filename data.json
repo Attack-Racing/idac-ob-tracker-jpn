@@ -1,28 +1,28 @@
 {
-  "trackerTime": "2026-08-17 09:08:09",
-  "activeSince": "2026-08-17 08:38:09",
-  "total": 4,
+  "trackerTime": "2026-08-17 09:09:52",
+  "activeSince": "2026-08-17 08:39:52",
+  "total": 6,
   "ranks": {
     "Pride": [
       {
         "name": "ＶＲ満喫鈴木",
         "rank": "Pride",
-        "point": 20280,
+        "point": 21060,
         "car": "ST205[AR]",
         "shop": "ウェアハウス越谷店",
-        "update": "2026/08/17 08:46:34",
-        "status": "yellow",
-        "ageSeconds": 1295
+        "update": "2026/08/17 09:01:17",
+        "status": "green",
+        "ageSeconds": 515
       },
       {
         "name": "Ｈαｎｎｙ？",
         "rank": "Pride",
-        "point": 19120,
+        "point": 19900,
         "car": "NA1[AR]",
         "shop": "ＧｉＧＯ西那須野",
-        "update": "2026/08/17 08:44:20",
-        "status": "yellow",
-        "ageSeconds": 1429
+        "update": "2026/08/17 08:58:01",
+        "status": "green",
+        "ageSeconds": 711
       }
     ],
     "Ruby": [
@@ -34,17 +34,37 @@
         "shop": "ドラマ瑞穂店",
         "update": "2026/08/17 08:44:27",
         "status": "yellow",
-        "ageSeconds": 1422
+        "ageSeconds": 1525
       },
       {
-        "name": "夢の観覧車",
+        "name": "音もない世界",
+        "rank": "Ruby",
+        "point": 2320,
+        "car": "ST205[AR]",
+        "shop": "楽市楽座行橋店",
+        "update": "2026/08/17 08:56:38",
+        "status": "green",
+        "ageSeconds": 794
+      },
+      {
+        "name": "塩川洋介弟子",
         "rank": "Ruby",
         "point": 1840,
-        "car": "GDBF[DH]",
-        "shop": "メジャーロード24",
-        "update": "2026/08/17 08:39:51",
+        "car": "FC3S[AR]",
+        "shop": "アミューズメントＦＵＮＦＵＮ越谷店",
+        "update": "2026/08/17 08:53:48",
         "status": "yellow",
-        "ageSeconds": 1698
+        "ageSeconds": 964
+      },
+      {
+        "name": "俺の師匠北浦",
+        "rank": "Ruby",
+        "point": 1140,
+        "car": "CZ4Aエボ10[AR]",
+        "shop": "タイトーステーション 池袋西口店",
+        "update": "2026/08/17 09:01:24",
+        "status": "green",
+        "ageSeconds": 508
       }
     ],
     "Sapphire": [],
