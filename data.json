@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-17 09:20:07",
-  "activeSince": "2026-08-17 08:50:07",
-  "total": 5,
+  "trackerTime": "2026-08-17 09:21:53",
+  "activeSince": "2026-08-17 08:51:53",
+  "total": 10,
   "ranks": {
     "Pride": [
       {
@@ -12,20 +12,40 @@
         "shop": "ウェアハウス越谷店",
         "update": "2026/08/17 09:01:17",
         "status": "yellow",
-        "ageSeconds": 1130
+        "ageSeconds": 1236
       },
       {
         "name": "Ｈαｎｎｙ？",
         "rank": "Pride",
-        "point": 19900,
+        "point": 20420,
         "car": "NA1[AR]",
         "shop": "ＧｉＧＯ西那須野",
-        "update": "2026/08/17 08:58:01",
-        "status": "yellow",
-        "ageSeconds": 1326
+        "update": "2026/08/17 09:13:20",
+        "status": "green",
+        "ageSeconds": 513
       }
     ],
     "Ruby": [
+      {
+        "name": "かき",
+        "rank": "Ruby",
+        "point": 8260,
+        "car": "ST205[AR]",
+        "shop": "ドラマ瑞穂店",
+        "update": "2026/08/17 09:11:19",
+        "status": "green",
+        "ageSeconds": 634
+      },
+      {
+        "name": "Ｓｔｒａｗ．",
+        "rank": "Ruby",
+        "point": 4920,
+        "car": "ZN8[DH]",
+        "shop": "あみぱらんど福山店",
+        "update": "2026/08/17 09:16:25",
+        "status": "green",
+        "ageSeconds": 328
+      },
       {
         "name": "音もない世界",
         "rank": "Ruby",
@@ -34,7 +54,7 @@
         "shop": "楽市楽座行橋店",
         "update": "2026/08/17 08:56:38",
         "status": "yellow",
-        "ageSeconds": 1409
+        "ageSeconds": 1515
       },
       {
         "name": "塩川洋介弟子",
@@ -44,7 +64,17 @@
         "shop": "アミューズメントＦＵＮＦＵＮ越谷店",
         "update": "2026/08/17 08:53:48",
         "status": "yellow",
-        "ageSeconds": 1579
+        "ageSeconds": 1685
+      },
+      {
+        "name": "夢の観覧車",
+        "rank": "Ruby",
+        "point": 1780,
+        "car": "GDBF[DH]",
+        "shop": "メジャーロード24",
+        "update": "2026/08/17 09:03:13",
+        "status": "yellow",
+        "ageSeconds": 1120
       },
       {
         "name": "俺の師匠北浦",
@@ -54,11 +84,33 @@
         "shop": "タイトーステーション 池袋西口店",
         "update": "2026/08/17 09:01:24",
         "status": "yellow",
-        "ageSeconds": 1123
+        "ageSeconds": 1229
       }
     ],
-    "Sapphire": [],
-    "Emerald": [],
+    "Sapphire": [
+      {
+        "name": "タマモクロス",
+        "rank": "Sapphire",
+        "point": 720,
+        "car": "AP1[HC]",
+        "shop": "ＰＡＬＯ小松島",
+        "update": "2026/08/17 09:12:04",
+        "status": "green",
+        "ageSeconds": 589
+      }
+    ],
+    "Emerald": [
+      {
+        "name": "ＣＬＡＹ",
+        "rank": "Emerald",
+        "point": 2300,
+        "car": "86トレノ[HC]",
+        "shop": "ジョイランド原",
+        "update": "2026/08/17 09:12:04",
+        "status": "green",
+        "ageSeconds": 589
+      }
+    ],
     "Clear Blue": [],
     "Clear Red": [],
     "Clear Green": [],
