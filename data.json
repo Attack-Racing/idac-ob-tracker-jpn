@@ -1,9 +1,30 @@
 {
-  "trackerTime": "2026-08-18 02:50:08",
-  "activeSince": "2026-08-18 02:20:08",
-  "total": 0,
+  "trackerTime": "2026-08-18 02:51:54",
+  "activeSince": "2026-08-18 02:21:54",
+  "total": 2,
   "ranks": {
-    "Pride": [],
+    "Pride": [
+      {
+        "name": "Ｒａｌｐｈ．",
+        "rank": "Pride",
+        "point": 15000,
+        "car": "CP9Aエボ5[AR]",
+        "shop": "ＧｉＧＯスエヒロボウル徳島",
+        "update": "2026/08/18 02:46:05",
+        "status": "green",
+        "ageSeconds": 348
+      },
+      {
+        "name": "Ｎ＠ＹＵＫＩ",
+        "rank": "Pride",
+        "point": 7240,
+        "car": "CP9Aエボ5[AR]",
+        "shop": "ラウンドワン高槻店",
+        "update": "2026/08/18 02:46:05",
+        "status": "green",
+        "ageSeconds": 348
+      }
+    ],
     "Ruby": [],
     "Sapphire": [],
     "Emerald": [],
