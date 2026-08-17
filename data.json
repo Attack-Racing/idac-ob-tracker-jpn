@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-18 02:18:52",
-  "activeSince": "2026-08-18 01:48:52",
-  "total": 3,
+  "trackerTime": "2026-08-18 02:20:52",
+  "activeSince": "2026-08-18 01:50:52",
+  "total": 4,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "アミパラ松江店",
         "update": "2026/08/18 01:51:29",
         "status": "yellow",
-        "ageSeconds": 1643
+        "ageSeconds": 1762
       },
       {
         "name": "Ｃｌｕｂ　Ａ",
@@ -22,20 +22,31 @@
         "shop": "アレックス",
         "update": "2026/08/18 01:59:00",
         "status": "yellow",
-        "ageSeconds": 1192
+        "ageSeconds": 1311
       }
     ],
-    "Ruby": [],
+    "Ruby": [
+      {
+        "name": "れな姫＠愛Ｒ",
+        "rank": "Ruby",
+        "point": 82200,
+        "car": "86トレノ[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/18 02:10:17",
+        "status": "green",
+        "ageSeconds": 634
+      }
+    ],
     "Sapphire": [
       {
         "name": "プレイヤー",
         "rank": "Sapphire",
-        "point": 8740,
-        "car": "FD3S[AR]",
+        "point": 8980,
+        "car": "86トレノ2[DH]",
         "shop": "モンキートリック",
-        "update": "2026/08/18 01:53:33",
-        "status": "yellow",
-        "ageSeconds": 1519
+        "update": "2026/08/18 02:10:37",
+        "status": "green",
+        "ageSeconds": 614
       }
     ],
     "Emerald": [],
