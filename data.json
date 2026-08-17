@@ -1,18 +1,28 @@
 {
-  "trackerTime": "2026-08-18 03:05:52",
-  "activeSince": "2026-08-18 02:35:52",
-  "total": 2,
+  "trackerTime": "2026-08-18 03:09:11",
+  "activeSince": "2026-08-18 02:39:11",
+  "total": 5,
   "ranks": {
     "Pride": [
       {
+        "name": "あ＠とくしま",
+        "rank": "Pride",
+        "point": 31260,
+        "car": "ST205[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/18 03:00:00",
+        "status": "green",
+        "ageSeconds": 551
+      },
+      {
         "name": "Ｒａｌｐｈ．",
         "rank": "Pride",
-        "point": 15000,
-        "car": "CP9Aエボ5[AR]",
+        "point": 15200,
+        "car": "ST205[AR]",
         "shop": "ＧｉＧＯスエヒロボウル徳島",
-        "update": "2026/08/18 02:46:05",
-        "status": "yellow",
-        "ageSeconds": 1187
+        "update": "2026/08/18 03:00:15",
+        "status": "green",
+        "ageSeconds": 536
       },
       {
         "name": "Ｎ＠ＹＵＫＩ",
@@ -22,10 +32,31 @@
         "shop": "ラウンドワン高槻店",
         "update": "2026/08/18 02:46:05",
         "status": "yellow",
-        "ageSeconds": 1187
+        "ageSeconds": 1386
+      },
+      {
+        "name": "ＳｋＹｕｋｉ",
+        "rank": "Pride",
+        "point": 1540,
+        "car": "CT9Aエボ9[AR]",
+        "shop": "ラウンドワン高槻店",
+        "update": "2026/08/18 03:00:15",
+        "status": "green",
+        "ageSeconds": 536
       }
     ],
-    "Ruby": [],
+    "Ruby": [
+      {
+        "name": "自己顕示欲？",
+        "rank": "Ruby",
+        "point": 1700,
+        "car": "S13[AR]",
+        "shop": "ＧｉＧＯ成増",
+        "update": "2026/08/18 02:54:37",
+        "status": "green",
+        "ageSeconds": 874
+      }
+    ],
     "Sapphire": [],
     "Emerald": [],
     "Clear Blue": [],
