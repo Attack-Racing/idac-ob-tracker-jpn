@@ -1,9 +1,29 @@
 {
-  "trackerTime": "2026-08-18 01:36:10",
-  "activeSince": "2026-08-18 01:06:10",
-  "total": 11,
+  "trackerTime": "2026-08-18 01:38:04",
+  "activeSince": "2026-08-18 01:08:04",
+  "total": 14,
   "ranks": {
     "Pride": [
+      {
+        "name": "ｊｏｋｅｒ？",
+        "rank": "Pride",
+        "point": 88100,
+        "car": "ST205[AR]",
+        "shop": "アミパラ松江店",
+        "update": "2026/08/18 01:30:27",
+        "status": "green",
+        "ageSeconds": 456
+      },
+      {
+        "name": "Ｒａｌｐｈ．",
+        "rank": "Pride",
+        "point": 14860,
+        "car": "ST205[AR]",
+        "shop": "ＧｉＧＯスエヒロボウル徳島",
+        "update": "2026/08/18 01:20:39",
+        "status": "yellow",
+        "ageSeconds": 1044
+      },
       {
         "name": "Ｘ　１ａｒｋ",
         "rank": "Pride",
@@ -12,49 +32,69 @@
         "shop": "アレックス",
         "update": "2026/08/18 01:11:04",
         "status": "yellow",
-        "ageSeconds": 1506
+        "ageSeconds": 1619
       },
       {
         "name": "フリースピン",
         "rank": "Pride",
-        "point": 1120,
-        "car": "GDBA[AR]",
+        "point": 1640,
+        "car": "ST205[AR]",
         "shop": "キャロム青梅店",
-        "update": "2026/08/18 01:14:22",
+        "update": "2026/08/18 01:26:26",
+        "status": "green",
+        "ageSeconds": 697
+      },
+      {
+        "name": "Ｃｌｕｂ　Ａ",
+        "rank": "Pride",
+        "point": 520,
+        "car": "ST205[AR]",
+        "shop": "アレックス",
+        "update": "2026/08/18 01:22:17",
         "status": "yellow",
-        "ageSeconds": 1308
+        "ageSeconds": 946
       }
     ],
     "Ruby": [
       {
         "name": "ｋａｎａｄａ",
         "rank": "Ruby",
-        "point": 3560,
-        "car": "FC3S[DH]",
+        "point": 3500,
+        "car": "CN9Aエボ4[HC]",
         "shop": "ゲームパニック三郷",
-        "update": "2026/08/18 01:16:07",
+        "update": "2026/08/18 01:22:16",
         "status": "yellow",
-        "ageSeconds": 1203
+        "ageSeconds": 947
       },
       {
         "name": "え",
         "rank": "Ruby",
-        "point": 1480,
-        "car": "ER34[AR]",
+        "point": 1360,
+        "car": "ZZW30[HC]",
         "shop": "アミューズメントフィールドバイヨン",
-        "update": "2026/08/18 01:14:22",
-        "status": "yellow",
-        "ageSeconds": 1308
+        "update": "2026/08/18 01:26:02",
+        "status": "green",
+        "ageSeconds": 721
       },
       {
         "name": "デスまんび",
         "rank": "Ruby",
-        "point": 1180,
-        "car": "EA11R[DH]",
+        "point": 1060,
+        "car": "CZ4Aエボ10[AR]",
         "shop": "INTER PARK+1宇都宮",
-        "update": "2026/08/18 01:16:07",
-        "status": "yellow",
-        "ageSeconds": 1203
+        "update": "2026/08/18 01:30:26",
+        "status": "green",
+        "ageSeconds": 457
+      },
+      {
+        "name": "ＭＩＳＴＹ",
+        "rank": "Ruby",
+        "point": 920,
+        "car": "NA1[AR]",
+        "shop": "群馬レジャーランド高崎駅東口店",
+        "update": "2026/08/18 01:30:38",
+        "status": "green",
+        "ageSeconds": 445
       }
     ],
     "Sapphire": [
@@ -66,19 +106,19 @@
         "shop": "バイパスレジャーランド藤江新館",
         "update": "2026/08/18 01:10:54",
         "status": "yellow",
-        "ageSeconds": 1516
+        "ageSeconds": 1629
       }
     ],
     "Emerald": [
       {
         "name": "プレイヤー",
         "rank": "Emerald",
-        "point": 8100,
-        "car": "86トレノ2[DH]",
+        "point": 8320,
+        "car": "FC3S[HC]",
         "shop": "モンキートリック",
-        "update": "2026/08/18 01:12:51",
-        "status": "yellow",
-        "ageSeconds": 1399
+        "update": "2026/08/18 01:31:30",
+        "status": "green",
+        "ageSeconds": 393
       },
       {
         "name": "Ｌｙｎｘ．",
@@ -88,17 +128,7 @@
         "shop": "ｎａｍｃｏ那覇メインプレイス店",
         "update": "2026/08/18 01:31:29",
         "status": "green",
-        "ageSeconds": 281
-      },
-      {
-        "name": "ＬＥＯＮ",
-        "rank": "Emerald",
-        "point": 880,
-        "car": "CT9Aエボ9[HC]",
-        "shop": "ＧｉＧＯ総本店",
-        "update": "2026/08/18 01:07:24",
-        "status": "yellow",
-        "ageSeconds": 1726
+        "ageSeconds": 394
       }
     ],
     "Clear Blue": [
@@ -110,7 +140,7 @@
         "shop": "バイパスレジャーランド藤江新館",
         "update": "2026/08/18 01:16:15",
         "status": "yellow",
-        "ageSeconds": 1195
+        "ageSeconds": 1308
       }
     ],
     "Clear Red": [
@@ -122,7 +152,7 @@
         "shop": "ＧｉＧＯスマーク伊勢崎",
         "update": "2026/08/18 01:12:54",
         "status": "yellow",
-        "ageSeconds": 1396
+        "ageSeconds": 1509
       }
     ],
     "Clear Green": [],
