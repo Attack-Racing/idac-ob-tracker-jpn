@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-18 01:21:04",
-  "activeSince": "2026-08-18 00:51:04",
-  "total": 8,
+  "trackerTime": "2026-08-18 01:23:03",
+  "activeSince": "2026-08-18 00:53:03",
+  "total": 12,
   "ranks": {
     "Pride": [
       {
@@ -12,17 +12,7 @@
         "shop": "アミパラ松江店",
         "update": "2026/08/18 01:04:42",
         "status": "yellow",
-        "ageSeconds": 981
-      },
-      {
-        "name": "Ｒａｌｐｈ．",
-        "rank": "Pride",
-        "point": 14920,
-        "car": "CP9Aエボ5[AR]",
-        "shop": "ＧｉＧＯスエヒロボウル徳島",
-        "update": "2026/08/18 00:51:04",
-        "status": "yellow",
-        "ageSeconds": 1799
+        "ageSeconds": 1101
       },
       {
         "name": "Ｘ　１ａｒｋ",
@@ -32,53 +22,73 @@
         "shop": "アレックス",
         "update": "2026/08/18 01:11:04",
         "status": "green",
-        "ageSeconds": 599
+        "ageSeconds": 719
+      },
+      {
+        "name": "フリースピン",
+        "rank": "Pride",
+        "point": 1120,
+        "car": "GDBA[AR]",
+        "shop": "キャロム青梅店",
+        "update": "2026/08/18 01:14:22",
+        "status": "green",
+        "ageSeconds": 521
       }
     ],
     "Ruby": [
       {
         "name": "ｋａｎａｄａ",
         "rank": "Ruby",
-        "point": 3120,
+        "point": 3560,
         "car": "FC3S[DH]",
         "shop": "ゲームパニック三郷",
-        "update": "2026/08/18 00:57:49",
-        "status": "yellow",
-        "ageSeconds": 1394
+        "update": "2026/08/18 01:16:07",
+        "status": "green",
+        "ageSeconds": 416
+      },
+      {
+        "name": "え",
+        "rank": "Ruby",
+        "point": 1480,
+        "car": "ER34[AR]",
+        "shop": "アミューズメントフィールドバイヨン",
+        "update": "2026/08/18 01:14:22",
+        "status": "green",
+        "ageSeconds": 521
       },
       {
         "name": "デスまんび",
         "rank": "Ruby",
-        "point": 1360,
+        "point": 1180,
         "car": "EA11R[DH]",
         "shop": "INTER PARK+1宇都宮",
-        "update": "2026/08/18 00:57:50",
-        "status": "yellow",
-        "ageSeconds": 1393
+        "update": "2026/08/18 01:16:07",
+        "status": "green",
+        "ageSeconds": 416
       }
     ],
     "Sapphire": [
       {
         "name": "Ｐｃｄ百５Ｈ",
         "rank": "Sapphire",
-        "point": 1340,
-        "car": "GDBF[AR]",
+        "point": 1220,
+        "car": "GC8[AR]",
         "shop": "バイパスレジャーランド藤江新館",
-        "update": "2026/08/18 00:56:09",
-        "status": "yellow",
-        "ageSeconds": 1494
+        "update": "2026/08/18 01:10:54",
+        "status": "green",
+        "ageSeconds": 729
       }
     ],
     "Emerald": [
       {
         "name": "プレイヤー",
         "rank": "Emerald",
-        "point": 7680,
-        "car": "FC3S[HC]",
+        "point": 8100,
+        "car": "86トレノ2[DH]",
         "shop": "モンキートリック",
-        "update": "2026/08/18 01:01:26",
-        "status": "yellow",
-        "ageSeconds": 1177
+        "update": "2026/08/18 01:12:51",
+        "status": "green",
+        "ageSeconds": 612
       },
       {
         "name": "Ｌｙｎｘ．",
@@ -88,11 +98,43 @@
         "shop": "ｎａｍｃｏ那覇メインプレイス店",
         "update": "2026/08/18 01:16:40",
         "status": "green",
-        "ageSeconds": 263
+        "ageSeconds": 383
+      },
+      {
+        "name": "ＬＥＯＮ",
+        "rank": "Emerald",
+        "point": 880,
+        "car": "CT9Aエボ9[HC]",
+        "shop": "ＧｉＧＯ総本店",
+        "update": "2026/08/18 01:07:24",
+        "status": "yellow",
+        "ageSeconds": 939
       }
     ],
-    "Clear Blue": [],
-    "Clear Red": [],
+    "Clear Blue": [
+      {
+        "name": "ぶるーたけ",
+        "rank": "Clear Blue",
+        "point": 3100,
+        "car": "SW20[DH]",
+        "shop": "バイパスレジャーランド藤江新館",
+        "update": "2026/08/18 01:16:15",
+        "status": "green",
+        "ageSeconds": 408
+      }
+    ],
+    "Clear Red": [
+      {
+        "name": "ゆうと",
+        "rank": "Clear Red",
+        "point": 400,
+        "car": "RPS13[DH]",
+        "shop": "ＧｉＧＯスマーク伊勢崎",
+        "update": "2026/08/18 01:12:54",
+        "status": "green",
+        "ageSeconds": 609
+      }
+    ],
     "Clear Green": [],
     "Unknown Online Rank": []
   }
