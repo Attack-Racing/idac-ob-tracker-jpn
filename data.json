@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-18 01:45:06",
-  "activeSince": "2026-08-18 01:15:06",
-  "total": 11,
+  "trackerTime": "2026-08-18 01:47:11",
+  "activeSince": "2026-08-18 01:17:11",
+  "total": 10,
   "ranks": {
     "Pride": [
       {
@@ -11,8 +11,8 @@
         "car": "ST205[AR]",
         "shop": "アミパラ松江店",
         "update": "2026/08/18 01:30:27",
-        "status": "green",
-        "ageSeconds": 879
+        "status": "yellow",
+        "ageSeconds": 1004
       },
       {
         "name": "Ｒａｌｐｈ．",
@@ -22,7 +22,7 @@
         "shop": "ＧｉＧＯスエヒロボウル徳島",
         "update": "2026/08/18 01:20:39",
         "status": "yellow",
-        "ageSeconds": 1467
+        "ageSeconds": 1592
       },
       {
         "name": "フリースピン",
@@ -32,7 +32,7 @@
         "shop": "キャロム青梅店",
         "update": "2026/08/18 01:26:26",
         "status": "yellow",
-        "ageSeconds": 1120
+        "ageSeconds": 1245
       },
       {
         "name": "Ｃｌｕｂ　Ａ",
@@ -42,7 +42,7 @@
         "shop": "アレックス",
         "update": "2026/08/18 01:22:17",
         "status": "yellow",
-        "ageSeconds": 1369
+        "ageSeconds": 1494
       }
     ],
     "Ruby": [
@@ -54,7 +54,7 @@
         "shop": "ゲームパニック三郷",
         "update": "2026/08/18 01:22:16",
         "status": "yellow",
-        "ageSeconds": 1370
+        "ageSeconds": 1495
       },
       {
         "name": "え",
@@ -64,7 +64,7 @@
         "shop": "アミューズメントフィールドバイヨン",
         "update": "2026/08/18 01:26:02",
         "status": "yellow",
-        "ageSeconds": 1144
+        "ageSeconds": 1269
       },
       {
         "name": "デスまんび",
@@ -73,8 +73,8 @@
         "car": "CZ4Aエボ10[AR]",
         "shop": "INTER PARK+1宇都宮",
         "update": "2026/08/18 01:30:26",
-        "status": "green",
-        "ageSeconds": 880
+        "status": "yellow",
+        "ageSeconds": 1005
       },
       {
         "name": "ＭＩＳＴＹ",
@@ -83,8 +83,8 @@
         "car": "NA1[AR]",
         "shop": "群馬レジャーランド高崎駅東口店",
         "update": "2026/08/18 01:30:38",
-        "status": "green",
-        "ageSeconds": 868
+        "status": "yellow",
+        "ageSeconds": 993
       }
     ],
     "Sapphire": [],
@@ -96,8 +96,8 @@
         "car": "FC3S[HC]",
         "shop": "モンキートリック",
         "update": "2026/08/18 01:31:30",
-        "status": "green",
-        "ageSeconds": 816
+        "status": "yellow",
+        "ageSeconds": 941
       },
       {
         "name": "Ｌｙｎｘ．",
@@ -106,22 +106,11 @@
         "car": "EK9[AR]",
         "shop": "ｎａｍｃｏ那覇メインプレイス店",
         "update": "2026/08/18 01:31:29",
-        "status": "green",
-        "ageSeconds": 817
-      }
-    ],
-    "Clear Blue": [
-      {
-        "name": "ぶるーたけ",
-        "rank": "Clear Blue",
-        "point": 3100,
-        "car": "SW20[DH]",
-        "shop": "バイパスレジャーランド藤江新館",
-        "update": "2026/08/18 01:16:15",
         "status": "yellow",
-        "ageSeconds": 1731
+        "ageSeconds": 942
       }
     ],
+    "Clear Blue": [],
     "Clear Red": [],
     "Clear Green": [],
     "Unknown Online Rank": []
