@@ -1,38 +1,38 @@
 {
-  "trackerTime": "2026-08-18 09:38:11",
-  "activeSince": "2026-08-18 09:08:11",
-  "total": 7,
+  "trackerTime": "2026-08-18 09:40:11",
+  "activeSince": "2026-08-18 09:10:11",
+  "total": 12,
   "ranks": {
     "Pride": [
       {
-        "name": "余裕無し大谷",
+        "name": "天馬　咲希",
         "rank": "Pride",
-        "point": 22300,
-        "car": "CT9Aエボ7[HC]",
-        "shop": "ＧｉＧＯ帯広稲田",
-        "update": "2026/08/18 09:10:06",
+        "point": 26440,
+        "car": "NA1[HC]",
+        "shop": "ゲームゾーンＲ一宮",
+        "update": "2026/08/18 09:24:14",
         "status": "yellow",
-        "ageSeconds": 1685
+        "ageSeconds": 957
       },
       {
         "name": "りくちゃん？",
         "rank": "Pride",
-        "point": 20720,
-        "car": "CT9Aエボ9[AR]",
+        "point": 21240,
+        "car": "CP9Aエボ5[AR]",
         "shop": "ウェアハウス三橋店",
-        "update": "2026/08/18 09:16:18",
-        "status": "yellow",
-        "ageSeconds": 1313
+        "update": "2026/08/18 09:29:34",
+        "status": "green",
+        "ageSeconds": 637
       },
       {
-        "name": "森島Ｌはるか",
+        "name": "ゾシアタバコ",
         "rank": "Pride",
-        "point": 17160,
-        "car": "ST205[AR]",
-        "shop": "ゲームランド草津店",
-        "update": "2026/08/18 09:08:44",
+        "point": 880,
+        "car": "CP9Aエボ6[HC]",
+        "shop": "ラウンドワン旭川店",
+        "update": "2026/08/18 09:24:03",
         "status": "yellow",
-        "ageSeconds": 1767
+        "ageSeconds": 968
       }
     ],
     "Ruby": [
@@ -44,7 +44,7 @@
         "shop": "インターワールド伊勢崎店",
         "update": "2026/08/18 09:10:13",
         "status": "yellow",
-        "ageSeconds": 1678
+        "ageSeconds": 1798
       },
       {
         "name": "ウルフロード",
@@ -54,31 +54,83 @@
         "shop": "ベネクス浦和店",
         "update": "2026/08/18 09:11:50",
         "status": "yellow",
-        "ageSeconds": 1581
+        "ageSeconds": 1701
+      },
+      {
+        "name": "戦律きアルス",
+        "rank": "Ruby",
+        "point": 5560,
+        "car": "CT9Aエボ7[HC]",
+        "shop": "アドアーズ藤沢北口",
+        "update": "2026/08/18 09:26:13",
+        "status": "green",
+        "ageSeconds": 838
       },
       {
         "name": "龍一郎の弟子",
         "rank": "Ruby",
-        "point": 2140,
-        "car": "964[HC]",
+        "point": 2080,
+        "car": "FC3S[DH]",
         "shop": "タイトーＦステーション市川妙典店",
-        "update": "2026/08/18 09:16:19",
+        "update": "2026/08/18 09:21:31",
         "status": "yellow",
-        "ageSeconds": 1312
+        "ageSeconds": 1120
       },
       {
         "name": "丸の内ててけ",
         "rank": "Ruby",
-        "point": 1540,
+        "point": 1480,
         "car": "CP9Aエボ6[AR]",
         "shop": "東京レジャーランド秋葉原2号店",
-        "update": "2026/08/18 09:12:07",
+        "update": "2026/08/18 09:29:38",
+        "status": "green",
+        "ageSeconds": 633
+      },
+      {
+        "name": "朝比奈まふゆ",
+        "rank": "Ruby",
+        "point": 1140,
+        "car": "ST205[AR]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/08/18 09:24:14",
         "status": "yellow",
-        "ageSeconds": 1564
+        "ageSeconds": 957
+      },
+      {
+        "name": "ＳＹＯＵＴＡ",
+        "rank": "Ruby",
+        "point": 1100,
+        "car": "85レビン[HC]",
+        "shop": "ラウンドワン市川鬼高店",
+        "update": "2026/08/18 09:27:58",
+        "status": "green",
+        "ageSeconds": 733
       }
     ],
-    "Sapphire": [],
-    "Emerald": [],
+    "Sapphire": [
+      {
+        "name": "カメムシ",
+        "rank": "Sapphire",
+        "point": 9160,
+        "car": "CP9Aエボ6[AR]",
+        "shop": "ｎａｍｃｏ博多バスターミナル店",
+        "update": "2026/08/18 09:28:31",
+        "status": "green",
+        "ageSeconds": 700
+      }
+    ],
+    "Emerald": [
+      {
+        "name": "ｙｕｒｉ",
+        "rank": "Emerald",
+        "point": 1960,
+        "car": "86トレノ[DH]",
+        "shop": "アピナ太田店",
+        "update": "2026/08/18 09:28:31",
+        "status": "green",
+        "ageSeconds": 700
+      }
+    ],
     "Clear Blue": [],
     "Clear Red": [],
     "Clear Green": [],
