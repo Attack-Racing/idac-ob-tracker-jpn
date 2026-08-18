@@ -1,52 +1,92 @@
 {
-  "trackerTime": "2026-08-19 02:05:09",
-  "activeSince": "2026-08-19 01:35:09",
-  "total": 4,
+  "trackerTime": "2026-08-19 02:06:59",
+  "activeSince": "2026-08-19 01:36:59",
+  "total": 8,
   "ranks": {
     "Pride": [
       {
         "name": "わがまますぎ",
         "rank": "Pride",
-        "point": 37060,
+        "point": 37260,
         "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/19 01:45:22",
-        "status": "yellow",
-        "ageSeconds": 1186
+        "update": "2026/08/19 01:57:31",
+        "status": "green",
+        "ageSeconds": 568
+      },
+      {
+        "name": "あ＠とくしま",
+        "rank": "Pride",
+        "point": 35620,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/19 02:00:21",
+        "status": "green",
+        "ageSeconds": 398
       },
       {
         "name": "絶対的第六感",
         "rank": "Pride",
-        "point": 24320,
+        "point": 24840,
         "car": "BNR32[AR]",
         "shop": "アミューズメントゲーム　マグレブ",
-        "update": "2026/08/19 01:45:43",
-        "status": "yellow",
-        "ageSeconds": 1165
+        "update": "2026/08/19 01:57:31",
+        "status": "green",
+        "ageSeconds": 568
       }
     ],
     "Ruby": [
       {
+        "name": "れな姫＠愛Ｒ",
+        "rank": "Ruby",
+        "point": 86160,
+        "car": "86トレノ[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/19 02:01:21",
+        "status": "green",
+        "ageSeconds": 338
+      },
+      {
         "name": "人間の端くれ",
         "rank": "Ruby",
-        "point": 37260,
-        "car": "ER34[AR]",
+        "point": 37080,
+        "car": "86トレノ[AR]",
         "shop": "ｎａｍｃｏ博多バスターミナル店",
-        "update": "2026/08/19 01:35:17",
-        "status": "yellow",
-        "ageSeconds": 1791
+        "update": "2026/08/19 01:59:02",
+        "status": "green",
+        "ageSeconds": 477
+      },
+      {
+        "name": "赤城ユイナ",
+        "rank": "Ruby",
+        "point": 540,
+        "car": "FD3S6[AR]",
+        "shop": "タイトーステーション 大宮店",
+        "update": "2026/08/19 02:00:16",
+        "status": "green",
+        "ageSeconds": 403
       }
     ],
     "Sapphire": [
       {
+        "name": "ザ☆協極ナル",
+        "rank": "Sapphire",
+        "point": 1740,
+        "car": "NB8C[DH]",
+        "shop": "フタバボウル泉大津店",
+        "update": "2026/08/19 01:55:19",
+        "status": "green",
+        "ageSeconds": 700
+      },
+      {
         "name": "運行管理辞め",
         "rank": "Sapphire",
-        "point": 480,
-        "car": "GDBF[DH]",
+        "point": 660,
+        "car": "EK9[AR]",
         "shop": "ラウンドワンアリオ柏店",
-        "update": "2026/08/19 01:42:09",
-        "status": "yellow",
-        "ageSeconds": 1379
+        "update": "2026/08/19 01:53:51",
+        "status": "green",
+        "ageSeconds": 788
       }
     ],
     "Emerald": [],
