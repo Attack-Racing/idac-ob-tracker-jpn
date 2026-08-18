@@ -1,80 +1,110 @@
 {
-  "trackerTime": "2026-08-19 00:50:12",
-  "activeSince": "2026-08-19 00:20:12",
-  "total": 9,
+  "trackerTime": "2026-08-19 00:52:10",
+  "activeSince": "2026-08-19 00:22:10",
+  "total": 12,
   "ranks": {
     "Pride": [
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 32560,
+        "point": 33340,
         "car": "ER34[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/19 00:28:02",
-        "status": "yellow",
-        "ageSeconds": 1330
+        "update": "2026/08/19 00:43:59",
+        "status": "green",
+        "ageSeconds": 491
       }
     ],
     "Ruby": [
       {
         "name": "れな姫＠愛Ｒ",
         "rank": "Ruby",
-        "point": 85640,
+        "point": 85840,
         "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/19 00:30:44",
-        "status": "yellow",
-        "ageSeconds": 1168
+        "update": "2026/08/19 00:44:15",
+        "status": "green",
+        "ageSeconds": 475
       },
       {
         "name": "人間の端くれ",
         "rank": "Ruby",
-        "point": 36260,
+        "point": 36460,
         "car": "ER34[AR]",
         "shop": "ｎａｍｃｏ博多バスターミナル店",
-        "update": "2026/08/19 00:27:59",
-        "status": "yellow",
-        "ageSeconds": 1333
+        "update": "2026/08/19 00:43:01",
+        "status": "green",
+        "ageSeconds": 549
       },
       {
         "name": "ぐんまちゃん",
         "rank": "Ruby",
-        "point": 11160,
-        "car": "SW20[AR]",
+        "point": 11100,
+        "car": "JZX100[HC]",
         "shop": "群馬レジャーランド渋川店",
-        "update": "2026/08/19 00:28:36",
+        "update": "2026/08/19 00:36:23",
         "status": "yellow",
-        "ageSeconds": 1296
+        "ageSeconds": 947
       },
       {
         "name": "女華乱＠泥酔",
         "rank": "Ruby",
-        "point": 10820,
-        "car": "CP9Aエボ6[AR]",
+        "point": 10760,
+        "car": "ST205[AR]",
         "shop": "遊道楽新合川店",
-        "update": "2026/08/19 00:28:35",
+        "update": "2026/08/19 00:34:01",
         "status": "yellow",
-        "ageSeconds": 1297
+        "ageSeconds": 1089
       },
       {
         "name": "いいなぁ～☆",
         "rank": "Ruby",
-        "point": 1120,
-        "car": "ZC33S[AR]",
+        "point": 1380,
+        "car": "NA6CE[DH]",
         "shop": "アミューズメントフィールドバイヨン",
-        "update": "2026/08/19 00:23:44",
-        "status": "yellow",
-        "ageSeconds": 1588
+        "update": "2026/08/19 00:44:08",
+        "status": "green",
+        "ageSeconds": 482
+      },
+      {
+        "name": "ハルカエコー",
+        "rank": "Ruby",
+        "point": 1140,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "コムテックタワー",
+        "update": "2026/08/19 00:38:31",
+        "status": "green",
+        "ageSeconds": 819
+      },
+      {
+        "name": "ＰｕＦＦｙ",
+        "rank": "Ruby",
+        "point": 680,
+        "car": "CT9Aエボ9[AR]",
+        "shop": "ＧｉＧＯ北谷",
+        "update": "2026/08/19 00:43:58",
+        "status": "green",
+        "ageSeconds": 492
+      },
+      {
+        "name": "ＲＥＩＡＭ＠",
+        "rank": "Ruby",
+        "point": 600,
+        "car": "ZC33S[AR]",
+        "shop": "ゲームパニックつくば",
+        "update": "2026/08/19 00:39:34",
+        "status": "green",
+        "ageSeconds": 756
       },
       {
         "name": "赤城ユイナ",
         "rank": "Ruby",
-        "point": 420,
-        "car": "FD3S6[AR]",
+        "point": 360,
+        "car": "シルエイティ[HC]",
         "shop": "タイトーステーション 大宮店",
-        "update": "2026/08/19 00:28:00",
+        "update": "2026/08/19 00:33:41",
         "status": "yellow",
-        "ageSeconds": 1332
+        "ageSeconds": 1109
       }
     ],
     "Sapphire": [
@@ -86,7 +116,7 @@
         "shop": "ラウンドワン梅田店",
         "update": "2026/08/19 00:25:45",
         "status": "yellow",
-        "ageSeconds": 1467
+        "ageSeconds": 1585
       }
     ],
     "Emerald": [],
@@ -95,12 +125,12 @@
       {
         "name": "カズヒロ＋４",
         "rank": "Clear Red",
-        "point": 120,
+        "point": 60,
         "car": "MXWH61[DH]",
         "shop": "ＧｉＧＯ広島本通",
-        "update": "2026/08/19 00:28:39",
+        "update": "2026/08/19 00:36:39",
         "status": "yellow",
-        "ageSeconds": 1293
+        "ageSeconds": 931
       }
     ],
     "Clear Green": [],
