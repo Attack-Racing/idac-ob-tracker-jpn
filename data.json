@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-19 08:41:05",
-  "activeSince": "2026-08-19 08:11:05",
-  "total": 8,
+  "trackerTime": "2026-08-19 08:42:52",
+  "activeSince": "2026-08-19 08:12:52",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
@@ -11,8 +11,8 @@
         "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/19 08:27:38",
-        "status": "green",
-        "ageSeconds": 807
+        "status": "yellow",
+        "ageSeconds": 914
       },
       {
         "name": "りくちゃん？",
@@ -22,7 +22,7 @@
         "shop": "ウェアハウス三橋店",
         "update": "2026/08/19 08:30:26",
         "status": "green",
-        "ageSeconds": 639
+        "ageSeconds": 746
       },
       {
         "name": "　　らーめん",
@@ -31,8 +31,8 @@
         "car": "ST205[AR]",
         "shop": "関大前フタバボウル",
         "update": "2026/08/19 08:27:06",
-        "status": "green",
-        "ageSeconds": 839
+        "status": "yellow",
+        "ageSeconds": 946
       }
     ],
     "Ruby": [
@@ -44,7 +44,7 @@
         "shop": "アピナ太田店",
         "update": "2026/08/19 08:25:06",
         "status": "yellow",
-        "ageSeconds": 959
+        "ageSeconds": 1066
       },
       {
         "name": "＠ゲロまみれ",
@@ -54,7 +54,7 @@
         "shop": "楽市楽座イオンタウン姶良店",
         "update": "2026/08/19 08:30:33",
         "status": "green",
-        "ageSeconds": 632
+        "ageSeconds": 739
       },
       {
         "name": "悠羽の弟子",
@@ -64,17 +64,7 @@
         "shop": "ＧｉＧＯ神栖",
         "update": "2026/08/19 08:25:57",
         "status": "yellow",
-        "ageSeconds": 908
-      },
-      {
-        "name": "啓悟の弟子",
-        "rank": "Ruby",
-        "point": 1520,
-        "car": "86トレノ[AR]",
-        "shop": "ＧｉＧＯ福島南",
-        "update": "2026/08/19 08:11:57",
-        "status": "yellow",
-        "ageSeconds": 1748
+        "ageSeconds": 1015
       },
       {
         "name": "藤田陸の弟子",
@@ -84,7 +74,7 @@
         "shop": "ＧｉＧＯトナリエ四日市",
         "update": "2026/08/19 08:16:59",
         "status": "yellow",
-        "ageSeconds": 1446
+        "ageSeconds": 1553
       }
     ],
     "Sapphire": [],
