@@ -1,18 +1,28 @@
 {
-  "trackerTime": "2026-08-19 01:35:11",
-  "activeSince": "2026-08-19 01:05:11",
-  "total": 6,
+  "trackerTime": "2026-08-19 01:37:10",
+  "activeSince": "2026-08-19 01:07:10",
+  "total": 9,
   "ranks": {
     "Pride": [
       {
+        "name": "わがまますぎ",
+        "rank": "Pride",
+        "point": 36280,
+        "car": "ZC33S[AR]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/08/19 01:25:57",
+        "status": "green",
+        "ageSeconds": 673
+      },
+      {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 34640,
+        "point": 34840,
         "car": "CE9Aエボ3[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/19 01:13:16",
-        "status": "yellow",
-        "ageSeconds": 1314
+        "update": "2026/08/19 01:28:53",
+        "status": "green",
+        "ageSeconds": 497
       }
     ],
     "Ruby": [
@@ -24,17 +34,27 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/19 01:11:01",
         "status": "yellow",
-        "ageSeconds": 1449
+        "ageSeconds": 1569
       },
       {
         "name": "人間の端くれ",
         "rank": "Ruby",
-        "point": 37180,
+        "point": 37320,
         "car": "86トレノ[AR]",
         "shop": "ｎａｍｃｏ博多バスターミナル店",
-        "update": "2026/08/19 01:12:13",
+        "update": "2026/08/19 01:28:53",
+        "status": "green",
+        "ageSeconds": 497
+      },
+      {
+        "name": "ｓｃｕｍｐ．",
+        "rank": "Ruby",
+        "point": 23200,
+        "car": "FD3S[AR]",
+        "shop": "ゲームランド草津店",
+        "update": "2026/08/19 01:20:06",
         "status": "yellow",
-        "ageSeconds": 1377
+        "ageSeconds": 1024
       },
       {
         "name": "女華乱＠泥酔",
@@ -44,17 +64,17 @@
         "shop": "遊道楽新合川店",
         "update": "2026/08/19 01:12:12",
         "status": "yellow",
-        "ageSeconds": 1378
+        "ageSeconds": 1498
       },
       {
         "name": "不知道叫？名",
         "rank": "Ruby",
-        "point": 3720,
-        "car": "CP9Aエボ6[HC]",
+        "point": 3980,
+        "car": "ST205[AR]",
         "shop": "ゲームサファリ池袋",
-        "update": "2026/08/19 01:13:49",
+        "update": "2026/08/19 01:18:50",
         "status": "yellow",
-        "ageSeconds": 1281
+        "ageSeconds": 1100
       },
       {
         "name": "千凜あゆむ",
@@ -64,7 +84,17 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/19 01:07:30",
         "status": "yellow",
-        "ageSeconds": 1660
+        "ageSeconds": 1780
+      },
+      {
+        "name": "Ａｑｎｓｙ",
+        "rank": "Ruby",
+        "point": 1720,
+        "car": "CP9Aエボ5[AR]",
+        "shop": "ウェアハウス三橋店",
+        "update": "2026/08/19 01:22:42",
+        "status": "green",
+        "ageSeconds": 868
       }
     ],
     "Sapphire": [],
