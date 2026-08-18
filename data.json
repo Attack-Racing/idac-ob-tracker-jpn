@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-19 03:34:59",
-  "activeSince": "2026-08-19 03:04:59",
-  "total": 5,
+  "trackerTime": "2026-08-19 03:36:14",
+  "activeSince": "2026-08-19 03:06:14",
+  "total": 6,
   "ranks": {
     "Pride": [
       {
@@ -12,17 +12,17 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/19 03:14:47",
         "status": "yellow",
-        "ageSeconds": 1211
+        "ageSeconds": 1287
       },
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 37640,
+        "point": 38160,
         "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/19 03:14:47",
-        "status": "yellow",
-        "ageSeconds": 1211
+        "update": "2026/08/19 03:28:06",
+        "status": "green",
+        "ageSeconds": 488
       },
       {
         "name": "絶対的第六感",
@@ -32,7 +32,17 @@
         "shop": "アミューズメントゲーム　マグレブ",
         "update": "2026/08/19 03:16:06",
         "status": "yellow",
-        "ageSeconds": 1132
+        "ageSeconds": 1208
+      },
+      {
+        "name": "ベるゼブる",
+        "rank": "Pride",
+        "point": 980,
+        "car": "FD3S6[AR]",
+        "shop": "アミューズメントパークＭＧ徳島",
+        "update": "2026/08/19 03:27:56",
+        "status": "green",
+        "ageSeconds": 498
       }
     ],
     "Ruby": [
@@ -44,7 +54,7 @@
         "shop": "タイトーステーション 大宮店",
         "update": "2026/08/19 03:07:42",
         "status": "yellow",
-        "ageSeconds": 1636
+        "ageSeconds": 1712
       },
       {
         "name": "Ｐｅｔｒａ．",
@@ -54,7 +64,7 @@
         "shop": "ハロータイトー むつ店",
         "update": "2026/08/19 03:08:47",
         "status": "yellow",
-        "ageSeconds": 1571
+        "ageSeconds": 1647
       }
     ],
     "Sapphire": [],
