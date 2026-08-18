@@ -1,10 +1,72 @@
 {
-  "trackerTime": "2026-08-19 08:20:55",
-  "activeSince": "2026-08-19 07:50:55",
-  "total": 0,
+  "trackerTime": "2026-08-19 08:22:09",
+  "activeSince": "2026-08-19 07:52:09",
+  "total": 6,
   "ranks": {
-    "Pride": [],
-    "Ruby": [],
+    "Pride": [
+      {
+        "name": "わがまますぎ",
+        "rank": "Pride",
+        "point": 41360,
+        "car": "ZC33S[AR]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/08/19 08:10:35",
+        "status": "green",
+        "ageSeconds": 694
+      },
+      {
+        "name": "　　らーめん",
+        "rank": "Pride",
+        "point": 8160,
+        "car": "ST205[AR]",
+        "shop": "関大前フタバボウル",
+        "update": "2026/08/19 08:11:50",
+        "status": "green",
+        "ageSeconds": 619
+      }
+    ],
+    "Ruby": [
+      {
+        "name": "モエチャッカ",
+        "rank": "Ruby",
+        "point": 29880,
+        "car": "CP9Aエボ5[AR]",
+        "shop": "アピナ太田店",
+        "update": "2026/08/19 08:10:35",
+        "status": "green",
+        "ageSeconds": 694
+      },
+      {
+        "name": "悠羽の弟子",
+        "rank": "Ruby",
+        "point": 3300,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "ＧｉＧＯ神栖",
+        "update": "2026/08/19 08:05:43",
+        "status": "yellow",
+        "ageSeconds": 986
+      },
+      {
+        "name": "啓悟の弟子",
+        "rank": "Ruby",
+        "point": 1520,
+        "car": "86トレノ[AR]",
+        "shop": "ＧｉＧＯ福島南",
+        "update": "2026/08/19 08:11:57",
+        "status": "green",
+        "ageSeconds": 612
+      },
+      {
+        "name": "けんきくん♯",
+        "rank": "Ruby",
+        "point": 80,
+        "car": "CP9Aエボ6[HC]",
+        "shop": "アミューズメントパフェパレパレ田宮店",
+        "update": "2026/08/19 08:06:12",
+        "status": "yellow",
+        "ageSeconds": 957
+      }
+    ],
     "Sapphire": [],
     "Emerald": [],
     "Clear Blue": [],
