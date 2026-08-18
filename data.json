@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-19 03:19:09",
-  "activeSince": "2026-08-19 02:49:09",
-  "total": 4,
+  "trackerTime": "2026-08-19 03:21:09",
+  "activeSince": "2026-08-19 02:51:09",
+  "total": 5,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,17 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/19 02:52:41",
         "status": "yellow",
-        "ageSeconds": 1588
+        "ageSeconds": 1708
+      },
+      {
+        "name": "あ＠とくしま",
+        "rank": "Pride",
+        "point": 37640,
+        "car": "ST205[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/19 03:14:47",
+        "status": "green",
+        "ageSeconds": 382
       },
       {
         "name": "絶対的第六感",
@@ -22,7 +32,7 @@
         "shop": "アミューズメントゲーム　マグレブ",
         "update": "2026/08/19 02:58:05",
         "status": "yellow",
-        "ageSeconds": 1264
+        "ageSeconds": 1384
       },
       {
         "name": "漆黒の麻友",
@@ -32,7 +42,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/19 02:52:41",
         "status": "yellow",
-        "ageSeconds": 1588
+        "ageSeconds": 1708
       }
     ],
     "Ruby": [
@@ -44,7 +54,7 @@
         "shop": "ＧｉＧＯ秋葉原３号館",
         "update": "2026/08/19 02:52:40",
         "status": "yellow",
-        "ageSeconds": 1589
+        "ageSeconds": 1709
       }
     ],
     "Sapphire": [],
