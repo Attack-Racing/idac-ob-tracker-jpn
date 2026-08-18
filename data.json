@@ -1,40 +1,70 @@
 {
-  "trackerTime": "2026-08-19 08:35:52",
-  "activeSince": "2026-08-19 08:05:52",
-  "total": 5,
+  "trackerTime": "2026-08-19 08:37:01",
+  "activeSince": "2026-08-19 08:07:01",
+  "total": 8,
   "ranks": {
     "Pride": [
       {
         "name": "わがまますぎ",
         "rank": "Pride",
-        "point": 41360,
-        "car": "ZC33S[AR]",
+        "point": 42140,
+        "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/19 08:10:35",
-        "status": "yellow",
-        "ageSeconds": 1517
+        "update": "2026/08/19 08:27:38",
+        "status": "green",
+        "ageSeconds": 563
+      },
+      {
+        "name": "りくちゃん？",
+        "rank": "Pride",
+        "point": 35640,
+        "car": "ST205[AR]",
+        "shop": "ウェアハウス三橋店",
+        "update": "2026/08/19 08:30:26",
+        "status": "green",
+        "ageSeconds": 395
       },
       {
         "name": "　　らーめん",
         "rank": "Pride",
-        "point": 8160,
+        "point": 8940,
         "car": "ST205[AR]",
         "shop": "関大前フタバボウル",
-        "update": "2026/08/19 08:11:50",
-        "status": "yellow",
-        "ageSeconds": 1442
+        "update": "2026/08/19 08:27:06",
+        "status": "green",
+        "ageSeconds": 595
       }
     ],
     "Ruby": [
       {
         "name": "モエチャッカ",
         "rank": "Ruby",
-        "point": 29880,
-        "car": "CP9Aエボ5[AR]",
+        "point": 29760,
+        "car": "ST205[AR]",
         "shop": "アピナ太田店",
-        "update": "2026/08/19 08:10:35",
-        "status": "yellow",
-        "ageSeconds": 1517
+        "update": "2026/08/19 08:25:06",
+        "status": "green",
+        "ageSeconds": 715
+      },
+      {
+        "name": "＠ゲロまみれ",
+        "rank": "Ruby",
+        "point": 9160,
+        "car": "86レビン[HC]",
+        "shop": "楽市楽座イオンタウン姶良店",
+        "update": "2026/08/19 08:30:33",
+        "status": "green",
+        "ageSeconds": 388
+      },
+      {
+        "name": "悠羽の弟子",
+        "rank": "Ruby",
+        "point": 3240,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "ＧｉＧＯ神栖",
+        "update": "2026/08/19 08:25:57",
+        "status": "green",
+        "ageSeconds": 664
       },
       {
         "name": "啓悟の弟子",
@@ -44,17 +74,17 @@
         "shop": "ＧｉＧＯ福島南",
         "update": "2026/08/19 08:11:57",
         "status": "yellow",
-        "ageSeconds": 1435
+        "ageSeconds": 1504
       },
       {
-        "name": "けんきくん♯",
+        "name": "藤田陸の弟子",
         "rank": "Ruby",
-        "point": 80,
-        "car": "CP9Aエボ6[HC]",
-        "shop": "アミューズメントパフェパレパレ田宮店",
-        "update": "2026/08/19 08:06:12",
+        "point": 1320,
+        "car": "S15[AR]",
+        "shop": "ＧｉＧＯトナリエ四日市",
+        "update": "2026/08/19 08:16:59",
         "status": "yellow",
-        "ageSeconds": 1780
+        "ageSeconds": 1202
       }
     ],
     "Sapphire": [],
