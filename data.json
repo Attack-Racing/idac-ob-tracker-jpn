@@ -1,18 +1,18 @@
 {
-  "trackerTime": "2026-08-19 03:21:09",
-  "activeSince": "2026-08-19 02:51:09",
-  "total": 5,
+  "trackerTime": "2026-08-19 03:23:11",
+  "activeSince": "2026-08-19 02:53:11",
+  "total": 6,
   "ranks": {
     "Pride": [
       {
         "name": "わがまますぎ",
         "rank": "Pride",
-        "point": 39340,
+        "point": 40120,
         "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/19 02:52:41",
-        "status": "yellow",
-        "ageSeconds": 1708
+        "update": "2026/08/19 03:14:47",
+        "status": "green",
+        "ageSeconds": 504
       },
       {
         "name": "あ＠とくしま",
@@ -22,39 +22,49 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/19 03:14:47",
         "status": "green",
-        "ageSeconds": 382
+        "ageSeconds": 504
       },
       {
         "name": "絶対的第六感",
         "rank": "Pride",
-        "point": 26220,
-        "car": "BNR32[AR]",
+        "point": 27000,
+        "car": "CP9Aエボ6[HC]",
         "shop": "アミューズメントゲーム　マグレブ",
-        "update": "2026/08/19 02:58:05",
-        "status": "yellow",
-        "ageSeconds": 1384
-      },
-      {
-        "name": "漆黒の麻友",
-        "rank": "Pride",
-        "point": 4540,
-        "car": "FD3S[AR]",
-        "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/19 02:52:41",
-        "status": "yellow",
-        "ageSeconds": 1708
+        "update": "2026/08/19 03:16:06",
+        "status": "green",
+        "ageSeconds": 425
       }
     ],
     "Ruby": [
       {
-        "name": "ハゲト～さん",
+        "name": "Ａｑｎｓｙ",
         "rank": "Ruby",
-        "point": 3440,
-        "car": "86トレノ[HC]",
-        "shop": "ＧｉＧＯ秋葉原３号館",
-        "update": "2026/08/19 02:52:40",
+        "point": 1540,
+        "car": "CT9Aエボ9[AR]",
+        "shop": "ウェアハウス三橋店",
+        "update": "2026/08/19 03:04:58",
         "status": "yellow",
-        "ageSeconds": 1709
+        "ageSeconds": 1093
+      },
+      {
+        "name": "赤城ユイナ",
+        "rank": "Ruby",
+        "point": 240,
+        "car": "FD3S6[AR]",
+        "shop": "タイトーステーション 大宮店",
+        "update": "2026/08/19 03:07:42",
+        "status": "yellow",
+        "ageSeconds": 929
+      },
+      {
+        "name": "Ｐｅｔｒａ．",
+        "rank": "Ruby",
+        "point": 80,
+        "car": "S13[AR]",
+        "shop": "ハロータイトー むつ店",
+        "update": "2026/08/19 03:08:47",
+        "status": "green",
+        "ageSeconds": 864
       }
     ],
     "Sapphire": [],
