@@ -1,18 +1,18 @@
 {
-  "trackerTime": "2026-08-19 01:20:50",
-  "activeSince": "2026-08-19 00:50:50",
-  "total": 9,
+  "trackerTime": "2026-08-19 01:22:06",
+  "activeSince": "2026-08-19 00:52:06",
+  "total": 10,
   "ranks": {
     "Pride": [
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 34120,
-        "car": "ER34[AR]",
+        "point": 34640,
+        "car": "CE9Aエボ3[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/19 01:00:52",
-        "status": "yellow",
-        "ageSeconds": 1197
+        "update": "2026/08/19 01:13:16",
+        "status": "green",
+        "ageSeconds": 530
       },
       {
         "name": "絶対的第六感",
@@ -22,49 +22,59 @@
         "shop": "アミューズメントゲーム　マグレブ",
         "update": "2026/08/19 00:57:17",
         "status": "yellow",
-        "ageSeconds": 1412
+        "ageSeconds": 1489
       }
     ],
     "Ruby": [
       {
         "name": "れな姫＠愛Ｒ",
         "rank": "Ruby",
-        "point": 85780,
-        "car": "ST205[AR]",
+        "point": 85980,
+        "car": "86トレノ[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/19 00:51:07",
-        "status": "yellow",
-        "ageSeconds": 1782
+        "update": "2026/08/19 01:11:01",
+        "status": "green",
+        "ageSeconds": 665
       },
       {
         "name": "人間の端くれ",
         "rank": "Ruby",
-        "point": 36980,
-        "car": "ER34[AR]",
+        "point": 37180,
+        "car": "86トレノ[AR]",
         "shop": "ｎａｍｃｏ博多バスターミナル店",
-        "update": "2026/08/19 00:55:11",
-        "status": "yellow",
-        "ageSeconds": 1538
+        "update": "2026/08/19 01:12:13",
+        "status": "green",
+        "ageSeconds": 593
       },
       {
         "name": "女華乱＠泥酔",
         "rank": "Ruby",
-        "point": 10640,
+        "point": 10840,
         "car": "CP9Aエボ6[AR]",
         "shop": "遊道楽新合川店",
-        "update": "2026/08/19 00:55:19",
-        "status": "yellow",
-        "ageSeconds": 1530
+        "update": "2026/08/19 01:12:12",
+        "status": "green",
+        "ageSeconds": 594
+      },
+      {
+        "name": "不知道叫？名",
+        "rank": "Ruby",
+        "point": 3720,
+        "car": "CP9Aエボ6[HC]",
+        "shop": "ゲームサファリ池袋",
+        "update": "2026/08/19 01:13:49",
+        "status": "green",
+        "ageSeconds": 497
       },
       {
         "name": "千凜あゆむ",
         "rank": "Ruby",
-        "point": 3500,
+        "point": 3440,
         "car": "FC3S[DH]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/19 01:01:01",
-        "status": "yellow",
-        "ageSeconds": 1188
+        "update": "2026/08/19 01:07:30",
+        "status": "green",
+        "ageSeconds": 876
       },
       {
         "name": "ビールテロ！",
@@ -74,7 +84,7 @@
         "shop": "コムテックスクウェア",
         "update": "2026/08/19 00:55:11",
         "status": "yellow",
-        "ageSeconds": 1538
+        "ageSeconds": 1615
       },
       {
         "name": "ＰｕＦＦｙ",
@@ -84,7 +94,7 @@
         "shop": "ＧｉＧＯ北谷",
         "update": "2026/08/19 00:55:11",
         "status": "yellow",
-        "ageSeconds": 1538
+        "ageSeconds": 1615
       },
       {
         "name": "れなひめ",
@@ -94,7 +104,7 @@
         "shop": "楽市楽座広島店",
         "update": "2026/08/19 00:57:24",
         "status": "yellow",
-        "ageSeconds": 1405
+        "ageSeconds": 1482
       }
     ],
     "Sapphire": [],
