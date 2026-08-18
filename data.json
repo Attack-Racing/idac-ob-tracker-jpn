@@ -1,18 +1,18 @@
 {
-  "trackerTime": "2026-08-19 03:50:57",
-  "activeSince": "2026-08-19 03:20:57",
-  "total": 5,
+  "trackerTime": "2026-08-19 03:52:09",
+  "activeSince": "2026-08-19 03:22:09",
+  "total": 9,
   "ranks": {
     "Pride": [
       {
         "name": "わがまますぎ",
         "rank": "Pride",
-        "point": 40640,
+        "point": 40900,
         "car": "EG6[HC]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/19 03:27:49",
+        "update": "2026/08/19 03:32:34",
         "status": "yellow",
-        "ageSeconds": 1388
+        "ageSeconds": 1175
       },
       {
         "name": "あ＠とくしま",
@@ -22,7 +22,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/19 03:42:58",
         "status": "green",
-        "ageSeconds": 479
+        "ageSeconds": 551
       },
       {
         "name": "ベるゼブる",
@@ -32,29 +32,69 @@
         "shop": "アミューズメントパークＭＧ徳島",
         "update": "2026/08/19 03:46:08",
         "status": "green",
-        "ageSeconds": 289
+        "ageSeconds": 361
       }
     ],
     "Ruby": [
       {
+        "name": "ビールテロ！",
+        "rank": "Ruby",
+        "point": 3340,
+        "car": "DC2[HC]",
+        "shop": "コムテックスクウェア",
+        "update": "2026/08/19 03:43:05",
+        "status": "green",
+        "ageSeconds": 544
+      },
+      {
         "name": "ハゲト～さん",
         "rank": "Ruby",
-        "point": 3320,
+        "point": 3260,
         "car": "86トレノ[HC]",
         "shop": "ＧｉＧＯ秋葉原３号館",
-        "update": "2026/08/19 03:28:13",
+        "update": "2026/08/19 03:33:03",
         "status": "yellow",
-        "ageSeconds": 1364
+        "ageSeconds": 1146
       },
       {
         "name": "いいなぁ～☆",
         "rank": "Ruby",
-        "point": 1260,
+        "point": 1140,
         "car": "CT9Aエボ9[AR]",
         "shop": "アミューズメントフィールドバイヨン",
-        "update": "2026/08/19 03:22:10",
-        "status": "yellow",
-        "ageSeconds": 1727
+        "update": "2026/08/19 03:37:38",
+        "status": "green",
+        "ageSeconds": 871
+      },
+      {
+        "name": "ハルカエコー",
+        "rank": "Ruby",
+        "point": 1080,
+        "car": "FD3S6[AR]",
+        "shop": "コムテックタワー",
+        "update": "2026/08/19 03:43:43",
+        "status": "green",
+        "ageSeconds": 506
+      },
+      {
+        "name": "ｈａｏｓ．",
+        "rank": "Ruby",
+        "point": 260,
+        "car": "CZ4Aエボ10[AR]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/08/19 03:43:43",
+        "status": "green",
+        "ageSeconds": 506
+      },
+      {
+        "name": "Ｐｅｔｒａ．",
+        "rank": "Ruby",
+        "point": 20,
+        "car": "S13[AR]",
+        "shop": "ハロータイトー むつ店",
+        "update": "2026/08/19 03:46:15",
+        "status": "green",
+        "ageSeconds": 354
       }
     ],
     "Sapphire": [],
