@@ -1,9 +1,19 @@
 {
-  "trackerTime": "2026-08-19 03:05:06",
-  "activeSince": "2026-08-19 02:35:06",
-  "total": 5,
+  "trackerTime": "2026-08-19 03:07:10",
+  "activeSince": "2026-08-19 02:37:10",
+  "total": 6,
   "ranks": {
     "Pride": [
+      {
+        "name": "わがまますぎ",
+        "rank": "Pride",
+        "point": 39340,
+        "car": "ST205[AR]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/08/19 02:52:41",
+        "status": "green",
+        "ageSeconds": 869
+      },
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
@@ -12,39 +22,39 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/19 02:45:41",
         "status": "yellow",
-        "ageSeconds": 1165
+        "ageSeconds": 1289
       },
       {
         "name": "絶対的第六感",
         "rank": "Pride",
-        "point": 26020,
-        "car": "CP9Aエボ6[HC]",
+        "point": 26220,
+        "car": "BNR32[AR]",
         "shop": "アミューズメントゲーム　マグレブ",
-        "update": "2026/08/19 02:40:37",
-        "status": "yellow",
-        "ageSeconds": 1469
+        "update": "2026/08/19 02:58:05",
+        "status": "green",
+        "ageSeconds": 545
+      },
+      {
+        "name": "漆黒の麻友",
+        "rank": "Pride",
+        "point": 4540,
+        "car": "FD3S[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/19 02:52:41",
+        "status": "green",
+        "ageSeconds": 869
       }
     ],
     "Ruby": [
       {
-        "name": "人間の端くれ",
-        "rank": "Ruby",
-        "point": 37360,
-        "car": "ER34[AR]",
-        "shop": "ｎａｍｃｏ博多バスターミナル店",
-        "update": "2026/08/19 02:36:19",
-        "status": "yellow",
-        "ageSeconds": 1727
-      },
-      {
         "name": "ハゲト～さん",
         "rank": "Ruby",
-        "point": 3500,
+        "point": 3440,
         "car": "86トレノ[HC]",
         "shop": "ＧｉＧＯ秋葉原３号館",
-        "update": "2026/08/19 02:39:59",
-        "status": "yellow",
-        "ageSeconds": 1507
+        "update": "2026/08/19 02:52:40",
+        "status": "green",
+        "ageSeconds": 870
       },
       {
         "name": "Ｐｅｔｒａ．",
@@ -54,7 +64,7 @@
         "shop": "ハロータイトー むつ店",
         "update": "2026/08/19 02:40:44",
         "status": "yellow",
-        "ageSeconds": 1462
+        "ageSeconds": 1586
       }
     ],
     "Sapphire": [],
