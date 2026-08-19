@@ -1,30 +1,60 @@
 {
-  "trackerTime": "2026-08-20 02:34:38",
-  "activeSince": "2026-08-20 02:04:38",
-  "total": 2,
+  "trackerTime": "2026-08-20 02:36:45",
+  "activeSince": "2026-08-20 02:06:45",
+  "total": 5,
   "ranks": {
     "Pride": [
       {
         "name": "じょっちゃん",
         "rank": "Pride",
-        "point": 112520,
-        "car": "CP9Aエボ5[AR]",
+        "point": 112780,
+        "car": "ST205[AR]",
         "shop": "アピナ野々市店",
-        "update": "2026/08/20 02:09:42",
-        "status": "yellow",
-        "ageSeconds": 1496
+        "update": "2026/08/20 02:30:18",
+        "status": "green",
+        "ageSeconds": 387
+      },
+      {
+        "name": "あ＠とくしま",
+        "rank": "Pride",
+        "point": 38960,
+        "car": "ST205[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/20 02:26:05",
+        "status": "green",
+        "ageSeconds": 640
+      },
+      {
+        "name": "Ｖｉｏｌｅｔ",
+        "rank": "Pride",
+        "point": 2420,
+        "car": "FD3S[AR]",
+        "shop": "アミューズメントパフェパレパレ田宮店",
+        "update": "2026/08/20 02:30:25",
+        "status": "green",
+        "ageSeconds": 380
       }
     ],
     "Ruby": [
       {
         "name": "ラクウェル．",
         "rank": "Ruby",
-        "point": 7780,
-        "car": "ST205[AR]",
+        "point": 8560,
+        "car": "CE9Aエボ3[AR]",
         "shop": "半田メトロポリス",
-        "update": "2026/08/20 02:13:54",
-        "status": "yellow",
-        "ageSeconds": 1244
+        "update": "2026/08/20 02:29:26",
+        "status": "green",
+        "ageSeconds": 439
+      },
+      {
+        "name": "国崩しの諸刃",
+        "rank": "Ruby",
+        "point": 3340,
+        "car": "FD3S6[AR]",
+        "shop": "遊スペース アローズ",
+        "update": "2026/08/20 02:26:04",
+        "status": "green",
+        "ageSeconds": 641
       }
     ],
     "Sapphire": [],
