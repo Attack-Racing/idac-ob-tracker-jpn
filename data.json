@@ -1,31 +1,41 @@
 {
-  "trackerTime": "2026-08-20 07:50:43",
-  "activeSince": "2026-08-20 07:20:43",
-  "total": 4,
+  "trackerTime": "2026-08-20 07:52:42",
+  "activeSince": "2026-08-20 07:22:42",
+  "total": 6,
   "ranks": {
     "Pride": [
       {
         "name": "わがまますぎ",
         "rank": "Pride",
-        "point": 46260,
+        "point": 47300,
         "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/20 07:28:20",
-        "status": "yellow",
-        "ageSeconds": 1343
+        "update": "2026/08/20 07:46:33",
+        "status": "green",
+        "ageSeconds": 369
       },
       {
         "name": "Ｈαｎｎｙ？",
         "rank": "Pride",
-        "point": 27700,
+        "point": 28480,
         "car": "EG6[HC]",
         "shop": "ＧｉＧＯ西那須野",
-        "update": "2026/08/20 07:28:32",
-        "status": "yellow",
-        "ageSeconds": 1331
+        "update": "2026/08/20 07:42:20",
+        "status": "green",
+        "ageSeconds": 622
       }
     ],
     "Ruby": [
+      {
+        "name": "ｓｃｕｍｐ．",
+        "rank": "Ruby",
+        "point": 26120,
+        "car": "86トレノ[AR]",
+        "shop": "ゲームランド草津店",
+        "update": "2026/08/20 07:33:16",
+        "status": "yellow",
+        "ageSeconds": 1166
+      },
       {
         "name": "音もない世界",
         "rank": "Ruby",
@@ -34,7 +44,17 @@
         "shop": "楽市楽座行橋店",
         "update": "2026/08/20 07:28:27",
         "status": "yellow",
-        "ageSeconds": 1336
+        "ageSeconds": 1455
+      },
+      {
+        "name": "俺の師匠北浦",
+        "rank": "Ruby",
+        "point": 1080,
+        "car": "CZ4Aエボ10[AR]",
+        "shop": "タイトーステーション 池袋西口店",
+        "update": "2026/08/20 07:33:02",
+        "status": "yellow",
+        "ageSeconds": 1180
       },
       {
         "name": "最終兵器．君",
@@ -44,7 +64,7 @@
         "shop": "アミパラ下関駅南店",
         "update": "2026/08/20 07:28:39",
         "status": "yellow",
-        "ageSeconds": 1324
+        "ageSeconds": 1443
       }
     ],
     "Sapphire": [],
