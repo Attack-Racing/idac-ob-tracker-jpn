@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-20 08:04:37",
-  "activeSince": "2026-08-20 07:34:37",
-  "total": 2,
+  "trackerTime": "2026-08-20 08:06:34",
+  "activeSince": "2026-08-20 07:36:34",
+  "total": 3,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/20 07:46:33",
         "status": "yellow",
-        "ageSeconds": 1084
+        "ageSeconds": 1200
       },
       {
         "name": "Ｈαｎｎｙ？",
@@ -22,10 +22,21 @@
         "shop": "ＧｉＧＯ西那須野",
         "update": "2026/08/20 07:42:20",
         "status": "yellow",
-        "ageSeconds": 1337
+        "ageSeconds": 1453
       }
     ],
-    "Ruby": [],
+    "Ruby": [
+      {
+        "name": "音もない世界",
+        "rank": "Ruby",
+        "point": 2200,
+        "car": "ST205[AR]",
+        "shop": "楽市楽座行橋店",
+        "update": "2026/08/20 07:59:54",
+        "status": "green",
+        "ageSeconds": 399
+      }
+    ],
     "Sapphire": [],
     "Emerald": [],
     "Clear Blue": [],
