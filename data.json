@@ -1,18 +1,18 @@
 {
-  "trackerTime": "2026-08-20 02:04:42",
-  "activeSince": "2026-08-20 01:34:42",
-  "total": 4,
+  "trackerTime": "2026-08-20 02:06:44",
+  "activeSince": "2026-08-20 01:36:44",
+  "total": 5,
   "ranks": {
     "Pride": [
       {
         "name": "じょっちゃん",
         "rank": "Pride",
-        "point": 111740,
-        "car": "CP9Aエボ5[AR]",
+        "point": 112000,
+        "car": "ST205[AR]",
         "shop": "アピナ野々市店",
-        "update": "2026/08/20 01:44:39",
-        "status": "yellow",
-        "ageSeconds": 1203
+        "update": "2026/08/20 01:54:20",
+        "status": "green",
+        "ageSeconds": 744
       },
       {
         "name": "ゆとりでうす",
@@ -22,20 +22,31 @@
         "shop": "インターワールド伊勢崎店",
         "update": "2026/08/20 01:39:39",
         "status": "yellow",
-        "ageSeconds": 1503
+        "ageSeconds": 1625
       },
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 38820,
-        "car": "86トレノ[AR]",
+        "point": 38760,
+        "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/20 01:44:46",
-        "status": "yellow",
-        "ageSeconds": 1196
+        "update": "2026/08/20 01:53:06",
+        "status": "green",
+        "ageSeconds": 818
       }
     ],
-    "Ruby": [],
+    "Ruby": [
+      {
+        "name": "ラクウェル．",
+        "rank": "Ruby",
+        "point": 7580,
+        "car": "ST205[AR]",
+        "shop": "半田メトロポリス",
+        "update": "2026/08/20 01:57:15",
+        "status": "green",
+        "ageSeconds": 569
+      }
+    ],
     "Sapphire": [],
     "Emerald": [],
     "Clear Blue": [],
@@ -48,7 +59,7 @@
         "shop": "ＧｉＧＯスマーク伊勢崎",
         "update": "2026/08/20 01:44:20",
         "status": "yellow",
-        "ageSeconds": 1222
+        "ageSeconds": 1344
       }
     ],
     "Clear Green": [],
