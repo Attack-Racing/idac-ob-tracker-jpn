@@ -1,60 +1,80 @@
 {
-  "trackerTime": "2026-08-20 02:49:38",
-  "activeSince": "2026-08-20 02:19:38",
-  "total": 5,
+  "trackerTime": "2026-08-20 02:51:26",
+  "activeSince": "2026-08-20 02:21:26",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
         "name": "じょっちゃん",
         "rank": "Pride",
-        "point": 112780,
+        "point": 113560,
         "car": "ST205[AR]",
         "shop": "アピナ野々市店",
-        "update": "2026/08/20 02:30:18",
-        "status": "yellow",
-        "ageSeconds": 1160
+        "update": "2026/08/20 02:44:55",
+        "status": "green",
+        "ageSeconds": 391
       },
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 38960,
-        "car": "ST205[AR]",
+        "point": 39220,
+        "car": "86トレノ[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/20 02:26:05",
+        "update": "2026/08/20 02:32:31",
         "status": "yellow",
-        "ageSeconds": 1413
+        "ageSeconds": 1135
       },
       {
         "name": "Ｖｉｏｌｅｔ",
         "rank": "Pride",
-        "point": 2420,
-        "car": "FD3S[AR]",
+        "point": 2360,
+        "car": "86トレノ[DH]",
         "shop": "アミューズメントパフェパレパレ田宮店",
-        "update": "2026/08/20 02:30:25",
-        "status": "yellow",
-        "ageSeconds": 1153
+        "update": "2026/08/20 02:38:45",
+        "status": "green",
+        "ageSeconds": 761
+      },
+      {
+        "name": "ＭｓＲｅｉ．",
+        "rank": "Pride",
+        "point": 1880,
+        "car": "ST205[AR]",
+        "shop": "ＧｉＧＯイオン仙台中山",
+        "update": "2026/08/20 02:44:32",
+        "status": "green",
+        "ageSeconds": 414
       }
     ],
     "Ruby": [
       {
         "name": "ラクウェル．",
         "rank": "Ruby",
-        "point": 8560,
-        "car": "CE9Aエボ3[AR]",
+        "point": 9020,
+        "car": "ST205[AR]",
         "shop": "半田メトロポリス",
-        "update": "2026/08/20 02:29:26",
-        "status": "yellow",
-        "ageSeconds": 1212
+        "update": "2026/08/20 02:44:33",
+        "status": "green",
+        "ageSeconds": 413
+      },
+      {
+        "name": "ルサンチマン",
+        "rank": "Ruby",
+        "point": 8480,
+        "car": "EK9[DH]",
+        "shop": "タイトーＦステーションイオン近江八幡店",
+        "update": "2026/08/20 02:45:02",
+        "status": "green",
+        "ageSeconds": 384
       },
       {
         "name": "国崩しの諸刃",
         "rank": "Ruby",
-        "point": 3340,
-        "car": "FD3S6[AR]",
+        "point": 3600,
+        "car": "GC8[AR]",
         "shop": "遊スペース アローズ",
-        "update": "2026/08/20 02:26:04",
+        "update": "2026/08/20 02:34:25",
         "status": "yellow",
-        "ageSeconds": 1414
+        "ageSeconds": 1021
       }
     ],
     "Sapphire": [],
