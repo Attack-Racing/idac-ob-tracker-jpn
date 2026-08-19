@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-20 08:57:42",
-  "activeSince": "2026-08-20 08:27:42",
-  "total": 12,
+  "trackerTime": "2026-08-20 08:59:36",
+  "activeSince": "2026-08-20 08:29:36",
+  "total": 10,
   "ranks": {
     "Pride": [
       {
@@ -11,8 +11,8 @@
         "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/20 08:44:14",
-        "status": "green",
-        "ageSeconds": 807
+        "status": "yellow",
+        "ageSeconds": 922
       },
       {
         "name": "Ｈαｎｎｙ？",
@@ -22,7 +22,7 @@
         "shop": "ＧｉＧＯ西那須野",
         "update": "2026/08/20 08:46:36",
         "status": "green",
-        "ageSeconds": 665
+        "ageSeconds": 780
       },
       {
         "name": "　　らーめん",
@@ -32,7 +32,7 @@
         "shop": "関大前フタバボウル",
         "update": "2026/08/20 08:42:11",
         "status": "yellow",
-        "ageSeconds": 930
+        "ageSeconds": 1045
       }
     ],
     "Ruby": [
@@ -44,7 +44,7 @@
         "shop": "ゲームランド草津店",
         "update": "2026/08/20 08:42:18",
         "status": "yellow",
-        "ageSeconds": 923
+        "ageSeconds": 1038
       },
       {
         "name": "けんちんだぉ",
@@ -54,17 +54,7 @@
         "shop": "インターワールド伊勢崎店",
         "update": "2026/08/20 08:35:56",
         "status": "yellow",
-        "ageSeconds": 1305
-      },
-      {
-        "name": "ウルフロード",
-        "rank": "Ruby",
-        "point": 9300,
-        "car": "S15[HC]",
-        "shop": "ベネクス浦和店",
-        "update": "2026/08/20 08:28:21",
-        "status": "yellow",
-        "ageSeconds": 1760
+        "ageSeconds": 1420
       },
       {
         "name": "悠羽の弟子",
@@ -74,7 +64,7 @@
         "shop": "ＧｉＧＯ神栖",
         "update": "2026/08/20 08:34:33",
         "status": "yellow",
-        "ageSeconds": 1388
+        "ageSeconds": 1503
       },
       {
         "name": "祐良の弟子＾",
@@ -83,8 +73,8 @@
         "car": "FD3S[DH]",
         "shop": "山田レジャーセンター",
         "update": "2026/08/20 08:44:21",
-        "status": "green",
-        "ageSeconds": 800
+        "status": "yellow",
+        "ageSeconds": 915
       },
       {
         "name": "ＲＡＩＲＡ",
@@ -94,17 +84,7 @@
         "shop": "シルクハット川崎モアーズ",
         "update": "2026/08/20 08:46:35",
         "status": "green",
-        "ageSeconds": 666
-      },
-      {
-        "name": "最終兵器．君",
-        "rank": "Ruby",
-        "point": 340,
-        "car": "AP1[DH]",
-        "shop": "アミパラ下関駅南店",
-        "update": "2026/08/20 08:29:07",
-        "status": "yellow",
-        "ageSeconds": 1714
+        "ageSeconds": 781
       }
     ],
     "Sapphire": [],
@@ -120,7 +100,7 @@
         "shop": "アピナ太田店",
         "update": "2026/08/20 08:39:31",
         "status": "yellow",
-        "ageSeconds": 1090
+        "ageSeconds": 1205
       },
       {
         "name": "こーたろー",
@@ -130,7 +110,7 @@
         "shop": "アミパラ高知店",
         "update": "2026/08/20 08:39:37",
         "status": "yellow",
-        "ageSeconds": 1084
+        "ageSeconds": 1199
       }
     ],
     "Unknown Online Rank": []
