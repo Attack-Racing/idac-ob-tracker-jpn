@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-20 01:06:38",
-  "activeSince": "2026-08-20 00:36:38",
-  "total": 13,
+  "trackerTime": "2026-08-20 01:08:45",
+  "activeSince": "2026-08-20 00:38:45",
+  "total": 14,
   "ranks": {
     "Pride": [
       {
@@ -11,8 +11,8 @@
         "car": "ST205[AR]",
         "shop": "アミパラ松江店",
         "update": "2026/08/20 00:53:39",
-        "status": "green",
-        "ageSeconds": 778
+        "status": "yellow",
+        "ageSeconds": 906
       },
       {
         "name": "あ＠とくしま",
@@ -21,28 +21,18 @@
         "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/20 00:51:42",
-        "status": "green",
-        "ageSeconds": 895
-      },
-      {
-        "name": "バレンシーア",
-        "rank": "Pride",
-        "point": 37040,
-        "car": "ST205[AR]",
-        "shop": "ＧｉＧＯスエヒロボウル徳島",
-        "update": "2026/08/20 00:37:44",
         "status": "yellow",
-        "ageSeconds": 1733
+        "ageSeconds": 1023
       },
       {
         "name": "ＭｓＲｅｉ．",
         "rank": "Pride",
-        "point": 2000,
-        "car": "SW20[DH]",
+        "point": 1940,
+        "car": "CP9Aエボ6[AR]",
         "shop": "ＧｉＧＯイオン仙台中山",
-        "update": "2026/08/20 00:43:27",
+        "update": "2026/08/20 00:48:32",
         "status": "yellow",
-        "ageSeconds": 1390
+        "ageSeconds": 1213
       }
     ],
     "Ruby": [
@@ -54,7 +44,7 @@
         "shop": "ゲームサファリ池袋",
         "update": "2026/08/20 00:55:03",
         "status": "green",
-        "ageSeconds": 694
+        "ageSeconds": 822
       },
       {
         "name": "漆黒の麻友",
@@ -64,7 +54,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/20 00:45:28",
         "status": "yellow",
-        "ageSeconds": 1269
+        "ageSeconds": 1397
       },
       {
         "name": "国崩しの諸刃",
@@ -74,7 +64,7 @@
         "shop": "遊スペース アローズ",
         "update": "2026/08/20 01:00:41",
         "status": "green",
-        "ageSeconds": 356
+        "ageSeconds": 484
       },
       {
         "name": "＋マニア悪魔",
@@ -84,7 +74,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/20 00:55:09",
         "status": "green",
-        "ageSeconds": 688
+        "ageSeconds": 816
       },
       {
         "name": "ＰＯＴＥＴＩ",
@@ -94,7 +84,7 @@
         "shop": "ＧｉＧＯ布施",
         "update": "2026/08/20 00:44:51",
         "status": "yellow",
-        "ageSeconds": 1306
+        "ageSeconds": 1434
       },
       {
         "name": "山本　彩．",
@@ -104,7 +94,7 @@
         "shop": "ウェアハウス岩槻店",
         "update": "2026/08/20 00:54:56",
         "status": "green",
-        "ageSeconds": 701
+        "ageSeconds": 829
       },
       {
         "name": "ぽてち！",
@@ -114,17 +104,17 @@
         "shop": "ＭＦ　ＬＩＮＫＳ　ＵＭＥＤＡ",
         "update": "2026/08/20 00:55:30",
         "status": "green",
-        "ageSeconds": 667
+        "ageSeconds": 795
       },
       {
         "name": "ささきしおん",
         "rank": "Ruby",
-        "point": 240,
+        "point": 180,
         "car": "ST205[AR]",
         "shop": "ティックタックワールド鴨川",
-        "update": "2026/08/20 00:44:35",
+        "update": "2026/08/20 00:51:48",
         "status": "yellow",
-        "ageSeconds": 1322
+        "ageSeconds": 1017
       }
     ],
     "Sapphire": [
@@ -136,12 +126,34 @@
         "shop": "タイトーＦステーションオリナス錦糸町店",
         "update": "2026/08/20 00:44:34",
         "status": "yellow",
-        "ageSeconds": 1323
+        "ageSeconds": 1451
       }
     ],
-    "Emerald": [],
+    "Emerald": [
+      {
+        "name": "ｙｕｒｉ",
+        "rank": "Emerald",
+        "point": 2200,
+        "car": "86トレノ[AR]",
+        "shop": "アピナ太田店",
+        "update": "2026/08/20 00:47:34",
+        "status": "yellow",
+        "ageSeconds": 1271
+      }
+    ],
     "Clear Blue": [],
-    "Clear Red": [],
+    "Clear Red": [
+      {
+        "name": "ＷＡＷＡＷＡ",
+        "rank": "Clear Red",
+        "point": 600,
+        "car": "CN9Aエボ4[AR]",
+        "shop": "ＧｉＧＯスマーク伊勢崎",
+        "update": "2026/08/20 00:53:16",
+        "status": "yellow",
+        "ageSeconds": 929
+      }
+    ],
     "Clear Green": [],
     "Unknown Online Rank": []
   }
