@@ -1,40 +1,50 @@
 {
-  "trackerTime": "2026-08-20 07:35:46",
-  "activeSince": "2026-08-20 07:05:46",
-  "total": 3,
+  "trackerTime": "2026-08-20 07:37:41",
+  "activeSince": "2026-08-20 07:07:41",
+  "total": 4,
   "ranks": {
     "Pride": [
       {
         "name": "わがまますぎ",
         "rank": "Pride",
-        "point": 45480,
+        "point": 46260,
         "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/20 07:14:57",
-        "status": "yellow",
-        "ageSeconds": 1249
+        "update": "2026/08/20 07:28:20",
+        "status": "green",
+        "ageSeconds": 561
       },
       {
         "name": "Ｈαｎｎｙ？",
         "rank": "Pride",
-        "point": 26920,
+        "point": 27700,
         "car": "EG6[HC]",
         "shop": "ＧｉＧＯ西那須野",
-        "update": "2026/08/20 07:15:24",
-        "status": "yellow",
-        "ageSeconds": 1222
+        "update": "2026/08/20 07:28:32",
+        "status": "green",
+        "ageSeconds": 549
       }
     ],
     "Ruby": [
       {
-        "name": "ｓｃｕｍｐ．",
+        "name": "音もない世界",
         "rank": "Ruby",
-        "point": 26180,
-        "car": "86トレノ[AR]",
-        "shop": "ゲームランド草津店",
-        "update": "2026/08/20 07:06:37",
-        "status": "yellow",
-        "ageSeconds": 1749
+        "point": 2260,
+        "car": "ST205[AR]",
+        "shop": "楽市楽座行橋店",
+        "update": "2026/08/20 07:28:27",
+        "status": "green",
+        "ageSeconds": 554
+      },
+      {
+        "name": "最終兵器．君",
+        "rank": "Ruby",
+        "point": 460,
+        "car": "FC3S[AR]",
+        "shop": "アミパラ下関駅南店",
+        "update": "2026/08/20 07:28:39",
+        "status": "green",
+        "ageSeconds": 542
       }
     ],
     "Sapphire": [],
