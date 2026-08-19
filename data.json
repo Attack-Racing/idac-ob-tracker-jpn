@@ -1,10 +1,42 @@
 {
-  "trackerTime": "2026-08-20 07:20:39",
-  "activeSince": "2026-08-20 06:50:39",
-  "total": 0,
+  "trackerTime": "2026-08-20 07:22:40",
+  "activeSince": "2026-08-20 06:52:40",
+  "total": 3,
   "ranks": {
-    "Pride": [],
-    "Ruby": [],
+    "Pride": [
+      {
+        "name": "わがまますぎ",
+        "rank": "Pride",
+        "point": 45480,
+        "car": "ST205[AR]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/08/20 07:14:57",
+        "status": "green",
+        "ageSeconds": 463
+      },
+      {
+        "name": "Ｈαｎｎｙ？",
+        "rank": "Pride",
+        "point": 26920,
+        "car": "EG6[HC]",
+        "shop": "ＧｉＧＯ西那須野",
+        "update": "2026/08/20 07:15:24",
+        "status": "green",
+        "ageSeconds": 436
+      }
+    ],
+    "Ruby": [
+      {
+        "name": "ｓｃｕｍｐ．",
+        "rank": "Ruby",
+        "point": 26180,
+        "car": "86トレノ[AR]",
+        "shop": "ゲームランド草津店",
+        "update": "2026/08/20 07:06:37",
+        "status": "yellow",
+        "ageSeconds": 963
+      }
+    ],
     "Sapphire": [],
     "Emerald": [],
     "Clear Blue": [],
