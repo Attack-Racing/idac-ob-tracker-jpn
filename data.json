@@ -1,6 +1,6 @@
 {
-  "trackerTime": "2026-08-20 07:29:23",
-  "activeSince": "2026-08-20 06:59:23",
+  "trackerTime": "2026-08-20 07:30:43",
+  "activeSince": "2026-08-20 07:00:43",
   "total": 3,
   "ranks": {
     "Pride": [
@@ -11,8 +11,8 @@
         "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/20 07:14:57",
-        "status": "green",
-        "ageSeconds": 865
+        "status": "yellow",
+        "ageSeconds": 945
       },
       {
         "name": "Ｈαｎｎｙ？",
@@ -21,8 +21,8 @@
         "car": "EG6[HC]",
         "shop": "ＧｉＧＯ西那須野",
         "update": "2026/08/20 07:15:24",
-        "status": "green",
-        "ageSeconds": 838
+        "status": "yellow",
+        "ageSeconds": 918
       }
     ],
     "Ruby": [
@@ -34,7 +34,7 @@
         "shop": "ゲームランド草津店",
         "update": "2026/08/20 07:06:37",
         "status": "yellow",
-        "ageSeconds": 1365
+        "ageSeconds": 1445
       }
     ],
     "Sapphire": [],
