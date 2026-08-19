@@ -1,9 +1,29 @@
 {
-  "trackerTime": "2026-08-20 01:04:45",
-  "activeSince": "2026-08-20 00:34:45",
-  "total": 8,
+  "trackerTime": "2026-08-20 01:06:38",
+  "activeSince": "2026-08-20 00:36:38",
+  "total": 13,
   "ranks": {
     "Pride": [
+      {
+        "name": "ｊｏｋｅｒ？",
+        "rank": "Pride",
+        "point": 95840,
+        "car": "ST205[AR]",
+        "shop": "アミパラ松江店",
+        "update": "2026/08/20 00:53:39",
+        "status": "green",
+        "ageSeconds": 778
+      },
+      {
+        "name": "あ＠とくしま",
+        "rank": "Pride",
+        "point": 38940,
+        "car": "ST205[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/20 00:51:42",
+        "status": "green",
+        "ageSeconds": 895
+      },
       {
         "name": "バレンシーア",
         "rank": "Pride",
@@ -12,7 +32,7 @@
         "shop": "ＧｉＧＯスエヒロボウル徳島",
         "update": "2026/08/20 00:37:44",
         "status": "yellow",
-        "ageSeconds": 1621
+        "ageSeconds": 1733
       },
       {
         "name": "ＭｓＲｅｉ．",
@@ -22,10 +42,20 @@
         "shop": "ＧｉＧＯイオン仙台中山",
         "update": "2026/08/20 00:43:27",
         "status": "yellow",
-        "ageSeconds": 1278
+        "ageSeconds": 1390
       }
     ],
     "Ruby": [
+      {
+        "name": "不知道叫？名",
+        "rank": "Ruby",
+        "point": 5780,
+        "car": "ST205[AR]",
+        "shop": "ゲームサファリ池袋",
+        "update": "2026/08/20 00:55:03",
+        "status": "green",
+        "ageSeconds": 694
+      },
       {
         "name": "漆黒の麻友",
         "rank": "Ruby",
@@ -34,17 +64,27 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/20 00:45:28",
         "status": "yellow",
-        "ageSeconds": 1157
+        "ageSeconds": 1269
       },
       {
         "name": "国崩しの諸刃",
         "rank": "Ruby",
-        "point": 3260,
-        "car": "GC8[AR]",
+        "point": 3140,
+        "car": "86トレノ[DH]",
         "shop": "遊スペース アローズ",
-        "update": "2026/08/20 00:45:34",
-        "status": "yellow",
-        "ageSeconds": 1151
+        "update": "2026/08/20 01:00:41",
+        "status": "green",
+        "ageSeconds": 356
+      },
+      {
+        "name": "＋マニア悪魔",
+        "rank": "Ruby",
+        "point": 2580,
+        "car": "BNR32[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/20 00:55:09",
+        "status": "green",
+        "ageSeconds": 688
       },
       {
         "name": "ＰＯＴＥＴＩ",
@@ -54,17 +94,27 @@
         "shop": "ＧｉＧＯ布施",
         "update": "2026/08/20 00:44:51",
         "status": "yellow",
-        "ageSeconds": 1194
+        "ageSeconds": 1306
       },
       {
         "name": "山本　彩．",
         "rank": "Ruby",
-        "point": 740,
-        "car": "ST205[AR]",
+        "point": 920,
+        "car": "CP9Aエボ6[AR]",
         "shop": "ウェアハウス岩槻店",
-        "update": "2026/08/20 00:43:34",
-        "status": "yellow",
-        "ageSeconds": 1271
+        "update": "2026/08/20 00:54:56",
+        "status": "green",
+        "ageSeconds": 701
+      },
+      {
+        "name": "ぽてち！",
+        "rank": "Ruby",
+        "point": 640,
+        "car": "RPS13[DH]",
+        "shop": "ＭＦ　ＬＩＮＫＳ　ＵＭＥＤＡ",
+        "update": "2026/08/20 00:55:30",
+        "status": "green",
+        "ageSeconds": 667
       },
       {
         "name": "ささきしおん",
@@ -74,7 +124,7 @@
         "shop": "ティックタックワールド鴨川",
         "update": "2026/08/20 00:44:35",
         "status": "yellow",
-        "ageSeconds": 1210
+        "ageSeconds": 1322
       }
     ],
     "Sapphire": [
@@ -86,7 +136,7 @@
         "shop": "タイトーＦステーションオリナス錦糸町店",
         "update": "2026/08/20 00:44:34",
         "status": "yellow",
-        "ageSeconds": 1211
+        "ageSeconds": 1323
       }
     ],
     "Emerald": [],
