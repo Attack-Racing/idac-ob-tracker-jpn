@@ -1,9 +1,29 @@
 {
-  "trackerTime": "2026-08-20 01:34:38",
-  "activeSince": "2026-08-20 01:04:38",
-  "total": 3,
+  "trackerTime": "2026-08-20 01:36:23",
+  "activeSince": "2026-08-20 01:06:23",
+  "total": 6,
   "ranks": {
     "Pride": [
+      {
+        "name": "ゆとりでうす",
+        "rank": "Pride",
+        "point": 39240,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "インターワールド伊勢崎店",
+        "update": "2026/08/20 01:30:27",
+        "status": "green",
+        "ageSeconds": 356
+      },
+      {
+        "name": "あ＠とくしま",
+        "rank": "Pride",
+        "point": 38880,
+        "car": "CP9Aエボ6[HC]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/20 01:30:34",
+        "status": "green",
+        "ageSeconds": 349
+      },
       {
         "name": "偽シノＳＸ",
         "rank": "Pride",
@@ -12,7 +32,7 @@
         "shop": "ＧｉＧＯ渋谷宮益坂",
         "update": "2026/08/20 01:12:46",
         "status": "yellow",
-        "ageSeconds": 1312
+        "ageSeconds": 1417
       }
     ],
     "Ruby": [
@@ -24,7 +44,7 @@
         "shop": "ゲームサファリ池袋",
         "update": "2026/08/20 01:11:28",
         "status": "yellow",
-        "ageSeconds": 1390
+        "ageSeconds": 1495
       },
       {
         "name": "四宮　かぐや",
@@ -34,7 +54,17 @@
         "shop": "ＧｉＧＯ春日井",
         "update": "2026/08/20 01:11:34",
         "status": "yellow",
-        "ageSeconds": 1384
+        "ageSeconds": 1489
+      },
+      {
+        "name": "§Ｓｈｏｕ§",
+        "rank": "Ruby",
+        "point": 1900,
+        "car": "Z33[AR]",
+        "shop": "ＧｉＧＯ春日井",
+        "update": "2026/08/20 01:19:23",
+        "status": "yellow",
+        "ageSeconds": 1020
       }
     ],
     "Sapphire": [],
