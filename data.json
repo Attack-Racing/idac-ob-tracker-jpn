@@ -1,35 +1,56 @@
 {
-  "trackerTime": "2026-08-20 01:50:35",
-  "activeSince": "2026-08-20 01:20:35",
-  "total": 2,
+  "trackerTime": "2026-08-20 01:51:22",
+  "activeSince": "2026-08-20 01:21:22",
+  "total": 4,
   "ranks": {
     "Pride": [
       {
+        "name": "じょっちゃん",
+        "rank": "Pride",
+        "point": 111740,
+        "car": "CP9Aエボ5[AR]",
+        "shop": "アピナ野々市店",
+        "update": "2026/08/20 01:44:39",
+        "status": "green",
+        "ageSeconds": 403
+      },
+      {
         "name": "ゆとりでうす",
         "rank": "Pride",
-        "point": 39240,
-        "car": "CE9Aエボ3[AR]",
+        "point": 39180,
+        "car": "ST205[AR]",
         "shop": "インターワールド伊勢崎店",
-        "update": "2026/08/20 01:30:27",
-        "status": "yellow",
-        "ageSeconds": 1208
+        "update": "2026/08/20 01:39:39",
+        "status": "green",
+        "ageSeconds": 703
       },
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 38880,
-        "car": "CP9Aエボ6[HC]",
+        "point": 38820,
+        "car": "86トレノ[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/20 01:30:34",
-        "status": "yellow",
-        "ageSeconds": 1201
+        "update": "2026/08/20 01:44:46",
+        "status": "green",
+        "ageSeconds": 396
       }
     ],
     "Ruby": [],
     "Sapphire": [],
     "Emerald": [],
     "Clear Blue": [],
-    "Clear Red": [],
+    "Clear Red": [
+      {
+        "name": "ＷＡＷＡＷＡ",
+        "rank": "Clear Red",
+        "point": 540,
+        "car": "86トレノ[DH]",
+        "shop": "ＧｉＧＯスマーク伊勢崎",
+        "update": "2026/08/20 01:44:20",
+        "status": "green",
+        "ageSeconds": 422
+      }
+    ],
     "Clear Green": [],
     "Unknown Online Rank": []
   }
