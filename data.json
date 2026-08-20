@@ -1,50 +1,70 @@
 {
-  "trackerTime": "2026-08-21 02:50:42",
-  "activeSince": "2026-08-21 02:20:42",
-  "total": 6,
+  "trackerTime": "2026-08-21 02:52:25",
+  "activeSince": "2026-08-21 02:22:25",
+  "total": 8,
   "ranks": {
     "Pride": [
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 41320,
-        "car": "S13[HC]",
+        "point": 41580,
+        "car": "ZC33S[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/21 02:29:26",
+        "update": "2026/08/21 02:36:52",
         "status": "yellow",
-        "ageSeconds": 1276
+        "ageSeconds": 933
       },
       {
         "name": "バレンシーア",
         "rank": "Pride",
-        "point": 38080,
-        "car": "ST205[AR]",
+        "point": 38340,
+        "car": "86トレノ[AR]",
         "shop": "ＧｉＧＯスエヒロボウル徳島",
-        "update": "2026/08/21 02:22:21",
-        "status": "yellow",
-        "ageSeconds": 1701
+        "update": "2026/08/21 02:42:28",
+        "status": "green",
+        "ageSeconds": 597
+      },
+      {
+        "name": "りくちゃん？",
+        "rank": "Pride",
+        "point": 37740,
+        "car": "ST205[AR]",
+        "shop": "ウェアハウス三橋店",
+        "update": "2026/08/21 02:45:38",
+        "status": "green",
+        "ageSeconds": 407
+      },
+      {
+        "name": "チェリボム",
+        "rank": "Pride",
+        "point": 15080,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "マトリクス前橋",
+        "update": "2026/08/21 02:42:28",
+        "status": "green",
+        "ageSeconds": 597
       },
       {
         "name": "Ｖｉｏｌｅｔ",
         "rank": "Pride",
-        "point": 4520,
+        "point": 4400,
         "car": "86トレノ[AR]",
         "shop": "アミューズメントパフェパレパレ田宮店",
-        "update": "2026/08/21 02:26:06",
-        "status": "yellow",
-        "ageSeconds": 1476
+        "update": "2026/08/21 02:40:30",
+        "status": "green",
+        "ageSeconds": 715
       }
     ],
     "Ruby": [
       {
-        "name": "ｋａｎａｄａ",
+        "name": "躯樹の墓守",
         "rank": "Ruby",
-        "point": 3200,
-        "car": "FC3S[DH]",
-        "shop": "ゲームパニック三郷",
-        "update": "2026/08/21 02:20:50",
-        "status": "yellow",
-        "ageSeconds": 1792
+        "point": 4380,
+        "car": "FD3S[AR]",
+        "shop": "ドライブイン古城",
+        "update": "2026/08/21 02:45:45",
+        "status": "green",
+        "ageSeconds": 400
       },
       {
         "name": "滝汗しりもと",
@@ -54,17 +74,17 @@
         "shop": "スポーツウェーブ鉄腕24",
         "update": "2026/08/21 02:22:28",
         "status": "yellow",
-        "ageSeconds": 1694
+        "ageSeconds": 1797
       },
       {
         "name": "おがしょーー",
         "rank": "Ruby",
-        "point": 380,
-        "car": "NB8C[HC]",
+        "point": 640,
+        "car": "SW20[AR]",
         "shop": "群馬レジャーランド伊勢崎店",
-        "update": "2026/08/21 02:29:26",
-        "status": "yellow",
-        "ageSeconds": 1276
+        "update": "2026/08/21 02:40:29",
+        "status": "green",
+        "ageSeconds": 716
       }
     ],
     "Sapphire": [],
