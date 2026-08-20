@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-21 00:51:45",
-  "activeSince": "2026-08-21 00:21:45",
-  "total": 8,
+  "trackerTime": "2026-08-21 00:53:25",
+  "activeSince": "2026-08-21 00:23:25",
+  "total": 9,
   "ranks": {
     "Pride": [],
     "Ruby": [
@@ -13,7 +13,7 @@
         "shop": "アピナ川越店",
         "update": "2026/08/21 00:42:44",
         "status": "green",
-        "ageSeconds": 541
+        "ageSeconds": 641
       },
       {
         "name": "ｋａｎａｄａ",
@@ -23,7 +23,17 @@
         "shop": "ゲームパニック三郷",
         "update": "2026/08/21 00:42:44",
         "status": "green",
-        "ageSeconds": 541
+        "ageSeconds": 641
+      },
+      {
+        "name": "Ｔｒｕｓｔ",
+        "rank": "Ruby",
+        "point": 1020,
+        "car": "CE9Aエボ3[DH]",
+        "shop": "ＧｉＧＯ足利朝倉",
+        "update": "2026/08/21 00:45:48",
+        "status": "green",
+        "ageSeconds": 457
       },
       {
         "name": "のりたまご？",
@@ -33,7 +43,7 @@
         "shop": "ベネクス浦和店",
         "update": "2026/08/21 00:26:00",
         "status": "yellow",
-        "ageSeconds": 1545
+        "ageSeconds": 1645
       }
     ],
     "Sapphire": [
@@ -45,7 +55,7 @@
         "shop": "ゲームアイビス太子",
         "update": "2026/08/21 00:45:04",
         "status": "green",
-        "ageSeconds": 401
+        "ageSeconds": 501
       },
       {
         "name": "ザ☆協極ナル",
@@ -55,7 +65,7 @@
         "shop": "フタバボウル泉大津店",
         "update": "2026/08/21 00:45:02",
         "status": "green",
-        "ageSeconds": 403
+        "ageSeconds": 503
       },
       {
         "name": "東魁帝王",
@@ -65,7 +75,7 @@
         "shop": "シルクハット伊勢佐木町",
         "update": "2026/08/21 00:45:02",
         "status": "green",
-        "ageSeconds": 403
+        "ageSeconds": 503
       },
       {
         "name": "南極阿弥陀佛",
@@ -75,7 +85,7 @@
         "shop": "ゲームサファリ池袋",
         "update": "2026/08/21 00:26:00",
         "status": "yellow",
-        "ageSeconds": 1545
+        "ageSeconds": 1645
       }
     ],
     "Emerald": [
@@ -87,7 +97,7 @@
         "shop": "ＧｉＧＯ秋葉原３号館",
         "update": "2026/08/21 00:23:29",
         "status": "yellow",
-        "ageSeconds": 1696
+        "ageSeconds": 1796
       }
     ],
     "Clear Blue": [],
