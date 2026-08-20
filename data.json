@@ -1,9 +1,19 @@
 {
-  "trackerTime": "2026-08-21 03:50:43",
-  "activeSince": "2026-08-21 03:20:43",
+  "trackerTime": "2026-08-21 03:52:41",
+  "activeSince": "2026-08-21 03:22:41",
   "total": 5,
   "ranks": {
     "Pride": [
+      {
+        "name": "あ＠とくしま",
+        "rank": "Pride",
+        "point": 42820,
+        "car": "964[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/21 03:45:49",
+        "status": "green",
+        "ageSeconds": 411
+      },
       {
         "name": "バレンシーア",
         "rank": "Pride",
@@ -12,27 +22,17 @@
         "shop": "ＧｉＧＯスエヒロボウル徳島",
         "update": "2026/08/21 03:31:30",
         "status": "yellow",
-        "ageSeconds": 1153
+        "ageSeconds": 1270
       },
       {
         "name": "りくちゃん？",
         "rank": "Pride",
-        "point": 38340,
+        "point": 38540,
         "car": "ST205[AR]",
         "shop": "ウェアハウス三橋店",
-        "update": "2026/08/21 03:26:10",
-        "status": "yellow",
-        "ageSeconds": 1473
-      },
-      {
-        "name": "チェリボム",
-        "rank": "Pride",
-        "point": 16000,
-        "car": "CE9Aエボ3[AR]",
-        "shop": "マトリクス前橋",
-        "update": "2026/08/21 03:20:50",
-        "status": "yellow",
-        "ageSeconds": 1793
+        "update": "2026/08/21 03:41:20",
+        "status": "green",
+        "ageSeconds": 680
       },
       {
         "name": "Ｖｉｏｌｅｔ",
@@ -42,7 +42,7 @@
         "shop": "アミューズメントパフェパレパレ田宮店",
         "update": "2026/08/21 03:24:22",
         "status": "yellow",
-        "ageSeconds": 1581
+        "ageSeconds": 1698
       }
     ],
     "Ruby": [
@@ -54,7 +54,7 @@
         "shop": "ＧｉＧＯ佐沼",
         "update": "2026/08/21 03:31:30",
         "status": "yellow",
-        "ageSeconds": 1153
+        "ageSeconds": 1270
       }
     ],
     "Sapphire": [],
