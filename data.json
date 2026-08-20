@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-21 00:34:42",
-  "activeSince": "2026-08-21 00:04:42",
-  "total": 11,
+  "trackerTime": "2026-08-21 00:36:31",
+  "activeSince": "2026-08-21 00:06:31",
+  "total": 13,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "アミパラ松江店",
         "update": "2026/08/21 00:10:53",
         "status": "yellow",
-        "ageSeconds": 1428
+        "ageSeconds": 1537
       }
     ],
     "Ruby": [
@@ -24,17 +24,17 @@
         "shop": "モンキートリック",
         "update": "2026/08/21 00:09:00",
         "status": "yellow",
-        "ageSeconds": 1541
+        "ageSeconds": 1650
       },
       {
         "name": "未来の三原色",
         "rank": "Ruby",
-        "point": 11060,
+        "point": 11300,
         "car": "ST205[AR]",
         "shop": "ラウンドワンダイバーシティ東京プラザ店",
-        "update": "2026/08/21 00:15:33",
+        "update": "2026/08/21 00:19:59",
         "status": "yellow",
-        "ageSeconds": 1148
+        "ageSeconds": 991
       },
       {
         "name": "原田＠葵？！",
@@ -44,17 +44,17 @@
         "shop": "ラウンドワン千日前店",
         "update": "2026/08/21 00:10:04",
         "status": "yellow",
-        "ageSeconds": 1477
+        "ageSeconds": 1586
       },
       {
         "name": "のりたまご？",
         "rank": "Ruby",
-        "point": 200,
-        "car": "CT9Aエボ9[AR]",
+        "point": 380,
+        "car": "CN9Aエボ4[HC]",
         "shop": "ベネクス浦和店",
-        "update": "2026/08/21 00:15:32",
-        "status": "yellow",
-        "ageSeconds": 1149
+        "update": "2026/08/21 00:26:00",
+        "status": "green",
+        "ageSeconds": 630
       }
     ],
     "Sapphire": [
@@ -66,17 +66,27 @@
         "shop": "群馬レジャーランド伊勢崎店",
         "update": "2026/08/21 00:10:35",
         "status": "yellow",
-        "ageSeconds": 1446
+        "ageSeconds": 1555
+      },
+      {
+        "name": "ザ☆協極ナル",
+        "rank": "Sapphire",
+        "point": 2080,
+        "car": "AP1[AR]",
+        "shop": "フタバボウル泉大津店",
+        "update": "2026/08/21 00:30:59",
+        "status": "green",
+        "ageSeconds": 331
       },
       {
         "name": "東魁帝王",
         "rank": "Sapphire",
-        "point": 1960,
-        "car": "CT9Aエボ7[HC]",
+        "point": 1900,
+        "car": "シルエイティ[AR]",
         "shop": "シルクハット伊勢佐木町",
-        "update": "2026/08/21 00:15:32",
+        "update": "2026/08/21 00:20:56",
         "status": "yellow",
-        "ageSeconds": 1149
+        "ageSeconds": 934
       },
       {
         "name": "やまちゃん",
@@ -86,29 +96,39 @@
         "shop": "ＧｉＧＯ　ＭＥＧＡドン･キホーテ桐生",
         "update": "2026/08/21 00:10:04",
         "status": "yellow",
-        "ageSeconds": 1477
+        "ageSeconds": 1586
       },
       {
-        "name": "ザ☆協極ナル",
+        "name": "南極阿弥陀佛",
         "rank": "Sapphire",
-        "point": 1680,
-        "car": "BNR34[AR]",
-        "shop": "フタバボウル泉大津店",
-        "update": "2026/08/21 00:11:54",
-        "status": "yellow",
-        "ageSeconds": 1367
+        "point": 500,
+        "car": "CP9Aエボ5[AR]",
+        "shop": "ゲームサファリ池袋",
+        "update": "2026/08/21 00:26:00",
+        "status": "green",
+        "ageSeconds": 630
+      },
+      {
+        "name": "とあるアニキ",
+        "rank": "Sapphire",
+        "point": 240,
+        "car": "SW20[AR]",
+        "shop": "ラウンドワン朝霞店",
+        "update": "2026/08/21 00:30:59",
+        "status": "green",
+        "ageSeconds": 331
       }
     ],
     "Emerald": [
       {
         "name": "クマママ",
         "rank": "Emerald",
-        "point": 1360,
-        "car": "CT9Aエボ7[HC]",
+        "point": 1300,
+        "car": "FD3S[AR]",
         "shop": "ＧｉＧＯ秋葉原３号館",
-        "update": "2026/08/21 00:15:32",
-        "status": "yellow",
-        "ageSeconds": 1149
+        "update": "2026/08/21 00:23:29",
+        "status": "green",
+        "ageSeconds": 781
       }
     ],
     "Clear Blue": [],
@@ -117,12 +137,12 @@
       {
         "name": "Ｒｅｎ",
         "rank": "Clear Green",
-        "point": 900,
+        "point": 1060,
         "car": "86トレノ[AR]",
         "shop": "ウェアハウス三橋店",
-        "update": "2026/08/21 00:04:46",
+        "update": "2026/08/21 00:21:21",
         "status": "yellow",
-        "ageSeconds": 1795
+        "ageSeconds": 909
       }
     ],
     "Unknown Online Rank": []
