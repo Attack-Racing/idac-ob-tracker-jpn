@@ -1,19 +1,29 @@
 {
-  "trackerTime": "2026-08-21 00:49:38",
-  "activeSince": "2026-08-21 00:19:38",
+  "trackerTime": "2026-08-21 00:51:45",
+  "activeSince": "2026-08-21 00:21:45",
   "total": 8,
   "ranks": {
     "Pride": [],
     "Ruby": [
       {
-        "name": "未来の三原色",
+        "name": "もっちゃん？",
         "rank": "Ruby",
-        "point": 11300,
+        "point": 26480,
         "car": "ST205[AR]",
-        "shop": "ラウンドワンダイバーシティ東京プラザ店",
-        "update": "2026/08/21 00:19:59",
-        "status": "yellow",
-        "ageSeconds": 1779
+        "shop": "アピナ川越店",
+        "update": "2026/08/21 00:42:44",
+        "status": "green",
+        "ageSeconds": 541
+      },
+      {
+        "name": "ｋａｎａｄａ",
+        "rank": "Ruby",
+        "point": 3320,
+        "car": "AP1[AR]",
+        "shop": "ゲームパニック三郷",
+        "update": "2026/08/21 00:42:44",
+        "status": "green",
+        "ageSeconds": 541
       },
       {
         "name": "のりたまご？",
@@ -23,29 +33,39 @@
         "shop": "ベネクス浦和店",
         "update": "2026/08/21 00:26:00",
         "status": "yellow",
-        "ageSeconds": 1418
+        "ageSeconds": 1545
       }
     ],
     "Sapphire": [
       {
+        "name": "Ｄｉｏｒ",
+        "rank": "Sapphire",
+        "point": 3920,
+        "car": "EK9[AR]",
+        "shop": "ゲームアイビス太子",
+        "update": "2026/08/21 00:45:04",
+        "status": "green",
+        "ageSeconds": 401
+      },
+      {
         "name": "ザ☆協極ナル",
         "rank": "Sapphire",
-        "point": 2080,
+        "point": 2260,
         "car": "AP1[AR]",
         "shop": "フタバボウル泉大津店",
-        "update": "2026/08/21 00:30:59",
-        "status": "yellow",
-        "ageSeconds": 1119
+        "update": "2026/08/21 00:45:02",
+        "status": "green",
+        "ageSeconds": 403
       },
       {
         "name": "東魁帝王",
         "rank": "Sapphire",
-        "point": 1900,
+        "point": 1720,
         "car": "シルエイティ[AR]",
         "shop": "シルクハット伊勢佐木町",
-        "update": "2026/08/21 00:20:56",
-        "status": "yellow",
-        "ageSeconds": 1722
+        "update": "2026/08/21 00:45:02",
+        "status": "green",
+        "ageSeconds": 403
       },
       {
         "name": "南極阿弥陀佛",
@@ -55,17 +75,7 @@
         "shop": "ゲームサファリ池袋",
         "update": "2026/08/21 00:26:00",
         "status": "yellow",
-        "ageSeconds": 1418
-      },
-      {
-        "name": "とあるアニキ",
-        "rank": "Sapphire",
-        "point": 240,
-        "car": "SW20[AR]",
-        "shop": "ラウンドワン朝霞店",
-        "update": "2026/08/21 00:30:59",
-        "status": "yellow",
-        "ageSeconds": 1119
+        "ageSeconds": 1545
       }
     ],
     "Emerald": [
@@ -77,23 +87,12 @@
         "shop": "ＧｉＧＯ秋葉原３号館",
         "update": "2026/08/21 00:23:29",
         "status": "yellow",
-        "ageSeconds": 1569
+        "ageSeconds": 1696
       }
     ],
     "Clear Blue": [],
     "Clear Red": [],
-    "Clear Green": [
-      {
-        "name": "Ｒｅｎ",
-        "rank": "Clear Green",
-        "point": 1060,
-        "car": "86トレノ[AR]",
-        "shop": "ウェアハウス三橋店",
-        "update": "2026/08/21 00:21:21",
-        "status": "yellow",
-        "ageSeconds": 1697
-      }
-    ],
+    "Clear Green": [],
     "Unknown Online Rank": []
   }
 }
