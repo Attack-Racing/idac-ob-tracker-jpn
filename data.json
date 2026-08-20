@@ -1,18 +1,28 @@
 {
-  "trackerTime": "2026-08-20 09:21:41",
-  "activeSince": "2026-08-20 08:51:41",
-  "total": 7,
+  "trackerTime": "2026-08-20 09:23:41",
+  "activeSince": "2026-08-20 08:53:41",
+  "total": 13,
   "ranks": {
     "Pride": [
       {
+        "name": "ＴＡＫＡＹＡ",
+        "rank": "Pride",
+        "point": 97840,
+        "car": "CP9Aエボ6[HC]",
+        "shop": "ラウンドワン吉祥寺店",
+        "update": "2026/08/20 09:12:09",
+        "status": "green",
+        "ageSeconds": 692
+      },
+      {
         "name": "わがまますぎ",
         "rank": "Pride",
-        "point": 51200,
+        "point": 51460,
         "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/20 09:00:42",
+        "update": "2026/08/20 09:05:55",
         "status": "yellow",
-        "ageSeconds": 1259
+        "ageSeconds": 1066
       },
       {
         "name": "Ｈαｎｎｙ？",
@@ -22,7 +32,7 @@
         "shop": "ＧｉＧＯ西那須野",
         "update": "2026/08/20 09:01:05",
         "status": "yellow",
-        "ageSeconds": 1236
+        "ageSeconds": 1356
       }
     ],
     "Ruby": [
@@ -34,17 +44,37 @@
         "shop": "ゲームランド草津店",
         "update": "2026/08/20 08:56:25",
         "status": "yellow",
-        "ageSeconds": 1516
+        "ageSeconds": 1636
+      },
+      {
+        "name": "豆腐配達ＤＫ",
+        "rank": "Ruby",
+        "point": 10460,
+        "car": "CP9Aエボ5[DH]",
+        "shop": "ラウンドワン富士店",
+        "update": "2026/08/20 09:12:52",
+        "status": "green",
+        "ageSeconds": 649
+      },
+      {
+        "name": "フラン",
+        "rank": "Ruby",
+        "point": 2640,
+        "car": "86トレノ2[DH]",
+        "shop": "群馬レジャーランド高崎駅東口店",
+        "update": "2026/08/20 09:12:11",
+        "status": "green",
+        "ageSeconds": 690
       },
       {
         "name": "ＲＡＩＲＡ",
         "rank": "Ruby",
-        "point": 2040,
-        "car": "CT9Aエボ7[HC]",
+        "point": 2560,
+        "car": "EK9[AR]",
         "shop": "シルクハット川崎モアーズ",
-        "update": "2026/08/20 09:01:17",
-        "status": "yellow",
-        "ageSeconds": 1224
+        "update": "2026/08/20 09:12:51",
+        "status": "green",
+        "ageSeconds": 650
       },
       {
         "name": "啓悟の弟子",
@@ -54,7 +84,27 @@
         "shop": "ＧｉＧＯ福島南",
         "update": "2026/08/20 09:01:12",
         "status": "yellow",
-        "ageSeconds": 1229
+        "ageSeconds": 1349
+      },
+      {
+        "name": "最終兵器．君",
+        "rank": "Ruby",
+        "point": 280,
+        "car": "AP1[DH]",
+        "shop": "アミパラ下関駅南店",
+        "update": "2026/08/20 09:08:57",
+        "status": "green",
+        "ageSeconds": 884
+      },
+      {
+        "name": "中段チェリー",
+        "rank": "Ruby",
+        "point": 260,
+        "car": "ST205[AR]",
+        "shop": "ＧｉＧＯ海老名",
+        "update": "2026/08/20 09:08:50",
+        "status": "green",
+        "ageSeconds": 891
       },
       {
         "name": "プレイヤー",
@@ -64,22 +114,33 @@
         "shop": "滋賀レジャーランド大津店",
         "update": "2026/08/20 08:56:00",
         "status": "yellow",
-        "ageSeconds": 1541
+        "ageSeconds": 1661
       }
     ],
     "Sapphire": [
       {
         "name": "望月穂波",
         "rank": "Sapphire",
-        "point": 2600,
+        "point": 2820,
         "car": "ZZW30[HC]",
         "shop": "神奈川レジャーランド厚木店",
-        "update": "2026/08/20 09:01:18",
+        "update": "2026/08/20 09:07:13",
         "status": "yellow",
-        "ageSeconds": 1223
+        "ageSeconds": 988
       }
     ],
-    "Emerald": [],
+    "Emerald": [
+      {
+        "name": "ひま",
+        "rank": "Emerald",
+        "point": 1480,
+        "car": "AP1[AR]",
+        "shop": "ラウンドワン富士店",
+        "update": "2026/08/20 09:07:16",
+        "status": "yellow",
+        "ageSeconds": 985
+      }
+    ],
     "Clear Blue": [],
     "Clear Red": [],
     "Clear Green": [],
