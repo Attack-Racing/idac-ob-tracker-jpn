@@ -1,30 +1,60 @@
 {
-  "trackerTime": "2026-08-20 09:37:48",
-  "activeSince": "2026-08-20 09:07:48",
-  "total": 6,
+  "trackerTime": "2026-08-20 09:39:36",
+  "activeSince": "2026-08-20 09:09:36",
+  "total": 12,
   "ranks": {
     "Pride": [
       {
         "name": "ＴＡＫＡＹＡ",
         "rank": "Pride",
-        "point": 97840,
-        "car": "CP9Aエボ6[HC]",
+        "point": 98360,
+        "car": "ST205[AR]",
         "shop": "ラウンドワン吉祥寺店",
-        "update": "2026/08/20 09:12:09",
+        "update": "2026/08/20 09:24:21",
         "status": "yellow",
-        "ageSeconds": 1539
+        "ageSeconds": 915
+      },
+      {
+        "name": "妖夢",
+        "rank": "Pride",
+        "point": 28040,
+        "car": "CP9Aエボ5[AR]",
+        "shop": "群馬レジャーランド高崎駅東口店",
+        "update": "2026/08/20 09:28:40",
+        "status": "green",
+        "ageSeconds": 656
       }
     ],
     "Ruby": [
       {
         "name": "豆腐配達ＤＫ",
         "rank": "Ruby",
-        "point": 10460,
-        "car": "CP9Aエボ5[DH]",
+        "point": 10340,
+        "car": "ZZW30[HC]",
         "shop": "ラウンドワン富士店",
-        "update": "2026/08/20 09:12:52",
-        "status": "yellow",
-        "ageSeconds": 1496
+        "update": "2026/08/20 09:29:13",
+        "status": "green",
+        "ageSeconds": 623
+      },
+      {
+        "name": "Ｅ１ａＶｏｘ",
+        "rank": "Ruby",
+        "point": 6100,
+        "car": "CT9Aエボ7[HC]",
+        "shop": "アミューズメントパークＭＧキスケ",
+        "update": "2026/08/20 09:29:11",
+        "status": "green",
+        "ageSeconds": 625
+      },
+      {
+        "name": "ＲＡＩＲＡ",
+        "rank": "Ruby",
+        "point": 3040,
+        "car": "RZ34[AR]",
+        "shop": "シルクハット川崎モアーズ",
+        "update": "2026/08/20 09:24:39",
+        "status": "green",
+        "ageSeconds": 897
       },
       {
         "name": "フラン",
@@ -34,44 +64,77 @@
         "shop": "群馬レジャーランド高崎駅東口店",
         "update": "2026/08/20 09:12:11",
         "status": "yellow",
-        "ageSeconds": 1537
+        "ageSeconds": 1645
       },
       {
-        "name": "ＲＡＩＲＡ",
+        "name": "星乃一歌",
         "rank": "Ruby",
         "point": 2560,
-        "car": "EK9[AR]",
-        "shop": "シルクハット川崎モアーズ",
-        "update": "2026/08/20 09:12:51",
-        "status": "yellow",
-        "ageSeconds": 1497
-      },
-      {
-        "name": "最終兵器．君",
-        "rank": "Ruby",
-        "point": 280,
-        "car": "AP1[DH]",
-        "shop": "アミパラ下関駅南店",
-        "update": "2026/08/20 09:08:57",
-        "status": "yellow",
-        "ageSeconds": 1731
+        "car": "CP9Aエボ6[AR]",
+        "shop": "神奈川レジャーランド厚木店",
+        "update": "2026/08/20 09:28:39",
+        "status": "green",
+        "ageSeconds": 657
       },
       {
         "name": "中段チェリー",
         "rank": "Ruby",
-        "point": 260,
-        "car": "ST205[AR]",
+        "point": 460,
+        "car": "ZZW30[HC]",
         "shop": "ＧｉＧＯ海老名",
-        "update": "2026/08/20 09:08:50",
+        "update": "2026/08/20 09:24:28",
         "status": "yellow",
-        "ageSeconds": 1738
+        "ageSeconds": 908
       }
     ],
-    "Sapphire": [],
+    "Sapphire": [
+      {
+        "name": "鬼舞辻　無惨",
+        "rank": "Sapphire",
+        "point": 420,
+        "car": "FC3S[DH]",
+        "shop": "大垣メトロポリス",
+        "update": "2026/08/20 09:18:37",
+        "status": "yellow",
+        "ageSeconds": 1259
+      }
+    ],
     "Emerald": [],
-    "Clear Blue": [],
+    "Clear Blue": [
+      {
+        "name": "れいら",
+        "rank": "Clear Blue",
+        "point": 3120,
+        "car": "ZN8[DH]",
+        "shop": "ＧｉＧＯ大阪第４ビル",
+        "update": "2026/08/20 09:24:17",
+        "status": "yellow",
+        "ageSeconds": 919
+      },
+      {
+        "name": "ひかるちゃん",
+        "rank": "Clear Blue",
+        "point": 1820,
+        "car": "4C[DH]",
+        "shop": "プラサカプコン高知",
+        "update": "2026/08/20 09:24:19",
+        "status": "yellow",
+        "ageSeconds": 917
+      }
+    ],
     "Clear Red": [],
-    "Clear Green": [],
+    "Clear Green": [
+      {
+        "name": "名探偵",
+        "rank": "Clear Green",
+        "point": 420,
+        "car": "FC3S[DH]",
+        "shop": "アミューズメントパフェパレパレ田宮店",
+        "update": "2026/08/20 09:19:38",
+        "status": "yellow",
+        "ageSeconds": 1198
+      }
+    ],
     "Unknown Online Rank": []
   }
 }
