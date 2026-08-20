@@ -1,50 +1,50 @@
 {
-  "trackerTime": "2026-08-20 09:07:38",
-  "activeSince": "2026-08-20 08:37:38",
-  "total": 8,
+  "trackerTime": "2026-08-20 09:09:38",
+  "activeSince": "2026-08-20 08:39:38",
+  "total": 11,
   "ranks": {
     "Pride": [
       {
         "name": "わがまますぎ",
         "rank": "Pride",
-        "point": 50420,
+        "point": 51200,
         "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/20 08:44:14",
-        "status": "yellow",
-        "ageSeconds": 1404
+        "update": "2026/08/20 09:00:42",
+        "status": "green",
+        "ageSeconds": 536
       },
       {
         "name": "Ｈαｎｎｙ？",
         "rank": "Pride",
-        "point": 31540,
-        "car": "AP1[AR]",
+        "point": 32320,
+        "car": "EG6[HC]",
         "shop": "ＧｉＧＯ西那須野",
-        "update": "2026/08/20 08:46:36",
-        "status": "yellow",
-        "ageSeconds": 1262
+        "update": "2026/08/20 09:01:05",
+        "status": "green",
+        "ageSeconds": 513
       },
       {
         "name": "　　らーめん",
         "rank": "Pride",
-        "point": 11540,
+        "point": 11800,
         "car": "ST205[AR]",
         "shop": "関大前フタバボウル",
-        "update": "2026/08/20 08:42:11",
+        "update": "2026/08/20 08:47:53",
         "status": "yellow",
-        "ageSeconds": 1527
+        "ageSeconds": 1305
       }
     ],
     "Ruby": [
       {
         "name": "ｓｃｕｍｐ．",
         "rank": "Ruby",
-        "point": 26000,
+        "point": 25940,
         "car": "86トレノ[AR]",
         "shop": "ゲームランド草津店",
-        "update": "2026/08/20 08:42:18",
-        "status": "yellow",
-        "ageSeconds": 1520
+        "update": "2026/08/20 08:56:25",
+        "status": "green",
+        "ageSeconds": 793
       },
       {
         "name": "祐良の弟子＾",
@@ -54,45 +54,75 @@
         "shop": "山田レジャーセンター",
         "update": "2026/08/20 08:44:21",
         "status": "yellow",
-        "ageSeconds": 1397
+        "ageSeconds": 1517
+      },
+      {
+        "name": "音もない世界",
+        "rank": "Ruby",
+        "point": 2140,
+        "car": "ST205[AR]",
+        "shop": "楽市楽座行橋店",
+        "update": "2026/08/20 08:48:00",
+        "status": "yellow",
+        "ageSeconds": 1298
       },
       {
         "name": "ＲＡＩＲＡ",
         "rank": "Ruby",
-        "point": 2100,
-        "car": "EK9[DH]",
+        "point": 2040,
+        "car": "CT9Aエボ7[HC]",
         "shop": "シルクハット川崎モアーズ",
-        "update": "2026/08/20 08:46:35",
+        "update": "2026/08/20 09:01:17",
+        "status": "green",
+        "ageSeconds": 501
+      },
+      {
+        "name": "啓悟の弟子",
+        "rank": "Ruby",
+        "point": 1340,
+        "car": "86トレノ[AR]",
+        "shop": "ＧｉＧＯ福島南",
+        "update": "2026/08/20 09:01:12",
+        "status": "green",
+        "ageSeconds": 506
+      },
+      {
+        "name": "俺の師匠北浦",
+        "rank": "Ruby",
+        "point": 960,
+        "car": "CZ4Aエボ10[AR]",
+        "shop": "タイトーステーション 池袋西口店",
+        "update": "2026/08/20 08:51:14",
         "status": "yellow",
-        "ageSeconds": 1263
+        "ageSeconds": 1104
+      },
+      {
+        "name": "プレイヤー",
+        "rank": "Ruby",
+        "point": 80,
+        "car": "S15[AR]",
+        "shop": "滋賀レジャーランド大津店",
+        "update": "2026/08/20 08:56:00",
+        "status": "green",
+        "ageSeconds": 818
       }
     ],
-    "Sapphire": [],
+    "Sapphire": [
+      {
+        "name": "望月穂波",
+        "rank": "Sapphire",
+        "point": 2600,
+        "car": "ZZW30[HC]",
+        "shop": "神奈川レジャーランド厚木店",
+        "update": "2026/08/20 09:01:18",
+        "status": "green",
+        "ageSeconds": 500
+      }
+    ],
     "Emerald": [],
     "Clear Blue": [],
     "Clear Red": [],
-    "Clear Green": [
-      {
-        "name": "Ｆ８７",
-        "rank": "Clear Green",
-        "point": 860,
-        "car": "EG6[DH]",
-        "shop": "アピナ太田店",
-        "update": "2026/08/20 08:39:31",
-        "status": "yellow",
-        "ageSeconds": 1687
-      },
-      {
-        "name": "こーたろー",
-        "rank": "Clear Green",
-        "point": 240,
-        "car": "86トレノ[DH]",
-        "shop": "アミパラ高知店",
-        "update": "2026/08/20 08:39:37",
-        "status": "yellow",
-        "ageSeconds": 1681
-      }
-    ],
+    "Clear Green": [],
     "Unknown Online Rank": []
   }
 }
