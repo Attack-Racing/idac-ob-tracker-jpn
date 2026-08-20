@@ -1,28 +1,28 @@
 {
-  "trackerTime": "2026-08-20 09:52:41",
-  "activeSince": "2026-08-20 09:22:41",
-  "total": 9,
+  "trackerTime": "2026-08-20 09:54:42",
+  "activeSince": "2026-08-20 09:24:42",
+  "total": 18,
   "ranks": {
     "Pride": [
       {
         "name": "ＴＡＫＡＹＡ",
         "rank": "Pride",
-        "point": 98360,
+        "point": 98560,
         "car": "ST205[AR]",
         "shop": "ラウンドワン吉祥寺店",
-        "update": "2026/08/20 09:24:21",
+        "update": "2026/08/20 09:39:18",
         "status": "yellow",
-        "ageSeconds": 1700
+        "ageSeconds": 923
       },
       {
         "name": "妖夢",
         "rank": "Pride",
-        "point": 28040,
+        "point": 28560,
         "car": "CP9Aエボ5[AR]",
         "shop": "群馬レジャーランド高崎駅東口店",
-        "update": "2026/08/20 09:28:40",
-        "status": "yellow",
-        "ageSeconds": 1441
+        "update": "2026/08/20 09:40:07",
+        "status": "green",
+        "ageSeconds": 874
       }
     ],
     "Ruby": [
@@ -34,75 +34,169 @@
         "shop": "ラウンドワン富士店",
         "update": "2026/08/20 09:29:13",
         "status": "yellow",
-        "ageSeconds": 1408
+        "ageSeconds": 1528
       },
       {
         "name": "Ｅ１ａＶｏｘ",
         "rank": "Ruby",
-        "point": 6100,
+        "point": 6540,
         "car": "CT9Aエボ7[HC]",
         "shop": "アミューズメントパークＭＧキスケ",
-        "update": "2026/08/20 09:29:11",
-        "status": "yellow",
-        "ageSeconds": 1410
-      },
-      {
-        "name": "ＲＡＩＲＡ",
-        "rank": "Ruby",
-        "point": 3040,
-        "car": "RZ34[AR]",
-        "shop": "シルクハット川崎モアーズ",
-        "update": "2026/08/20 09:24:39",
-        "status": "yellow",
-        "ageSeconds": 1682
+        "update": "2026/08/20 09:45:53",
+        "status": "green",
+        "ageSeconds": 528
       },
       {
         "name": "星乃一歌",
         "rank": "Ruby",
-        "point": 2560,
-        "car": "CP9Aエボ6[AR]",
+        "point": 2760,
+        "car": "CT9Aエボ7[HC]",
         "shop": "神奈川レジャーランド厚木店",
-        "update": "2026/08/20 09:28:39",
+        "update": "2026/08/20 09:39:25",
         "status": "yellow",
-        "ageSeconds": 1442
+        "ageSeconds": 916
+      },
+      {
+        "name": "あべちゃん∞",
+        "rank": "Ruby",
+        "point": 1060,
+        "car": "EG6[HC]",
+        "shop": "アミパラ下関駅南店",
+        "update": "2026/08/20 09:45:52",
+        "status": "green",
+        "ageSeconds": 529
       },
       {
         "name": "中段チェリー",
         "rank": "Ruby",
-        "point": 460,
-        "car": "ZZW30[HC]",
+        "point": 400,
+        "car": "SW20[DH]",
         "shop": "ＧｉＧＯ海老名",
-        "update": "2026/08/20 09:24:28",
-        "status": "yellow",
-        "ageSeconds": 1693
+        "update": "2026/08/20 09:40:14",
+        "status": "green",
+        "ageSeconds": 867
       }
     ],
-    "Sapphire": [],
-    "Emerald": [],
+    "Sapphire": [
+      {
+        "name": "ＸＸ０",
+        "rank": "Sapphire",
+        "point": 920,
+        "car": "CP9Aエボ5[AR]",
+        "shop": "群馬レジャーランド太田店",
+        "update": "2026/08/20 09:42:41",
+        "status": "green",
+        "ageSeconds": 720
+      },
+      {
+        "name": "下弦の鬼幻魔",
+        "rank": "Sapphire",
+        "point": 620,
+        "car": "CN9Aエボ4[HC]",
+        "shop": "ラウンドワンモレラ岐阜店",
+        "update": "2026/08/20 09:40:58",
+        "status": "green",
+        "ageSeconds": 823
+      },
+      {
+        "name": "いちご",
+        "rank": "Sapphire",
+        "point": 400,
+        "car": "ZC33S[AR]",
+        "shop": "ＧｉＧＯ仙台",
+        "update": "2026/08/20 09:45:10",
+        "status": "green",
+        "ageSeconds": 571
+      }
+    ],
+    "Emerald": [
+      {
+        "name": "ｙｕｒｉ",
+        "rank": "Emerald",
+        "point": 2340,
+        "car": "86トレノ[DH]",
+        "shop": "アピナ太田店",
+        "update": "2026/08/20 09:42:40",
+        "status": "green",
+        "ageSeconds": 721
+      },
+      {
+        "name": "ＫａＺ",
+        "rank": "Emerald",
+        "point": 1860,
+        "car": "CE9Aエボ3[DH]",
+        "shop": "ＧｉＧＯイオンモール浦和美園",
+        "update": "2026/08/20 09:46:28",
+        "status": "green",
+        "ageSeconds": 493
+      },
+      {
+        "name": "遠山の欽さん",
+        "rank": "Emerald",
+        "point": 640,
+        "car": "ZC6[AR]",
+        "shop": "ｎａｍｃｏラゾーナ川崎店",
+        "update": "2026/08/20 09:37:27",
+        "status": "yellow",
+        "ageSeconds": 1034
+      }
+    ],
     "Clear Blue": [
       {
         "name": "れいら",
         "rank": "Clear Blue",
-        "point": 3120,
+        "point": 3460,
         "car": "ZN8[DH]",
         "shop": "ＧｉＧＯ大阪第４ビル",
-        "update": "2026/08/20 09:24:17",
-        "status": "yellow",
-        "ageSeconds": 1704
+        "update": "2026/08/20 09:42:08",
+        "status": "green",
+        "ageSeconds": 753
       },
       {
         "name": "ひかるちゃん",
         "rank": "Clear Blue",
-        "point": 1820,
+        "point": 2000,
         "car": "4C[DH]",
         "shop": "プラサカプコン高知",
-        "update": "2026/08/20 09:24:19",
-        "status": "yellow",
-        "ageSeconds": 1702
+        "update": "2026/08/20 09:42:10",
+        "status": "green",
+        "ageSeconds": 751
       }
     ],
-    "Clear Red": [],
-    "Clear Green": [],
+    "Clear Red": [
+      {
+        "name": "たにくち",
+        "rank": "Clear Red",
+        "point": 680,
+        "car": "FD3S6[HC]",
+        "shop": "ラウンドワン千日前店",
+        "update": "2026/08/20 09:36:09",
+        "status": "yellow",
+        "ageSeconds": 1112
+      }
+    ],
+    "Clear Green": [
+      {
+        "name": "まいまい",
+        "rank": "Clear Green",
+        "point": 1460,
+        "car": "SW20[DH]",
+        "shop": "ゲーム　アルカナ",
+        "update": "2026/08/20 09:43:23",
+        "status": "green",
+        "ageSeconds": 678
+      },
+      {
+        "name": "名探偵",
+        "rank": "Clear Green",
+        "point": 580,
+        "car": "FC3S[DH]",
+        "shop": "アミューズメントパフェパレパレ田宮店",
+        "update": "2026/08/20 09:43:21",
+        "status": "green",
+        "ageSeconds": 680
+      }
+    ],
     "Unknown Online Rank": []
   }
 }
