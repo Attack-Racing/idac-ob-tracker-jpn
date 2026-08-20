@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-20 09:35:38",
-  "activeSince": "2026-08-20 09:05:38",
-  "total": 9,
+  "trackerTime": "2026-08-20 09:37:48",
+  "activeSince": "2026-08-20 09:07:48",
+  "total": 6,
   "ranks": {
     "Pride": [
       {
@@ -12,17 +12,7 @@
         "shop": "ラウンドワン吉祥寺店",
         "update": "2026/08/20 09:12:09",
         "status": "yellow",
-        "ageSeconds": 1409
-      },
-      {
-        "name": "わがまますぎ",
-        "rank": "Pride",
-        "point": 51460,
-        "car": "ST205[AR]",
-        "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/20 09:05:55",
-        "status": "yellow",
-        "ageSeconds": 1783
+        "ageSeconds": 1539
       }
     ],
     "Ruby": [
@@ -34,7 +24,7 @@
         "shop": "ラウンドワン富士店",
         "update": "2026/08/20 09:12:52",
         "status": "yellow",
-        "ageSeconds": 1366
+        "ageSeconds": 1496
       },
       {
         "name": "フラン",
@@ -44,7 +34,7 @@
         "shop": "群馬レジャーランド高崎駅東口店",
         "update": "2026/08/20 09:12:11",
         "status": "yellow",
-        "ageSeconds": 1407
+        "ageSeconds": 1537
       },
       {
         "name": "ＲＡＩＲＡ",
@@ -54,7 +44,7 @@
         "shop": "シルクハット川崎モアーズ",
         "update": "2026/08/20 09:12:51",
         "status": "yellow",
-        "ageSeconds": 1367
+        "ageSeconds": 1497
       },
       {
         "name": "最終兵器．君",
@@ -64,7 +54,7 @@
         "shop": "アミパラ下関駅南店",
         "update": "2026/08/20 09:08:57",
         "status": "yellow",
-        "ageSeconds": 1601
+        "ageSeconds": 1731
       },
       {
         "name": "中段チェリー",
@@ -74,33 +64,11 @@
         "shop": "ＧｉＧＯ海老名",
         "update": "2026/08/20 09:08:50",
         "status": "yellow",
-        "ageSeconds": 1608
+        "ageSeconds": 1738
       }
     ],
-    "Sapphire": [
-      {
-        "name": "望月穂波",
-        "rank": "Sapphire",
-        "point": 2820,
-        "car": "ZZW30[HC]",
-        "shop": "神奈川レジャーランド厚木店",
-        "update": "2026/08/20 09:07:13",
-        "status": "yellow",
-        "ageSeconds": 1705
-      }
-    ],
-    "Emerald": [
-      {
-        "name": "ひま",
-        "rank": "Emerald",
-        "point": 1480,
-        "car": "AP1[AR]",
-        "shop": "ラウンドワン富士店",
-        "update": "2026/08/20 09:07:16",
-        "status": "yellow",
-        "ageSeconds": 1702
-      }
-    ],
+    "Sapphire": [],
+    "Emerald": [],
     "Clear Blue": [],
     "Clear Red": [],
     "Clear Green": [],
