@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-21 01:21:41",
-  "activeSince": "2026-08-21 00:51:41",
-  "total": 13,
+  "trackerTime": "2026-08-21 01:23:33",
+  "activeSince": "2026-08-21 00:53:33",
+  "total": 14,
   "ranks": {
     "Pride": [
       {
@@ -11,8 +11,8 @@
         "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/21 01:07:00",
-        "status": "green",
-        "ageSeconds": 881
+        "status": "yellow",
+        "ageSeconds": 993
       },
       {
         "name": "Ｖｉｏｌｅｔ",
@@ -22,7 +22,7 @@
         "shop": "アミューズメントパフェパレパレ田宮店",
         "update": "2026/08/21 01:06:10",
         "status": "yellow",
-        "ageSeconds": 931
+        "ageSeconds": 1043
       }
     ],
     "Ruby": [
@@ -34,7 +34,7 @@
         "shop": "アピナ川越店",
         "update": "2026/08/21 01:06:09",
         "status": "yellow",
-        "ageSeconds": 932
+        "ageSeconds": 1044
       },
       {
         "name": "あわれなり．",
@@ -44,7 +44,7 @@
         "shop": "アミューズメントパフェパレパレ田宮店",
         "update": "2026/08/21 00:59:38",
         "status": "yellow",
-        "ageSeconds": 1323
+        "ageSeconds": 1435
       },
       {
         "name": "西田　汐里",
@@ -54,7 +54,7 @@
         "shop": "ＧｉＧＯ太田",
         "update": "2026/08/21 01:04:44",
         "status": "yellow",
-        "ageSeconds": 1017
+        "ageSeconds": 1129
       },
       {
         "name": "ｋａｎａｄａ",
@@ -63,8 +63,8 @@
         "car": "CN9Aエボ4[HC]",
         "shop": "ゲームパニック三郷",
         "update": "2026/08/21 01:06:59",
-        "status": "green",
-        "ageSeconds": 882
+        "status": "yellow",
+        "ageSeconds": 994
       },
       {
         "name": "Ｔｒｕｓｔ",
@@ -74,7 +74,17 @@
         "shop": "ＧｉＧＯ足利朝倉",
         "update": "2026/08/21 00:56:18",
         "status": "yellow",
-        "ageSeconds": 1523
+        "ageSeconds": 1635
+      },
+      {
+        "name": "方便報個平安",
+        "rank": "Ruby",
+        "point": 760,
+        "car": "ST205[AR]",
+        "shop": "ゲームフェスタミタマ店",
+        "update": "2026/08/21 01:14:29",
+        "status": "green",
+        "ageSeconds": 544
       }
     ],
     "Sapphire": [
@@ -86,7 +96,7 @@
         "shop": "ゲームアイビス太子",
         "update": "2026/08/21 00:55:49",
         "status": "yellow",
-        "ageSeconds": 1552
+        "ageSeconds": 1664
       },
       {
         "name": "ザ☆協極ナル",
@@ -95,8 +105,8 @@
         "car": "BNR34[AR]",
         "shop": "フタバボウル泉大津店",
         "update": "2026/08/21 01:07:34",
-        "status": "green",
-        "ageSeconds": 847
+        "status": "yellow",
+        "ageSeconds": 959
       },
       {
         "name": "東魁帝王",
@@ -106,7 +116,7 @@
         "shop": "シルクハット伊勢佐木町",
         "update": "2026/08/21 01:14:27",
         "status": "green",
-        "ageSeconds": 434
+        "ageSeconds": 546
       }
     ],
     "Emerald": [],
@@ -119,7 +129,7 @@
         "shop": "群馬レジャーランド前橋店",
         "update": "2026/08/21 01:10:32",
         "status": "green",
-        "ageSeconds": 669
+        "ageSeconds": 781
       }
     ],
     "Clear Red": [
@@ -131,7 +141,7 @@
         "shop": "群馬レジャーランド前橋店",
         "update": "2026/08/21 01:12:31",
         "status": "green",
-        "ageSeconds": 550
+        "ageSeconds": 662
       }
     ],
     "Clear Green": [
@@ -143,7 +153,7 @@
         "shop": "ウェアハウス三橋店",
         "update": "2026/08/21 01:10:31",
         "status": "green",
-        "ageSeconds": 670
+        "ageSeconds": 782
       }
     ],
     "Unknown Online Rank": []
