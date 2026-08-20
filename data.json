@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-21 02:31:28",
-  "activeSince": "2026-08-21 02:01:28",
-  "total": 8,
+  "trackerTime": "2026-08-21 02:32:28",
+  "activeSince": "2026-08-21 02:02:28",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/21 02:10:33",
         "status": "yellow",
-        "ageSeconds": 1255
+        "ageSeconds": 1315
       },
       {
         "name": "チェリボム",
@@ -22,7 +22,7 @@
         "shop": "マトリクス前橋",
         "update": "2026/08/21 02:03:03",
         "status": "yellow",
-        "ageSeconds": 1705
+        "ageSeconds": 1765
       },
       {
         "name": "Ｖｉｏｌｅｔ",
@@ -32,7 +32,7 @@
         "shop": "アミューズメントパフェパレパレ田宮店",
         "update": "2026/08/21 02:16:15",
         "status": "yellow",
-        "ageSeconds": 913
+        "ageSeconds": 973
       },
       {
         "name": "ベるゼブる",
@@ -42,7 +42,7 @@
         "shop": "アミューズメントパークＭＧ徳島",
         "update": "2026/08/21 02:09:41",
         "status": "yellow",
-        "ageSeconds": 1307
+        "ageSeconds": 1367
       }
     ],
     "Ruby": [
@@ -54,7 +54,7 @@
         "shop": "ゲームパニック三郷",
         "update": "2026/08/21 02:14:39",
         "status": "yellow",
-        "ageSeconds": 1009
+        "ageSeconds": 1069
       },
       {
         "name": "滝汗しりもと",
@@ -64,7 +64,7 @@
         "shop": "スポーツウェーブ鉄腕24",
         "update": "2026/08/21 02:16:15",
         "status": "yellow",
-        "ageSeconds": 913
+        "ageSeconds": 973
       },
       {
         "name": "おがしょーー",
@@ -74,23 +74,12 @@
         "shop": "群馬レジャーランド伊勢崎店",
         "update": "2026/08/21 02:14:39",
         "status": "yellow",
-        "ageSeconds": 1009
+        "ageSeconds": 1069
       }
     ],
     "Sapphire": [],
     "Emerald": [],
-    "Clear Blue": [
-      {
-        "name": "初心者",
-        "rank": "Clear Blue",
-        "point": 700,
-        "car": "AP1[DH]",
-        "shop": "ラウンドワンららぽーと新三郷店",
-        "update": "2026/08/21 02:01:59",
-        "status": "yellow",
-        "ageSeconds": 1769
-      }
-    ],
+    "Clear Blue": [],
     "Clear Red": [],
     "Clear Green": [],
     "Unknown Online Rank": []
