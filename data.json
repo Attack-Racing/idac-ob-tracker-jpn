@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-21 02:28:40",
-  "activeSince": "2026-08-21 01:58:40",
-  "total": 11,
+  "trackerTime": "2026-08-21 02:30:31",
+  "activeSince": "2026-08-21 02:00:31",
+  "total": 8,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/21 02:10:33",
         "status": "yellow",
-        "ageSeconds": 1087
+        "ageSeconds": 1198
       },
       {
         "name": "チェリボム",
@@ -22,7 +22,7 @@
         "shop": "マトリクス前橋",
         "update": "2026/08/21 02:03:03",
         "status": "yellow",
-        "ageSeconds": 1537
+        "ageSeconds": 1648
       },
       {
         "name": "Ｖｉｏｌｅｔ",
@@ -32,7 +32,7 @@
         "shop": "アミューズメントパフェパレパレ田宮店",
         "update": "2026/08/21 02:16:15",
         "status": "green",
-        "ageSeconds": 745
+        "ageSeconds": 856
       },
       {
         "name": "ベるゼブる",
@@ -42,7 +42,7 @@
         "shop": "アミューズメントパークＭＧ徳島",
         "update": "2026/08/21 02:09:41",
         "status": "yellow",
-        "ageSeconds": 1139
+        "ageSeconds": 1250
       }
     ],
     "Ruby": [
@@ -53,8 +53,8 @@
         "car": "AP1[AR]",
         "shop": "ゲームパニック三郷",
         "update": "2026/08/21 02:14:39",
-        "status": "green",
-        "ageSeconds": 841
+        "status": "yellow",
+        "ageSeconds": 952
       },
       {
         "name": "滝汗しりもと",
@@ -64,7 +64,7 @@
         "shop": "スポーツウェーブ鉄腕24",
         "update": "2026/08/21 02:16:15",
         "status": "green",
-        "ageSeconds": 745
+        "ageSeconds": 856
       },
       {
         "name": "おがしょーー",
@@ -73,44 +73,12 @@
         "car": "ST205[AR]",
         "shop": "群馬レジャーランド伊勢崎店",
         "update": "2026/08/21 02:14:39",
-        "status": "green",
-        "ageSeconds": 841
+        "status": "yellow",
+        "ageSeconds": 952
       }
     ],
-    "Sapphire": [
-      {
-        "name": "東魁帝王",
-        "rank": "Sapphire",
-        "point": 1980,
-        "car": "シルエイティ[AR]",
-        "shop": "シルクハット伊勢佐木町",
-        "update": "2026/08/21 01:58:48",
-        "status": "yellow",
-        "ageSeconds": 1792
-      }
-    ],
-    "Emerald": [
-      {
-        "name": "ＬｉＳＡ",
-        "rank": "Emerald",
-        "point": 820,
-        "car": "NA1[HC]",
-        "shop": "ＤＡＩＫＥＩＥＮ",
-        "update": "2026/08/21 01:59:36",
-        "status": "yellow",
-        "ageSeconds": 1744
-      },
-      {
-        "name": "ヒロミ",
-        "rank": "Emerald",
-        "point": 360,
-        "car": "NA1[AR]",
-        "shop": "アピナ野々市店",
-        "update": "2026/08/21 01:59:35",
-        "status": "yellow",
-        "ageSeconds": 1745
-      }
-    ],
+    "Sapphire": [],
+    "Emerald": [],
     "Clear Blue": [
       {
         "name": "初心者",
@@ -120,7 +88,7 @@
         "shop": "ラウンドワンららぽーと新三郷店",
         "update": "2026/08/21 02:01:59",
         "status": "yellow",
-        "ageSeconds": 1601
+        "ageSeconds": 1712
       }
     ],
     "Clear Red": [],
