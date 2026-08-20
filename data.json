@@ -1,9 +1,19 @@
 {
-  "trackerTime": "2026-08-21 02:05:32",
-  "activeSince": "2026-08-21 01:35:32",
-  "total": 8,
+  "trackerTime": "2026-08-21 02:06:24",
+  "activeSince": "2026-08-21 01:36:24",
+  "total": 10,
   "ranks": {
     "Pride": [
+      {
+        "name": "あ＠とくしま",
+        "rank": "Pride",
+        "point": 40540,
+        "car": "964[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/21 01:54:29",
+        "status": "green",
+        "ageSeconds": 715
+      },
       {
         "name": "バレンシーア",
         "rank": "Pride",
@@ -12,7 +22,17 @@
         "shop": "ＧｉＧＯスエヒロボウル徳島",
         "update": "2026/08/21 01:46:48",
         "status": "yellow",
-        "ageSeconds": 1123
+        "ageSeconds": 1176
+      },
+      {
+        "name": "ベるゼブる",
+        "rank": "Pride",
+        "point": 3060,
+        "car": "FD3S6[AR]",
+        "shop": "アミューズメントパークＭＧ徳島",
+        "update": "2026/08/21 01:56:32",
+        "status": "green",
+        "ageSeconds": 592
       },
       {
         "name": "滝汗しりもと",
@@ -22,7 +42,7 @@
         "shop": "スポーツウェーブ鉄腕24",
         "update": "2026/08/21 01:42:24",
         "status": "yellow",
-        "ageSeconds": 1387
+        "ageSeconds": 1440
       }
     ],
     "Ruby": [
@@ -34,7 +54,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/21 01:42:31",
         "status": "yellow",
-        "ageSeconds": 1380
+        "ageSeconds": 1433
       }
     ],
     "Sapphire": [
@@ -46,7 +66,7 @@
         "shop": "シルクハット伊勢佐木町",
         "update": "2026/08/21 01:45:40",
         "status": "yellow",
-        "ageSeconds": 1191
+        "ageSeconds": 1244
       },
       {
         "name": "ワキガくさ美",
@@ -56,7 +76,7 @@
         "shop": "ラウンドワン沖縄・宜野湾店",
         "update": "2026/08/21 01:45:40",
         "status": "yellow",
-        "ageSeconds": 1191
+        "ageSeconds": 1244
       }
     ],
     "Emerald": [
@@ -68,7 +88,7 @@
         "shop": "ＤＡＩＫＥＩＥＮ",
         "update": "2026/08/21 01:42:32",
         "status": "yellow",
-        "ageSeconds": 1379
+        "ageSeconds": 1432
       },
       {
         "name": "ヒロミ",
@@ -78,7 +98,7 @@
         "shop": "アピナ野々市店",
         "update": "2026/08/21 01:45:53",
         "status": "yellow",
-        "ageSeconds": 1178
+        "ageSeconds": 1231
       }
     ],
     "Clear Blue": [],
@@ -91,7 +111,7 @@
         "shop": "群馬レジャーランド前橋店",
         "update": "2026/08/21 01:42:31",
         "status": "yellow",
-        "ageSeconds": 1380
+        "ageSeconds": 1433
       }
     ],
     "Clear Green": [],
