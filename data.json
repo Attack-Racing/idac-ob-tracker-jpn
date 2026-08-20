@@ -1,28 +1,38 @@
 {
-  "trackerTime": "2026-08-21 02:34:37",
-  "activeSince": "2026-08-21 02:04:37",
-  "total": 6,
+  "trackerTime": "2026-08-21 02:36:28",
+  "activeSince": "2026-08-21 02:06:28",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 41060,
-        "car": "964[AR]",
+        "point": 41320,
+        "car": "S13[HC]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/21 02:10:33",
-        "status": "yellow",
-        "ageSeconds": 1444
+        "update": "2026/08/21 02:29:26",
+        "status": "green",
+        "ageSeconds": 422
+      },
+      {
+        "name": "バレンシーア",
+        "rank": "Pride",
+        "point": 38080,
+        "car": "ST205[AR]",
+        "shop": "ＧｉＧＯスエヒロボウル徳島",
+        "update": "2026/08/21 02:22:21",
+        "status": "green",
+        "ageSeconds": 847
       },
       {
         "name": "Ｖｉｏｌｅｔ",
         "rank": "Pride",
-        "point": 4000,
-        "car": "FD3S[AR]",
+        "point": 4520,
+        "car": "86トレノ[AR]",
         "shop": "アミューズメントパフェパレパレ田宮店",
-        "update": "2026/08/21 02:16:15",
-        "status": "yellow",
-        "ageSeconds": 1102
+        "update": "2026/08/21 02:26:06",
+        "status": "green",
+        "ageSeconds": 622
       },
       {
         "name": "ベるゼブる",
@@ -32,39 +42,39 @@
         "shop": "アミューズメントパークＭＧ徳島",
         "update": "2026/08/21 02:09:41",
         "status": "yellow",
-        "ageSeconds": 1496
+        "ageSeconds": 1607
       }
     ],
     "Ruby": [
       {
         "name": "ｋａｎａｄａ",
         "rank": "Ruby",
-        "point": 3260,
-        "car": "AP1[AR]",
+        "point": 3200,
+        "car": "FC3S[DH]",
         "shop": "ゲームパニック三郷",
-        "update": "2026/08/21 02:14:39",
+        "update": "2026/08/21 02:20:50",
         "status": "yellow",
-        "ageSeconds": 1198
+        "ageSeconds": 938
       },
       {
         "name": "滝汗しりもと",
         "rank": "Ruby",
-        "point": 2100,
-        "car": "ST205[AR]",
+        "point": 2040,
+        "car": "CP9Aエボ5[AR]",
         "shop": "スポーツウェーブ鉄腕24",
-        "update": "2026/08/21 02:16:15",
-        "status": "yellow",
-        "ageSeconds": 1102
+        "update": "2026/08/21 02:22:28",
+        "status": "green",
+        "ageSeconds": 840
       },
       {
         "name": "おがしょーー",
         "rank": "Ruby",
-        "point": 440,
-        "car": "ST205[AR]",
+        "point": 380,
+        "car": "NB8C[HC]",
         "shop": "群馬レジャーランド伊勢崎店",
-        "update": "2026/08/21 02:14:39",
-        "status": "yellow",
-        "ageSeconds": 1198
+        "update": "2026/08/21 02:29:26",
+        "status": "green",
+        "ageSeconds": 422
       }
     ],
     "Sapphire": [],
