@@ -1,30 +1,40 @@
 {
-  "trackerTime": "2026-08-21 01:20:31",
-  "activeSince": "2026-08-21 00:50:31",
-  "total": 7,
+  "trackerTime": "2026-08-21 01:21:41",
+  "activeSince": "2026-08-21 00:51:41",
+  "total": 13,
   "ranks": {
     "Pride": [
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 39760,
-        "car": "ZC33S[AR]",
+        "point": 40020,
+        "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/21 01:01:17",
+        "update": "2026/08/21 01:07:00",
+        "status": "green",
+        "ageSeconds": 881
+      },
+      {
+        "name": "Ｖｉｏｌｅｔ",
+        "rank": "Pride",
+        "point": 3220,
+        "car": "FD3S[AR]",
+        "shop": "アミューズメントパフェパレパレ田宮店",
+        "update": "2026/08/21 01:06:10",
         "status": "yellow",
-        "ageSeconds": 1154
+        "ageSeconds": 931
       }
     ],
     "Ruby": [
       {
         "name": "もっちゃん？",
         "rank": "Ruby",
-        "point": 26920,
-        "car": "CP9Aエボ5[AR]",
+        "point": 26860,
+        "car": "ST205[AR]",
         "shop": "アピナ川越店",
-        "update": "2026/08/21 01:01:17",
+        "update": "2026/08/21 01:06:09",
         "status": "yellow",
-        "ageSeconds": 1154
+        "ageSeconds": 932
       },
       {
         "name": "あわれなり．",
@@ -34,7 +44,27 @@
         "shop": "アミューズメントパフェパレパレ田宮店",
         "update": "2026/08/21 00:59:38",
         "status": "yellow",
-        "ageSeconds": 1253
+        "ageSeconds": 1323
+      },
+      {
+        "name": "西田　汐里",
+        "rank": "Ruby",
+        "point": 6980,
+        "car": "CN9Aエボ4[HC]",
+        "shop": "ＧｉＧＯ太田",
+        "update": "2026/08/21 01:04:44",
+        "status": "yellow",
+        "ageSeconds": 1017
+      },
+      {
+        "name": "ｋａｎａｄａ",
+        "rank": "Ruby",
+        "point": 3440,
+        "car": "CN9Aエボ4[HC]",
+        "shop": "ゲームパニック三郷",
+        "update": "2026/08/21 01:06:59",
+        "status": "green",
+        "ageSeconds": 882
       },
       {
         "name": "Ｔｒｕｓｔ",
@@ -44,7 +74,7 @@
         "shop": "ＧｉＧＯ足利朝倉",
         "update": "2026/08/21 00:56:18",
         "status": "yellow",
-        "ageSeconds": 1453
+        "ageSeconds": 1523
       }
     ],
     "Sapphire": [
@@ -56,33 +86,66 @@
         "shop": "ゲームアイビス太子",
         "update": "2026/08/21 00:55:49",
         "status": "yellow",
-        "ageSeconds": 1482
+        "ageSeconds": 1552
       },
       {
         "name": "ザ☆協極ナル",
         "rank": "Sapphire",
-        "point": 2140,
+        "point": 2080,
         "car": "BNR34[AR]",
         "shop": "フタバボウル泉大津店",
-        "update": "2026/08/21 01:01:54",
-        "status": "yellow",
-        "ageSeconds": 1117
+        "update": "2026/08/21 01:07:34",
+        "status": "green",
+        "ageSeconds": 847
       },
       {
         "name": "東魁帝王",
         "rank": "Sapphire",
-        "point": 1660,
+        "point": 1780,
         "car": "NA1[AR]",
         "shop": "シルクハット伊勢佐木町",
-        "update": "2026/08/21 00:51:01",
-        "status": "yellow",
-        "ageSeconds": 1770
+        "update": "2026/08/21 01:14:27",
+        "status": "green",
+        "ageSeconds": 434
       }
     ],
     "Emerald": [],
-    "Clear Blue": [],
-    "Clear Red": [],
-    "Clear Green": [],
+    "Clear Blue": [
+      {
+        "name": "ごみ",
+        "rank": "Clear Blue",
+        "point": 440,
+        "car": "86レビン[HC]",
+        "shop": "群馬レジャーランド前橋店",
+        "update": "2026/08/21 01:10:32",
+        "status": "green",
+        "ageSeconds": 669
+      }
+    ],
+    "Clear Red": [
+      {
+        "name": "りょ",
+        "rank": "Clear Red",
+        "point": 2320,
+        "car": "EK9[DH]",
+        "shop": "群馬レジャーランド前橋店",
+        "update": "2026/08/21 01:12:31",
+        "status": "green",
+        "ageSeconds": 550
+      }
+    ],
+    "Clear Green": [
+      {
+        "name": "り",
+        "rank": "Clear Green",
+        "point": 1480,
+        "car": "86トレノ[DH]",
+        "shop": "ウェアハウス三橋店",
+        "update": "2026/08/21 01:10:31",
+        "status": "green",
+        "ageSeconds": 670
+      }
+    ],
     "Unknown Online Rank": []
   }
 }
