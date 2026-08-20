@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-21 03:35:43",
-  "activeSince": "2026-08-21 03:05:43",
-  "total": 5,
+  "trackerTime": "2026-08-21 03:37:25",
+  "activeSince": "2026-08-21 03:07:25",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
@@ -12,37 +12,47 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/21 03:15:26",
         "status": "yellow",
-        "ageSeconds": 1217
+        "ageSeconds": 1319
+      },
+      {
+        "name": "バレンシーア",
+        "rank": "Pride",
+        "point": 39380,
+        "car": "ST205[AR]",
+        "shop": "ＧｉＧＯスエヒロボウル徳島",
+        "update": "2026/08/21 03:31:30",
+        "status": "green",
+        "ageSeconds": 355
       },
       {
         "name": "りくちゃん？",
         "rank": "Pride",
-        "point": 38400,
-        "car": "CP9Aエボ6[HC]",
+        "point": 38340,
+        "car": "ST205[AR]",
         "shop": "ウェアハウス三橋店",
-        "update": "2026/08/21 03:16:18",
-        "status": "yellow",
-        "ageSeconds": 1165
+        "update": "2026/08/21 03:26:10",
+        "status": "green",
+        "ageSeconds": 675
       },
       {
         "name": "チェリボム",
         "rank": "Pride",
-        "point": 16060,
-        "car": "FD3S[AR]",
+        "point": 16000,
+        "car": "CE9Aエボ3[AR]",
         "shop": "マトリクス前橋",
-        "update": "2026/08/21 03:15:26",
+        "update": "2026/08/21 03:20:50",
         "status": "yellow",
-        "ageSeconds": 1217
+        "ageSeconds": 995
       },
       {
         "name": "Ｖｉｏｌｅｔ",
         "rank": "Pride",
-        "point": 4800,
-        "car": "86トレノ[AR]",
+        "point": 5060,
+        "car": "EG6[HC]",
         "shop": "アミューズメントパフェパレパレ田宮店",
-        "update": "2026/08/21 03:16:18",
-        "status": "yellow",
-        "ageSeconds": 1165
+        "update": "2026/08/21 03:24:22",
+        "status": "green",
+        "ageSeconds": 783
       }
     ],
     "Ruby": [
@@ -54,7 +64,17 @@
         "shop": "ｎａｍｃｏ博多バスターミナル店",
         "update": "2026/08/21 03:10:58",
         "status": "yellow",
-        "ageSeconds": 1485
+        "ageSeconds": 1587
+      },
+      {
+        "name": "よっすぃー",
+        "rank": "Ruby",
+        "point": 3000,
+        "car": "ST205[AR]",
+        "shop": "ＧｉＧＯ佐沼",
+        "update": "2026/08/21 03:31:30",
+        "status": "green",
+        "ageSeconds": 355
       }
     ],
     "Sapphire": [],
