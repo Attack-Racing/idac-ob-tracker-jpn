@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-21 01:41:38",
-  "activeSince": "2026-08-21 01:11:38",
-  "total": 11,
+  "trackerTime": "2026-08-21 01:43:25",
+  "activeSince": "2026-08-21 01:13:25",
+  "total": 10,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/21 01:23:56",
         "status": "yellow",
-        "ageSeconds": 1062
+        "ageSeconds": 1169
       },
       {
         "name": "Ｖｉｏｌｅｔ",
@@ -22,7 +22,7 @@
         "shop": "アミューズメントパフェパレパレ田宮店",
         "update": "2026/08/21 01:25:07",
         "status": "yellow",
-        "ageSeconds": 991
+        "ageSeconds": 1098
       }
     ],
     "Ruby": [
@@ -34,7 +34,7 @@
         "shop": "ゲームパニック三郷",
         "update": "2026/08/21 01:23:55",
         "status": "yellow",
-        "ageSeconds": 1063
+        "ageSeconds": 1170
       },
       {
         "name": "方便報個平安",
@@ -44,7 +44,7 @@
         "shop": "ゲームフェスタミタマ店",
         "update": "2026/08/21 01:14:29",
         "status": "yellow",
-        "ageSeconds": 1629
+        "ageSeconds": 1736
       }
     ],
     "Sapphire": [
@@ -56,7 +56,7 @@
         "shop": "シルクハット伊勢佐木町",
         "update": "2026/08/21 01:26:13",
         "status": "yellow",
-        "ageSeconds": 925
+        "ageSeconds": 1032
       },
       {
         "name": "ワキガくさ美",
@@ -66,7 +66,7 @@
         "shop": "ラウンドワン沖縄・宜野湾店",
         "update": "2026/08/21 01:26:13",
         "status": "yellow",
-        "ageSeconds": 925
+        "ageSeconds": 1032
       }
     ],
     "Emerald": [
@@ -77,8 +77,8 @@
         "car": "FC3S[DH]",
         "shop": "ＤＡＩＫＥＩＥＮ",
         "update": "2026/08/21 01:27:15",
-        "status": "green",
-        "ageSeconds": 863
+        "status": "yellow",
+        "ageSeconds": 970
       }
     ],
     "Clear Blue": [
@@ -90,7 +90,7 @@
         "shop": "ラウンドワンららぽーと新三郷店",
         "update": "2026/08/21 01:23:44",
         "status": "yellow",
-        "ageSeconds": 1074
+        "ageSeconds": 1181
       },
       {
         "name": "ごみ",
@@ -100,21 +100,10 @@
         "shop": "群馬レジャーランド前橋店",
         "update": "2026/08/21 01:18:24",
         "status": "yellow",
-        "ageSeconds": 1394
+        "ageSeconds": 1501
       }
     ],
-    "Clear Red": [
-      {
-        "name": "りょ",
-        "rank": "Clear Red",
-        "point": 2320,
-        "car": "EK9[DH]",
-        "shop": "群馬レジャーランド前橋店",
-        "update": "2026/08/21 01:12:31",
-        "status": "yellow",
-        "ageSeconds": 1747
-      }
-    ],
+    "Clear Red": [],
     "Clear Green": [
       {
         "name": "り",
@@ -124,7 +113,7 @@
         "shop": "ウェアハウス三橋店",
         "update": "2026/08/21 01:23:43",
         "status": "yellow",
-        "ageSeconds": 1075
+        "ageSeconds": 1182
       }
     ],
     "Unknown Online Rank": []
