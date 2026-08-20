@@ -1,50 +1,40 @@
 {
-  "trackerTime": "2026-08-21 01:35:35",
-  "activeSince": "2026-08-21 01:05:35",
-  "total": 10,
+  "trackerTime": "2026-08-21 01:36:37",
+  "activeSince": "2026-08-21 01:06:37",
+  "total": 12,
   "ranks": {
     "Pride": [
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 40020,
-        "car": "ST205[AR]",
+        "point": 40280,
+        "car": "S13[HC]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/21 01:07:00",
-        "status": "yellow",
-        "ageSeconds": 1715
+        "update": "2026/08/21 01:23:56",
+        "status": "green",
+        "ageSeconds": 761
       },
       {
         "name": "Ｖｉｏｌｅｔ",
         "rank": "Pride",
-        "point": 3220,
+        "point": 3740,
         "car": "FD3S[AR]",
         "shop": "アミューズメントパフェパレパレ田宮店",
-        "update": "2026/08/21 01:06:10",
-        "status": "yellow",
-        "ageSeconds": 1765
+        "update": "2026/08/21 01:25:07",
+        "status": "green",
+        "ageSeconds": 690
       }
     ],
     "Ruby": [
       {
-        "name": "もっちゃん？",
-        "rank": "Ruby",
-        "point": 26860,
-        "car": "ST205[AR]",
-        "shop": "アピナ川越店",
-        "update": "2026/08/21 01:06:09",
-        "status": "yellow",
-        "ageSeconds": 1766
-      },
-      {
         "name": "ｋａｎａｄａ",
         "rank": "Ruby",
-        "point": 3440,
-        "car": "CN9Aエボ4[HC]",
+        "point": 3320,
+        "car": "FC3S[DH]",
         "shop": "ゲームパニック三郷",
-        "update": "2026/08/21 01:06:59",
-        "status": "yellow",
-        "ageSeconds": 1716
+        "update": "2026/08/21 01:23:55",
+        "status": "green",
+        "ageSeconds": 762
       },
       {
         "name": "方便報個平安",
@@ -54,7 +44,7 @@
         "shop": "ゲームフェスタミタマ店",
         "update": "2026/08/21 01:14:29",
         "status": "yellow",
-        "ageSeconds": 1266
+        "ageSeconds": 1328
       }
     ],
     "Sapphire": [
@@ -66,30 +56,61 @@
         "shop": "フタバボウル泉大津店",
         "update": "2026/08/21 01:07:34",
         "status": "yellow",
-        "ageSeconds": 1681
+        "ageSeconds": 1743
       },
       {
         "name": "東魁帝王",
         "rank": "Sapphire",
-        "point": 1780,
-        "car": "NA1[AR]",
+        "point": 1940,
+        "car": "シルエイティ[AR]",
         "shop": "シルクハット伊勢佐木町",
-        "update": "2026/08/21 01:14:27",
-        "status": "yellow",
-        "ageSeconds": 1268
+        "update": "2026/08/21 01:26:13",
+        "status": "green",
+        "ageSeconds": 624
+      },
+      {
+        "name": "ワキガくさ美",
+        "rank": "Sapphire",
+        "point": 500,
+        "car": "EK9[AR]",
+        "shop": "ラウンドワン沖縄・宜野湾店",
+        "update": "2026/08/21 01:26:13",
+        "status": "green",
+        "ageSeconds": 624
       }
     ],
-    "Emerald": [],
+    "Emerald": [
+      {
+        "name": "ＬｉＳＡ",
+        "rank": "Emerald",
+        "point": 540,
+        "car": "FC3S[DH]",
+        "shop": "ＤＡＩＫＥＩＥＮ",
+        "update": "2026/08/21 01:27:15",
+        "status": "green",
+        "ageSeconds": 562
+      }
+    ],
     "Clear Blue": [
+      {
+        "name": "初心者",
+        "rank": "Clear Blue",
+        "point": 520,
+        "car": "AP1[AR]",
+        "shop": "ラウンドワンららぽーと新三郷店",
+        "update": "2026/08/21 01:23:44",
+        "status": "green",
+        "ageSeconds": 773
+      },
       {
         "name": "ごみ",
         "rank": "Clear Blue",
-        "point": 440,
+        "point": 380,
         "car": "86レビン[HC]",
         "shop": "群馬レジャーランド前橋店",
-        "update": "2026/08/21 01:10:32",
+        "update": "2026/08/21 01:18:24",
         "status": "yellow",
-        "ageSeconds": 1503
+        "ageSeconds": 1093
       }
     ],
     "Clear Red": [
@@ -101,19 +122,19 @@
         "shop": "群馬レジャーランド前橋店",
         "update": "2026/08/21 01:12:31",
         "status": "yellow",
-        "ageSeconds": 1384
+        "ageSeconds": 1446
       }
     ],
     "Clear Green": [
       {
         "name": "り",
         "rank": "Clear Green",
-        "point": 1480,
+        "point": 1420,
         "car": "86トレノ[DH]",
         "shop": "ウェアハウス三橋店",
-        "update": "2026/08/21 01:10:31",
-        "status": "yellow",
-        "ageSeconds": 1504
+        "update": "2026/08/21 01:23:43",
+        "status": "green",
+        "ageSeconds": 774
       }
     ],
     "Unknown Online Rank": []
