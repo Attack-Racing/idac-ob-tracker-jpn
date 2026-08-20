@@ -1,9 +1,20 @@
 {
-  "trackerTime": "2026-08-21 01:04:38",
-  "activeSince": "2026-08-21 00:34:38",
-  "total": 6,
+  "trackerTime": "2026-08-21 01:06:41",
+  "activeSince": "2026-08-21 00:36:41",
+  "total": 8,
   "ranks": {
-    "Pride": [],
+    "Pride": [
+      {
+        "name": "あ＠とくしま",
+        "rank": "Pride",
+        "point": 39760,
+        "car": "ZC33S[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/21 01:01:17",
+        "status": "green",
+        "ageSeconds": 324
+      }
+    ],
     "Ruby": [
       {
         "name": "もっちゃん？",
@@ -13,7 +24,17 @@
         "shop": "アピナ川越店",
         "update": "2026/08/21 00:42:44",
         "status": "yellow",
-        "ageSeconds": 1314
+        "ageSeconds": 1437
+      },
+      {
+        "name": "あわれなり．",
+        "rank": "Ruby",
+        "point": 14260,
+        "car": "86トレノ[AR]",
+        "shop": "アミューズメントパフェパレパレ田宮店",
+        "update": "2026/08/21 00:59:38",
+        "status": "green",
+        "ageSeconds": 423
       },
       {
         "name": "ｋａｎａｄａ",
@@ -23,7 +44,7 @@
         "shop": "ゲームパニック三郷",
         "update": "2026/08/21 00:42:44",
         "status": "yellow",
-        "ageSeconds": 1314
+        "ageSeconds": 1437
       },
       {
         "name": "Ｔｒｕｓｔ",
@@ -33,29 +54,29 @@
         "shop": "ＧｉＧＯ足利朝倉",
         "update": "2026/08/21 00:45:48",
         "status": "yellow",
-        "ageSeconds": 1130
+        "ageSeconds": 1253
       }
     ],
     "Sapphire": [
       {
         "name": "Ｄｉｏｒ",
         "rank": "Sapphire",
-        "point": 3920,
+        "point": 4100,
         "car": "EK9[AR]",
         "shop": "ゲームアイビス太子",
-        "update": "2026/08/21 00:45:04",
-        "status": "yellow",
-        "ageSeconds": 1174
+        "update": "2026/08/21 00:55:49",
+        "status": "green",
+        "ageSeconds": 652
       },
       {
         "name": "ザ☆協極ナル",
         "rank": "Sapphire",
-        "point": 2260,
-        "car": "AP1[AR]",
+        "point": 2140,
+        "car": "BNR34[AR]",
         "shop": "フタバボウル泉大津店",
-        "update": "2026/08/21 00:45:02",
-        "status": "yellow",
-        "ageSeconds": 1176
+        "update": "2026/08/21 01:01:54",
+        "status": "green",
+        "ageSeconds": 287
       },
       {
         "name": "東魁帝王",
@@ -65,7 +86,7 @@
         "shop": "シルクハット伊勢佐木町",
         "update": "2026/08/21 00:45:02",
         "status": "yellow",
-        "ageSeconds": 1176
+        "ageSeconds": 1299
       }
     ],
     "Emerald": [],
