@@ -1,13 +1,76 @@
 {
-  "trackerTime": "2026-08-22 07:20:25",
-  "activeSince": "2026-08-22 06:50:25",
-  "total": 0,
+  "trackerTime": "2026-08-22 07:21:42",
+  "activeSince": "2026-08-22 06:51:42",
+  "total": 6,
   "ranks": {
-    "Pride": [],
-    "Ruby": [],
+    "Pride": [
+      {
+        "name": "Ｌｙｃｈｅｅ",
+        "rank": "Pride",
+        "point": 3840,
+        "car": "ST205[AR]",
+        "shop": "横浜ヤングボウル",
+        "update": "2026/08/22 07:12:06",
+        "status": "green",
+        "ageSeconds": 576
+      }
+    ],
+    "Ruby": [
+      {
+        "name": "シランケド",
+        "rank": "Ruby",
+        "point": 197820,
+        "car": "CZ4Aエボ10[AR]",
+        "shop": "プラサカプコン羽生店",
+        "update": "2026/08/22 07:14:30",
+        "status": "green",
+        "ageSeconds": 432
+      },
+      {
+        "name": "夢咲乃愛",
+        "rank": "Ruby",
+        "point": 47400,
+        "car": "FD3S6[AR]",
+        "shop": "関大前フタバボウル",
+        "update": "2026/08/22 07:14:29",
+        "status": "green",
+        "ageSeconds": 433
+      },
+      {
+        "name": "けんちんだぉ",
+        "rank": "Ruby",
+        "point": 16980,
+        "car": "ST205[AR]",
+        "shop": "インターワールド伊勢崎店",
+        "update": "2026/08/22 07:09:33",
+        "status": "green",
+        "ageSeconds": 729
+      },
+      {
+        "name": "ＢｒｅａｔＨ",
+        "rank": "Ruby",
+        "point": 460,
+        "car": "CP9Aエボ6[AR]",
+        "shop": "ベネクス川崎",
+        "update": "2026/08/22 07:07:21",
+        "status": "green",
+        "ageSeconds": 861
+      }
+    ],
     "Sapphire": [],
     "Emerald": [],
-    "Clear Blue": [],
+    "Clear Blue": [
+      {
+        "name": "ポンチャマ",
+        "rank": "Clear Blue",
+        "point": 2460,
+        "car": "CE9Aエボ3[DH]",
+        "shop": "ラウンドワン長野店",
+        "update": "2026/08/22 07:15:50",
+        "status": "green",
+        "ageSeconds": 352
+      }
+    ],
     "Clear Red": [],
     "Clear Green": [],
     "Unknown Online Rank": []
