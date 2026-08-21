@@ -1,80 +1,100 @@
 {
-  "trackerTime": "2026-08-22 08:06:23",
-  "activeSince": "2026-08-22 07:36:23",
-  "total": 9,
+  "trackerTime": "2026-08-22 08:07:34",
+  "activeSince": "2026-08-22 07:37:34",
+  "total": 13,
   "ranks": {
     "Pride": [
       {
         "name": "Ｃａｓｓｉｓ",
         "rank": "Pride",
-        "point": 9920,
+        "point": 9860,
         "car": "ST205[AR]",
         "shop": "ジー・バオア・グー",
-        "update": "2026/08/22 07:45:26",
+        "update": "2026/08/22 07:51:45",
         "status": "yellow",
-        "ageSeconds": 1257
+        "ageSeconds": 948
       },
       {
         "name": "Ｌｙｃｈｅｅ",
         "rank": "Pride",
-        "point": 4500,
+        "point": 4700,
         "car": "CP9Aエボ6[HC]",
         "shop": "横浜ヤングボウル",
-        "update": "2026/08/22 07:46:05",
-        "status": "yellow",
-        "ageSeconds": 1218
+        "update": "2026/08/22 07:56:40",
+        "status": "green",
+        "ageSeconds": 653
       }
     ],
     "Ruby": [
       {
         "name": "シランケド",
         "rank": "Ruby",
-        "point": 198160,
-        "car": "BNR32[AR]",
+        "point": 198300,
+        "car": "86トレノ[AR]",
         "shop": "プラサカプコン羽生店",
-        "update": "2026/08/22 07:44:32",
-        "status": "yellow",
-        "ageSeconds": 1311
+        "update": "2026/08/22 08:00:39",
+        "status": "green",
+        "ageSeconds": 414
       },
       {
         "name": "夢咲乃愛",
         "rank": "Ruby",
-        "point": 47420,
+        "point": 47940,
         "car": "ZZW30[HC]",
         "shop": "関大前フタバボウル",
-        "update": "2026/08/22 07:45:19",
-        "status": "yellow",
-        "ageSeconds": 1264
+        "update": "2026/08/22 07:56:23",
+        "status": "green",
+        "ageSeconds": 670
+      },
+      {
+        "name": "るな",
+        "rank": "Ruby",
+        "point": 29200,
+        "car": "86トレノ[AR]",
+        "shop": "ＧｉＧＯ今福",
+        "update": "2026/08/22 08:00:40",
+        "status": "green",
+        "ageSeconds": 413
       },
       {
         "name": "けんちんだぉ",
         "rank": "Ruby",
-        "point": 17640,
+        "point": 17840,
         "car": "ST205[AR]",
         "shop": "インターワールド伊勢崎店",
-        "update": "2026/08/22 07:45:25",
-        "status": "yellow",
-        "ageSeconds": 1258
+        "update": "2026/08/22 07:57:51",
+        "status": "green",
+        "ageSeconds": 582
+      },
+      {
+        "name": "♪ゲルドの谷",
+        "rank": "Ruby",
+        "point": 6300,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "ＧｉＧＯ日光",
+        "update": "2026/08/22 08:01:28",
+        "status": "green",
+        "ageSeconds": 365
       },
       {
         "name": "Ｒａｉ☆",
         "rank": "Ruby",
-        "point": 6120,
-        "car": "ST205[AR]",
+        "point": 5940,
+        "car": "CP9Aエボ5[AR]",
         "shop": "ＧｉＧＯ神戸ｕｍｉｅサウスモール",
-        "update": "2026/08/22 07:44:31",
-        "status": "yellow",
-        "ageSeconds": 1312
+        "update": "2026/08/22 08:01:27",
+        "status": "green",
+        "ageSeconds": 366
       },
       {
         "name": "うわあぁぁ！",
         "rank": "Ruby",
-        "point": 860,
+        "point": 1120,
         "car": "ER34[AR]",
         "shop": "ＰＡＬＯ江別",
-        "update": "2026/08/22 07:45:13",
+        "update": "2026/08/22 07:50:45",
         "status": "yellow",
-        "ageSeconds": 1270
+        "ageSeconds": 1008
       },
       {
         "name": "多重人物Ｓ氏",
@@ -84,7 +104,7 @@
         "shop": "ジー・バオア・グー",
         "update": "2026/08/22 07:46:12",
         "status": "yellow",
-        "ageSeconds": 1211
+        "ageSeconds": 1281
       },
       {
         "name": "女体盛りＳ氏",
@@ -94,7 +114,27 @@
         "shop": "ハピピランド旭川店",
         "update": "2026/08/22 07:40:21",
         "status": "yellow",
-        "ageSeconds": 1562
+        "ageSeconds": 1632
+      },
+      {
+        "name": "ダニエルクン",
+        "rank": "Ruby",
+        "point": 660,
+        "car": "ST205[AR]",
+        "shop": "キャッツアイ篠路店",
+        "update": "2026/08/22 07:57:51",
+        "status": "green",
+        "ageSeconds": 582
+      },
+      {
+        "name": "ＢｒｅａｔＨ",
+        "rank": "Ruby",
+        "point": 400,
+        "car": "ZN6[HC]",
+        "shop": "ベネクス川崎",
+        "update": "2026/08/22 07:55:45",
+        "status": "green",
+        "ageSeconds": 708
       }
     ],
     "Sapphire": [],
