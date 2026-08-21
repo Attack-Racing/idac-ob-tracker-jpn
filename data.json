@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-22 07:53:42",
-  "activeSince": "2026-08-22 07:23:42",
-  "total": 12,
+  "trackerTime": "2026-08-22 07:55:30",
+  "activeSince": "2026-08-22 07:25:30",
+  "total": 11,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "ジー・バオア・グー",
         "update": "2026/08/22 07:45:26",
         "status": "green",
-        "ageSeconds": 496
+        "ageSeconds": 604
       },
       {
         "name": "Ｌｙｃｈｅｅ",
@@ -22,7 +22,7 @@
         "shop": "横浜ヤングボウル",
         "update": "2026/08/22 07:46:05",
         "status": "green",
-        "ageSeconds": 457
+        "ageSeconds": 565
       }
     ],
     "Ruby": [
@@ -34,7 +34,7 @@
         "shop": "プラサカプコン羽生店",
         "update": "2026/08/22 07:44:32",
         "status": "green",
-        "ageSeconds": 550
+        "ageSeconds": 658
       },
       {
         "name": "夢咲乃愛",
@@ -44,7 +44,7 @@
         "shop": "関大前フタバボウル",
         "update": "2026/08/22 07:45:19",
         "status": "green",
-        "ageSeconds": 503
+        "ageSeconds": 611
       },
       {
         "name": "けんちんだぉ",
@@ -54,7 +54,7 @@
         "shop": "インターワールド伊勢崎店",
         "update": "2026/08/22 07:45:25",
         "status": "green",
-        "ageSeconds": 497
+        "ageSeconds": 605
       },
       {
         "name": "Ｒａｉ☆",
@@ -64,7 +64,7 @@
         "shop": "ＧｉＧＯ神戸ｕｍｉｅサウスモール",
         "update": "2026/08/22 07:44:31",
         "status": "green",
-        "ageSeconds": 551
+        "ageSeconds": 659
       },
       {
         "name": "うわあぁぁ！",
@@ -74,7 +74,7 @@
         "shop": "ＰＡＬＯ江別",
         "update": "2026/08/22 07:45:13",
         "status": "green",
-        "ageSeconds": 509
+        "ageSeconds": 617
       },
       {
         "name": "多重人物Ｓ氏",
@@ -84,7 +84,7 @@
         "shop": "ジー・バオア・グー",
         "update": "2026/08/22 07:46:12",
         "status": "green",
-        "ageSeconds": 450
+        "ageSeconds": 558
       },
       {
         "name": "女体盛りＳ氏",
@@ -93,8 +93,8 @@
         "car": "RPS13[HC]",
         "shop": "ハピピランド旭川店",
         "update": "2026/08/22 07:40:21",
-        "status": "green",
-        "ageSeconds": 801
+        "status": "yellow",
+        "ageSeconds": 909
       }
     ],
     "Sapphire": [],
@@ -108,20 +108,10 @@
         "shop": "ラウンドワン長野店",
         "update": "2026/08/22 07:28:12",
         "status": "yellow",
-        "ageSeconds": 1530
+        "ageSeconds": 1638
       }
     ],
     "Clear Red": [
-      {
-        "name": "けい　　　　",
-        "rank": "Clear Red",
-        "point": 1300,
-        "car": "ER34[DH]",
-        "shop": "ユーズランド太田店",
-        "update": "2026/08/22 07:24:48",
-        "status": "yellow",
-        "ageSeconds": 1734
-      },
       {
         "name": "かいばしら",
         "rank": "Clear Red",
@@ -130,7 +120,7 @@
         "shop": "群馬レジャーランド太田店",
         "update": "2026/08/22 07:28:15",
         "status": "yellow",
-        "ageSeconds": 1527
+        "ageSeconds": 1635
       }
     ],
     "Clear Green": [],
