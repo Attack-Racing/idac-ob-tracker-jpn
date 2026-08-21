@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-22 07:21:42",
-  "activeSince": "2026-08-22 06:51:42",
-  "total": 6,
+  "trackerTime": "2026-08-22 07:23:25",
+  "activeSince": "2026-08-22 06:53:25",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "横浜ヤングボウル",
         "update": "2026/08/22 07:12:06",
         "status": "green",
-        "ageSeconds": 576
+        "ageSeconds": 679
       }
     ],
     "Ruby": [
@@ -24,7 +24,7 @@
         "shop": "プラサカプコン羽生店",
         "update": "2026/08/22 07:14:30",
         "status": "green",
-        "ageSeconds": 432
+        "ageSeconds": 535
       },
       {
         "name": "夢咲乃愛",
@@ -34,7 +34,7 @@
         "shop": "関大前フタバボウル",
         "update": "2026/08/22 07:14:29",
         "status": "green",
-        "ageSeconds": 433
+        "ageSeconds": 536
       },
       {
         "name": "けんちんだぉ",
@@ -44,7 +44,7 @@
         "shop": "インターワールド伊勢崎店",
         "update": "2026/08/22 07:09:33",
         "status": "green",
-        "ageSeconds": 729
+        "ageSeconds": 832
       },
       {
         "name": "ＢｒｅａｔＨ",
@@ -53,8 +53,18 @@
         "car": "CP9Aエボ6[AR]",
         "shop": "ベネクス川崎",
         "update": "2026/08/22 07:07:21",
+        "status": "yellow",
+        "ageSeconds": 964
+      },
+      {
+        "name": "ダニエルクン",
+        "rank": "Ruby",
+        "point": 400,
+        "car": "86トレノ[HC]",
+        "shop": "キャッツアイ篠路店",
+        "update": "2026/08/22 07:12:13",
         "status": "green",
-        "ageSeconds": 861
+        "ageSeconds": 672
       }
     ],
     "Sapphire": [],
@@ -68,7 +78,7 @@
         "shop": "ラウンドワン長野店",
         "update": "2026/08/22 07:15:50",
         "status": "green",
-        "ageSeconds": 352
+        "ageSeconds": 455
       }
     ],
     "Clear Red": [],
