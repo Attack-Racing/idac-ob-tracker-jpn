@@ -1,18 +1,18 @@
 {
-  "trackerTime": "2026-08-22 08:51:37",
-  "activeSince": "2026-08-22 08:21:37",
-  "total": 23,
+  "trackerTime": "2026-08-22 08:53:37",
+  "activeSince": "2026-08-22 08:23:37",
+  "total": 24,
   "ranks": {
     "Pride": [
       {
         "name": "Ｃａｓｓｉｓ",
         "rank": "Pride",
-        "point": 10900,
-        "car": "ST205[AR]",
+        "point": 11100,
+        "car": "CP9Aエボ6[AR]",
         "shop": "ジー・バオア・グー",
-        "update": "2026/08/22 08:23:04",
-        "status": "yellow",
-        "ageSeconds": 1713
+        "update": "2026/08/22 08:45:50",
+        "status": "green",
+        "ageSeconds": 467
       },
       {
         "name": "マルコメくん",
@@ -22,7 +22,7 @@
         "shop": "ラウンドワン中川１号線店",
         "update": "2026/08/22 08:46:08",
         "status": "green",
-        "ageSeconds": 329
+        "ageSeconds": 449
       },
       {
         "name": "Ｌｙｃｈｅｅ",
@@ -32,7 +32,7 @@
         "shop": "横浜ヤングボウル",
         "update": "2026/08/22 08:42:20",
         "status": "green",
-        "ageSeconds": 557
+        "ageSeconds": 677
       }
     ],
     "Ruby": [
@@ -44,7 +44,7 @@
         "shop": "プラサカプコン羽生店",
         "update": "2026/08/22 08:44:00",
         "status": "green",
-        "ageSeconds": 457
+        "ageSeconds": 577
       },
       {
         "name": "夢咲乃愛",
@@ -54,7 +54,7 @@
         "shop": "関大前フタバボウル",
         "update": "2026/08/22 08:25:19",
         "status": "yellow",
-        "ageSeconds": 1578
+        "ageSeconds": 1698
       },
       {
         "name": "るな",
@@ -64,7 +64,7 @@
         "shop": "ＧｉＧＯ今福",
         "update": "2026/08/22 08:42:36",
         "status": "green",
-        "ageSeconds": 541
+        "ageSeconds": 661
       },
       {
         "name": "けんちんだぉ",
@@ -74,7 +74,7 @@
         "shop": "インターワールド伊勢崎店",
         "update": "2026/08/22 08:46:08",
         "status": "green",
-        "ageSeconds": 329
+        "ageSeconds": 449
       },
       {
         "name": "ＳＨＲ",
@@ -84,7 +84,7 @@
         "shop": "ＧｉＧＯ尾道",
         "update": "2026/08/22 08:43:07",
         "status": "green",
-        "ageSeconds": 510
+        "ageSeconds": 630
       },
       {
         "name": "苺少年☆玲央",
@@ -94,7 +94,7 @@
         "shop": "ベネクス大和店",
         "update": "2026/08/22 08:35:04",
         "status": "yellow",
-        "ageSeconds": 993
+        "ageSeconds": 1113
       },
       {
         "name": "苺少女☆奈央",
@@ -104,17 +104,17 @@
         "shop": "ベネクス大和店",
         "update": "2026/08/22 08:29:38",
         "status": "yellow",
-        "ageSeconds": 1319
+        "ageSeconds": 1439
       },
       {
         "name": "♪ゲルドの谷",
         "rank": "Ruby",
-        "point": 6380,
+        "point": 6520,
         "car": "CE9Aエボ3[AR]",
         "shop": "ＧｉＧＯ日光",
-        "update": "2026/08/22 08:28:10",
-        "status": "yellow",
-        "ageSeconds": 1407
+        "update": "2026/08/22 08:45:50",
+        "status": "green",
+        "ageSeconds": 467
       },
       {
         "name": "Ｒａｉ☆",
@@ -124,7 +124,7 @@
         "shop": "ＧｉＧＯ神戸ｕｍｉｅサウスモール",
         "update": "2026/08/22 08:43:08",
         "status": "green",
-        "ageSeconds": 509
+        "ageSeconds": 629
       },
       {
         "name": "ＫＡＫＥＲＵ",
@@ -134,7 +134,7 @@
         "shop": "ラウンドワン市川鬼高店",
         "update": "2026/08/22 08:31:21",
         "status": "yellow",
-        "ageSeconds": 1216
+        "ageSeconds": 1336
       },
       {
         "name": "ＳＹＯＵＴＡ",
@@ -144,27 +144,37 @@
         "shop": "ラウンドワン市川鬼高店",
         "update": "2026/08/22 08:42:35",
         "status": "green",
-        "ageSeconds": 542
+        "ageSeconds": 662
       },
       {
         "name": "ダニエルクン",
         "rank": "Ruby",
-        "point": 860,
-        "car": "FC3S[AR]",
+        "point": 800,
+        "car": "ST205[AR]",
         "shop": "キャッツアイ篠路店",
-        "update": "2026/08/22 08:28:10",
+        "update": "2026/08/22 08:34:26",
         "status": "yellow",
-        "ageSeconds": 1407
+        "ageSeconds": 1151
+      },
+      {
+        "name": "女体盛りＳ氏",
+        "rank": "Ruby",
+        "point": 740,
+        "car": "CT9Aエボ9[AR]",
+        "shop": "ハピピランド旭川店",
+        "update": "2026/08/22 08:41:10",
+        "status": "green",
+        "ageSeconds": 747
       },
       {
         "name": "マジュニア",
         "rank": "Ruby",
-        "point": 260,
-        "car": "シルエイティ[AR]",
+        "point": 140,
+        "car": "BNR32[AR]",
         "shop": "ＧｉＧＯ足利朝倉",
-        "update": "2026/08/22 08:29:14",
-        "status": "yellow",
-        "ageSeconds": 1343
+        "update": "2026/08/22 08:42:27",
+        "status": "green",
+        "ageSeconds": 670
       }
     ],
     "Sapphire": [
@@ -176,7 +186,7 @@
         "shop": "ラウンドワンさいたま・栗橋店",
         "update": "2026/08/22 08:41:19",
         "status": "green",
-        "ageSeconds": 618
+        "ageSeconds": 738
       }
     ],
     "Emerald": [
@@ -188,7 +198,7 @@
         "shop": "シルクハット川崎ダイス",
         "update": "2026/08/22 08:41:25",
         "status": "green",
-        "ageSeconds": 612
+        "ageSeconds": 732
       }
     ],
     "Clear Blue": [
@@ -200,7 +210,7 @@
         "shop": "ラウンドワン横浜綱島店",
         "update": "2026/08/22 08:41:37",
         "status": "green",
-        "ageSeconds": 600
+        "ageSeconds": 720
       },
       {
         "name": "きたやま",
@@ -210,7 +220,7 @@
         "shop": "ＧｉＧＯクレーンゲームオアシス金沢示野",
         "update": "2026/08/22 08:41:09",
         "status": "green",
-        "ageSeconds": 628
+        "ageSeconds": 748
       },
       {
         "name": "爺－ＺＯＮＥ",
@@ -220,7 +230,7 @@
         "shop": "G-stage浜町",
         "update": "2026/08/22 08:23:50",
         "status": "yellow",
-        "ageSeconds": 1667
+        "ageSeconds": 1787
       }
     ],
     "Clear Red": [
@@ -232,7 +242,7 @@
         "shop": "ラウンドワン高松店",
         "update": "2026/08/22 08:40:59",
         "status": "green",
-        "ageSeconds": 638
+        "ageSeconds": 758
       },
       {
         "name": "むぎちゃん♪",
@@ -242,7 +252,7 @@
         "shop": "ゲームサファリ池袋",
         "update": "2026/08/22 08:23:49",
         "status": "yellow",
-        "ageSeconds": 1668
+        "ageSeconds": 1788
       }
     ],
     "Clear Green": [],
