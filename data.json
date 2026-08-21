@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-22 02:34:42",
-  "activeSince": "2026-08-22 02:04:42",
-  "total": 8,
+  "trackerTime": "2026-08-22 02:36:23",
+  "activeSince": "2026-08-22 02:06:23",
+  "total": 12,
   "ranks": {
     "Pride": [
       {
@@ -12,37 +12,37 @@
         "shop": "ＧｉＧＯ豊橋飯村",
         "update": "2026/08/22 02:13:49",
         "status": "yellow",
-        "ageSeconds": 1253
+        "ageSeconds": 1354
       },
       {
         "name": "ふぁいなる",
         "rank": "Pride",
-        "point": 126640,
-        "car": "FD3S[AR]",
+        "point": 126780,
+        "car": "CE9Aエボ3[AR]",
         "shop": "ゲーム＆ビリヤード　遊ｉｎｇ",
-        "update": "2026/08/22 02:13:49",
-        "status": "yellow",
-        "ageSeconds": 1253
+        "update": "2026/08/22 02:29:00",
+        "status": "green",
+        "ageSeconds": 443
       },
       {
         "name": "下神アンダー",
         "rank": "Pride",
-        "point": 125720,
+        "point": 126500,
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯｍｏｚｏワンダーシティ",
-        "update": "2026/08/22 02:13:38",
-        "status": "yellow",
-        "ageSeconds": 1264
+        "update": "2026/08/22 02:29:01",
+        "status": "green",
+        "ageSeconds": 442
       },
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 45040,
-        "car": "S13[HC]",
+        "point": 45560,
+        "car": "ZC33S[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/22 02:09:27",
-        "status": "yellow",
-        "ageSeconds": 1515
+        "update": "2026/08/22 02:29:01",
+        "status": "green",
+        "ageSeconds": 442
       },
       {
         "name": "ゆとりでうす",
@@ -52,43 +52,84 @@
         "shop": "インターワールド伊勢崎店",
         "update": "2026/08/22 02:08:43",
         "status": "yellow",
-        "ageSeconds": 1559
+        "ageSeconds": 1660
+      },
+      {
+        "name": "ひちゃ♪",
+        "rank": "Pride",
+        "point": 6700,
+        "car": "CP9Aエボ6[AR]",
+        "shop": "インターワールド伊勢崎店",
+        "update": "2026/08/22 02:27:56",
+        "status": "green",
+        "ageSeconds": 507
+      },
+      {
+        "name": "Ｖｉｏｌｅｔ",
+        "rank": "Pride",
+        "point": 5000,
+        "car": "JZA80[AR]",
+        "shop": "アミューズメントパフェパレパレ田宮店",
+        "update": "2026/08/22 02:29:00",
+        "status": "green",
+        "ageSeconds": 443
       },
       {
         "name": "ｎ４ｉ",
         "rank": "Pride",
-        "point": 4780,
-        "car": "CT9Aエボ9[AR]",
+        "point": 4980,
+        "car": "CP9Aエボ5[AR]",
         "shop": "ラウンドワン京都伏見店",
-        "update": "2026/08/22 02:13:37",
-        "status": "yellow",
-        "ageSeconds": 1265
+        "update": "2026/08/22 02:24:14",
+        "status": "green",
+        "ageSeconds": 729
       }
     ],
     "Ruby": [
       {
         "name": "人間の端くれ",
         "rank": "Ruby",
-        "point": 44960,
-        "car": "ER34[AR]",
+        "point": 45100,
+        "car": "EK9[DH]",
         "shop": "ｎａｍｃｏ博多バスターミナル店",
-        "update": "2026/08/22 02:11:05",
-        "status": "yellow",
-        "ageSeconds": 1417
+        "update": "2026/08/22 02:29:06",
+        "status": "green",
+        "ageSeconds": 437
       },
       {
         "name": "摩多羅隠岐奈",
         "rank": "Ruby",
-        "point": 32680,
-        "car": "ST205[AR]",
+        "point": 32560,
+        "car": "AP1[AR]",
         "shop": "サンアミューズ鹿屋店",
-        "update": "2026/08/22 02:16:41",
-        "status": "yellow",
-        "ageSeconds": 1081
+        "update": "2026/08/22 02:29:13",
+        "status": "green",
+        "ageSeconds": 430
+      },
+      {
+        "name": "レッドブル∞",
+        "rank": "Ruby",
+        "point": 29940,
+        "car": "CP9Aエボ5[AR]",
+        "shop": "ＧｉＧＯ豊橋飯村",
+        "update": "2026/08/22 02:28:03",
+        "status": "green",
+        "ageSeconds": 500
       }
     ],
     "Sapphire": [],
-    "Emerald": [],
+    "Emerald": [
+      {
+        "name": "ＭＯＫＯＵ",
+        "rank": "Emerald",
+        "point": 320,
+        "car": "ZZW30[DH]",
+        "shop": "プレビ　ららぽーとＴＯＫＹＯーＢＡＹ店",
+        "update": "2026/08/22 02:22:24",
+        "status": "green",
+        "ageSeconds": 839
+      }
+    ],
     "Clear Blue": [],
     "Clear Red": [],
     "Clear Green": [],
