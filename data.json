@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-21 09:41:43",
-  "activeSince": "2026-08-21 09:11:43",
-  "total": 11,
+  "trackerTime": "2026-08-21 09:43:37",
+  "activeSince": "2026-08-21 09:13:37",
+  "total": 9,
   "ranks": {
     "Pride": [
       {
@@ -11,8 +11,8 @@
         "car": "SW20[AR]",
         "shop": "ＭＩＲＡＩＮＯイオンモール土岐店",
         "update": "2026/08/21 09:28:32",
-        "status": "green",
-        "ageSeconds": 791
+        "status": "yellow",
+        "ageSeconds": 904
       }
     ],
     "Ruby": [
@@ -23,8 +23,8 @@
         "car": "CP9Aエボ6[HC]",
         "shop": "インターワールド伊勢崎店",
         "update": "2026/08/21 09:28:31",
-        "status": "green",
-        "ageSeconds": 792
+        "status": "yellow",
+        "ageSeconds": 905
       },
       {
         "name": "＠ゲロまみれ",
@@ -33,8 +33,8 @@
         "car": "SW20[DH]",
         "shop": "楽市楽座イオンタウン姶良店",
         "update": "2026/08/21 09:27:37",
-        "status": "green",
-        "ageSeconds": 846
+        "status": "yellow",
+        "ageSeconds": 959
       },
       {
         "name": "あるむ♪",
@@ -44,7 +44,7 @@
         "shop": "バイパスレジャーランド藤江新館",
         "update": "2026/08/21 09:31:44",
         "status": "green",
-        "ageSeconds": 599
+        "ageSeconds": 712
       },
       {
         "name": "ＲＡＩＲＡ",
@@ -54,7 +54,7 @@
         "shop": "シルクハット川崎モアーズ",
         "update": "2026/08/21 09:31:42",
         "status": "green",
-        "ageSeconds": 601
+        "ageSeconds": 714
       },
       {
         "name": "りと",
@@ -63,8 +63,8 @@
         "car": "CT9Aエボ7[DH]",
         "shop": "ラウンドワン高槻店",
         "update": "2026/08/21 09:27:38",
-        "status": "green",
-        "ageSeconds": 845
+        "status": "yellow",
+        "ageSeconds": 958
       },
       {
         "name": "西尾　一男",
@@ -74,21 +74,11 @@
         "shop": "ハイテクランドセガ西中島",
         "update": "2026/08/21 09:19:11",
         "status": "yellow",
-        "ageSeconds": 1352
+        "ageSeconds": 1465
       }
     ],
     "Sapphire": [],
     "Emerald": [
-      {
-        "name": "ｔさい凶ｔ",
-        "rank": "Emerald",
-        "point": 3760,
-        "car": "GXPA16[AR]",
-        "shop": "ラウンドワン梅田店",
-        "update": "2026/08/21 09:13:15",
-        "status": "yellow",
-        "ageSeconds": 1708
-      },
       {
         "name": "ｙｕｒｉ",
         "rank": "Emerald",
@@ -97,7 +87,7 @@
         "shop": "アピナ太田店",
         "update": "2026/08/21 09:29:40",
         "status": "green",
-        "ageSeconds": 723
+        "ageSeconds": 836
       },
       {
         "name": "カ",
@@ -107,22 +97,11 @@
         "shop": "ペップ魚町",
         "update": "2026/08/21 09:29:41",
         "status": "green",
-        "ageSeconds": 722
+        "ageSeconds": 835
       }
     ],
     "Clear Blue": [],
-    "Clear Red": [
-      {
-        "name": "たにくち",
-        "rank": "Clear Red",
-        "point": 900,
-        "car": "NA1[AR]",
-        "shop": "ラウンドワン千日前店",
-        "update": "2026/08/21 09:12:18",
-        "status": "yellow",
-        "ageSeconds": 1765
-      }
-    ],
+    "Clear Red": [],
     "Clear Green": [],
     "Unknown Online Rank": []
   }
