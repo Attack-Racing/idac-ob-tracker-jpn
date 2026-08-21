@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-22 07:56:41",
-  "activeSince": "2026-08-22 07:26:41",
-  "total": 11,
+  "trackerTime": "2026-08-22 07:58:41",
+  "activeSince": "2026-08-22 07:28:41",
+  "total": 9,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "ジー・バオア・グー",
         "update": "2026/08/22 07:45:26",
         "status": "green",
-        "ageSeconds": 675
+        "ageSeconds": 795
       },
       {
         "name": "Ｌｙｃｈｅｅ",
@@ -22,7 +22,7 @@
         "shop": "横浜ヤングボウル",
         "update": "2026/08/22 07:46:05",
         "status": "green",
-        "ageSeconds": 636
+        "ageSeconds": 756
       }
     ],
     "Ruby": [
@@ -34,7 +34,7 @@
         "shop": "プラサカプコン羽生店",
         "update": "2026/08/22 07:44:32",
         "status": "green",
-        "ageSeconds": 729
+        "ageSeconds": 849
       },
       {
         "name": "夢咲乃愛",
@@ -44,7 +44,7 @@
         "shop": "関大前フタバボウル",
         "update": "2026/08/22 07:45:19",
         "status": "green",
-        "ageSeconds": 682
+        "ageSeconds": 802
       },
       {
         "name": "けんちんだぉ",
@@ -54,7 +54,7 @@
         "shop": "インターワールド伊勢崎店",
         "update": "2026/08/22 07:45:25",
         "status": "green",
-        "ageSeconds": 676
+        "ageSeconds": 796
       },
       {
         "name": "Ｒａｉ☆",
@@ -64,7 +64,7 @@
         "shop": "ＧｉＧＯ神戸ｕｍｉｅサウスモール",
         "update": "2026/08/22 07:44:31",
         "status": "green",
-        "ageSeconds": 730
+        "ageSeconds": 850
       },
       {
         "name": "うわあぁぁ！",
@@ -74,7 +74,7 @@
         "shop": "ＰＡＬＯ江別",
         "update": "2026/08/22 07:45:13",
         "status": "green",
-        "ageSeconds": 688
+        "ageSeconds": 808
       },
       {
         "name": "多重人物Ｓ氏",
@@ -84,7 +84,7 @@
         "shop": "ジー・バオア・グー",
         "update": "2026/08/22 07:46:12",
         "status": "green",
-        "ageSeconds": 629
+        "ageSeconds": 749
       },
       {
         "name": "女体盛りＳ氏",
@@ -94,35 +94,13 @@
         "shop": "ハピピランド旭川店",
         "update": "2026/08/22 07:40:21",
         "status": "yellow",
-        "ageSeconds": 980
+        "ageSeconds": 1100
       }
     ],
     "Sapphire": [],
     "Emerald": [],
-    "Clear Blue": [
-      {
-        "name": "ポンチャマ",
-        "rank": "Clear Blue",
-        "point": 2660,
-        "car": "CE9Aエボ3[DH]",
-        "shop": "ラウンドワン長野店",
-        "update": "2026/08/22 07:28:12",
-        "status": "yellow",
-        "ageSeconds": 1709
-      }
-    ],
-    "Clear Red": [
-      {
-        "name": "かいばしら",
-        "rank": "Clear Red",
-        "point": 180,
-        "car": "AP1[AR]",
-        "shop": "群馬レジャーランド太田店",
-        "update": "2026/08/22 07:28:15",
-        "status": "yellow",
-        "ageSeconds": 1706
-      }
-    ],
+    "Clear Blue": [],
+    "Clear Red": [],
     "Clear Green": [],
     "Unknown Online Rank": []
   }
