@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-22 03:35:45",
-  "activeSince": "2026-08-22 03:05:45",
-  "total": 6,
+  "trackerTime": "2026-08-22 03:37:24",
+  "activeSince": "2026-08-22 03:07:24",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
@@ -12,59 +12,69 @@
         "shop": "ＧｉＧＯ豊橋飯村",
         "update": "2026/08/22 03:16:05",
         "status": "yellow",
-        "ageSeconds": 1180
+        "ageSeconds": 1279
       },
       {
         "name": "下神アンダー",
         "rank": "Pride",
-        "point": 128000,
-        "car": "CP9Aエボ5[AR]",
+        "point": 128520,
+        "car": "ST205[AR]",
         "shop": "ＧｉＧＯｍｏｚｏワンダーシティ",
-        "update": "2026/08/22 03:16:42",
-        "status": "yellow",
-        "ageSeconds": 1143
+        "update": "2026/08/22 03:28:57",
+        "status": "green",
+        "ageSeconds": 507
       },
       {
         "name": "リセリシアス",
         "rank": "Pride",
-        "point": 127060,
+        "point": 127580,
         "car": "ST205[AR]",
         "shop": "ウェアハウス三橋店",
-        "update": "2026/08/22 03:16:05",
-        "status": "yellow",
-        "ageSeconds": 1180
+        "update": "2026/08/22 03:26:50",
+        "status": "green",
+        "ageSeconds": 634
       }
     ],
     "Ruby": [
       {
         "name": "人間の端くれ",
         "rank": "Ruby",
-        "point": 45180,
-        "car": "ER34[AR]",
+        "point": 45440,
+        "car": "86トレノ[AR]",
         "shop": "ｎａｍｃｏ博多バスターミナル店",
-        "update": "2026/08/22 03:14:09",
+        "update": "2026/08/22 03:21:59",
         "status": "yellow",
-        "ageSeconds": 1296
+        "ageSeconds": 925
       },
       {
         "name": "Ｌｐｅａ＊",
         "rank": "Ruby",
-        "point": 2960,
-        "car": "ST205[AR]",
+        "point": 2840,
+        "car": "CE9Aエボ3[AR]",
         "shop": "ＧｉＧＯ籠原",
-        "update": "2026/08/22 03:14:17",
-        "status": "yellow",
-        "ageSeconds": 1288
+        "update": "2026/08/22 03:26:50",
+        "status": "green",
+        "ageSeconds": 634
       },
       {
         "name": "赤城ユイナ",
         "rank": "Ruby",
-        "point": 1540,
-        "car": "FD3S6[AR]",
+        "point": 1740,
+        "car": "EK9[DH]",
         "shop": "タイトーステーション 大宮店",
-        "update": "2026/08/22 03:08:20",
-        "status": "yellow",
-        "ageSeconds": 1645
+        "update": "2026/08/22 03:26:50",
+        "status": "green",
+        "ageSeconds": 634
+      },
+      {
+        "name": "おがしょーー",
+        "rank": "Ruby",
+        "point": 520,
+        "car": "ST205[AR]",
+        "shop": "群馬レジャーランド伊勢崎店",
+        "update": "2026/08/22 03:28:56",
+        "status": "green",
+        "ageSeconds": 508
       }
     ],
     "Sapphire": [],
