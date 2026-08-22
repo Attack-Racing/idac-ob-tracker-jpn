@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-22 09:16:23",
-  "activeSince": "2026-08-22 08:46:23",
-  "total": 16,
+  "trackerTime": "2026-08-22 09:17:42",
+  "activeSince": "2026-08-22 08:47:42",
+  "total": 14,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "ジー・バオア・グー",
         "update": "2026/08/22 08:50:56",
         "status": "yellow",
-        "ageSeconds": 1527
+        "ageSeconds": 1606
       },
       {
         "name": "マルコメくん",
@@ -22,7 +22,7 @@
         "shop": "ラウンドワン中川１号線店",
         "update": "2026/08/22 08:56:45",
         "status": "yellow",
-        "ageSeconds": 1178
+        "ageSeconds": 1257
       },
       {
         "name": "ＫｉｓｓＭｅ",
@@ -32,7 +32,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/22 08:59:09",
         "status": "yellow",
-        "ageSeconds": 1034
+        "ageSeconds": 1113
       }
     ],
     "Ruby": [
@@ -44,7 +44,7 @@
         "shop": "プラサカプコン羽生店",
         "update": "2026/08/22 08:59:41",
         "status": "yellow",
-        "ageSeconds": 1002
+        "ageSeconds": 1081
       },
       {
         "name": "るな",
@@ -53,8 +53,8 @@
         "car": "FD3S6[AR]",
         "shop": "ＧｉＧＯ今福",
         "update": "2026/08/22 09:01:50",
-        "status": "green",
-        "ageSeconds": 873
+        "status": "yellow",
+        "ageSeconds": 952
       },
       {
         "name": "ＳＨＲ",
@@ -64,7 +64,7 @@
         "shop": "ＧｉＧＯ尾道",
         "update": "2026/08/22 08:56:32",
         "status": "yellow",
-        "ageSeconds": 1191
+        "ageSeconds": 1270
       },
       {
         "name": "Ｒａｉ☆",
@@ -74,7 +74,7 @@
         "shop": "ＧｉＧＯ神戸ｕｍｉｅサウスモール",
         "update": "2026/08/22 08:48:50",
         "status": "yellow",
-        "ageSeconds": 1653
+        "ageSeconds": 1732
       },
       {
         "name": "エアＤａｃ",
@@ -84,7 +84,7 @@
         "shop": "ＦｅｅｄｙＡｒｃａｄｅ新潟亀田インター",
         "update": "2026/08/22 08:59:08",
         "status": "yellow",
-        "ageSeconds": 1035
+        "ageSeconds": 1114
       },
       {
         "name": "櫻井　理那",
@@ -93,18 +93,8 @@
         "car": "964[HC]",
         "shop": "ラウンドワン市川鬼高店",
         "update": "2026/08/22 09:01:50",
-        "status": "green",
-        "ageSeconds": 873
-      },
-      {
-        "name": "ＳＹＯＵＴＡ",
-        "rank": "Ruby",
-        "point": 1140,
-        "car": "964[HC]",
-        "shop": "ラウンドワン市川鬼高店",
-        "update": "2026/08/22 08:47:00",
         "status": "yellow",
-        "ageSeconds": 1763
+        "ageSeconds": 952
       },
       {
         "name": "凶悪ピエロ♪",
@@ -114,21 +104,10 @@
         "shop": "ＧｉＧＯ港北インター",
         "update": "2026/08/22 08:55:19",
         "status": "yellow",
-        "ageSeconds": 1264
+        "ageSeconds": 1343
       }
     ],
-    "Sapphire": [
-      {
-        "name": "さくら　　＊",
-        "rank": "Sapphire",
-        "point": 1080,
-        "car": "EK9[AR]",
-        "shop": "ラウンドワンさいたま・栗橋店",
-        "update": "2026/08/22 08:47:02",
-        "status": "yellow",
-        "ageSeconds": 1761
-      }
-    ],
+    "Sapphire": [],
     "Emerald": [
       {
         "name": "けいポン",
@@ -138,7 +117,7 @@
         "shop": "ラウンドワンさいたま・栗橋店",
         "update": "2026/08/22 09:00:16",
         "status": "yellow",
-        "ageSeconds": 967
+        "ageSeconds": 1046
       },
       {
         "name": "まほら",
@@ -148,7 +127,7 @@
         "shop": "シルクハット川崎ダイス",
         "update": "2026/08/22 08:54:25",
         "status": "yellow",
-        "ageSeconds": 1318
+        "ageSeconds": 1397
       }
     ],
     "Clear Blue": [
@@ -160,7 +139,7 @@
         "shop": "ＧｉＧＯクレーンゲームオアシス金沢示野",
         "update": "2026/08/22 08:47:55",
         "status": "yellow",
-        "ageSeconds": 1708
+        "ageSeconds": 1787
       }
     ],
     "Clear Red": [
@@ -172,7 +151,7 @@
         "shop": "ラウンドワン高松店",
         "update": "2026/08/22 09:00:16",
         "status": "yellow",
-        "ageSeconds": 967
+        "ageSeconds": 1046
       }
     ],
     "Clear Green": [],
