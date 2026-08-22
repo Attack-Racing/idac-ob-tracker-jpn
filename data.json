@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-23 07:49:18",
-  "activeSince": "2026-08-23 07:19:18",
-  "total": 7,
+  "trackerTime": "2026-08-23 07:51:16",
+  "activeSince": "2026-08-23 07:21:16",
+  "total": 9,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "アミュージアム茂原店",
         "update": "2026/08/23 07:27:05",
         "status": "yellow",
-        "ageSeconds": 1333
+        "ageSeconds": 1451
       },
       {
         "name": "絶対的第六感",
@@ -22,17 +22,17 @@
         "shop": "アミューズメントゲーム　マグレブ",
         "update": "2026/08/23 07:22:18",
         "status": "yellow",
-        "ageSeconds": 1620
+        "ageSeconds": 1738
       },
       {
         "name": "しんちゅわん",
         "rank": "Pride",
-        "point": 13880,
+        "point": 14400,
         "car": "CP9Aエボ5[AR]",
         "shop": "プラサカプコン高知",
-        "update": "2026/08/23 07:31:16",
-        "status": "yellow",
-        "ageSeconds": 1082
+        "update": "2026/08/23 07:46:40",
+        "status": "green",
+        "ageSeconds": 276
       },
       {
         "name": "小野瀬　真奈",
@@ -42,7 +42,7 @@
         "shop": "群馬レジャーランド太田店",
         "update": "2026/08/23 07:26:19",
         "status": "yellow",
-        "ageSeconds": 1379
+        "ageSeconds": 1497
       },
       {
         "name": "ｔｋｎｍｔ",
@@ -52,7 +52,7 @@
         "shop": "ＨａｐｉｐｉＬａｎｄ十日町",
         "update": "2026/08/23 07:22:14",
         "status": "yellow",
-        "ageSeconds": 1624
+        "ageSeconds": 1742
       },
       {
         "name": "五河　琴里",
@@ -62,21 +62,42 @@
         "shop": "ゲームサファリ池袋",
         "update": "2026/08/23 07:27:05",
         "status": "yellow",
-        "ageSeconds": 1333
+        "ageSeconds": 1451
       },
       {
         "name": "ツクモノツキ",
         "rank": "Pride",
-        "point": 400,
+        "point": 340,
         "car": "GC8[AR]",
         "shop": "ＧｉＧＯ難波アビオン",
-        "update": "2026/08/23 07:31:16",
+        "update": "2026/08/23 07:36:13",
         "status": "yellow",
-        "ageSeconds": 1082
+        "ageSeconds": 903
       }
     ],
     "Ruby": [],
-    "Sapphire": [],
+    "Sapphire": [
+      {
+        "name": "ＪＯＫＥＲ",
+        "rank": "Sapphire",
+        "point": 440,
+        "car": "CN9Aエボ4[HC]",
+        "shop": "大垣メトロポリス",
+        "update": "2026/08/23 07:35:10",
+        "status": "yellow",
+        "ageSeconds": 966
+      },
+      {
+        "name": "鬼舞辻　無惨",
+        "rank": "Sapphire",
+        "point": 400,
+        "car": "CN9Aエボ4[HC]",
+        "shop": "ＧｉＧＯ柳津",
+        "update": "2026/08/23 07:43:15",
+        "status": "green",
+        "ageSeconds": 481
+      }
+    ],
     "Emerald": [],
     "Clear Blue": [],
     "Clear Red": [],
