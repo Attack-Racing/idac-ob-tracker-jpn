@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-23 01:05:30",
-  "activeSince": "2026-08-23 00:35:30",
-  "total": 21,
+  "trackerTime": "2026-08-23 01:06:24",
+  "activeSince": "2026-08-23 00:36:24",
+  "total": 25,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "ＧｉＧＯｍｏｚｏワンダーシティ",
         "update": "2026/08/23 00:42:45",
         "status": "yellow",
-        "ageSeconds": 1365
+        "ageSeconds": 1419
       },
       {
         "name": "ｊｏｋｅｒ？",
@@ -22,7 +22,7 @@
         "shop": "アミパラ松江店",
         "update": "2026/08/23 00:42:12",
         "status": "yellow",
-        "ageSeconds": 1398
+        "ageSeconds": 1452
       },
       {
         "name": "雨宮　天",
@@ -32,17 +32,27 @@
         "shop": "遊道楽時津店",
         "update": "2026/08/23 00:42:33",
         "status": "yellow",
-        "ageSeconds": 1377
+        "ageSeconds": 1431
       },
       {
         "name": "　Ｌｖｔｒ",
         "rank": "Pride",
-        "point": 51460,
+        "point": 51980,
         "car": "ST205[AR]",
         "shop": "アミパラ倉敷店",
-        "update": "2026/08/23 00:42:33",
-        "status": "yellow",
-        "ageSeconds": 1377
+        "update": "2026/08/23 00:51:46",
+        "status": "green",
+        "ageSeconds": 878
+      },
+      {
+        "name": "あ＠とくしま",
+        "rank": "Pride",
+        "point": 46220,
+        "car": "ST205[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/23 00:59:53",
+        "status": "green",
+        "ageSeconds": 391
       },
       {
         "name": "お前が悪いよ",
@@ -52,17 +62,17 @@
         "shop": "ＧｉＧＯ秋葉原３号館",
         "update": "2026/08/23 00:42:11",
         "status": "yellow",
-        "ageSeconds": 1399
+        "ageSeconds": 1453
       },
       {
         "name": "バレンシーア",
         "rank": "Pride",
-        "point": 39640,
+        "point": 40160,
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯスエヒロボウル徳島",
-        "update": "2026/08/23 00:43:29",
-        "status": "yellow",
-        "ageSeconds": 1321
+        "update": "2026/08/23 00:55:00",
+        "status": "green",
+        "ageSeconds": 684
       },
       {
         "name": "いいじまゆん",
@@ -72,7 +82,17 @@
         "shop": "ラウンドワン横浜駅西口店",
         "update": "2026/08/23 00:44:43",
         "status": "yellow",
-        "ageSeconds": 1247
+        "ageSeconds": 1301
+      },
+      {
+        "name": "お前運良すぎ",
+        "rank": "Pride",
+        "point": 260,
+        "car": "ST205[HC]",
+        "shop": "鳥栖あそびタウン",
+        "update": "2026/08/23 00:59:46",
+        "status": "green",
+        "ageSeconds": 398
       }
     ],
     "Ruby": [
@@ -84,7 +104,7 @@
         "shop": "ゲームサファリ池袋",
         "update": "2026/08/23 00:42:28",
         "status": "yellow",
-        "ageSeconds": 1382
+        "ageSeconds": 1436
       },
       {
         "name": "琵琶湖博物館",
@@ -94,17 +114,17 @@
         "shop": "ＧｉＧＯ秋葉原３号館",
         "update": "2026/08/23 00:46:04",
         "status": "yellow",
-        "ageSeconds": 1166
+        "ageSeconds": 1220
       },
       {
         "name": "ｍｅｉｊｉ",
         "rank": "Ruby",
-        "point": 25620,
-        "car": "ST205[AR]",
+        "point": 26080,
+        "car": "ZC33S[AR]",
         "shop": "楽市街道箱崎店",
-        "update": "2026/08/23 00:44:42",
-        "status": "yellow",
-        "ageSeconds": 1248
+        "update": "2026/08/23 01:00:22",
+        "status": "green",
+        "ageSeconds": 362
       },
       {
         "name": "未来の三原色",
@@ -114,7 +134,7 @@
         "shop": "ラウンドワンダイバーシティ東京プラザ店",
         "update": "2026/08/23 00:36:46",
         "status": "yellow",
-        "ageSeconds": 1724
+        "ageSeconds": 1778
       },
       {
         "name": "スプラウト",
@@ -124,17 +144,17 @@
         "shop": "ラウンドワン伊丹店",
         "update": "2026/08/23 00:43:35",
         "status": "yellow",
-        "ageSeconds": 1315
+        "ageSeconds": 1369
       },
       {
         "name": "清宮レイ",
         "rank": "Ruby",
-        "point": 7020,
-        "car": "RPS13[DH]",
+        "point": 6960,
+        "car": "ST205[AR]",
         "shop": "アミパラ丸亀店",
-        "update": "2026/08/23 00:40:51",
-        "status": "yellow",
-        "ageSeconds": 1479
+        "update": "2026/08/23 00:59:15",
+        "status": "green",
+        "ageSeconds": 429
       },
       {
         "name": "音凪の弟子",
@@ -144,7 +164,7 @@
         "shop": "ＧｉＧＯ袋井",
         "update": "2026/08/23 00:46:05",
         "status": "yellow",
-        "ageSeconds": 1165
+        "ageSeconds": 1219
       },
       {
         "name": "八意永琳",
@@ -154,7 +174,7 @@
         "shop": "ＧｉＧＯ袋井",
         "update": "2026/08/23 00:42:28",
         "status": "yellow",
-        "ageSeconds": 1382
+        "ageSeconds": 1436
       },
       {
         "name": "山本　彩．",
@@ -164,7 +184,7 @@
         "shop": "ウェアハウス岩槻店",
         "update": "2026/08/23 00:40:56",
         "status": "yellow",
-        "ageSeconds": 1474
+        "ageSeconds": 1528
       }
     ],
     "Sapphire": [
@@ -176,7 +196,7 @@
         "shop": "ベネクス浦和店",
         "update": "2026/08/23 00:43:42",
         "status": "yellow",
-        "ageSeconds": 1308
+        "ageSeconds": 1362
       },
       {
         "name": "ザ☆協極ナル",
@@ -186,7 +206,27 @@
         "shop": "フタバボウル泉大津店",
         "update": "2026/08/23 00:43:41",
         "status": "yellow",
-        "ageSeconds": 1309
+        "ageSeconds": 1363
+      },
+      {
+        "name": "卍織戸る卍",
+        "rank": "Sapphire",
+        "point": 940,
+        "car": "DC2[HC]",
+        "shop": "アミパラ倉敷店",
+        "update": "2026/08/23 00:53:50",
+        "status": "green",
+        "ageSeconds": 754
+      },
+      {
+        "name": "狸己京輸ｊｏ",
+        "rank": "Sapphire",
+        "point": 700,
+        "car": "ER34[AR]",
+        "shop": "ＳＰＥＥＤ",
+        "update": "2026/08/23 00:59:17",
+        "status": "green",
+        "ageSeconds": 427
       },
       {
         "name": "みさ＊いる",
@@ -196,7 +236,7 @@
         "shop": "ＧｉＧＯ倉敷",
         "update": "2026/08/23 00:40:16",
         "status": "yellow",
-        "ageSeconds": 1514
+        "ageSeconds": 1568
       }
     ],
     "Emerald": [
@@ -208,17 +248,17 @@
         "shop": "ユーズランド高岡店",
         "update": "2026/08/23 00:39:30",
         "status": "yellow",
-        "ageSeconds": 1560
+        "ageSeconds": 1614
       },
       {
         "name": "住所不定無職",
         "rank": "Emerald",
-        "point": 2400,
+        "point": 2640,
         "car": "ZC6[AR]",
         "shop": "アミパラ岡山店",
-        "update": "2026/08/23 00:39:31",
-        "status": "yellow",
-        "ageSeconds": 1559
+        "update": "2026/08/23 00:56:46",
+        "status": "green",
+        "ageSeconds": 578
       }
     ],
     "Clear Blue": [],
