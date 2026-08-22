@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-23 08:45:09",
-  "activeSince": "2026-08-23 08:15:09",
-  "total": 10,
+  "trackerTime": "2026-08-23 08:46:20",
+  "activeSince": "2026-08-23 08:16:20",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
@@ -11,28 +11,8 @@
         "car": "ST205[AR]",
         "shop": "プラサカプコン高知",
         "update": "2026/08/23 08:31:02",
-        "status": "green",
-        "ageSeconds": 847
-      },
-      {
-        "name": "小野瀬　真奈",
-        "rank": "Pride",
-        "point": 11960,
-        "car": "ST205[AR]",
-        "shop": "群馬レジャーランド太田店",
-        "update": "2026/08/23 08:15:11",
         "status": "yellow",
-        "ageSeconds": 1798
-      },
-      {
-        "name": "ｔｋｎｍｔ",
-        "rank": "Pride",
-        "point": 8420,
-        "car": "FD3S[HC]",
-        "shop": "ＨａｐｉｐｉＬａｎｄ十日町",
-        "update": "2026/08/23 08:15:11",
-        "status": "yellow",
-        "ageSeconds": 1798
+        "ageSeconds": 918
       },
       {
         "name": "五河　琴里",
@@ -42,20 +22,10 @@
         "shop": "ゲームサファリ池袋",
         "update": "2026/08/23 08:28:02",
         "status": "yellow",
-        "ageSeconds": 1027
+        "ageSeconds": 1098
       }
     ],
     "Ruby": [
-      {
-        "name": "ＲＡＩＤＥＮ",
-        "rank": "Ruby",
-        "point": 4160,
-        "car": "S13[AR]",
-        "shop": "ラウンドワン仙台苦竹店",
-        "update": "2026/08/23 08:15:50",
-        "status": "yellow",
-        "ageSeconds": 1759
-      },
       {
         "name": "あーちゃん",
         "rank": "Ruby",
@@ -64,7 +34,7 @@
         "shop": "ユーズランド太田店",
         "update": "2026/08/23 08:28:03",
         "status": "yellow",
-        "ageSeconds": 1026
+        "ageSeconds": 1097
       },
       {
         "name": "ユーイチ",
@@ -73,8 +43,8 @@
         "car": "ST205[AR]",
         "shop": "ラウンドワン旭川店",
         "update": "2026/08/23 08:31:01",
-        "status": "green",
-        "ageSeconds": 848
+        "status": "yellow",
+        "ageSeconds": 919
       }
     ],
     "Sapphire": [
@@ -86,7 +56,7 @@
         "shop": "ラウンドワン金沢店",
         "update": "2026/08/23 08:29:34",
         "status": "yellow",
-        "ageSeconds": 935
+        "ageSeconds": 1006
       },
       {
         "name": "モニカ・Ｚ",
@@ -96,7 +66,7 @@
         "shop": "タイトーＦステーション静岡",
         "update": "2026/08/23 08:29:33",
         "status": "yellow",
-        "ageSeconds": 936
+        "ageSeconds": 1007
       },
       {
         "name": "下弦の鬼幻魔",
@@ -106,7 +76,7 @@
         "shop": "ラウンドワンモレラ岐阜店",
         "update": "2026/08/23 08:16:23",
         "status": "yellow",
-        "ageSeconds": 1726
+        "ageSeconds": 1797
       }
     ],
     "Emerald": [],
