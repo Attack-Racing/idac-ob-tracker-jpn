@@ -1,9 +1,19 @@
 {
-  "trackerTime": "2026-08-23 08:21:22",
-  "activeSince": "2026-08-23 07:51:22",
-  "total": 10,
+  "trackerTime": "2026-08-23 08:23:18",
+  "activeSince": "2026-08-23 07:53:18",
+  "total": 16,
   "ranks": {
     "Pride": [
+      {
+        "name": "ＯＬＩＶＩＡ",
+        "rank": "Pride",
+        "point": 35140,
+        "car": "ST205[AR]",
+        "shop": "アミュージアム茂原店",
+        "update": "2026/08/23 08:02:56",
+        "status": "yellow",
+        "ageSeconds": 1222
+      },
       {
         "name": "しんちゅわん",
         "rank": "Pride",
@@ -12,17 +22,17 @@
         "shop": "プラサカプコン高知",
         "update": "2026/08/23 08:12:05",
         "status": "green",
-        "ageSeconds": 557
+        "ageSeconds": 673
       },
       {
         "name": "小野瀬　真奈",
         "rank": "Pride",
-        "point": 11180,
+        "point": 11960,
         "car": "ST205[AR]",
         "shop": "群馬レジャーランド太田店",
-        "update": "2026/08/23 07:57:49",
-        "status": "yellow",
-        "ageSeconds": 1413
+        "update": "2026/08/23 08:15:11",
+        "status": "green",
+        "ageSeconds": 487
       },
       {
         "name": "ｔｋｎｍｔ",
@@ -32,20 +42,60 @@
         "shop": "ＨａｐｉｐｉＬａｎｄ十日町",
         "update": "2026/08/23 08:15:11",
         "status": "green",
-        "ageSeconds": 371
+        "ageSeconds": 487
       },
       {
         "name": "五河　琴里",
         "rank": "Pride",
-        "point": 1960,
+        "point": 2480,
         "car": "ST205[AR]",
         "shop": "ゲームサファリ池袋",
-        "update": "2026/08/23 07:58:39",
-        "status": "yellow",
-        "ageSeconds": 1363
+        "update": "2026/08/23 08:13:20",
+        "status": "green",
+        "ageSeconds": 598
+      },
+      {
+        "name": "Ｒ．Ｅ．Ｍ",
+        "rank": "Pride",
+        "point": 920,
+        "car": "FD3S[AR]",
+        "shop": "ウェアハウス入谷店",
+        "update": "2026/08/23 08:13:19",
+        "status": "green",
+        "ageSeconds": 599
       }
     ],
     "Ruby": [
+      {
+        "name": "　Ｎｏ．５　",
+        "rank": "Ruby",
+        "point": 4200,
+        "car": "CZ4Aエボ10[AR]",
+        "shop": "アミューズメントスペースBAGIBAGI",
+        "update": "2026/08/23 08:09:09",
+        "status": "green",
+        "ageSeconds": 849
+      },
+      {
+        "name": "ＲＡＩＤＥＮ",
+        "rank": "Ruby",
+        "point": 4160,
+        "car": "S13[AR]",
+        "shop": "ラウンドワン仙台苦竹店",
+        "update": "2026/08/23 08:15:50",
+        "status": "green",
+        "ageSeconds": 448
+      },
+      {
+        "name": "あーちゃん",
+        "rank": "Ruby",
+        "point": 2040,
+        "car": "SW20[AR]",
+        "shop": "ユーズランド太田店",
+        "update": "2026/08/23 08:15:50",
+        "status": "green",
+        "ageSeconds": 448
+      },
       {
         "name": "勝者臆病者",
         "rank": "Ruby",
@@ -54,7 +104,17 @@
         "shop": "スターフィールド",
         "update": "2026/08/23 08:03:28",
         "status": "yellow",
-        "ageSeconds": 1074
+        "ageSeconds": 1190
+      },
+      {
+        "name": "ユーイチ",
+        "rank": "Ruby",
+        "point": 240,
+        "car": "CP9Aエボ6[AR]",
+        "shop": "ラウンドワン旭川店",
+        "update": "2026/08/23 08:16:24",
+        "status": "green",
+        "ageSeconds": 414
       }
     ],
     "Sapphire": [
@@ -66,7 +126,7 @@
         "shop": "ＧｉＧＯ花園",
         "update": "2026/08/23 08:01:11",
         "status": "yellow",
-        "ageSeconds": 1211
+        "ageSeconds": 1327
       },
       {
         "name": "鬼舞辻　無惨",
@@ -76,7 +136,7 @@
         "shop": "岐阜レジャーランド穂積店",
         "update": "2026/08/23 08:01:10",
         "status": "yellow",
-        "ageSeconds": 1212
+        "ageSeconds": 1328
       },
       {
         "name": "モニカ・Ｚ",
@@ -86,7 +146,7 @@
         "shop": "タイトーＦステーション静岡",
         "update": "2026/08/23 08:15:27",
         "status": "green",
-        "ageSeconds": 355
+        "ageSeconds": 471
       },
       {
         "name": "下弦の鬼幻魔",
@@ -96,7 +156,7 @@
         "shop": "ラウンドワンモレラ岐阜店",
         "update": "2026/08/23 08:16:23",
         "status": "green",
-        "ageSeconds": 299
+        "ageSeconds": 415
       },
       {
         "name": "鬼舞辻　無惨",
@@ -106,7 +166,7 @@
         "shop": "大垣メトロポリス",
         "update": "2026/08/23 07:55:18",
         "status": "yellow",
-        "ageSeconds": 1564
+        "ageSeconds": 1680
       }
     ],
     "Emerald": [],
