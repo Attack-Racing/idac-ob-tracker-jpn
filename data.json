@@ -1,9 +1,29 @@
 {
-  "trackerTime": "2026-08-23 07:36:02",
-  "activeSince": "2026-08-23 07:06:02",
-  "total": 5,
+  "trackerTime": "2026-08-23 07:37:04",
+  "activeSince": "2026-08-23 07:07:04",
+  "total": 8,
   "ranks": {
     "Pride": [
+      {
+        "name": "ＯＬＩＶＩＡ",
+        "rank": "Pride",
+        "point": 34940,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "アミュージアム茂原店",
+        "update": "2026/08/23 07:27:05",
+        "status": "green",
+        "ageSeconds": 598
+      },
+      {
+        "name": "絶対的第六感",
+        "rank": "Pride",
+        "point": 27460,
+        "car": "BNR32[AR]",
+        "shop": "アミューズメントゲーム　マグレブ",
+        "update": "2026/08/23 07:22:18",
+        "status": "green",
+        "ageSeconds": 885
+      },
       {
         "name": "しんちゅわん",
         "rank": "Pride",
@@ -12,17 +32,17 @@
         "shop": "プラサカプコン高知",
         "update": "2026/08/23 07:31:16",
         "status": "green",
-        "ageSeconds": 286
+        "ageSeconds": 347
       },
       {
         "name": "小野瀬　真奈",
         "rank": "Pride",
-        "point": 10900,
+        "point": 11100,
         "car": "ST205[AR]",
         "shop": "群馬レジャーランド太田店",
-        "update": "2026/08/23 07:11:27",
-        "status": "yellow",
-        "ageSeconds": 1475
+        "update": "2026/08/23 07:26:19",
+        "status": "green",
+        "ageSeconds": 644
       },
       {
         "name": "ｔｋｎｍｔ",
@@ -32,7 +52,17 @@
         "shop": "ＨａｐｉｐｉＬａｎｄ十日町",
         "update": "2026/08/23 07:22:14",
         "status": "green",
-        "ageSeconds": 828
+        "ageSeconds": 889
+      },
+      {
+        "name": "五河　琴里",
+        "rank": "Pride",
+        "point": 980,
+        "car": "CP9Aエボ5[AR]",
+        "shop": "ゲームサファリ池袋",
+        "update": "2026/08/23 07:27:05",
+        "status": "green",
+        "ageSeconds": 598
       },
       {
         "name": "ｋｒｙｎＸ　",
@@ -42,7 +72,7 @@
         "shop": "ＳＯＹＵ　ＧＡＭＥ　ＦＩＥＬＤ古川店",
         "update": "2026/08/23 07:11:27",
         "status": "yellow",
-        "ageSeconds": 1475
+        "ageSeconds": 1536
       },
       {
         "name": "ツクモノツキ",
@@ -52,7 +82,7 @@
         "shop": "ＧｉＧＯ難波アビオン",
         "update": "2026/08/23 07:31:16",
         "status": "green",
-        "ageSeconds": 286
+        "ageSeconds": 347
       }
     ],
     "Ruby": [],
