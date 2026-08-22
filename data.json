@@ -1,60 +1,60 @@
 {
-  "trackerTime": "2026-08-23 03:50:25",
-  "activeSince": "2026-08-23 03:20:25",
-  "total": 9,
+  "trackerTime": "2026-08-23 03:51:33",
+  "activeSince": "2026-08-23 03:21:33",
+  "total": 11,
   "ranks": {
     "Pride": [
       {
         "name": "神無月　燐",
         "rank": "Pride",
-        "point": 204260,
+        "point": 204720,
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯ豊橋飯村",
-        "update": "2026/08/23 03:28:51",
-        "status": "yellow",
-        "ageSeconds": 1294
+        "update": "2026/08/23 03:46:42",
+        "status": "green",
+        "ageSeconds": 291
       },
       {
         "name": "青眼の魔術師",
         "rank": "Pride",
-        "point": 106500,
-        "car": "AP1[AR]",
+        "point": 106760,
+        "car": "ST205[AR]",
         "shop": "ＧｉＧＯ豊橋飯村",
-        "update": "2026/08/23 03:30:45",
+        "update": "2026/08/23 03:36:22",
         "status": "yellow",
-        "ageSeconds": 1180
+        "ageSeconds": 911
       },
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 49960,
+        "point": 50480,
         "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/23 03:31:36",
-        "status": "yellow",
-        "ageSeconds": 1129
+        "update": "2026/08/23 03:46:42",
+        "status": "green",
+        "ageSeconds": 291
       },
       {
         "name": "りょう＠ＺＲ",
         "rank": "Pride",
-        "point": 140,
-        "car": "86トレノ[DH]",
+        "point": 340,
+        "car": "FD3S6[AR]",
         "shop": "ＧｉＧＯスエヒロボウル徳島",
-        "update": "2026/08/23 03:30:46",
-        "status": "yellow",
-        "ageSeconds": 1179
+        "update": "2026/08/23 03:41:55",
+        "status": "green",
+        "ageSeconds": 578
       }
     ],
     "Ruby": [
       {
         "name": "Ｈａｎｔｙｏ",
         "rank": "Ruby",
-        "point": 72880,
-        "car": "BNR32[AR]",
+        "point": 73080,
+        "car": "AP1[AR]",
         "shop": "ゲームサファリ池袋",
-        "update": "2026/08/23 03:30:38",
-        "status": "yellow",
-        "ageSeconds": 1187
+        "update": "2026/08/23 03:42:48",
+        "status": "green",
+        "ageSeconds": 525
       },
       {
         "name": "琵琶湖博物館",
@@ -64,17 +64,27 @@
         "shop": "ＧｉＧＯ秋葉原３号館",
         "update": "2026/08/23 03:24:29",
         "status": "yellow",
-        "ageSeconds": 1556
+        "ageSeconds": 1624
+      },
+      {
+        "name": "摩多羅隠岐奈",
+        "rank": "Ruby",
+        "point": 38600,
+        "car": "ST205[AR]",
+        "shop": "サンアミューズ鹿屋店",
+        "update": "2026/08/23 03:40:11",
+        "status": "green",
+        "ageSeconds": 682
       },
       {
         "name": "レッドブル∞",
         "rank": "Ruby",
-        "point": 30160,
-        "car": "ST205[AR]",
+        "point": 30420,
+        "car": "EG6[HC]",
         "shop": "ＧｉＧＯ豊橋飯村",
-        "update": "2026/08/23 03:31:36",
-        "status": "yellow",
-        "ageSeconds": 1129
+        "update": "2026/08/23 03:37:18",
+        "status": "green",
+        "ageSeconds": 855
       },
       {
         "name": "未来の三原色",
@@ -84,7 +94,7 @@
         "shop": "ラウンドワンダイバーシティ東京プラザ店",
         "update": "2026/08/23 03:28:52",
         "status": "yellow",
-        "ageSeconds": 1293
+        "ageSeconds": 1361
       },
       {
         "name": "＋マニア悪魔",
@@ -94,7 +104,17 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/23 03:24:56",
         "status": "yellow",
-        "ageSeconds": 1529
+        "ageSeconds": 1597
+      },
+      {
+        "name": "おがしょーー",
+        "rank": "Ruby",
+        "point": 1160,
+        "car": "SW20[AR]",
+        "shop": "群馬レジャーランド伊勢崎店",
+        "update": "2026/08/23 03:42:48",
+        "status": "green",
+        "ageSeconds": 525
       }
     ],
     "Sapphire": [],
