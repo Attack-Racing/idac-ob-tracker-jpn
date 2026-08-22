@@ -1,9 +1,30 @@
 {
-  "trackerTime": "2026-08-23 07:21:13",
-  "activeSince": "2026-08-23 06:51:13",
-  "total": 0,
+  "trackerTime": "2026-08-23 07:23:17",
+  "activeSince": "2026-08-23 06:53:17",
+  "total": 2,
   "ranks": {
-    "Pride": [],
+    "Pride": [
+      {
+        "name": "小野瀬　真奈",
+        "rank": "Pride",
+        "point": 10900,
+        "car": "ST205[AR]",
+        "shop": "群馬レジャーランド太田店",
+        "update": "2026/08/23 07:11:27",
+        "status": "green",
+        "ageSeconds": 710
+      },
+      {
+        "name": "ｋｒｙｎＸ　",
+        "rank": "Pride",
+        "point": 920,
+        "car": "FD3S[AR]",
+        "shop": "ＳＯＹＵ　ＧＡＭＥ　ＦＩＥＬＤ古川店",
+        "update": "2026/08/23 07:11:27",
+        "status": "green",
+        "ageSeconds": 710
+      }
+    ],
     "Ruby": [],
     "Sapphire": [],
     "Emerald": [],
