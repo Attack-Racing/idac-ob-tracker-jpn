@@ -1,9 +1,19 @@
 {
-  "trackerTime": "2026-08-23 07:34:18",
-  "activeSince": "2026-08-23 07:04:18",
-  "total": 2,
+  "trackerTime": "2026-08-23 07:36:02",
+  "activeSince": "2026-08-23 07:06:02",
+  "total": 5,
   "ranks": {
     "Pride": [
+      {
+        "name": "しんちゅわん",
+        "rank": "Pride",
+        "point": 13880,
+        "car": "CP9Aエボ5[AR]",
+        "shop": "プラサカプコン高知",
+        "update": "2026/08/23 07:31:16",
+        "status": "green",
+        "ageSeconds": 286
+      },
       {
         "name": "小野瀬　真奈",
         "rank": "Pride",
@@ -12,7 +22,17 @@
         "shop": "群馬レジャーランド太田店",
         "update": "2026/08/23 07:11:27",
         "status": "yellow",
-        "ageSeconds": 1371
+        "ageSeconds": 1475
+      },
+      {
+        "name": "ｔｋｎｍｔ",
+        "rank": "Pride",
+        "point": 7900,
+        "car": "FD3S[AR]",
+        "shop": "ＨａｐｉｐｉＬａｎｄ十日町",
+        "update": "2026/08/23 07:22:14",
+        "status": "green",
+        "ageSeconds": 828
       },
       {
         "name": "ｋｒｙｎＸ　",
@@ -22,7 +42,17 @@
         "shop": "ＳＯＹＵ　ＧＡＭＥ　ＦＩＥＬＤ古川店",
         "update": "2026/08/23 07:11:27",
         "status": "yellow",
-        "ageSeconds": 1371
+        "ageSeconds": 1475
+      },
+      {
+        "name": "ツクモノツキ",
+        "rank": "Pride",
+        "point": 400,
+        "car": "GC8[AR]",
+        "shop": "ＧｉＧＯ難波アビオン",
+        "update": "2026/08/23 07:31:16",
+        "status": "green",
+        "ageSeconds": 286
       }
     ],
     "Ruby": [],
