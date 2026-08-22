@@ -1,18 +1,18 @@
 {
-  "trackerTime": "2026-08-23 08:49:13",
-  "activeSince": "2026-08-23 08:19:13",
-  "total": 6,
+  "trackerTime": "2026-08-23 08:51:18",
+  "activeSince": "2026-08-23 08:21:18",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
         "name": "しんちゅわん",
         "rank": "Pride",
-        "point": 15180,
+        "point": 15440,
         "car": "ST205[AR]",
         "shop": "プラサカプコン高知",
-        "update": "2026/08/23 08:31:02",
-        "status": "yellow",
-        "ageSeconds": 1091
+        "update": "2026/08/23 08:45:02",
+        "status": "green",
+        "ageSeconds": 375
       },
       {
         "name": "五河　琴里",
@@ -22,7 +22,7 @@
         "shop": "ゲームサファリ池袋",
         "update": "2026/08/23 08:28:02",
         "status": "yellow",
-        "ageSeconds": 1271
+        "ageSeconds": 1395
       }
     ],
     "Ruby": [
@@ -34,7 +34,17 @@
         "shop": "ユーズランド太田店",
         "update": "2026/08/23 08:28:03",
         "status": "yellow",
-        "ageSeconds": 1270
+        "ageSeconds": 1394
+      },
+      {
+        "name": "宇佐見　運子",
+        "rank": "Ruby",
+        "point": 1380,
+        "car": "FD3S[AR]",
+        "shop": "ＹＡＺ寝屋川店",
+        "update": "2026/08/23 08:38:03",
+        "status": "green",
+        "ageSeconds": 794
       },
       {
         "name": "ユーイチ",
@@ -44,7 +54,7 @@
         "shop": "ラウンドワン旭川店",
         "update": "2026/08/23 08:31:01",
         "status": "yellow",
-        "ageSeconds": 1092
+        "ageSeconds": 1216
       }
     ],
     "Sapphire": [
@@ -56,7 +66,7 @@
         "shop": "ラウンドワン金沢店",
         "update": "2026/08/23 08:29:34",
         "status": "yellow",
-        "ageSeconds": 1179
+        "ageSeconds": 1303
       },
       {
         "name": "モニカ・Ｚ",
@@ -66,7 +76,7 @@
         "shop": "タイトーＦステーション静岡",
         "update": "2026/08/23 08:29:33",
         "status": "yellow",
-        "ageSeconds": 1180
+        "ageSeconds": 1304
       }
     ],
     "Emerald": [],
