@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-24 00:49:18",
-  "activeSince": "2026-08-24 00:19:18",
-  "total": 4,
+  "trackerTime": "2026-08-24 00:51:17",
+  "activeSince": "2026-08-24 00:21:17",
+  "total": 6,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "アミパラ松江店",
         "update": "2026/08/24 00:22:05",
         "status": "yellow",
-        "ageSeconds": 1633
+        "ageSeconds": 1752
       },
       {
         "name": "チェリボム",
@@ -22,17 +22,17 @@
         "shop": "マトリクス前橋",
         "update": "2026/08/24 00:25:41",
         "status": "yellow",
-        "ageSeconds": 1417
+        "ageSeconds": 1536
       },
       {
-        "name": "次は僕の番",
+        "name": "Ｃｌｕｂ　Ａ",
         "rank": "Pride",
-        "point": 800,
-        "car": "JZX100[HC]",
-        "shop": "ラウンドワン前橋店",
-        "update": "2026/08/24 00:20:20",
+        "point": 2540,
+        "car": "ST205[AR]",
+        "shop": "アレックス",
+        "update": "2026/08/24 00:35:36",
         "status": "yellow",
-        "ageSeconds": 1738
+        "ageSeconds": 941
       }
     ],
     "Ruby": [],
@@ -41,16 +41,37 @@
       {
         "name": "ＧＲＫ",
         "rank": "Emerald",
-        "point": 3680,
+        "point": 3860,
         "car": "GXPA16[AR]",
         "shop": "ラウンドワン沖縄・南風原店",
-        "update": "2026/08/24 00:28:24",
-        "status": "yellow",
-        "ageSeconds": 1254
+        "update": "2026/08/24 00:46:32",
+        "status": "green",
+        "ageSeconds": 285
+      },
+      {
+        "name": "ヒロミ",
+        "rank": "Emerald",
+        "point": 1880,
+        "car": "EA11R[DH]",
+        "shop": "アピナ野々市店",
+        "update": "2026/08/24 00:43:57",
+        "status": "green",
+        "ageSeconds": 440
       }
     ],
     "Clear Blue": [],
-    "Clear Red": [],
+    "Clear Red": [
+      {
+        "name": "あいり",
+        "rank": "Clear Red",
+        "point": 4640,
+        "car": "NA6CE[HC]",
+        "shop": "ラウンドワン加古川店",
+        "update": "2026/08/24 00:34:49",
+        "status": "yellow",
+        "ageSeconds": 988
+      }
+    ],
     "Clear Green": [],
     "Unknown Online Rank": []
   }
