@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-24 00:45:21",
-  "activeSince": "2026-08-24 00:15:21",
-  "total": 6,
+  "trackerTime": "2026-08-24 00:47:03",
+  "activeSince": "2026-08-24 00:17:03",
+  "total": 4,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "アミパラ松江店",
         "update": "2026/08/24 00:22:05",
         "status": "yellow",
-        "ageSeconds": 1396
+        "ageSeconds": 1498
       },
       {
         "name": "チェリボム",
@@ -22,7 +22,7 @@
         "shop": "マトリクス前橋",
         "update": "2026/08/24 00:25:41",
         "status": "yellow",
-        "ageSeconds": 1180
+        "ageSeconds": 1282
       },
       {
         "name": "次は僕の番",
@@ -32,21 +32,10 @@
         "shop": "ラウンドワン前橋店",
         "update": "2026/08/24 00:20:20",
         "status": "yellow",
-        "ageSeconds": 1501
+        "ageSeconds": 1603
       }
     ],
-    "Ruby": [
-      {
-        "name": "黒Ｊは中押し",
-        "rank": "Ruby",
-        "point": 10280,
-        "car": "CP9Aエボ6[AR]",
-        "shop": "アピナ姫路店",
-        "update": "2026/08/24 00:15:25",
-        "status": "yellow",
-        "ageSeconds": 1796
-      }
-    ],
+    "Ruby": [],
     "Sapphire": [],
     "Emerald": [
       {
@@ -57,17 +46,7 @@
         "shop": "ラウンドワン沖縄・南風原店",
         "update": "2026/08/24 00:28:24",
         "status": "yellow",
-        "ageSeconds": 1017
-      },
-      {
-        "name": "ヒロミ",
-        "rank": "Emerald",
-        "point": 1220,
-        "car": "EA11R[DH]",
-        "shop": "アピナ野々市店",
-        "update": "2026/08/24 00:16:37",
-        "status": "yellow",
-        "ageSeconds": 1724
+        "ageSeconds": 1119
       }
     ],
     "Clear Blue": [],
