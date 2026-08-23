@@ -1,70 +1,110 @@
 {
-  "trackerTime": "2026-08-24 03:19:20",
-  "activeSince": "2026-08-24 02:49:20",
-  "total": 6,
+  "trackerTime": "2026-08-24 03:20:59",
+  "activeSince": "2026-08-24 02:50:59",
+  "total": 10,
   "ranks": {
     "Pride": [
       {
         "name": "神無月　燐",
         "rank": "Pride",
-        "point": 219620,
-        "car": "ST205[AR]",
+        "point": 219500,
+        "car": "CP9Aエボ5[AR]",
         "shop": "ＧｉＧＯ豊橋飯村",
-        "update": "2026/08/24 02:55:19",
-        "status": "yellow",
-        "ageSeconds": 1441
+        "update": "2026/08/24 03:09:57",
+        "status": "green",
+        "ageSeconds": 661
+      },
+      {
+        "name": "ノアてぃん",
+        "rank": "Pride",
+        "point": 86620,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "群馬レジャーランド伊勢崎店",
+        "update": "2026/08/24 03:09:58",
+        "status": "green",
+        "ageSeconds": 660
       },
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 52120,
+        "point": 52380,
         "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/24 02:55:20",
+        "update": "2026/08/24 03:03:43",
         "status": "yellow",
-        "ageSeconds": 1440
+        "ageSeconds": 1035
       },
       {
         "name": "絶対的第六感",
         "rank": "Pride",
-        "point": 28460,
+        "point": 28280,
         "car": "ST205[AR]",
         "shop": "アミューズメントゲーム　マグレブ",
-        "update": "2026/08/24 02:58:20",
-        "status": "yellow",
-        "ageSeconds": 1260
+        "update": "2026/08/24 03:15:35",
+        "status": "green",
+        "ageSeconds": 323
+      },
+      {
+        "name": "チェリボム",
+        "rank": "Pride",
+        "point": 16340,
+        "car": "ST205[AR]",
+        "shop": "マトリクス前橋",
+        "update": "2026/08/24 03:14:15",
+        "status": "green",
+        "ageSeconds": 403
+      },
+      {
+        "name": "閃光のベイル",
+        "rank": "Pride",
+        "point": 3640,
+        "car": "FD3S6[AR]",
+        "shop": "ベネクス大和店",
+        "update": "2026/08/24 03:15:35",
+        "status": "green",
+        "ageSeconds": 323
       }
     ],
     "Ruby": [
       {
         "name": "摩多羅隠岐奈",
         "rank": "Ruby",
-        "point": 41060,
+        "point": 41580,
         "car": "ST205[AR]",
         "shop": "サンアミューズ鹿屋店",
-        "update": "2026/08/24 02:55:22",
-        "status": "yellow",
-        "ageSeconds": 1438
+        "update": "2026/08/24 03:14:15",
+        "status": "green",
+        "ageSeconds": 403
       },
       {
         "name": "レッドブル∞",
         "rank": "Ruby",
-        "point": 32620,
+        "point": 33140,
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯ豊橋飯村",
-        "update": "2026/08/24 02:58:20",
-        "status": "yellow",
-        "ageSeconds": 1260
+        "update": "2026/08/24 03:10:38",
+        "status": "green",
+        "ageSeconds": 620
       },
       {
         "name": "赤城ユイナ",
         "rank": "Ruby",
-        "point": 1760,
+        "point": 1960,
         "car": "FD3S6[AR]",
         "shop": "タイトーステーション 大宮店",
-        "update": "2026/08/24 02:55:22",
-        "status": "yellow",
-        "ageSeconds": 1438
+        "update": "2026/08/24 03:12:33",
+        "status": "green",
+        "ageSeconds": 505
+      },
+      {
+        "name": "Ｂｏｎｎｉｅ",
+        "rank": "Ruby",
+        "point": 1220,
+        "car": "CT9Aエボ9[AR]",
+        "shop": "ユーズランド高崎店",
+        "update": "2026/08/24 03:12:34",
+        "status": "green",
+        "ageSeconds": 504
       }
     ],
     "Sapphire": [],
