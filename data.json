@@ -1,80 +1,100 @@
 {
-  "trackerTime": "2026-08-24 03:49:15",
-  "activeSince": "2026-08-24 03:19:15",
-  "total": 8,
+  "trackerTime": "2026-08-24 03:51:17",
+  "activeSince": "2026-08-24 03:21:17",
+  "total": 12,
   "ranks": {
     "Pride": [
       {
         "name": "ノアてぃん",
         "rank": "Pride",
-        "point": 87400,
+        "point": 88180,
         "car": "ST205[AR]",
         "shop": "群馬レジャーランド伊勢崎店",
-        "update": "2026/08/24 03:28:18",
-        "status": "yellow",
-        "ageSeconds": 1257
+        "update": "2026/08/24 03:46:17",
+        "status": "green",
+        "ageSeconds": 300
       },
       {
         "name": "絶対的第六感",
         "rank": "Pride",
-        "point": 28220,
-        "car": "CP9Aエボ6[HC]",
+        "point": 28160,
+        "car": "ST205[AR]",
         "shop": "アミューズメントゲーム　マグレブ",
-        "update": "2026/08/24 03:21:49",
-        "status": "yellow",
-        "ageSeconds": 1646
+        "update": "2026/08/24 03:41:34",
+        "status": "green",
+        "ageSeconds": 583
       },
       {
         "name": "チェリボム",
         "rank": "Pride",
-        "point": 17120,
+        "point": 17380,
         "car": "ST205[AR]",
         "shop": "マトリクス前橋",
-        "update": "2026/08/24 03:29:33",
-        "status": "yellow",
-        "ageSeconds": 1182
+        "update": "2026/08/24 03:39:11",
+        "status": "green",
+        "ageSeconds": 726
       },
       {
         "name": "閃光のベイル",
         "rank": "Pride",
-        "point": 4420,
+        "point": 4940,
         "car": "FD3S6[AR]",
         "shop": "ベネクス大和店",
-        "update": "2026/08/24 03:29:49",
-        "status": "yellow",
-        "ageSeconds": 1166
+        "update": "2026/08/24 03:46:15",
+        "status": "green",
+        "ageSeconds": 302
+      },
+      {
+        "name": "　　　　・　",
+        "rank": "Pride",
+        "point": 2040,
+        "car": "EK9[DH]",
+        "shop": "ラウンドワン市原店",
+        "update": "2026/08/24 03:46:22",
+        "status": "green",
+        "ageSeconds": 295
       }
     ],
     "Ruby": [
       {
+        "name": "摩多羅隠岐奈",
+        "rank": "Ruby",
+        "point": 41460,
+        "car": "ST205[AR]",
+        "shop": "サンアミューズ鹿屋店",
+        "update": "2026/08/24 03:40:23",
+        "status": "green",
+        "ageSeconds": 654
+      },
+      {
         "name": "レッドブル∞",
         "rank": "Ruby",
-        "point": 33020,
-        "car": "EG6[HC]",
+        "point": 33540,
+        "car": "ST205[AR]",
         "shop": "ＧｉＧＯ豊橋飯村",
-        "update": "2026/08/24 03:24:28",
-        "status": "yellow",
-        "ageSeconds": 1487
+        "update": "2026/08/24 03:41:34",
+        "status": "green",
+        "ageSeconds": 583
       },
       {
         "name": "ハゲト～さん",
         "rank": "Ruby",
-        "point": 5700,
+        "point": 5640,
         "car": "86トレノ[HC]",
         "shop": "ＧｉＧＯ秋葉原３号館",
-        "update": "2026/08/24 03:29:55",
+        "update": "2026/08/24 03:34:56",
         "status": "yellow",
-        "ageSeconds": 1160
+        "ageSeconds": 981
       },
       {
         "name": "ビールテロ！",
         "rank": "Ruby",
-        "point": 3440,
-        "car": "DC2[HC]",
+        "point": 3640,
+        "car": "ZC6[AR]",
         "shop": "コムテックスクウェア",
-        "update": "2026/08/24 03:28:24",
-        "status": "yellow",
-        "ageSeconds": 1251
+        "update": "2026/08/24 03:40:26",
+        "status": "green",
+        "ageSeconds": 651
       },
       {
         "name": "赤城ユイナ",
@@ -84,7 +104,27 @@
         "shop": "タイトーステーション 大宮店",
         "update": "2026/08/24 03:25:33",
         "status": "yellow",
-        "ageSeconds": 1422
+        "ageSeconds": 1544
+      },
+      {
+        "name": "ＫｓＲｅｎ．",
+        "rank": "Ruby",
+        "point": 1200,
+        "car": "CE9Aエボ3[DH]",
+        "shop": "ＧｉＧＯ福生",
+        "update": "2026/08/24 03:46:23",
+        "status": "green",
+        "ageSeconds": 294
+      },
+      {
+        "name": "Ｋｍｓ星兄．",
+        "rank": "Ruby",
+        "point": 200,
+        "car": "GC8[AR]",
+        "shop": "ラウンドワン高知店",
+        "update": "2026/08/24 03:39:20",
+        "status": "green",
+        "ageSeconds": 717
       }
     ],
     "Sapphire": [],
