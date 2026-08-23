@@ -1,9 +1,20 @@
 {
-  "trackerTime": "2026-08-24 01:36:11",
-  "activeSince": "2026-08-24 01:06:11",
-  "total": 4,
+  "trackerTime": "2026-08-24 01:37:21",
+  "activeSince": "2026-08-24 01:07:21",
+  "total": 9,
   "ranks": {
-    "Pride": [],
+    "Pride": [
+      {
+        "name": "ひちゃ♪",
+        "rank": "Pride",
+        "point": 11440,
+        "car": "BNR32[AR]",
+        "shop": "インターワールド伊勢崎店",
+        "update": "2026/08/24 01:30:56",
+        "status": "green",
+        "ageSeconds": 385
+      }
+    ],
     "Ruby": [
       {
         "name": "人間の端くれ",
@@ -13,7 +24,27 @@
         "shop": "ｎａｍｃｏ博多バスターミナル店",
         "update": "2026/08/24 01:28:35",
         "status": "green",
-        "ageSeconds": 456
+        "ageSeconds": 526
+      },
+      {
+        "name": "未来の三原色",
+        "rank": "Ruby",
+        "point": 14960,
+        "car": "CT9Aエボ7[HC]",
+        "shop": "ラウンドワンダイバーシティ東京プラザ店",
+        "update": "2026/08/24 01:27:05",
+        "status": "green",
+        "ageSeconds": 616
+      },
+      {
+        "name": "てでざりぜ",
+        "rank": "Ruby",
+        "point": 3420,
+        "car": "EG6[HC]",
+        "shop": "ラウンドワン八千代村上店",
+        "update": "2026/08/24 01:24:36",
+        "status": "green",
+        "ageSeconds": 765
       },
       {
         "name": "が卍る",
@@ -23,7 +54,27 @@
         "shop": "楽市楽座広島店",
         "update": "2026/08/24 01:30:56",
         "status": "green",
-        "ageSeconds": 315
+        "ageSeconds": 385
+      },
+      {
+        "name": "おたソル",
+        "rank": "Ruby",
+        "point": 1800,
+        "car": "SW20[DH]",
+        "shop": "ゲームパニック新宿歌舞伎町",
+        "update": "2026/08/24 01:28:35",
+        "status": "green",
+        "ageSeconds": 526
+      },
+      {
+        "name": "Ｂｏｎｎｉｅ",
+        "rank": "Ruby",
+        "point": 860,
+        "car": "CP9Aエボ6[HC]",
+        "shop": "ユーズランド高崎店",
+        "update": "2026/08/24 01:27:05",
+        "status": "green",
+        "ageSeconds": 616
       }
     ],
     "Sapphire": [],
@@ -36,7 +87,7 @@
         "shop": "ラウンドワン沖縄・南風原店",
         "update": "2026/08/24 01:31:09",
         "status": "green",
-        "ageSeconds": 302
+        "ageSeconds": 372
       },
       {
         "name": "ヒロミ",
@@ -46,7 +97,7 @@
         "shop": "アピナ野々市店",
         "update": "2026/08/24 01:31:09",
         "status": "green",
-        "ageSeconds": 302
+        "ageSeconds": 372
       }
     ],
     "Clear Blue": [],
