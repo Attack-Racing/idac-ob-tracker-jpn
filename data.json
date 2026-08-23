@@ -1,28 +1,28 @@
 {
-  "trackerTime": "2026-08-23 09:05:22",
-  "activeSince": "2026-08-23 08:35:22",
-  "total": 6,
+  "trackerTime": "2026-08-23 09:07:24",
+  "activeSince": "2026-08-23 08:37:24",
+  "total": 9,
   "ranks": {
     "Pride": [
       {
         "name": "しんちゅわん",
         "rank": "Pride",
-        "point": 15440,
-        "car": "ST205[AR]",
+        "point": 15700,
+        "car": "CP9Aエボ5[AR]",
         "shop": "プラサカプコン高知",
-        "update": "2026/08/23 08:45:02",
+        "update": "2026/08/23 08:50:06",
         "status": "yellow",
-        "ageSeconds": 1220
+        "ageSeconds": 1037
       },
       {
         "name": "五河　琴里",
         "rank": "Pride",
-        "point": 3260,
-        "car": "ST205[AR]",
+        "point": 3520,
+        "car": "CP9Aエボ6[HC]",
         "shop": "ゲームサファリ池袋",
-        "update": "2026/08/23 08:46:34",
-        "status": "yellow",
-        "ageSeconds": 1128
+        "update": "2026/08/23 08:59:26",
+        "status": "green",
+        "ageSeconds": 477
       },
       {
         "name": "２ＳＩＤＥ．",
@@ -32,19 +32,39 @@
         "shop": "ＧｉＧＯ福島南",
         "update": "2026/08/23 08:46:33",
         "status": "yellow",
-        "ageSeconds": 1129
+        "ageSeconds": 1250
       }
     ],
     "Ruby": [
       {
-        "name": "あーちゃん",
+        "name": "ＳＨＲ",
         "rank": "Ruby",
-        "point": 2160,
-        "car": "SW20[AR]",
-        "shop": "ユーズランド太田店",
-        "update": "2026/08/23 08:35:39",
+        "point": 16940,
+        "car": "GC8[HC]",
+        "shop": "ＧｉＧＯ尾道",
+        "update": "2026/08/23 09:00:56",
+        "status": "green",
+        "ageSeconds": 387
+      },
+      {
+        "name": "苺少年☆玲央",
+        "rank": "Ruby",
+        "point": 13580,
+        "car": "Z33[DH]",
+        "shop": "ベネクス大和店",
+        "update": "2026/08/23 08:50:32",
         "status": "yellow",
-        "ageSeconds": 1783
+        "ageSeconds": 1011
+      },
+      {
+        "name": "龍一郎の弟子",
+        "rank": "Ruby",
+        "point": 2960,
+        "car": "85レビン[HC]",
+        "shop": "タイトーＦステーション市川妙典店",
+        "update": "2026/08/23 08:59:25",
+        "status": "green",
+        "ageSeconds": 478
       },
       {
         "name": "宇佐見　運子",
@@ -54,21 +74,30 @@
         "shop": "ＹＡＺ寝屋川店",
         "update": "2026/08/23 08:38:03",
         "status": "yellow",
-        "ageSeconds": 1639
-      }
-    ],
-    "Sapphire": [
+        "ageSeconds": 1760
+      },
       {
-        "name": "マイキー",
-        "rank": "Sapphire",
-        "point": 8020,
-        "car": "CN9Aエボ4[HC]",
-        "shop": "ラウンドワン金沢店",
-        "update": "2026/08/23 08:35:39",
-        "status": "yellow",
-        "ageSeconds": 1783
+        "name": "美幸",
+        "rank": "Ruby",
+        "point": 520,
+        "car": "ST205[AR]",
+        "shop": "群馬レジャーランド伊勢崎店",
+        "update": "2026/08/23 08:56:05",
+        "status": "green",
+        "ageSeconds": 678
+      },
+      {
+        "name": "Ｒｉｏ",
+        "rank": "Ruby",
+        "point": 200,
+        "car": "CP9Aエボ6[HC]",
+        "shop": "アミパラ高知店",
+        "update": "2026/08/23 09:00:56",
+        "status": "green",
+        "ageSeconds": 387
       }
     ],
+    "Sapphire": [],
     "Emerald": [],
     "Clear Blue": [],
     "Clear Red": [],
