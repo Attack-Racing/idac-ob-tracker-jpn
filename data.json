@@ -1,19 +1,29 @@
 {
-  "trackerTime": "2026-08-24 01:20:08",
-  "activeSince": "2026-08-24 00:50:08",
-  "total": 3,
+  "trackerTime": "2026-08-24 01:21:18",
+  "activeSince": "2026-08-24 00:51:18",
+  "total": 4,
   "ranks": {
     "Pride": [],
     "Ruby": [
       {
         "name": "人間の端くれ",
         "rank": "Ruby",
-        "point": 54600,
-        "car": "86トレノ[AR]",
+        "point": 54540,
+        "car": "ST205[AR]",
         "shop": "ｎａｍｃｏ博多バスターミナル店",
-        "update": "2026/08/24 00:57:39",
-        "status": "yellow",
-        "ageSeconds": 1349
+        "update": "2026/08/24 01:13:09",
+        "status": "green",
+        "ageSeconds": 489
+      },
+      {
+        "name": "が卍る",
+        "rank": "Ruby",
+        "point": 2940,
+        "car": "ST205[AR]",
+        "shop": "楽市楽座広島店",
+        "update": "2026/08/24 01:13:10",
+        "status": "green",
+        "ageSeconds": 488
       }
     ],
     "Sapphire": [],
@@ -21,22 +31,22 @@
       {
         "name": "ＧＲＫ",
         "rank": "Emerald",
-        "point": 3740,
-        "car": "GXPA16[AR]",
+        "point": 3900,
+        "car": "4C[AR]",
         "shop": "ラウンドワン沖縄・南風原店",
-        "update": "2026/08/24 00:57:40",
-        "status": "yellow",
-        "ageSeconds": 1348
+        "update": "2026/08/24 01:14:26",
+        "status": "green",
+        "ageSeconds": 412
       },
       {
         "name": "ヒロミ",
         "rank": "Emerald",
-        "point": 2040,
+        "point": 2200,
         "car": "EA11R[HC]",
         "shop": "アピナ野々市店",
-        "update": "2026/08/24 00:57:35",
-        "status": "yellow",
-        "ageSeconds": 1353
+        "update": "2026/08/24 01:14:27",
+        "status": "green",
+        "ageSeconds": 411
       }
     ],
     "Clear Blue": [],
