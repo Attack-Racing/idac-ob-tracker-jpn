@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-24 04:10:04",
-  "activeSince": "2026-08-24 03:40:04",
-  "total": 8,
+  "trackerTime": "2026-08-24 04:11:20",
+  "activeSince": "2026-08-24 03:41:20",
+  "total": 6,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "群馬レジャーランド伊勢崎店",
         "update": "2026/08/24 03:46:17",
         "status": "yellow",
-        "ageSeconds": 1427
+        "ageSeconds": 1503
       },
       {
         "name": "絶対的第六感",
@@ -22,7 +22,7 @@
         "shop": "アミューズメントゲーム　マグレブ",
         "update": "2026/08/24 03:41:34",
         "status": "yellow",
-        "ageSeconds": 1710
+        "ageSeconds": 1786
       },
       {
         "name": "閃光のベイル",
@@ -32,7 +32,7 @@
         "shop": "ベネクス大和店",
         "update": "2026/08/24 03:46:15",
         "status": "yellow",
-        "ageSeconds": 1429
+        "ageSeconds": 1505
       },
       {
         "name": "　　　　・　",
@@ -42,20 +42,10 @@
         "shop": "ラウンドワン市原店",
         "update": "2026/08/24 03:46:22",
         "status": "yellow",
-        "ageSeconds": 1422
+        "ageSeconds": 1498
       }
     ],
     "Ruby": [
-      {
-        "name": "摩多羅隠岐奈",
-        "rank": "Ruby",
-        "point": 41460,
-        "car": "ST205[AR]",
-        "shop": "サンアミューズ鹿屋店",
-        "update": "2026/08/24 03:40:23",
-        "status": "yellow",
-        "ageSeconds": 1781
-      },
       {
         "name": "レッドブル∞",
         "rank": "Ruby",
@@ -64,17 +54,7 @@
         "shop": "ＧｉＧＯ豊橋飯村",
         "update": "2026/08/24 03:41:34",
         "status": "yellow",
-        "ageSeconds": 1710
-      },
-      {
-        "name": "ビールテロ！",
-        "rank": "Ruby",
-        "point": 3640,
-        "car": "ZC6[AR]",
-        "shop": "コムテックスクウェア",
-        "update": "2026/08/24 03:40:26",
-        "status": "yellow",
-        "ageSeconds": 1778
+        "ageSeconds": 1786
       },
       {
         "name": "ＫｓＲｅｎ．",
@@ -84,7 +64,7 @@
         "shop": "ＧｉＧＯ福生",
         "update": "2026/08/24 03:46:23",
         "status": "yellow",
-        "ageSeconds": 1421
+        "ageSeconds": 1497
       }
     ],
     "Sapphire": [],
