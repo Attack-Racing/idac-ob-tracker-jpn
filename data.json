@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-24 01:04:01",
-  "activeSince": "2026-08-24 00:34:01",
-  "total": 4,
+  "trackerTime": "2026-08-24 01:05:02",
+  "activeSince": "2026-08-24 00:35:02",
+  "total": 3,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "アレックス",
         "update": "2026/08/24 00:35:36",
         "status": "yellow",
-        "ageSeconds": 1704
+        "ageSeconds": 1766
       }
     ],
     "Ruby": [],
@@ -26,7 +26,7 @@
         "shop": "ラウンドワン沖縄・南風原店",
         "update": "2026/08/24 00:46:32",
         "status": "yellow",
-        "ageSeconds": 1048
+        "ageSeconds": 1110
       },
       {
         "name": "ヒロミ",
@@ -36,22 +36,11 @@
         "shop": "アピナ野々市店",
         "update": "2026/08/24 00:43:57",
         "status": "yellow",
-        "ageSeconds": 1203
+        "ageSeconds": 1265
       }
     ],
     "Clear Blue": [],
-    "Clear Red": [
-      {
-        "name": "あいり",
-        "rank": "Clear Red",
-        "point": 4640,
-        "car": "NA6CE[HC]",
-        "shop": "ラウンドワン加古川店",
-        "update": "2026/08/24 00:34:49",
-        "status": "yellow",
-        "ageSeconds": 1751
-      }
-    ],
+    "Clear Red": [],
     "Clear Green": [],
     "Unknown Online Rank": []
   }
