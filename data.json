@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-24 00:36:12",
-  "activeSince": "2026-08-24 00:06:12",
-  "total": 9,
+  "trackerTime": "2026-08-24 00:37:10",
+  "activeSince": "2026-08-24 00:07:10",
+  "total": 10,
   "ranks": {
     "Pride": [
       {
@@ -11,8 +11,18 @@
         "car": "ZC33S[AR]",
         "shop": "アミパラ松江店",
         "update": "2026/08/24 00:22:05",
+        "status": "yellow",
+        "ageSeconds": 905
+      },
+      {
+        "name": "チェリボム",
+        "rank": "Pride",
+        "point": 15940,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "マトリクス前橋",
+        "update": "2026/08/24 00:25:41",
         "status": "green",
-        "ageSeconds": 847
+        "ageSeconds": 689
       },
       {
         "name": "覚醒いぐら☆",
@@ -22,17 +32,17 @@
         "shop": "インターワールド伊勢崎店",
         "update": "2026/08/24 00:10:27",
         "status": "yellow",
-        "ageSeconds": 1545
+        "ageSeconds": 1603
       },
       {
         "name": "次は僕の番",
         "rank": "Pride",
-        "point": 860,
-        "car": "S15[AR]",
+        "point": 800,
+        "car": "JZX100[HC]",
         "shop": "ラウンドワン前橋店",
-        "update": "2026/08/24 00:13:18",
+        "update": "2026/08/24 00:20:20",
         "status": "yellow",
-        "ageSeconds": 1374
+        "ageSeconds": 1010
       }
     ],
     "Ruby": [
@@ -44,7 +54,7 @@
         "shop": "アレックス",
         "update": "2026/08/24 00:07:49",
         "status": "yellow",
-        "ageSeconds": 1703
+        "ageSeconds": 1761
       },
       {
         "name": "黒Ｊは中押し",
@@ -54,7 +64,7 @@
         "shop": "アピナ姫路店",
         "update": "2026/08/24 00:15:25",
         "status": "yellow",
-        "ageSeconds": 1247
+        "ageSeconds": 1305
       },
       {
         "name": "ルサンチマン",
@@ -64,7 +74,7 @@
         "shop": "タイトーＦステーションイオン近江八幡店",
         "update": "2026/08/24 00:13:25",
         "status": "yellow",
-        "ageSeconds": 1367
+        "ageSeconds": 1425
       }
     ],
     "Sapphire": [
@@ -76,7 +86,7 @@
         "shop": "アミパラ加古川店",
         "update": "2026/08/24 00:10:33",
         "status": "yellow",
-        "ageSeconds": 1539
+        "ageSeconds": 1597
       }
     ],
     "Emerald": [
@@ -88,7 +98,7 @@
         "shop": "ラウンドワン沖縄・南風原店",
         "update": "2026/08/24 00:28:24",
         "status": "green",
-        "ageSeconds": 468
+        "ageSeconds": 526
       },
       {
         "name": "ヒロミ",
@@ -98,7 +108,7 @@
         "shop": "アピナ野々市店",
         "update": "2026/08/24 00:16:37",
         "status": "yellow",
-        "ageSeconds": 1175
+        "ageSeconds": 1233
       }
     ],
     "Clear Blue": [],
