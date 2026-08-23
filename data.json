@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-24 02:01:03",
-  "activeSince": "2026-08-24 01:31:03",
-  "total": 10,
+  "trackerTime": "2026-08-24 02:02:15",
+  "activeSince": "2026-08-24 01:32:15",
+  "total": 9,
   "ranks": {
     "Pride": [
       {
@@ -11,8 +11,8 @@
         "car": "ST205[AR]",
         "shop": "インターワールド伊勢崎店",
         "update": "2026/08/24 01:46:22",
-        "status": "green",
-        "ageSeconds": 881
+        "status": "yellow",
+        "ageSeconds": 952
       }
     ],
     "Ruby": [
@@ -24,7 +24,7 @@
         "shop": "ｎａｍｃｏ博多バスターミナル店",
         "update": "2026/08/24 01:42:29",
         "status": "yellow",
-        "ageSeconds": 1114
+        "ageSeconds": 1185
       },
       {
         "name": "モナユカ",
@@ -34,7 +34,7 @@
         "shop": "群馬レジャーランド太田店",
         "update": "2026/08/24 01:43:43",
         "status": "yellow",
-        "ageSeconds": 1040
+        "ageSeconds": 1111
       },
       {
         "name": "未来の三原色",
@@ -44,7 +44,7 @@
         "shop": "ラウンドワンダイバーシティ東京プラザ店",
         "update": "2026/08/24 01:43:44",
         "status": "yellow",
-        "ageSeconds": 1039
+        "ageSeconds": 1110
       },
       {
         "name": "ルサンチマン",
@@ -54,7 +54,7 @@
         "shop": "タイトーＦステーションイオン近江八幡店",
         "update": "2026/08/24 01:39:06",
         "status": "yellow",
-        "ageSeconds": 1317
+        "ageSeconds": 1388
       },
       {
         "name": "が卍る",
@@ -63,8 +63,8 @@
         "car": "ST205[AR]",
         "shop": "楽市楽座広島店",
         "update": "2026/08/24 01:46:22",
-        "status": "green",
-        "ageSeconds": 881
+        "status": "yellow",
+        "ageSeconds": 952
       },
       {
         "name": "おがしょーー",
@@ -74,7 +74,7 @@
         "shop": "群馬レジャーランド伊勢崎店",
         "update": "2026/08/24 01:42:39",
         "status": "yellow",
-        "ageSeconds": 1104
+        "ageSeconds": 1175
       },
       {
         "name": "Ｂｏｎｎｉｅ",
@@ -84,21 +84,11 @@
         "shop": "ユーズランド高崎店",
         "update": "2026/08/24 01:42:36",
         "status": "yellow",
-        "ageSeconds": 1107
+        "ageSeconds": 1178
       }
     ],
     "Sapphire": [],
     "Emerald": [
-      {
-        "name": "ＧＲＫ",
-        "rank": "Emerald",
-        "point": 4060,
-        "car": "GXPA16[AR]",
-        "shop": "ラウンドワン沖縄・南風原店",
-        "update": "2026/08/24 01:31:09",
-        "status": "yellow",
-        "ageSeconds": 1794
-      },
       {
         "name": "ヒロミ",
         "rank": "Emerald",
@@ -107,7 +97,7 @@
         "shop": "アピナ野々市店",
         "update": "2026/08/24 01:36:59",
         "status": "yellow",
-        "ageSeconds": 1444
+        "ageSeconds": 1515
       }
     ],
     "Clear Blue": [],
