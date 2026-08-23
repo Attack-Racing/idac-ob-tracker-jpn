@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-24 02:21:19",
-  "activeSince": "2026-08-24 01:51:19",
-  "total": 13,
+  "trackerTime": "2026-08-24 02:23:19",
+  "activeSince": "2026-08-24 01:53:19",
+  "total": 14,
   "ranks": {
     "Pride": [
       {
@@ -12,17 +12,17 @@
         "shop": "ＧｉＧＯ豊橋飯村",
         "update": "2026/08/24 02:14:43",
         "status": "green",
-        "ageSeconds": 396
+        "ageSeconds": 515
       },
       {
         "name": "ノアてぃん",
         "rank": "Pride",
-        "point": 85840,
-        "car": "ST205[AR]",
+        "point": 86100,
+        "car": "CE9Aエボ3[AR]",
         "shop": "群馬レジャーランド伊勢崎店",
-        "update": "2026/08/24 01:59:20",
+        "update": "2026/08/24 02:04:07",
         "status": "yellow",
-        "ageSeconds": 1319
+        "ageSeconds": 1151
       },
       {
         "name": "あ＠とくしま",
@@ -32,7 +32,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/24 02:14:44",
         "status": "green",
-        "ageSeconds": 395
+        "ageSeconds": 514
       },
       {
         "name": "ゆとりでうす",
@@ -42,7 +42,17 @@
         "shop": "インターワールド伊勢崎店",
         "update": "2026/08/24 02:00:45",
         "status": "yellow",
-        "ageSeconds": 1234
+        "ageSeconds": 1353
+      },
+      {
+        "name": "チェリボム",
+        "rank": "Pride",
+        "point": 16200,
+        "car": "86トレノ2[HC]",
+        "shop": "マトリクス前橋",
+        "update": "2026/08/24 02:05:06",
+        "status": "yellow",
+        "ageSeconds": 1092
       }
     ],
     "Ruby": [
@@ -54,7 +64,7 @@
         "shop": "ｎａｍｃｏ博多バスターミナル店",
         "update": "2026/08/24 02:09:48",
         "status": "green",
-        "ageSeconds": 691
+        "ageSeconds": 810
       },
       {
         "name": "摩多羅隠岐奈",
@@ -64,7 +74,7 @@
         "shop": "サンアミューズ鹿屋店",
         "update": "2026/08/24 02:14:35",
         "status": "green",
-        "ageSeconds": 404
+        "ageSeconds": 523
       },
       {
         "name": "レッドブル∞",
@@ -74,7 +84,7 @@
         "shop": "ＧｉＧＯ豊橋飯村",
         "update": "2026/08/24 02:15:00",
         "status": "green",
-        "ageSeconds": 379
+        "ageSeconds": 498
       },
       {
         "name": "モナユカ",
@@ -84,7 +94,7 @@
         "shop": "群馬レジャーランド太田店",
         "update": "2026/08/24 02:01:39",
         "status": "yellow",
-        "ageSeconds": 1180
+        "ageSeconds": 1299
       },
       {
         "name": "未来の三原色",
@@ -94,7 +104,7 @@
         "shop": "ラウンドワンダイバーシティ東京プラザ店",
         "update": "2026/08/24 02:14:35",
         "status": "green",
-        "ageSeconds": 404
+        "ageSeconds": 523
       },
       {
         "name": "が卍る",
@@ -104,7 +114,7 @@
         "shop": "楽市楽座広島店",
         "update": "2026/08/24 02:13:10",
         "status": "green",
-        "ageSeconds": 489
+        "ageSeconds": 608
       },
       {
         "name": "ビールテロ！",
@@ -114,27 +124,27 @@
         "shop": "コムテックスクウェア",
         "update": "2026/08/24 02:01:40",
         "status": "yellow",
-        "ageSeconds": 1179
+        "ageSeconds": 1298
       },
       {
         "name": "おがしょーー",
         "rank": "Ruby",
-        "point": 1700,
-        "car": "SW20[AR]",
+        "point": 2220,
+        "car": "ST205[AR]",
         "shop": "群馬レジャーランド伊勢崎店",
-        "update": "2026/08/24 02:01:14",
-        "status": "yellow",
-        "ageSeconds": 1205
+        "update": "2026/08/24 02:15:01",
+        "status": "green",
+        "ageSeconds": 497
       },
       {
         "name": "Ｂｏｎｎｉｅ",
         "rank": "Ruby",
-        "point": 1200,
-        "car": "CT9Aエボ9[AR]",
+        "point": 1400,
+        "car": "CP9Aエボ6[HC]",
         "shop": "ユーズランド高崎店",
-        "update": "2026/08/24 02:00:44",
-        "status": "yellow",
-        "ageSeconds": 1235
+        "update": "2026/08/24 02:13:10",
+        "status": "green",
+        "ageSeconds": 608
       }
     ],
     "Sapphire": [],
