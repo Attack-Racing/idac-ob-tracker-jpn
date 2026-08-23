@@ -1,31 +1,42 @@
 {
-  "trackerTime": "2026-08-24 01:06:02",
-  "activeSince": "2026-08-24 00:36:02",
-  "total": 2,
+  "trackerTime": "2026-08-24 01:07:18",
+  "activeSince": "2026-08-24 00:37:18",
+  "total": 3,
   "ranks": {
     "Pride": [],
-    "Ruby": [],
+    "Ruby": [
+      {
+        "name": "人間の端くれ",
+        "rank": "Ruby",
+        "point": 54600,
+        "car": "86トレノ[AR]",
+        "shop": "ｎａｍｃｏ博多バスターミナル店",
+        "update": "2026/08/24 00:57:39",
+        "status": "green",
+        "ageSeconds": 579
+      }
+    ],
     "Sapphire": [],
     "Emerald": [
       {
         "name": "ＧＲＫ",
         "rank": "Emerald",
-        "point": 3860,
+        "point": 3740,
         "car": "GXPA16[AR]",
         "shop": "ラウンドワン沖縄・南風原店",
-        "update": "2026/08/24 00:46:32",
-        "status": "yellow",
-        "ageSeconds": 1170
+        "update": "2026/08/24 00:57:40",
+        "status": "green",
+        "ageSeconds": 578
       },
       {
         "name": "ヒロミ",
         "rank": "Emerald",
-        "point": 1880,
-        "car": "EA11R[DH]",
+        "point": 2040,
+        "car": "EA11R[HC]",
         "shop": "アピナ野々市店",
-        "update": "2026/08/24 00:43:57",
-        "status": "yellow",
-        "ageSeconds": 1325
+        "update": "2026/08/24 00:57:35",
+        "status": "green",
+        "ageSeconds": 583
       }
     ],
     "Clear Blue": [],
