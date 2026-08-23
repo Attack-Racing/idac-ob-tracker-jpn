@@ -1,9 +1,19 @@
 {
-  "trackerTime": "2026-08-24 01:50:19",
-  "activeSince": "2026-08-24 01:20:19",
-  "total": 9,
+  "trackerTime": "2026-08-24 01:52:06",
+  "activeSince": "2026-08-24 01:22:06",
+  "total": 13,
   "ranks": {
     "Pride": [
+      {
+        "name": "ゆとりでうす",
+        "rank": "Pride",
+        "point": 43360,
+        "car": "ST205[AR]",
+        "shop": "インターワールド伊勢崎店",
+        "update": "2026/08/24 01:46:22",
+        "status": "green",
+        "ageSeconds": 344
+      },
       {
         "name": "ひちゃ♪",
         "rank": "Pride",
@@ -12,29 +22,49 @@
         "shop": "インターワールド伊勢崎店",
         "update": "2026/08/24 01:30:56",
         "status": "yellow",
-        "ageSeconds": 1163
+        "ageSeconds": 1270
       }
     ],
     "Ruby": [
       {
         "name": "人間の端くれ",
         "rank": "Ruby",
-        "point": 55060,
-        "car": "EK9[DH]",
+        "point": 55580,
+        "car": "86トレノ[AR]",
         "shop": "ｎａｍｃｏ博多バスターミナル店",
-        "update": "2026/08/24 01:28:35",
-        "status": "yellow",
-        "ageSeconds": 1304
+        "update": "2026/08/24 01:42:29",
+        "status": "green",
+        "ageSeconds": 577
+      },
+      {
+        "name": "モナユカ",
+        "rank": "Ruby",
+        "point": 21360,
+        "car": "DB42[AR]",
+        "shop": "群馬レジャーランド太田店",
+        "update": "2026/08/24 01:43:43",
+        "status": "green",
+        "ageSeconds": 503
       },
       {
         "name": "未来の三原色",
         "rank": "Ruby",
-        "point": 14960,
-        "car": "CT9Aエボ7[HC]",
+        "point": 15420,
+        "car": "ST205[AR]",
         "shop": "ラウンドワンダイバーシティ東京プラザ店",
-        "update": "2026/08/24 01:27:05",
-        "status": "yellow",
-        "ageSeconds": 1394
+        "update": "2026/08/24 01:43:44",
+        "status": "green",
+        "ageSeconds": 502
+      },
+      {
+        "name": "ルサンチマン",
+        "rank": "Ruby",
+        "point": 9940,
+        "car": "ST205[AR]",
+        "shop": "タイトーＦステーションイオン近江八幡店",
+        "update": "2026/08/24 01:39:06",
+        "status": "green",
+        "ageSeconds": 780
       },
       {
         "name": "てでざりぜ",
@@ -44,17 +74,17 @@
         "shop": "ラウンドワン八千代村上店",
         "update": "2026/08/24 01:24:36",
         "status": "yellow",
-        "ageSeconds": 1543
+        "ageSeconds": 1650
       },
       {
         "name": "が卍る",
         "rank": "Ruby",
-        "point": 3400,
+        "point": 3340,
         "car": "ST205[AR]",
         "shop": "楽市楽座広島店",
-        "update": "2026/08/24 01:30:56",
-        "status": "yellow",
-        "ageSeconds": 1163
+        "update": "2026/08/24 01:46:22",
+        "status": "green",
+        "ageSeconds": 344
       },
       {
         "name": "おたソル",
@@ -64,17 +94,27 @@
         "shop": "ゲームパニック新宿歌舞伎町",
         "update": "2026/08/24 01:28:35",
         "status": "yellow",
-        "ageSeconds": 1304
+        "ageSeconds": 1411
+      },
+      {
+        "name": "おがしょーー",
+        "rank": "Ruby",
+        "point": 1560,
+        "car": "SW20[AR]",
+        "shop": "群馬レジャーランド伊勢崎店",
+        "update": "2026/08/24 01:42:39",
+        "status": "green",
+        "ageSeconds": 567
       },
       {
         "name": "Ｂｏｎｎｉｅ",
         "rank": "Ruby",
-        "point": 860,
+        "point": 740,
         "car": "CP9Aエボ6[HC]",
         "shop": "ユーズランド高崎店",
-        "update": "2026/08/24 01:27:05",
-        "status": "yellow",
-        "ageSeconds": 1394
+        "update": "2026/08/24 01:42:36",
+        "status": "green",
+        "ageSeconds": 570
       }
     ],
     "Sapphire": [],
@@ -87,17 +127,17 @@
         "shop": "ラウンドワン沖縄・南風原店",
         "update": "2026/08/24 01:31:09",
         "status": "yellow",
-        "ageSeconds": 1150
+        "ageSeconds": 1257
       },
       {
         "name": "ヒロミ",
         "rank": "Emerald",
-        "point": 2640,
-        "car": "NA1[AR]",
+        "point": 2860,
+        "car": "EA11R[HC]",
         "shop": "アピナ野々市店",
-        "update": "2026/08/24 01:31:09",
+        "update": "2026/08/24 01:36:59",
         "status": "yellow",
-        "ageSeconds": 1150
+        "ageSeconds": 907
       }
     ],
     "Clear Blue": [],
