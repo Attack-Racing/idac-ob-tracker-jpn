@@ -1,18 +1,18 @@
 {
-  "trackerTime": "2026-08-24 02:20:06",
-  "activeSince": "2026-08-24 01:50:06",
-  "total": 12,
+  "trackerTime": "2026-08-24 02:21:19",
+  "activeSince": "2026-08-24 01:51:19",
+  "total": 13,
   "ranks": {
     "Pride": [
       {
         "name": "神無月　燐",
         "rank": "Pride",
-        "point": 218820,
+        "point": 218960,
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯ豊橋飯村",
-        "update": "2026/08/24 01:55:40",
-        "status": "yellow",
-        "ageSeconds": 1466
+        "update": "2026/08/24 02:14:43",
+        "status": "green",
+        "ageSeconds": 396
       },
       {
         "name": "ノアてぃん",
@@ -22,7 +22,17 @@
         "shop": "群馬レジャーランド伊勢崎店",
         "update": "2026/08/24 01:59:20",
         "status": "yellow",
-        "ageSeconds": 1246
+        "ageSeconds": 1319
+      },
+      {
+        "name": "あ＠とくしま",
+        "rank": "Pride",
+        "point": 51200,
+        "car": "ST205[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/24 02:14:44",
+        "status": "green",
+        "ageSeconds": 395
       },
       {
         "name": "ゆとりでうす",
@@ -32,39 +42,39 @@
         "shop": "インターワールド伊勢崎店",
         "update": "2026/08/24 02:00:45",
         "status": "yellow",
-        "ageSeconds": 1161
+        "ageSeconds": 1234
       }
     ],
     "Ruby": [
       {
         "name": "人間の端くれ",
         "rank": "Ruby",
-        "point": 55780,
-        "car": "EK9[DH]",
+        "point": 55980,
+        "car": "ST205[AR]",
         "shop": "ｎａｍｃｏ博多バスターミナル店",
-        "update": "2026/08/24 01:56:00",
-        "status": "yellow",
-        "ageSeconds": 1446
+        "update": "2026/08/24 02:09:48",
+        "status": "green",
+        "ageSeconds": 691
       },
       {
         "name": "摩多羅隠岐奈",
         "rank": "Ruby",
-        "point": 39940,
+        "point": 40080,
         "car": "ST205[AR]",
         "shop": "サンアミューズ鹿屋店",
-        "update": "2026/08/24 01:56:16",
-        "status": "yellow",
-        "ageSeconds": 1430
+        "update": "2026/08/24 02:14:35",
+        "status": "green",
+        "ageSeconds": 404
       },
       {
         "name": "レッドブル∞",
         "rank": "Ruby",
-        "point": 32080,
+        "point": 32220,
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯ豊橋飯村",
-        "update": "2026/08/24 01:51:47",
-        "status": "yellow",
-        "ageSeconds": 1699
+        "update": "2026/08/24 02:15:00",
+        "status": "green",
+        "ageSeconds": 379
       },
       {
         "name": "モナユカ",
@@ -74,27 +84,27 @@
         "shop": "群馬レジャーランド太田店",
         "update": "2026/08/24 02:01:39",
         "status": "yellow",
-        "ageSeconds": 1107
+        "ageSeconds": 1180
       },
       {
         "name": "未来の三原色",
         "rank": "Ruby",
-        "point": 15560,
-        "car": "SW20[AR]",
+        "point": 15440,
+        "car": "ST205[AR]",
         "shop": "ラウンドワンダイバーシティ東京プラザ店",
-        "update": "2026/08/24 01:59:27",
-        "status": "yellow",
-        "ageSeconds": 1239
+        "update": "2026/08/24 02:14:35",
+        "status": "green",
+        "ageSeconds": 404
       },
       {
         "name": "が卍る",
         "rank": "Ruby",
-        "point": 3860,
+        "point": 4380,
         "car": "CP9Aエボ5[AR]",
         "shop": "楽市楽座広島店",
-        "update": "2026/08/24 02:01:14",
-        "status": "yellow",
-        "ageSeconds": 1132
+        "update": "2026/08/24 02:13:10",
+        "status": "green",
+        "ageSeconds": 489
       },
       {
         "name": "ビールテロ！",
@@ -104,7 +114,7 @@
         "shop": "コムテックスクウェア",
         "update": "2026/08/24 02:01:40",
         "status": "yellow",
-        "ageSeconds": 1106
+        "ageSeconds": 1179
       },
       {
         "name": "おがしょーー",
@@ -114,7 +124,7 @@
         "shop": "群馬レジャーランド伊勢崎店",
         "update": "2026/08/24 02:01:14",
         "status": "yellow",
-        "ageSeconds": 1132
+        "ageSeconds": 1205
       },
       {
         "name": "Ｂｏｎｎｉｅ",
@@ -124,7 +134,7 @@
         "shop": "ユーズランド高崎店",
         "update": "2026/08/24 02:00:44",
         "status": "yellow",
-        "ageSeconds": 1162
+        "ageSeconds": 1235
       }
     ],
     "Sapphire": [],
