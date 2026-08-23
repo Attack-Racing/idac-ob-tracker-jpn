@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-24 03:43:01",
-  "activeSince": "2026-08-24 03:13:01",
-  "total": 9,
+  "trackerTime": "2026-08-24 03:44:21",
+  "activeSince": "2026-08-24 03:14:21",
+  "total": 8,
   "ranks": {
     "Pride": [
       {
@@ -11,8 +11,8 @@
         "car": "ST205[AR]",
         "shop": "群馬レジャーランド伊勢崎店",
         "update": "2026/08/24 03:28:18",
-        "status": "green",
-        "ageSeconds": 883
+        "status": "yellow",
+        "ageSeconds": 963
       },
       {
         "name": "絶対的第六感",
@@ -22,7 +22,7 @@
         "shop": "アミューズメントゲーム　マグレブ",
         "update": "2026/08/24 03:21:49",
         "status": "yellow",
-        "ageSeconds": 1272
+        "ageSeconds": 1352
       },
       {
         "name": "チェリボム",
@@ -32,7 +32,7 @@
         "shop": "マトリクス前橋",
         "update": "2026/08/24 03:29:33",
         "status": "green",
-        "ageSeconds": 808
+        "ageSeconds": 888
       },
       {
         "name": "閃光のベイル",
@@ -42,20 +42,10 @@
         "shop": "ベネクス大和店",
         "update": "2026/08/24 03:29:49",
         "status": "green",
-        "ageSeconds": 792
+        "ageSeconds": 872
       }
     ],
     "Ruby": [
-      {
-        "name": "摩多羅隠岐奈",
-        "rank": "Ruby",
-        "point": 41580,
-        "car": "ST205[AR]",
-        "shop": "サンアミューズ鹿屋店",
-        "update": "2026/08/24 03:14:15",
-        "status": "yellow",
-        "ageSeconds": 1726
-      },
       {
         "name": "レッドブル∞",
         "rank": "Ruby",
@@ -64,7 +54,7 @@
         "shop": "ＧｉＧＯ豊橋飯村",
         "update": "2026/08/24 03:24:28",
         "status": "yellow",
-        "ageSeconds": 1113
+        "ageSeconds": 1193
       },
       {
         "name": "ハゲト～さん",
@@ -74,7 +64,7 @@
         "shop": "ＧｉＧＯ秋葉原３号館",
         "update": "2026/08/24 03:29:55",
         "status": "green",
-        "ageSeconds": 786
+        "ageSeconds": 866
       },
       {
         "name": "ビールテロ！",
@@ -83,8 +73,8 @@
         "car": "DC2[HC]",
         "shop": "コムテックスクウェア",
         "update": "2026/08/24 03:28:24",
-        "status": "green",
-        "ageSeconds": 877
+        "status": "yellow",
+        "ageSeconds": 957
       },
       {
         "name": "赤城ユイナ",
@@ -94,7 +84,7 @@
         "shop": "タイトーステーション 大宮店",
         "update": "2026/08/24 03:25:33",
         "status": "yellow",
-        "ageSeconds": 1048
+        "ageSeconds": 1128
       }
     ],
     "Sapphire": [],
