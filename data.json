@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-25 02:50:16",
-  "activeSince": "2026-08-25 02:20:16",
-  "total": 10,
+  "trackerTime": "2026-08-25 02:52:05",
+  "activeSince": "2026-08-25 02:22:05",
+  "total": 13,
   "ranks": {
     "Pride": [
       {
@@ -12,49 +12,79 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/25 02:27:20",
         "status": "yellow",
-        "ageSeconds": 1376
+        "ageSeconds": 1484
       },
       {
         "name": "社長に従えよ",
         "rank": "Pride",
-        "point": 34980,
-        "car": "ST205[AR]",
+        "point": 35120,
+        "car": "CP9Aエボ5[AR]",
         "shop": "ＧｉＧＯ春日井",
-        "update": "2026/08/25 02:27:41",
-        "status": "yellow",
-        "ageSeconds": 1355
+        "update": "2026/08/25 02:44:28",
+        "status": "green",
+        "ageSeconds": 456
       },
       {
         "name": "Ｒａｌｐｈ．",
         "rank": "Pride",
-        "point": 26060,
+        "point": 26840,
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯスエヒロボウル徳島",
-        "update": "2026/08/25 02:27:35",
-        "status": "yellow",
-        "ageSeconds": 1361
+        "update": "2026/08/25 02:44:01",
+        "status": "green",
+        "ageSeconds": 483
       },
       {
         "name": "ラクウェル．",
         "rank": "Pride",
-        "point": 18140,
-        "car": "SW20[DH]",
+        "point": 18400,
+        "car": "ST205[AR]",
         "shop": "半田メトロポリス",
-        "update": "2026/08/25 02:29:56",
+        "update": "2026/08/25 02:35:59",
         "status": "yellow",
-        "ageSeconds": 1220
+        "ageSeconds": 965
+      },
+      {
+        "name": "Ｖｉｏｌｅｔ",
+        "rank": "Pride",
+        "point": 6240,
+        "car": "JZA80[AR]",
+        "shop": "アミューズメントパフェパレパレ田宮店",
+        "update": "2026/08/25 02:44:19",
+        "status": "green",
+        "ageSeconds": 465
       }
     ],
     "Ruby": [
       {
         "name": "琵琶湖博物館",
         "rank": "Ruby",
-        "point": 63760,
-        "car": "86トレノ[AR]",
+        "point": 64220,
+        "car": "ST205[AR]",
         "shop": "ＧｉＧＯ秋葉原３号館",
-        "update": "2026/08/25 02:25:23",
-        "status": "yellow",
-        "ageSeconds": 1493
+        "update": "2026/08/25 02:44:08",
+        "status": "green",
+        "ageSeconds": 476
+      },
+      {
+        "name": "人間の端くれ",
+        "rank": "Ruby",
+        "point": 55920,
+        "car": "ST205[AR]",
+        "shop": "ｎａｍｃｏ博多バスターミナル店",
+        "update": "2026/08/25 02:44:18",
+        "status": "green",
+        "ageSeconds": 466
+      },
+      {
+        "name": "未来の三原色",
+        "rank": "Ruby",
+        "point": 15720,
+        "car": "ST205[AR]",
+        "shop": "ラウンドワンダイバーシティ東京プラザ店",
+        "update": "2026/08/25 02:44:35",
+        "status": "green",
+        "ageSeconds": 449
       },
       {
         "name": "ルサンチマン",
@@ -64,17 +94,27 @@
         "shop": "タイトーＦステーションイオン近江八幡店",
         "update": "2026/08/25 02:31:03",
         "status": "yellow",
-        "ageSeconds": 1153
+        "ageSeconds": 1261
       },
       {
         "name": "パイズリ魔人",
         "rank": "Ruby",
-        "point": 7320,
-        "car": "ST205[AR]",
+        "point": 7260,
+        "car": "86トレノ[AR]",
         "shop": "コムテックタワー",
-        "update": "2026/08/25 02:27:35",
+        "update": "2026/08/25 02:32:33",
         "status": "yellow",
-        "ageSeconds": 1361
+        "ageSeconds": 1171
+      },
+      {
+        "name": "むけない後藤",
+        "rank": "Ruby",
+        "point": 1940,
+        "car": "86トレノ[HC]",
+        "shop": "関大前フタバボウル",
+        "update": "2026/08/25 02:41:00",
+        "status": "green",
+        "ageSeconds": 664
       },
       {
         "name": "赤城ユイナ",
@@ -84,17 +124,7 @@
         "shop": "タイトーステーション 大宮店",
         "update": "2026/08/25 02:30:03",
         "status": "yellow",
-        "ageSeconds": 1213
-      },
-      {
-        "name": "むけない後藤",
-        "rank": "Ruby",
-        "point": 1740,
-        "car": "86トレノ[AR]",
-        "shop": "関大前フタバボウル",
-        "update": "2026/08/25 02:30:56",
-        "status": "yellow",
-        "ageSeconds": 1160
+        "ageSeconds": 1321
       },
       {
         "name": "今この瞬間を",
@@ -104,7 +134,7 @@
         "shop": "アミューズメントフィールドバイヨン",
         "update": "2026/08/25 02:22:52",
         "status": "yellow",
-        "ageSeconds": 1644
+        "ageSeconds": 1752
       }
     ],
     "Sapphire": [],
