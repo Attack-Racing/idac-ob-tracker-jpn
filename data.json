@@ -1,70 +1,80 @@
 {
-  "trackerTime": "2026-08-25 02:35:02",
-  "activeSince": "2026-08-25 02:05:02",
-  "total": 8,
+  "trackerTime": "2026-08-25 02:36:23",
+  "activeSince": "2026-08-25 02:06:23",
+  "total": 11,
   "ranks": {
     "Pride": [
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 54860,
-        "car": "ZC33S[AR]",
+        "point": 55380,
+        "car": "S13[HC]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/25 02:16:07",
-        "status": "yellow",
-        "ageSeconds": 1135
+        "update": "2026/08/25 02:27:20",
+        "status": "green",
+        "ageSeconds": 543
       },
       {
         "name": "社長に従えよ",
         "rank": "Pride",
-        "point": 34200,
-        "car": "EG6[HC]",
+        "point": 34980,
+        "car": "ST205[AR]",
         "shop": "ＧｉＧＯ春日井",
-        "update": "2026/08/25 02:12:16",
-        "status": "yellow",
-        "ageSeconds": 1366
+        "update": "2026/08/25 02:27:41",
+        "status": "green",
+        "ageSeconds": 522
       },
       {
         "name": "Ｒａｌｐｈ．",
         "rank": "Pride",
-        "point": 25600,
+        "point": 26060,
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯスエヒロボウル徳島",
-        "update": "2026/08/25 02:12:39",
-        "status": "yellow",
-        "ageSeconds": 1343
+        "update": "2026/08/25 02:27:35",
+        "status": "green",
+        "ageSeconds": 528
       },
       {
         "name": "ラクウェル．",
         "rank": "Pride",
-        "point": 17360,
-        "car": "CE9Aエボ3[AR]",
+        "point": 18140,
+        "car": "SW20[DH]",
         "shop": "半田メトロポリス",
-        "update": "2026/08/25 02:12:18",
-        "status": "yellow",
-        "ageSeconds": 1364
+        "update": "2026/08/25 02:29:56",
+        "status": "green",
+        "ageSeconds": 387
       }
     ],
     "Ruby": [
       {
         "name": "琵琶湖博物館",
         "rank": "Ruby",
-        "point": 63880,
-        "car": "CN9Aエボ4[HC]",
+        "point": 63760,
+        "car": "86トレノ[AR]",
         "shop": "ＧｉＧＯ秋葉原３号館",
-        "update": "2026/08/25 02:12:45",
-        "status": "yellow",
-        "ageSeconds": 1337
+        "update": "2026/08/25 02:25:23",
+        "status": "green",
+        "ageSeconds": 660
+      },
+      {
+        "name": "ルサンチマン",
+        "rank": "Ruby",
+        "point": 9820,
+        "car": "86トレノ[AR]",
+        "shop": "タイトーＦステーションイオン近江八幡店",
+        "update": "2026/08/25 02:31:03",
+        "status": "green",
+        "ageSeconds": 320
       },
       {
         "name": "パイズリ魔人",
         "rank": "Ruby",
-        "point": 7440,
-        "car": "86トレノ[AR]",
+        "point": 7320,
+        "car": "ST205[AR]",
         "shop": "コムテックタワー",
-        "update": "2026/08/25 02:16:07",
-        "status": "yellow",
-        "ageSeconds": 1135
+        "update": "2026/08/25 02:27:35",
+        "status": "green",
+        "ageSeconds": 528
       },
       {
         "name": "せれねーたー",
@@ -74,17 +84,37 @@
         "shop": "楽市楽座イオンモール宮崎店",
         "update": "2026/08/25 02:14:11",
         "status": "yellow",
-        "ageSeconds": 1251
+        "ageSeconds": 1332
+      },
+      {
+        "name": "赤城ユイナ",
+        "rank": "Ruby",
+        "point": 1780,
+        "car": "EK9[DH]",
+        "shop": "タイトーステーション 大宮店",
+        "update": "2026/08/25 02:30:03",
+        "status": "green",
+        "ageSeconds": 380
       },
       {
         "name": "むけない後藤",
         "rank": "Ruby",
-        "point": 960,
-        "car": "ST205[AR]",
+        "point": 1740,
+        "car": "86トレノ[AR]",
         "shop": "関大前フタバボウル",
-        "update": "2026/08/25 02:14:12",
-        "status": "yellow",
-        "ageSeconds": 1250
+        "update": "2026/08/25 02:30:56",
+        "status": "green",
+        "ageSeconds": 327
+      },
+      {
+        "name": "今この瞬間を",
+        "rank": "Ruby",
+        "point": 500,
+        "car": "CP9Aエボ6[AR]",
+        "shop": "アミューズメントフィールドバイヨン",
+        "update": "2026/08/25 02:22:52",
+        "status": "green",
+        "ageSeconds": 811
       }
     ],
     "Sapphire": [],
