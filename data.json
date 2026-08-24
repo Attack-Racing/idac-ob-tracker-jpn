@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-25 02:00:06",
-  "activeSince": "2026-08-25 01:30:06",
-  "total": 10,
+  "trackerTime": "2026-08-25 02:01:07",
+  "activeSince": "2026-08-25 01:31:07",
+  "total": 8,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/25 01:46:35",
         "status": "green",
-        "ageSeconds": 811
+        "ageSeconds": 872
       },
       {
         "name": "社長に従えよ",
@@ -21,8 +21,8 @@
         "car": "CP9Aエボ5[AR]",
         "shop": "ＧｉＧＯ春日井",
         "update": "2026/08/25 01:45:28",
-        "status": "green",
-        "ageSeconds": 878
+        "status": "yellow",
+        "ageSeconds": 939
       },
       {
         "name": "Ｒａｌｐｈ．",
@@ -31,8 +31,8 @@
         "car": "CP9Aエボ5[AR]",
         "shop": "ＧｉＧＯスエヒロボウル徳島",
         "update": "2026/08/25 01:45:28",
-        "status": "green",
-        "ageSeconds": 878
+        "status": "yellow",
+        "ageSeconds": 939
       }
     ],
     "Ruby": [
@@ -44,7 +44,7 @@
         "shop": "ＧｉＧＯ秋葉原３号館",
         "update": "2026/08/25 01:41:28",
         "status": "yellow",
-        "ageSeconds": 1118
+        "ageSeconds": 1179
       },
       {
         "name": "ラクウェル．",
@@ -53,18 +53,8 @@
         "car": "CE9Aエボ3[AR]",
         "shop": "半田メトロポリス",
         "update": "2026/08/25 01:45:11",
-        "status": "green",
-        "ageSeconds": 895
-      },
-      {
-        "name": "Ｓｅｌｅｎａ",
-        "rank": "Ruby",
-        "point": 7260,
-        "car": "ST205[AR]",
-        "shop": "ゲームシティ板橋店",
-        "update": "2026/08/25 01:30:47",
         "status": "yellow",
-        "ageSeconds": 1759
+        "ageSeconds": 956
       },
       {
         "name": "パイズリ魔人",
@@ -74,17 +64,7 @@
         "shop": "コムテックタワー",
         "update": "2026/08/25 01:40:15",
         "status": "yellow",
-        "ageSeconds": 1191
-      },
-      {
-        "name": "コーデリア",
-        "rank": "Ruby",
-        "point": 3640,
-        "car": "CT9Aエボ9[AR]",
-        "shop": "ＧｉＧＯ天童",
-        "update": "2026/08/25 01:30:46",
-        "status": "yellow",
-        "ageSeconds": 1760
+        "ageSeconds": 1252
       },
       {
         "name": "けーさん",
@@ -94,7 +74,7 @@
         "shop": "ｎａｍｃｏアリオ鳳店",
         "update": "2026/08/25 01:41:28",
         "status": "yellow",
-        "ageSeconds": 1118
+        "ageSeconds": 1179
       }
     ],
     "Sapphire": [],
@@ -107,7 +87,7 @@
         "shop": "遊道楽仲原店",
         "update": "2026/08/25 01:34:06",
         "status": "yellow",
-        "ageSeconds": 1560
+        "ageSeconds": 1621
       }
     ],
     "Clear Blue": [],
