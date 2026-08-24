@@ -1,9 +1,19 @@
 {
-  "trackerTime": "2026-08-24 10:08:02",
-  "activeSince": "2026-08-24 09:38:02",
-  "total": 8,
+  "trackerTime": "2026-08-24 10:09:19",
+  "activeSince": "2026-08-24 09:39:19",
+  "total": 10,
   "ranks": {
     "Pride": [
+      {
+        "name": "Ｐｓｙｃｈｏ",
+        "rank": "Pride",
+        "point": 163260,
+        "car": "CP9Aエボ6[HC]",
+        "shop": "ＧｉＧＯマーケットスクエアささしま",
+        "update": "2026/08/24 09:57:56",
+        "status": "green",
+        "ageSeconds": 682
+      },
       {
         "name": "白疾風＠ＭＴ",
         "rank": "Pride",
@@ -12,7 +22,17 @@
         "shop": "ＹＡＺ寝屋川店",
         "update": "2026/08/24 09:46:45",
         "status": "yellow",
-        "ageSeconds": 1277
+        "ageSeconds": 1353
+      },
+      {
+        "name": "たこまけ",
+        "rank": "Pride",
+        "point": 22320,
+        "car": "CN9Aエボ4[AR]",
+        "shop": "ゲームパニック大高",
+        "update": "2026/08/24 09:57:56",
+        "status": "green",
+        "ageSeconds": 682
       },
       {
         "name": "約束のしおり",
@@ -22,7 +42,7 @@
         "shop": "アミューズメントスペースBAGIBAGI",
         "update": "2026/08/24 09:46:46",
         "status": "yellow",
-        "ageSeconds": 1276
+        "ageSeconds": 1352
       }
     ],
     "Ruby": [
@@ -34,17 +54,17 @@
         "shop": "群馬レジャーランド高崎駅東口店",
         "update": "2026/08/24 09:46:34",
         "status": "yellow",
-        "ageSeconds": 1288
+        "ageSeconds": 1364
       },
       {
         "name": "ぱるぱる",
         "rank": "Ruby",
-        "point": 3260,
+        "point": 3200,
         "car": "BNR32[AR]",
         "shop": "ラウンドワン半田店",
-        "update": "2026/08/24 09:46:35",
+        "update": "2026/08/24 09:53:25",
         "status": "yellow",
-        "ageSeconds": 1287
+        "ageSeconds": 953
       }
     ],
     "Sapphire": [
@@ -56,7 +76,7 @@
         "shop": "アッシュ美濃加茂店",
         "update": "2026/08/24 09:41:48",
         "status": "yellow",
-        "ageSeconds": 1574
+        "ageSeconds": 1650
       }
     ],
     "Emerald": [],
@@ -69,7 +89,7 @@
         "shop": "アピナ太田店",
         "update": "2026/08/24 09:45:55",
         "status": "yellow",
-        "ageSeconds": 1327
+        "ageSeconds": 1403
       },
       {
         "name": "Ｔｏｕｃａｎ",
@@ -79,7 +99,7 @@
         "shop": "ＧｉＧＯ秋葉原３号館",
         "update": "2026/08/24 09:45:28",
         "status": "yellow",
-        "ageSeconds": 1354
+        "ageSeconds": 1430
       },
       {
         "name": "ああああああ",
@@ -89,7 +109,7 @@
         "shop": "あみぱらんど福山店",
         "update": "2026/08/24 09:46:02",
         "status": "yellow",
-        "ageSeconds": 1320
+        "ageSeconds": 1396
       }
     ],
     "Clear Red": [],
