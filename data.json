@@ -1,18 +1,18 @@
 {
-  "trackerTime": "2026-08-25 03:35:13",
-  "activeSince": "2026-08-25 03:05:13",
-  "total": 6,
+  "trackerTime": "2026-08-25 03:36:01",
+  "activeSince": "2026-08-25 03:06:01",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 55640,
-        "car": "ST205[HC]",
+        "point": 56160,
+        "car": "JZA80[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/25 03:11:50",
-        "status": "yellow",
-        "ageSeconds": 1403
+        "update": "2026/08/25 03:24:15",
+        "status": "green",
+        "ageSeconds": 706
       },
       {
         "name": "社長に従えよ",
@@ -22,17 +22,17 @@
         "shop": "ＧｉＧＯ春日井",
         "update": "2026/08/25 03:11:24",
         "status": "yellow",
-        "ageSeconds": 1429
+        "ageSeconds": 1477
       },
       {
         "name": "Ｖｉｏｌｅｔ",
         "rank": "Pride",
-        "point": 6640,
-        "car": "86トレノ[AR]",
+        "point": 6900,
+        "car": "FD3S[DH]",
         "shop": "アミューズメントパフェパレパレ田宮店",
-        "update": "2026/08/25 03:11:31",
-        "status": "yellow",
-        "ageSeconds": 1422
+        "update": "2026/08/25 03:22:10",
+        "status": "green",
+        "ageSeconds": 831
       }
     ],
     "Ruby": [
@@ -44,7 +44,17 @@
         "shop": "ＧｉＧＯ秋葉原３号館",
         "update": "2026/08/25 03:07:37",
         "status": "yellow",
-        "ageSeconds": 1656
+        "ageSeconds": 1704
+      },
+      {
+        "name": "人間の端くれ",
+        "rank": "Ruby",
+        "point": 56380,
+        "car": "ST205[AR]",
+        "shop": "ｎａｍｃｏ博多バスターミナル店",
+        "update": "2026/08/25 03:24:15",
+        "status": "green",
+        "ageSeconds": 706
       },
       {
         "name": "未来の三原色",
@@ -54,7 +64,7 @@
         "shop": "ラウンドワンダイバーシティ東京プラザ店",
         "update": "2026/08/25 03:11:57",
         "status": "yellow",
-        "ageSeconds": 1396
+        "ageSeconds": 1444
       },
       {
         "name": "赤城ユイナ",
@@ -64,7 +74,7 @@
         "shop": "タイトーステーション 大宮店",
         "update": "2026/08/25 03:15:32",
         "status": "yellow",
-        "ageSeconds": 1181
+        "ageSeconds": 1229
       }
     ],
     "Sapphire": [],
