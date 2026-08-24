@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-25 08:50:02",
-  "activeSince": "2026-08-25 08:20:02",
-  "total": 6,
+  "trackerTime": "2026-08-25 08:51:18",
+  "activeSince": "2026-08-25 08:21:18",
+  "total": 8,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "ゲームランド草津店",
         "update": "2026/08/25 08:28:49",
         "status": "yellow",
-        "ageSeconds": 1273
+        "ageSeconds": 1349
       },
       {
         "name": "小野瀬　真奈",
@@ -22,7 +22,7 @@
         "shop": "群馬レジャーランド太田店",
         "update": "2026/08/25 08:29:18",
         "status": "yellow",
-        "ageSeconds": 1244
+        "ageSeconds": 1320
       },
       {
         "name": "Ｏｃｈｏｉｒ",
@@ -32,10 +32,20 @@
         "shop": "ＧｉＧＯ日立",
         "update": "2026/08/25 08:31:32",
         "status": "yellow",
-        "ageSeconds": 1110
+        "ageSeconds": 1186
       }
     ],
     "Ruby": [
+      {
+        "name": "日頃からモブ",
+        "rank": "Ruby",
+        "point": 6580,
+        "car": "ST205[AR]",
+        "shop": "楽市楽座黒崎店",
+        "update": "2026/08/25 08:41:24",
+        "status": "green",
+        "ageSeconds": 594
+      },
       {
         "name": "Ｓαｖαｇё",
         "rank": "Ruby",
@@ -44,7 +54,17 @@
         "shop": "ＧｉＧＯ石岡",
         "update": "2026/08/25 08:23:32",
         "status": "yellow",
-        "ageSeconds": 1590
+        "ageSeconds": 1666
+      },
+      {
+        "name": "ガボンＤ",
+        "rank": "Ruby",
+        "point": 3880,
+        "car": "CP9Aエボ5[AR]",
+        "shop": "ＧｉＧＯ中間",
+        "update": "2026/08/25 08:36:23",
+        "status": "green",
+        "ageSeconds": 895
       },
       {
         "name": "拾ったデータ",
@@ -54,7 +74,7 @@
         "shop": "楽市街道箱崎店",
         "update": "2026/08/25 08:31:39",
         "status": "yellow",
-        "ageSeconds": 1103
+        "ageSeconds": 1179
       },
       {
         "name": "かりん",
@@ -64,7 +84,7 @@
         "shop": "ＧｉＧＯ小山",
         "update": "2026/08/25 08:26:35",
         "status": "yellow",
-        "ageSeconds": 1407
+        "ageSeconds": 1483
       }
     ],
     "Sapphire": [],
