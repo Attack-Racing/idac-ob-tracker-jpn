@@ -1,9 +1,19 @@
 {
-  "trackerTime": "2026-08-25 03:20:10",
-  "activeSince": "2026-08-25 02:50:10",
-  "total": 6,
+  "trackerTime": "2026-08-25 03:21:18",
+  "activeSince": "2026-08-25 02:51:18",
+  "total": 7,
   "ranks": {
     "Pride": [
+      {
+        "name": "あ＠とくしま",
+        "rank": "Pride",
+        "point": 55640,
+        "car": "ST205[HC]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/25 03:11:50",
+        "status": "green",
+        "ageSeconds": 568
+      },
       {
         "name": "社長に従えよ",
         "rank": "Pride",
@@ -12,7 +22,7 @@
         "shop": "ＧｉＧＯ春日井",
         "update": "2026/08/25 02:57:45",
         "status": "yellow",
-        "ageSeconds": 1345
+        "ageSeconds": 1413
       },
       {
         "name": "Ｒａｌｐｈ．",
@@ -22,17 +32,17 @@
         "shop": "ＧｉＧＯスエヒロボウル徳島",
         "update": "2026/08/25 02:57:45",
         "status": "yellow",
-        "ageSeconds": 1345
+        "ageSeconds": 1413
       },
       {
         "name": "Ｖｉｏｌｅｔ",
         "rank": "Pride",
-        "point": 6440,
-        "car": "JZA80[AR]",
+        "point": 6640,
+        "car": "86トレノ[AR]",
         "shop": "アミューズメントパフェパレパレ田宮店",
-        "update": "2026/08/25 02:55:58",
-        "status": "yellow",
-        "ageSeconds": 1452
+        "update": "2026/08/25 03:11:31",
+        "status": "green",
+        "ageSeconds": 587
       }
     ],
     "Ruby": [
@@ -44,7 +54,7 @@
         "shop": "ＧｉＧＯ秋葉原３号館",
         "update": "2026/08/25 02:56:28",
         "status": "yellow",
-        "ageSeconds": 1422
+        "ageSeconds": 1490
       },
       {
         "name": "人間の端くれ",
@@ -54,7 +64,7 @@
         "shop": "ｎａｍｃｏ博多バスターミナル店",
         "update": "2026/08/25 03:01:26",
         "status": "yellow",
-        "ageSeconds": 1124
+        "ageSeconds": 1192
       },
       {
         "name": "未来の三原色",
@@ -64,7 +74,7 @@
         "shop": "ラウンドワンダイバーシティ東京プラザ店",
         "update": "2026/08/25 03:01:21",
         "status": "yellow",
-        "ageSeconds": 1129
+        "ageSeconds": 1197
       }
     ],
     "Sapphire": [],
