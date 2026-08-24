@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-25 03:10:02",
-  "activeSince": "2026-08-25 02:40:02",
-  "total": 7,
+  "trackerTime": "2026-08-25 03:11:06",
+  "activeSince": "2026-08-25 02:41:06",
+  "total": 6,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "ＧｉＧＯ春日井",
         "update": "2026/08/25 02:57:45",
         "status": "green",
-        "ageSeconds": 737
+        "ageSeconds": 801
       },
       {
         "name": "Ｒａｌｐｈ．",
@@ -22,7 +22,7 @@
         "shop": "ＧｉＧＯスエヒロボウル徳島",
         "update": "2026/08/25 02:57:45",
         "status": "green",
-        "ageSeconds": 737
+        "ageSeconds": 801
       },
       {
         "name": "Ｖｉｏｌｅｔ",
@@ -31,8 +31,8 @@
         "car": "JZA80[AR]",
         "shop": "アミューズメントパフェパレパレ田宮店",
         "update": "2026/08/25 02:55:58",
-        "status": "green",
-        "ageSeconds": 844
+        "status": "yellow",
+        "ageSeconds": 908
       }
     ],
     "Ruby": [
@@ -44,7 +44,7 @@
         "shop": "ＧｉＧＯ秋葉原３号館",
         "update": "2026/08/25 02:56:28",
         "status": "green",
-        "ageSeconds": 814
+        "ageSeconds": 878
       },
       {
         "name": "人間の端くれ",
@@ -54,7 +54,7 @@
         "shop": "ｎａｍｃｏ博多バスターミナル店",
         "update": "2026/08/25 03:01:26",
         "status": "green",
-        "ageSeconds": 516
+        "ageSeconds": 580
       },
       {
         "name": "未来の三原色",
@@ -64,17 +64,7 @@
         "shop": "ラウンドワンダイバーシティ東京プラザ店",
         "update": "2026/08/25 03:01:21",
         "status": "green",
-        "ageSeconds": 521
-      },
-      {
-        "name": "むけない後藤",
-        "rank": "Ruby",
-        "point": 1940,
-        "car": "86トレノ[HC]",
-        "shop": "関大前フタバボウル",
-        "update": "2026/08/25 02:41:00",
-        "status": "yellow",
-        "ageSeconds": 1742
+        "ageSeconds": 585
       }
     ],
     "Sapphire": [],
