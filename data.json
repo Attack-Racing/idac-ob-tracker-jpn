@@ -1,11 +1,54 @@
 {
-  "trackerTime": "2026-08-24 09:08:02",
-  "activeSince": "2026-08-24 08:38:02",
-  "total": 0,
+  "trackerTime": "2026-08-24 09:09:19",
+  "activeSince": "2026-08-24 08:39:19",
+  "total": 4,
   "ranks": {
-    "Pride": [],
-    "Ruby": [],
-    "Sapphire": [],
+    "Pride": [
+      {
+        "name": "雪ニモマケズ",
+        "rank": "Pride",
+        "point": 19800,
+        "car": "ST205[AR]",
+        "shop": "ラウンドワン長野店",
+        "update": "2026/08/24 08:54:49",
+        "status": "green",
+        "ageSeconds": 870
+      }
+    ],
+    "Ruby": [
+      {
+        "name": "くろまめ",
+        "rank": "Ruby",
+        "point": 700,
+        "car": "JZA80[HC]",
+        "shop": "ＧｉＧＯ東名ボール",
+        "update": "2026/08/24 08:54:56",
+        "status": "green",
+        "ageSeconds": 863
+      }
+    ],
+    "Sapphire": [
+      {
+        "name": "マジきめーよ",
+        "rank": "Sapphire",
+        "point": 3220,
+        "car": "ST205[AR]",
+        "shop": "群馬レジャーランド高崎駅東口店",
+        "update": "2026/08/24 08:59:42",
+        "status": "green",
+        "ageSeconds": 577
+      },
+      {
+        "name": "るぅ",
+        "rank": "Sapphire",
+        "point": 2800,
+        "car": "FD3S6[AR]",
+        "shop": "イスカンダル五井金杉店",
+        "update": "2026/08/24 08:59:43",
+        "status": "green",
+        "ageSeconds": 576
+      }
+    ],
     "Emerald": [],
     "Clear Blue": [],
     "Clear Red": [],
