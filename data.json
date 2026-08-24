@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-25 01:34:14",
-  "activeSince": "2026-08-25 01:04:14",
-  "total": 10,
+  "trackerTime": "2026-08-25 01:36:04",
+  "activeSince": "2026-08-25 01:06:04",
+  "total": 13,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "ＧｉＧＯ春日井",
         "update": "2026/08/25 01:16:32",
         "status": "yellow",
-        "ageSeconds": 1062
+        "ageSeconds": 1172
       },
       {
         "name": "Ｒａｌｐｈ．",
@@ -22,7 +22,7 @@
         "shop": "ＧｉＧＯスエヒロボウル徳島",
         "update": "2026/08/25 01:13:09",
         "status": "yellow",
-        "ageSeconds": 1265
+        "ageSeconds": 1375
       }
     ],
     "Ruby": [
@@ -34,7 +34,7 @@
         "shop": "ＧｉＧＯ秋葉原３号館",
         "update": "2026/08/25 01:13:16",
         "status": "yellow",
-        "ageSeconds": 1258
+        "ageSeconds": 1368
       },
       {
         "name": "デスまんび",
@@ -44,7 +44,7 @@
         "shop": "INTER PARK+1宇都宮",
         "update": "2026/08/25 01:13:09",
         "status": "yellow",
-        "ageSeconds": 1265
+        "ageSeconds": 1375
       },
       {
         "name": "コーデリア",
@@ -54,7 +54,7 @@
         "shop": "ＧｉＧＯ天童",
         "update": "2026/08/25 01:14:22",
         "status": "yellow",
-        "ageSeconds": 1192
+        "ageSeconds": 1302
       },
       {
         "name": "なおちゃん",
@@ -64,7 +64,7 @@
         "shop": "アミューズメントフィールドバイヨン",
         "update": "2026/08/25 01:12:25",
         "status": "yellow",
-        "ageSeconds": 1309
+        "ageSeconds": 1419
       },
       {
         "name": "おがしょーー",
@@ -74,7 +74,17 @@
         "shop": "群馬レジャーランド伊勢崎店",
         "update": "2026/08/25 01:11:06",
         "status": "yellow",
-        "ageSeconds": 1388
+        "ageSeconds": 1498
+      },
+      {
+        "name": "せれねーたー",
+        "rank": "Ruby",
+        "point": 1880,
+        "car": "CP9Aエボ6[HC]",
+        "shop": "楽市楽座イオンモール宮崎店",
+        "update": "2026/08/25 01:19:34",
+        "status": "yellow",
+        "ageSeconds": 990
       },
       {
         "name": "けーさん",
@@ -84,7 +94,7 @@
         "shop": "ｎａｍｃｏアリオ鳳店",
         "update": "2026/08/25 01:13:16",
         "status": "yellow",
-        "ageSeconds": 1258
+        "ageSeconds": 1368
       },
       {
         "name": "Ｋｅｐ１ｅｒ",
@@ -94,7 +104,7 @@
         "shop": "ＧｉＧＯイオン仙台中山",
         "update": "2026/08/25 01:06:20",
         "status": "yellow",
-        "ageSeconds": 1674
+        "ageSeconds": 1784
       }
     ],
     "Sapphire": [
@@ -106,10 +116,31 @@
         "shop": "ベネクス浦和店",
         "update": "2026/08/25 01:13:08",
         "status": "yellow",
-        "ageSeconds": 1266
+        "ageSeconds": 1376
+      },
+      {
+        "name": "ｌｉｚ",
+        "rank": "Sapphire",
+        "point": 2660,
+        "car": "EK9[DH]",
+        "shop": "ラウンドワン沖縄・宜野湾店",
+        "update": "2026/08/25 01:27:41",
+        "status": "green",
+        "ageSeconds": 503
       }
     ],
-    "Emerald": [],
+    "Emerald": [
+      {
+        "name": "さだぼう",
+        "rank": "Emerald",
+        "point": 240,
+        "car": "86レビン[HC]",
+        "shop": "遊道楽仲原店",
+        "update": "2026/08/25 01:28:39",
+        "status": "green",
+        "ageSeconds": 445
+      }
+    ],
     "Clear Blue": [],
     "Clear Red": [],
     "Clear Green": [],
