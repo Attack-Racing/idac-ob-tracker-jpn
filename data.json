@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-25 07:50:06",
-  "activeSince": "2026-08-25 07:20:06",
-  "total": 2,
+  "trackerTime": "2026-08-25 07:51:19",
+  "activeSince": "2026-08-25 07:21:19",
+  "total": 4,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,17 @@
         "shop": "ゲームゾーンＲ一宮",
         "update": "2026/08/25 07:30:33",
         "status": "yellow",
-        "ageSeconds": 1173
+        "ageSeconds": 1246
+      },
+      {
+        "name": "森島Ｌはるか",
+        "rank": "Pride",
+        "point": 18200,
+        "car": "CP9Aエボ6[HC]",
+        "shop": "ゲームランド草津店",
+        "update": "2026/08/25 07:40:58",
+        "status": "green",
+        "ageSeconds": 621
       },
       {
         "name": "Ｏｃｈｏｉｒ",
@@ -22,10 +32,21 @@
         "shop": "ＧｉＧＯ日立",
         "update": "2026/08/25 07:27:26",
         "status": "yellow",
-        "ageSeconds": 1360
+        "ageSeconds": 1433
       }
     ],
-    "Ruby": [],
+    "Ruby": [
+      {
+        "name": "いっちゃん",
+        "rank": "Ruby",
+        "point": 1980,
+        "car": "NA1[AR]",
+        "shop": "アミパラ草津店",
+        "update": "2026/08/25 07:37:42",
+        "status": "green",
+        "ageSeconds": 817
+      }
+    ],
     "Sapphire": [],
     "Emerald": [],
     "Clear Blue": [],
