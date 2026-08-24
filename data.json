@@ -1,85 +1,137 @@
 {
-  "trackerTime": "2026-08-24 09:52:14",
-  "activeSince": "2026-08-24 09:22:14",
-  "total": 7,
+  "trackerTime": "2026-08-24 09:54:07",
+  "activeSince": "2026-08-24 09:24:07",
+  "total": 12,
   "ranks": {
     "Pride": [
       {
         "name": "Ｐｓｙｃｈｏ",
         "rank": "Pride",
-        "point": 162480,
+        "point": 162740,
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯマーケットスクエアささしま",
-        "update": "2026/08/24 09:30:13",
+        "update": "2026/08/24 09:36:26",
         "status": "yellow",
-        "ageSeconds": 1321
+        "ageSeconds": 1061
+      },
+      {
+        "name": "白疾風＠ＭＴ",
+        "rank": "Pride",
+        "point": 41300,
+        "car": "NA1[HC]",
+        "shop": "ＹＡＺ寝屋川店",
+        "update": "2026/08/24 09:46:45",
+        "status": "green",
+        "ageSeconds": 442
       },
       {
         "name": "たこまけ",
         "rank": "Pride",
-        "point": 21860,
-        "car": "ST205[DH]",
+        "point": 22120,
+        "car": "CN9Aエボ4[AR]",
         "shop": "ゲームパニック大高",
-        "update": "2026/08/24 09:29:37",
+        "update": "2026/08/24 09:35:23",
         "status": "yellow",
-        "ageSeconds": 1357
+        "ageSeconds": 1124
       },
       {
         "name": "雪ニモマケズ",
         "rank": "Pride",
-        "point": 19880,
-        "car": "ST205[AR]",
+        "point": 19820,
+        "car": "CP9Aエボ6[HC]",
         "shop": "ラウンドワン長野店",
-        "update": "2026/08/24 09:30:12",
+        "update": "2026/08/24 09:35:23",
         "status": "yellow",
-        "ageSeconds": 1322
+        "ageSeconds": 1124
       },
       {
         "name": "約束のしおり",
         "rank": "Pride",
-        "point": 16260,
+        "point": 17040,
         "car": "ST205[AR]",
         "shop": "アミューズメントスペースBAGIBAGI",
-        "update": "2026/08/24 09:29:44",
-        "status": "yellow",
-        "ageSeconds": 1350
+        "update": "2026/08/24 09:46:46",
+        "status": "green",
+        "ageSeconds": 441
       }
     ],
     "Ruby": [
       {
         "name": "無冠の帝王",
         "rank": "Ruby",
-        "point": 15980,
-        "car": "CP9Aエボ6[AR]",
+        "point": 16100,
+        "car": "ST205[AR]",
         "shop": "群馬レジャーランド高崎駅東口店",
-        "update": "2026/08/24 09:23:24",
-        "status": "yellow",
-        "ageSeconds": 1730
+        "update": "2026/08/24 09:46:34",
+        "status": "green",
+        "ageSeconds": 453
       },
       {
         "name": "みれいの弟子",
         "rank": "Ruby",
-        "point": 5360,
+        "point": 5300,
         "car": "ST205[AR]",
         "shop": "ラウンドワン京都伏見店",
-        "update": "2026/08/24 09:29:22",
+        "update": "2026/08/24 09:35:45",
         "status": "yellow",
-        "ageSeconds": 1372
+        "ageSeconds": 1102
       },
       {
         "name": "ぱるぱる",
         "rank": "Ruby",
-        "point": 3120,
+        "point": 3260,
         "car": "BNR32[AR]",
         "shop": "ラウンドワン半田店",
-        "update": "2026/08/24 09:29:21",
-        "status": "yellow",
-        "ageSeconds": 1373
+        "update": "2026/08/24 09:46:35",
+        "status": "green",
+        "ageSeconds": 452
       }
     ],
-    "Sapphire": [],
+    "Sapphire": [
+      {
+        "name": "ｎａ",
+        "rank": "Sapphire",
+        "point": 7180,
+        "car": "FD3S[AR]",
+        "shop": "アッシュ美濃加茂店",
+        "update": "2026/08/24 09:41:48",
+        "status": "green",
+        "ageSeconds": 739
+      }
+    ],
     "Emerald": [],
-    "Clear Blue": [],
+    "Clear Blue": [
+      {
+        "name": "Ｆ８７",
+        "rank": "Clear Blue",
+        "point": 3480,
+        "car": "EG6[DH]",
+        "shop": "アピナ太田店",
+        "update": "2026/08/24 09:45:55",
+        "status": "green",
+        "ageSeconds": 492
+      },
+      {
+        "name": "Ｔｏｕｃａｎ",
+        "rank": "Clear Blue",
+        "point": 2480,
+        "car": "FD3S[DH]",
+        "shop": "ＧｉＧＯ秋葉原３号館",
+        "update": "2026/08/24 09:45:28",
+        "status": "green",
+        "ageSeconds": 519
+      },
+      {
+        "name": "ああああああ",
+        "rank": "Clear Blue",
+        "point": 580,
+        "car": "BRZ S[HC]",
+        "shop": "あみぱらんど福山店",
+        "update": "2026/08/24 09:46:02",
+        "status": "green",
+        "ageSeconds": 485
+      }
+    ],
     "Clear Red": [],
     "Clear Green": [],
     "Unknown Online Rank": []
