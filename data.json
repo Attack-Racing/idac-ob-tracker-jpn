@@ -1,40 +1,40 @@
 {
-  "trackerTime": "2026-08-25 08:21:22",
-  "activeSince": "2026-08-25 07:51:22",
-  "total": 5,
+  "trackerTime": "2026-08-25 08:23:13",
+  "activeSince": "2026-08-25 07:53:13",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
         "name": "森島Ｌはるか",
         "rank": "Pride",
-        "point": 18980,
+        "point": 19760,
         "car": "ST205[AR]",
         "shop": "ゲームランド草津店",
-        "update": "2026/08/25 07:57:54",
-        "status": "yellow",
-        "ageSeconds": 1408
+        "update": "2026/08/25 08:14:47",
+        "status": "green",
+        "ageSeconds": 506
       },
       {
         "name": "Ｏｃｈｏｉｒ",
         "rank": "Pride",
-        "point": 6860,
+        "point": 7640,
         "car": "RZ34[AR]",
         "shop": "ＧｉＧＯ日立",
-        "update": "2026/08/25 08:00:28",
-        "status": "yellow",
-        "ageSeconds": 1254
+        "update": "2026/08/25 08:16:07",
+        "status": "green",
+        "ageSeconds": 426
       }
     ],
     "Ruby": [
       {
         "name": "風ニモマケズ",
         "rank": "Ruby",
-        "point": 12980,
+        "point": 13500,
         "car": "CT9Aエボ7[HC]",
         "shop": "上越レジャーランボウル",
-        "update": "2026/08/25 07:55:14",
-        "status": "yellow",
-        "ageSeconds": 1568
+        "update": "2026/08/25 08:11:48",
+        "status": "green",
+        "ageSeconds": 685
       },
       {
         "name": "日頃からモブ",
@@ -44,7 +44,7 @@
         "shop": "楽市楽座黒崎店",
         "update": "2026/08/25 08:16:14",
         "status": "green",
-        "ageSeconds": 308
+        "ageSeconds": 419
       },
       {
         "name": "冗談は顔だけ",
@@ -54,7 +54,27 @@
         "shop": "アピナ松本店",
         "update": "2026/08/25 07:55:04",
         "status": "yellow",
-        "ageSeconds": 1578
+        "ageSeconds": 1689
+      },
+      {
+        "name": "朝比奈まふゆ",
+        "rank": "Ruby",
+        "point": 1020,
+        "car": "ST205[AR]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/08/25 08:11:55",
+        "status": "green",
+        "ageSeconds": 678
+      },
+      {
+        "name": "菅波　美玲",
+        "rank": "Ruby",
+        "point": 540,
+        "car": "FC3S[DH]",
+        "shop": "アミューズパークいわき神谷店",
+        "update": "2026/08/25 08:14:53",
+        "status": "green",
+        "ageSeconds": 500
       }
     ],
     "Sapphire": [],
