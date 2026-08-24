@@ -1,38 +1,38 @@
 {
-  "trackerTime": "2026-08-25 08:51:18",
-  "activeSince": "2026-08-25 08:21:18",
-  "total": 8,
+  "trackerTime": "2026-08-25 08:53:14",
+  "activeSince": "2026-08-25 08:23:14",
+  "total": 10,
   "ranks": {
     "Pride": [
       {
         "name": "森島Ｌはるか",
         "rank": "Pride",
-        "point": 20540,
+        "point": 21320,
         "car": "ST205[AR]",
         "shop": "ゲームランド草津店",
-        "update": "2026/08/25 08:28:49",
-        "status": "yellow",
-        "ageSeconds": 1349
+        "update": "2026/08/25 08:42:51",
+        "status": "green",
+        "ageSeconds": 623
       },
       {
         "name": "小野瀬　真奈",
         "rank": "Pride",
-        "point": 13720,
+        "point": 14500,
         "car": "ST205[AR]",
         "shop": "群馬レジャーランド太田店",
-        "update": "2026/08/25 08:29:18",
-        "status": "yellow",
-        "ageSeconds": 1320
+        "update": "2026/08/25 08:45:50",
+        "status": "green",
+        "ageSeconds": 444
       },
       {
         "name": "Ｏｃｈｏｉｒ",
         "rank": "Pride",
-        "point": 8420,
+        "point": 9200,
         "car": "RZ34[AR]",
         "shop": "ＧｉＧＯ日立",
-        "update": "2026/08/25 08:31:32",
-        "status": "yellow",
-        "ageSeconds": 1186
+        "update": "2026/08/25 08:46:40",
+        "status": "green",
+        "ageSeconds": 394
       }
     ],
     "Ruby": [
@@ -44,17 +44,17 @@
         "shop": "楽市楽座黒崎店",
         "update": "2026/08/25 08:41:24",
         "status": "green",
-        "ageSeconds": 594
+        "ageSeconds": 710
       },
       {
         "name": "Ｓαｖαｇё",
         "rank": "Ruby",
-        "point": 4500,
+        "point": 4440,
         "car": "BNR32[DH]",
         "shop": "ＧｉＧＯ石岡",
-        "update": "2026/08/25 08:23:32",
-        "status": "yellow",
-        "ageSeconds": 1666
+        "update": "2026/08/25 08:45:52",
+        "status": "green",
+        "ageSeconds": 442
       },
       {
         "name": "ガボンＤ",
@@ -63,8 +63,18 @@
         "car": "CP9Aエボ5[AR]",
         "shop": "ＧｉＧＯ中間",
         "update": "2026/08/25 08:36:23",
+        "status": "yellow",
+        "ageSeconds": 1011
+      },
+      {
+        "name": "ＲＡＩＲＡ",
+        "rank": "Ruby",
+        "point": 3860,
+        "car": "EK9[AR]",
+        "shop": "シルクハット川崎モアーズ",
+        "update": "2026/08/25 08:45:45",
         "status": "green",
-        "ageSeconds": 895
+        "ageSeconds": 449
       },
       {
         "name": "拾ったデータ",
@@ -74,17 +84,27 @@
         "shop": "楽市街道箱崎店",
         "update": "2026/08/25 08:31:39",
         "status": "yellow",
-        "ageSeconds": 1179
+        "ageSeconds": 1295
       },
       {
-        "name": "かりん",
+        "name": "冗談は顔だけ",
         "rank": "Ruby",
-        "point": 40,
-        "car": "CP9Aエボ6[AR]",
-        "shop": "ＧｉＧＯ小山",
-        "update": "2026/08/25 08:26:35",
+        "point": 1760,
+        "car": "ST205[AR]",
+        "shop": "アピナ松本店",
+        "update": "2026/08/25 08:34:04",
         "status": "yellow",
-        "ageSeconds": 1483
+        "ageSeconds": 1150
+      },
+      {
+        "name": "菅波　美玲",
+        "rank": "Ruby",
+        "point": 480,
+        "car": "FC3S[DH]",
+        "shop": "アミューズパークいわき神谷店",
+        "update": "2026/08/25 08:37:49",
+        "status": "yellow",
+        "ageSeconds": 925
       }
     ],
     "Sapphire": [],
