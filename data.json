@@ -1,21 +1,61 @@
 {
-  "trackerTime": "2026-08-24 09:23:15",
-  "activeSince": "2026-08-24 08:53:15",
-  "total": 5,
+  "trackerTime": "2026-08-24 09:25:19",
+  "activeSince": "2026-08-24 08:55:19",
+  "total": 12,
   "ranks": {
     "Pride": [
       {
+        "name": "Ｐｓｙｃｈｏ",
+        "rank": "Pride",
+        "point": 161700,
+        "car": "ST205[AR]",
+        "shop": "ＧｉＧＯマーケットスクエアささしま",
+        "update": "2026/08/24 09:13:35",
+        "status": "green",
+        "ageSeconds": 703
+      },
+      {
         "name": "雪ニモマケズ",
         "rank": "Pride",
-        "point": 19800,
+        "point": 19940,
         "car": "ST205[AR]",
         "shop": "ラウンドワン長野店",
-        "update": "2026/08/24 08:54:49",
-        "status": "yellow",
-        "ageSeconds": 1706
+        "update": "2026/08/24 09:15:03",
+        "status": "green",
+        "ageSeconds": 615
+      },
+      {
+        "name": "約束のしおり",
+        "rank": "Pride",
+        "point": 16320,
+        "car": "ST205[AR]",
+        "shop": "アミューズメントスペースBAGIBAGI",
+        "update": "2026/08/24 09:15:02",
+        "status": "green",
+        "ageSeconds": 616
+      },
+      {
+        "name": "Ｒｏｘａｓ．",
+        "rank": "Pride",
+        "point": 7300,
+        "car": "ST205[AR]",
+        "shop": "楽市楽座湘南藤沢店",
+        "update": "2026/08/24 09:13:35",
+        "status": "green",
+        "ageSeconds": 703
       }
     ],
     "Ruby": [
+      {
+        "name": "無冠の帝王",
+        "rank": "Ruby",
+        "point": 15780,
+        "car": "ST205[AR]",
+        "shop": "群馬レジャーランド高崎駅東口店",
+        "update": "2026/08/24 09:11:56",
+        "status": "green",
+        "ageSeconds": 802
+      },
       {
         "name": "一ノ瀬　麗",
         "rank": "Ruby",
@@ -24,17 +64,27 @@
         "shop": "ラウンドワン宮崎店",
         "update": "2026/08/24 09:17:13",
         "status": "green",
-        "ageSeconds": 362
+        "ageSeconds": 485
       },
       {
-        "name": "くろまめ",
+        "name": "ＴＲ．",
         "rank": "Ruby",
-        "point": 700,
-        "car": "JZA80[HC]",
-        "shop": "ＧｉＧＯ東名ボール",
-        "update": "2026/08/24 08:54:56",
-        "status": "yellow",
-        "ageSeconds": 1699
+        "point": 2120,
+        "car": "ST205[AR]",
+        "shop": "ＧｉＧＯ新庄",
+        "update": "2026/08/24 09:11:57",
+        "status": "green",
+        "ageSeconds": 801
+      },
+      {
+        "name": "おたソル",
+        "rank": "Ruby",
+        "point": 1680,
+        "car": "NA1[AR]",
+        "shop": "ゲームパニック新宿歌舞伎町",
+        "update": "2026/08/24 09:10:41",
+        "status": "green",
+        "ageSeconds": 877
       }
     ],
     "Sapphire": [
@@ -46,20 +96,41 @@
         "shop": "群馬レジャーランド高崎駅東口店",
         "update": "2026/08/24 08:59:42",
         "status": "yellow",
-        "ageSeconds": 1413
+        "ageSeconds": 1536
       },
       {
         "name": "るぅ",
         "rank": "Sapphire",
-        "point": 2800,
+        "point": 3020,
         "car": "FD3S6[AR]",
         "shop": "イスカンダル五井金杉店",
-        "update": "2026/08/24 08:59:43",
+        "update": "2026/08/24 09:04:54",
         "status": "yellow",
-        "ageSeconds": 1412
+        "ageSeconds": 1224
+      },
+      {
+        "name": "ゆい",
+        "rank": "Sapphire",
+        "point": 1680,
+        "car": "EK9[DH]",
+        "shop": "スポーツウェーブ鉄腕24",
+        "update": "2026/08/24 09:13:54",
+        "status": "green",
+        "ageSeconds": 684
       }
     ],
-    "Emerald": [],
+    "Emerald": [
+      {
+        "name": "ｙｕｒｉ",
+        "rank": "Emerald",
+        "point": 4340,
+        "car": "86トレノ[AR]",
+        "shop": "アピナ太田店",
+        "update": "2026/08/24 09:04:54",
+        "status": "yellow",
+        "ageSeconds": 1224
+      }
+    ],
     "Clear Blue": [],
     "Clear Red": [],
     "Clear Green": [],
