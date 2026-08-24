@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-24 09:21:17",
-  "activeSince": "2026-08-24 08:51:17",
-  "total": 4,
+  "trackerTime": "2026-08-24 09:23:15",
+  "activeSince": "2026-08-24 08:53:15",
+  "total": 5,
   "ranks": {
     "Pride": [
       {
@@ -12,10 +12,20 @@
         "shop": "ラウンドワン長野店",
         "update": "2026/08/24 08:54:49",
         "status": "yellow",
-        "ageSeconds": 1588
+        "ageSeconds": 1706
       }
     ],
     "Ruby": [
+      {
+        "name": "一ノ瀬　麗",
+        "rank": "Ruby",
+        "point": 7160,
+        "car": "ZZW30[HC]",
+        "shop": "ラウンドワン宮崎店",
+        "update": "2026/08/24 09:17:13",
+        "status": "green",
+        "ageSeconds": 362
+      },
       {
         "name": "くろまめ",
         "rank": "Ruby",
@@ -24,7 +34,7 @@
         "shop": "ＧｉＧＯ東名ボール",
         "update": "2026/08/24 08:54:56",
         "status": "yellow",
-        "ageSeconds": 1581
+        "ageSeconds": 1699
       }
     ],
     "Sapphire": [
@@ -36,7 +46,7 @@
         "shop": "群馬レジャーランド高崎駅東口店",
         "update": "2026/08/24 08:59:42",
         "status": "yellow",
-        "ageSeconds": 1295
+        "ageSeconds": 1413
       },
       {
         "name": "るぅ",
@@ -46,7 +56,7 @@
         "shop": "イスカンダル五井金杉店",
         "update": "2026/08/24 08:59:43",
         "status": "yellow",
-        "ageSeconds": 1294
+        "ageSeconds": 1412
       }
     ],
     "Emerald": [],
