@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-25 02:21:14",
-  "activeSince": "2026-08-25 01:51:14",
-  "total": 10,
+  "trackerTime": "2026-08-25 02:23:06",
+  "activeSince": "2026-08-25 01:53:06",
+  "total": 11,
   "ranks": {
     "Pride": [
       {
@@ -12,17 +12,17 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/25 02:16:07",
         "status": "green",
-        "ageSeconds": 307
+        "ageSeconds": 419
       },
       {
         "name": "社長に従えよ",
         "rank": "Pride",
-        "point": 33680,
-        "car": "CP9Aエボ5[AR]",
+        "point": 34200,
+        "car": "EG6[HC]",
         "shop": "ＧｉＧＯ春日井",
-        "update": "2026/08/25 02:01:11",
-        "status": "yellow",
-        "ageSeconds": 1203
+        "update": "2026/08/25 02:12:16",
+        "status": "green",
+        "ageSeconds": 650
       },
       {
         "name": "Ｒａｌｐｈ．",
@@ -32,17 +32,17 @@
         "shop": "ＧｉＧＯスエヒロボウル徳島",
         "update": "2026/08/25 02:12:39",
         "status": "green",
-        "ageSeconds": 515
+        "ageSeconds": 627
       },
       {
         "name": "ラクウェル．",
         "rank": "Pride",
-        "point": 17160,
-        "car": "ST205[AR]",
+        "point": 17360,
+        "car": "CE9Aエボ3[AR]",
         "shop": "半田メトロポリス",
-        "update": "2026/08/25 02:01:24",
-        "status": "yellow",
-        "ageSeconds": 1190
+        "update": "2026/08/25 02:12:18",
+        "status": "green",
+        "ageSeconds": 648
       },
       {
         "name": "が卍る",
@@ -52,29 +52,29 @@
         "shop": "楽市楽座広島店",
         "update": "2026/08/25 01:55:36",
         "status": "yellow",
-        "ageSeconds": 1538
+        "ageSeconds": 1650
       }
     ],
     "Ruby": [
       {
         "name": "琵琶湖博物館",
         "rank": "Ruby",
-        "point": 63680,
-        "car": "86トレノ[AR]",
+        "point": 63880,
+        "car": "CN9Aエボ4[HC]",
         "shop": "ＧｉＧＯ秋葉原３号館",
-        "update": "2026/08/25 02:01:18",
-        "status": "yellow",
-        "ageSeconds": 1196
+        "update": "2026/08/25 02:12:45",
+        "status": "green",
+        "ageSeconds": 621
       },
       {
         "name": "パイズリ魔人",
         "rank": "Ruby",
-        "point": 6980,
-        "car": "EG6[HC]",
+        "point": 7440,
+        "car": "86トレノ[AR]",
         "shop": "コムテックタワー",
-        "update": "2026/08/25 01:56:48",
-        "status": "yellow",
-        "ageSeconds": 1466
+        "update": "2026/08/25 02:16:07",
+        "status": "green",
+        "ageSeconds": 419
       },
       {
         "name": "せれねーたー",
@@ -84,7 +84,7 @@
         "shop": "楽市楽座イオンモール宮崎店",
         "update": "2026/08/25 02:14:11",
         "status": "green",
-        "ageSeconds": 423
+        "ageSeconds": 535
       },
       {
         "name": "むけない後藤",
@@ -94,11 +94,22 @@
         "shop": "関大前フタバボウル",
         "update": "2026/08/25 02:14:12",
         "status": "green",
-        "ageSeconds": 422
+        "ageSeconds": 534
       }
     ],
     "Sapphire": [],
-    "Emerald": [],
+    "Emerald": [
+      {
+        "name": "Ｃｌｏｖｅｒ",
+        "rank": "Emerald",
+        "point": 24180,
+        "car": "SW20[DH]",
+        "shop": "ウェアハウス三橋店",
+        "update": "2026/08/25 02:02:45",
+        "status": "yellow",
+        "ageSeconds": 1221
+      }
+    ],
     "Clear Blue": [],
     "Clear Red": [
       {
@@ -109,7 +120,7 @@
         "shop": "遊道楽仲原店",
         "update": "2026/08/25 01:57:12",
         "status": "yellow",
-        "ageSeconds": 1442
+        "ageSeconds": 1554
       }
     ],
     "Clear Green": [],
