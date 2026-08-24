@@ -1,10 +1,52 @@
 {
-  "trackerTime": "2026-08-25 07:20:13",
-  "activeSince": "2026-08-25 06:50:13",
-  "total": 0,
+  "trackerTime": "2026-08-25 07:22:17",
+  "activeSince": "2026-08-25 06:52:17",
+  "total": 4,
   "ranks": {
-    "Pride": [],
-    "Ruby": [],
+    "Pride": [
+      {
+        "name": "天馬　咲希",
+        "rank": "Pride",
+        "point": 27680,
+        "car": "JZA80[AR]",
+        "shop": "ゲームゾーンＲ一宮",
+        "update": "2026/08/25 07:16:09",
+        "status": "green",
+        "ageSeconds": 368
+      },
+      {
+        "name": "Ｏｃｈｏｉｒ",
+        "rank": "Pride",
+        "point": 4520,
+        "car": "RZ34[AR]",
+        "shop": "ＧｉＧＯ日立",
+        "update": "2026/08/25 07:14:19",
+        "status": "green",
+        "ageSeconds": 478
+      }
+    ],
+    "Ruby": [
+      {
+        "name": "冗談は顔だけ",
+        "rank": "Ruby",
+        "point": 1880,
+        "car": "ST205[AR]",
+        "shop": "アピナ松本店",
+        "update": "2026/08/25 07:10:06",
+        "status": "green",
+        "ageSeconds": 731
+      },
+      {
+        "name": "菅波　美玲",
+        "rank": "Ruby",
+        "point": 660,
+        "car": "FC3S[DH]",
+        "shop": "アミューズパークいわき神谷店",
+        "update": "2026/08/25 07:16:16",
+        "status": "green",
+        "ageSeconds": 361
+      }
+    ],
     "Sapphire": [],
     "Emerald": [],
     "Clear Blue": [],
