@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-25 02:26:23",
-  "activeSince": "2026-08-25 01:56:23",
-  "total": 10,
+  "trackerTime": "2026-08-25 02:28:03",
+  "activeSince": "2026-08-25 01:58:03",
+  "total": 9,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/25 02:16:07",
         "status": "green",
-        "ageSeconds": 616
+        "ageSeconds": 716
       },
       {
         "name": "社長に従えよ",
@@ -21,8 +21,8 @@
         "car": "EG6[HC]",
         "shop": "ＧｉＧＯ春日井",
         "update": "2026/08/25 02:12:16",
-        "status": "green",
-        "ageSeconds": 847
+        "status": "yellow",
+        "ageSeconds": 947
       },
       {
         "name": "Ｒａｌｐｈ．",
@@ -31,8 +31,8 @@
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯスエヒロボウル徳島",
         "update": "2026/08/25 02:12:39",
-        "status": "green",
-        "ageSeconds": 824
+        "status": "yellow",
+        "ageSeconds": 924
       },
       {
         "name": "ラクウェル．",
@@ -41,8 +41,8 @@
         "car": "CE9Aエボ3[AR]",
         "shop": "半田メトロポリス",
         "update": "2026/08/25 02:12:18",
-        "status": "green",
-        "ageSeconds": 845
+        "status": "yellow",
+        "ageSeconds": 945
       }
     ],
     "Ruby": [
@@ -53,8 +53,8 @@
         "car": "CN9Aエボ4[HC]",
         "shop": "ＧｉＧＯ秋葉原３号館",
         "update": "2026/08/25 02:12:45",
-        "status": "green",
-        "ageSeconds": 818
+        "status": "yellow",
+        "ageSeconds": 918
       },
       {
         "name": "パイズリ魔人",
@@ -64,7 +64,7 @@
         "shop": "コムテックタワー",
         "update": "2026/08/25 02:16:07",
         "status": "green",
-        "ageSeconds": 616
+        "ageSeconds": 716
       },
       {
         "name": "せれねーたー",
@@ -74,7 +74,7 @@
         "shop": "楽市楽座イオンモール宮崎店",
         "update": "2026/08/25 02:14:11",
         "status": "green",
-        "ageSeconds": 732
+        "ageSeconds": 832
       },
       {
         "name": "むけない後藤",
@@ -84,7 +84,7 @@
         "shop": "関大前フタバボウル",
         "update": "2026/08/25 02:14:12",
         "status": "green",
-        "ageSeconds": 731
+        "ageSeconds": 831
       }
     ],
     "Sapphire": [],
@@ -97,22 +97,11 @@
         "shop": "ウェアハウス三橋店",
         "update": "2026/08/25 02:02:45",
         "status": "yellow",
-        "ageSeconds": 1418
+        "ageSeconds": 1518
       }
     ],
     "Clear Blue": [],
-    "Clear Red": [
-      {
-        "name": "さめザンス",
-        "rank": "Clear Red",
-        "point": 180,
-        "car": "RZ34[AR]",
-        "shop": "遊道楽仲原店",
-        "update": "2026/08/25 01:57:12",
-        "status": "yellow",
-        "ageSeconds": 1751
-      }
-    ],
+    "Clear Red": [],
     "Clear Green": [],
     "Unknown Online Rank": []
   }
