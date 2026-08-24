@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-25 07:45:07",
-  "activeSince": "2026-08-25 07:15:07",
-  "total": 4,
+  "trackerTime": "2026-08-25 07:46:19",
+  "activeSince": "2026-08-25 07:16:19",
+  "total": 3,
   "ranks": {
     "Pride": [
       {
@@ -11,8 +11,8 @@
         "car": "JZA80[AR]",
         "shop": "ゲームゾーンＲ一宮",
         "update": "2026/08/25 07:30:33",
-        "status": "green",
-        "ageSeconds": 874
+        "status": "yellow",
+        "ageSeconds": 946
       },
       {
         "name": "Ｏｃｈｏｉｒ",
@@ -22,7 +22,7 @@
         "shop": "ＧｉＧＯ日立",
         "update": "2026/08/25 07:27:26",
         "status": "yellow",
-        "ageSeconds": 1061
+        "ageSeconds": 1133
       }
     ],
     "Ruby": [
@@ -34,17 +34,7 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/25 07:18:48",
         "status": "yellow",
-        "ageSeconds": 1579
-      },
-      {
-        "name": "菅波　美玲",
-        "rank": "Ruby",
-        "point": 660,
-        "car": "FC3S[DH]",
-        "shop": "アミューズパークいわき神谷店",
-        "update": "2026/08/25 07:16:16",
-        "status": "yellow",
-        "ageSeconds": 1731
+        "ageSeconds": 1651
       }
     ],
     "Sapphire": [],
