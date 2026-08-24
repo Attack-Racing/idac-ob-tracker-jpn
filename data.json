@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-25 03:21:18",
-  "activeSince": "2026-08-25 02:51:18",
-  "total": 7,
+  "trackerTime": "2026-08-25 03:23:19",
+  "activeSince": "2026-08-25 02:53:19",
+  "total": 8,
   "ranks": {
     "Pride": [
       {
@@ -12,17 +12,17 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/25 03:11:50",
         "status": "green",
-        "ageSeconds": 568
+        "ageSeconds": 689
       },
       {
         "name": "社長に従えよ",
         "rank": "Pride",
-        "point": 35640,
+        "point": 36160,
         "car": "CP9Aエボ5[AR]",
         "shop": "ＧｉＧＯ春日井",
-        "update": "2026/08/25 02:57:45",
-        "status": "yellow",
-        "ageSeconds": 1413
+        "update": "2026/08/25 03:11:24",
+        "status": "green",
+        "ageSeconds": 715
       },
       {
         "name": "Ｒａｌｐｈ．",
@@ -32,7 +32,7 @@
         "shop": "ＧｉＧＯスエヒロボウル徳島",
         "update": "2026/08/25 02:57:45",
         "status": "yellow",
-        "ageSeconds": 1413
+        "ageSeconds": 1534
       },
       {
         "name": "Ｖｉｏｌｅｔ",
@@ -42,19 +42,19 @@
         "shop": "アミューズメントパフェパレパレ田宮店",
         "update": "2026/08/25 03:11:31",
         "status": "green",
-        "ageSeconds": 587
+        "ageSeconds": 708
       }
     ],
     "Ruby": [
       {
         "name": "琵琶湖博物館",
         "rank": "Ruby",
-        "point": 64160,
-        "car": "86トレノ[AR]",
+        "point": 64040,
+        "car": "CN9Aエボ4[HC]",
         "shop": "ＧｉＧＯ秋葉原３号館",
-        "update": "2026/08/25 02:56:28",
+        "update": "2026/08/25 03:07:37",
         "status": "yellow",
-        "ageSeconds": 1490
+        "ageSeconds": 942
       },
       {
         "name": "人間の端くれ",
@@ -64,17 +64,27 @@
         "shop": "ｎａｍｃｏ博多バスターミナル店",
         "update": "2026/08/25 03:01:26",
         "status": "yellow",
-        "ageSeconds": 1192
+        "ageSeconds": 1313
       },
       {
         "name": "未来の三原色",
         "rank": "Ruby",
-        "point": 15920,
-        "car": "ST205[AR]",
+        "point": 15800,
+        "car": "SW20[AR]",
         "shop": "ラウンドワンダイバーシティ東京プラザ店",
-        "update": "2026/08/25 03:01:21",
-        "status": "yellow",
-        "ageSeconds": 1197
+        "update": "2026/08/25 03:11:57",
+        "status": "green",
+        "ageSeconds": 682
+      },
+      {
+        "name": "赤城ユイナ",
+        "rank": "Ruby",
+        "point": 1720,
+        "car": "シルエイティ[HC]",
+        "shop": "タイトーステーション 大宮店",
+        "update": "2026/08/25 03:15:32",
+        "status": "green",
+        "ageSeconds": 467
       }
     ],
     "Sapphire": [],
