@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-24 10:21:01",
-  "activeSince": "2026-08-24 09:51:01",
-  "total": 7,
+  "trackerTime": "2026-08-24 10:22:21",
+  "activeSince": "2026-08-24 09:52:21",
+  "total": 5,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "ＧｉＧＯマーケットスクエアささしま",
         "update": "2026/08/24 09:57:56",
         "status": "yellow",
-        "ageSeconds": 1385
+        "ageSeconds": 1464
       },
       {
         "name": "たこまけ",
@@ -22,17 +22,7 @@
         "shop": "ゲームパニック大高",
         "update": "2026/08/24 09:57:56",
         "status": "yellow",
-        "ageSeconds": 1385
-      },
-      {
-        "name": "約束のしおり",
-        "rank": "Pride",
-        "point": 16980,
-        "car": "ST205[AR]",
-        "shop": "アミューズメントスペースBAGIBAGI",
-        "update": "2026/08/24 09:51:46",
-        "status": "yellow",
-        "ageSeconds": 1755
+        "ageSeconds": 1464
       }
     ],
     "Ruby": [
@@ -44,7 +34,7 @@
         "shop": "群馬レジャーランド高崎駅東口店",
         "update": "2026/08/24 10:01:04",
         "status": "yellow",
-        "ageSeconds": 1197
+        "ageSeconds": 1276
       },
       {
         "name": "月下の彼岸花",
@@ -54,7 +44,7 @@
         "shop": "タイトーステーション錦糸町楽天地店",
         "update": "2026/08/24 10:01:03",
         "status": "yellow",
-        "ageSeconds": 1198
+        "ageSeconds": 1277
       },
       {
         "name": "ぱるぱる",
@@ -64,24 +54,13 @@
         "shop": "ラウンドワン半田店",
         "update": "2026/08/24 09:53:25",
         "status": "yellow",
-        "ageSeconds": 1656
+        "ageSeconds": 1735
       }
     ],
     "Sapphire": [],
     "Emerald": [],
     "Clear Blue": [],
-    "Clear Red": [
-      {
-        "name": "Ｆ８７",
-        "rank": "Clear Red",
-        "point": 3680,
-        "car": "EG6[DH]",
-        "shop": "アピナ太田店",
-        "update": "2026/08/24 09:51:49",
-        "status": "yellow",
-        "ageSeconds": 1752
-      }
-    ],
+    "Clear Red": [],
     "Clear Green": [],
     "Unknown Online Rank": []
   }
