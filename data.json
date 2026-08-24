@@ -1,31 +1,41 @@
 {
-  "trackerTime": "2026-08-25 08:06:21",
-  "activeSince": "2026-08-25 07:36:21",
-  "total": 4,
+  "trackerTime": "2026-08-25 08:08:18",
+  "activeSince": "2026-08-25 07:38:18",
+  "total": 5,
   "ranks": {
     "Pride": [
       {
         "name": "森島Ｌはるか",
         "rank": "Pride",
-        "point": 18200,
-        "car": "CP9Aエボ6[HC]",
+        "point": 18980,
+        "car": "ST205[AR]",
         "shop": "ゲームランド草津店",
-        "update": "2026/08/25 07:40:58",
-        "status": "yellow",
-        "ageSeconds": 1523
+        "update": "2026/08/25 07:57:54",
+        "status": "green",
+        "ageSeconds": 624
       },
       {
         "name": "Ｏｃｈｏｉｒ",
         "rank": "Pride",
-        "point": 6080,
+        "point": 6860,
         "car": "RZ34[AR]",
         "shop": "ＧｉＧＯ日立",
-        "update": "2026/08/25 07:44:37",
-        "status": "yellow",
-        "ageSeconds": 1304
+        "update": "2026/08/25 08:00:28",
+        "status": "green",
+        "ageSeconds": 470
       }
     ],
     "Ruby": [
+      {
+        "name": "風ニモマケズ",
+        "rank": "Ruby",
+        "point": 12980,
+        "car": "CT9Aエボ7[HC]",
+        "shop": "上越レジャーランボウル",
+        "update": "2026/08/25 07:55:14",
+        "status": "green",
+        "ageSeconds": 784
+      },
       {
         "name": "Ｓαｖαｇё",
         "rank": "Ruby",
@@ -34,17 +44,17 @@
         "shop": "ＧｉＧＯ石岡",
         "update": "2026/08/25 07:44:44",
         "status": "yellow",
-        "ageSeconds": 1297
+        "ageSeconds": 1414
       },
       {
-        "name": "いっちゃん",
+        "name": "冗談は顔だけ",
         "rank": "Ruby",
-        "point": 1980,
-        "car": "NA1[AR]",
-        "shop": "アミパラ草津店",
-        "update": "2026/08/25 07:37:42",
-        "status": "yellow",
-        "ageSeconds": 1719
+        "point": 1820,
+        "car": "ST205[AR]",
+        "shop": "アピナ松本店",
+        "update": "2026/08/25 07:55:04",
+        "status": "green",
+        "ageSeconds": 794
       }
     ],
     "Sapphire": [],
