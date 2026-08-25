@@ -1,18 +1,18 @@
 {
-  "trackerTime": "2026-08-26 02:51:07",
-  "activeSince": "2026-08-26 02:21:07",
-  "total": 10,
+  "trackerTime": "2026-08-26 02:52:02",
+  "activeSince": "2026-08-26 02:22:02",
+  "total": 11,
   "ranks": {
     "Pride": [
       {
         "name": "わがまますぎ",
         "rank": "Pride",
-        "point": 69620,
-        "car": "ST205[AR]",
+        "point": 70080,
+        "car": "CP9Aエボ5[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/26 02:30:36",
-        "status": "yellow",
-        "ageSeconds": 1230
+        "update": "2026/08/26 02:45:34",
+        "status": "green",
+        "ageSeconds": 387
       },
       {
         "name": "あ＠とくしま",
@@ -22,79 +22,89 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/26 02:46:41",
         "status": "green",
-        "ageSeconds": 265
+        "ageSeconds": 320
       },
       {
         "name": "りくちゃん？",
         "rank": "Pride",
-        "point": 52300,
-        "car": "ST205[AR]",
+        "point": 52500,
+        "car": "CP9Aエボ5[AR]",
         "shop": "ウェアハウス三橋店",
-        "update": "2026/08/26 02:30:23",
-        "status": "yellow",
-        "ageSeconds": 1243
+        "update": "2026/08/26 02:43:31",
+        "status": "green",
+        "ageSeconds": 510
       },
       {
         "name": "絶対的第六感",
         "rank": "Pride",
-        "point": 36280,
-        "car": "EK9[DH]",
+        "point": 36800,
+        "car": "CP9Aエボ6[HC]",
         "shop": "アミューズメントゲーム　マグレブ",
-        "update": "2026/08/26 02:21:12",
-        "status": "yellow",
-        "ageSeconds": 1794
+        "update": "2026/08/26 02:42:05",
+        "status": "green",
+        "ageSeconds": 596
       },
       {
         "name": "ラクウェル．",
         "rank": "Pride",
-        "point": 20520,
-        "car": "SW20[DH]",
+        "point": 20780,
+        "car": "ST205[AR]",
         "shop": "半田メトロポリス",
-        "update": "2026/08/26 02:29:39",
+        "update": "2026/08/26 02:35:04",
         "status": "yellow",
-        "ageSeconds": 1287
+        "ageSeconds": 1017
+      },
+      {
+        "name": "チェリボム",
+        "rank": "Pride",
+        "point": 18560,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "マトリクス前橋",
+        "update": "2026/08/26 02:43:31",
+        "status": "green",
+        "ageSeconds": 510
       }
     ],
     "Ruby": [
       {
         "name": "未来の三原色",
         "rank": "Ruby",
-        "point": 17600,
+        "point": 17480,
         "car": "ST205[AR]",
         "shop": "ラウンドワンダイバーシティ東京プラザ店",
-        "update": "2026/08/26 02:30:43",
-        "status": "yellow",
-        "ageSeconds": 1223
+        "update": "2026/08/26 02:42:12",
+        "status": "green",
+        "ageSeconds": 589
       },
       {
         "name": "パイズリ魔人",
         "rank": "Ruby",
-        "point": 8000,
+        "point": 8460,
         "car": "ST205[AR]",
         "shop": "コムテックタワー",
-        "update": "2026/08/26 02:22:37",
-        "status": "yellow",
-        "ageSeconds": 1709
+        "update": "2026/08/26 02:42:12",
+        "status": "green",
+        "ageSeconds": 589
       },
       {
         "name": "いいなぁ～☆",
         "rank": "Ruby",
-        "point": 3620,
-        "car": "BNR32[DH]",
+        "point": 3500,
+        "car": "CT9Aエボ7[AR]",
         "shop": "アミューズメントフィールドバイヨン",
-        "update": "2026/08/26 02:27:09",
-        "status": "yellow",
-        "ageSeconds": 1437
+        "update": "2026/08/26 02:38:48",
+        "status": "green",
+        "ageSeconds": 793
       },
       {
         "name": "千凜あゆむ",
         "rank": "Ruby",
-        "point": 3200,
+        "point": 3080,
         "car": "SW20[DH]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/26 02:29:46",
-        "status": "yellow",
-        "ageSeconds": 1280
+        "update": "2026/08/26 02:45:24",
+        "status": "green",
+        "ageSeconds": 397
       },
       {
         "name": "ｙαｋμｍｏ",
@@ -104,7 +114,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/26 02:45:38",
         "status": "green",
-        "ageSeconds": 328
+        "ageSeconds": 383
       }
     ],
     "Sapphire": [],
