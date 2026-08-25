@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-25 10:14:00",
-  "activeSince": "2026-08-25 09:44:00",
-  "total": 15,
+  "trackerTime": "2026-08-25 10:15:01",
+  "activeSince": "2026-08-25 09:45:01",
+  "total": 14,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "ＧｉＧＯ海老名",
         "update": "2026/08/25 09:57:07",
         "status": "yellow",
-        "ageSeconds": 1013
+        "ageSeconds": 1074
       },
       {
         "name": "さんかれあ",
@@ -22,7 +22,7 @@
         "shop": "ラウンドワン博多半道橋店",
         "update": "2026/08/25 09:58:46",
         "status": "yellow",
-        "ageSeconds": 914
+        "ageSeconds": 975
       },
       {
         "name": "たこまけ",
@@ -32,7 +32,7 @@
         "shop": "ゲームパニック大高",
         "update": "2026/08/25 10:01:43",
         "status": "green",
-        "ageSeconds": 737
+        "ageSeconds": 798
       },
       {
         "name": "森島Ｌはるか",
@@ -42,7 +42,7 @@
         "shop": "ゲームランド草津店",
         "update": "2026/08/25 09:57:07",
         "status": "yellow",
-        "ageSeconds": 1013
+        "ageSeconds": 1074
       },
       {
         "name": "小野瀬　真奈",
@@ -52,7 +52,7 @@
         "shop": "群馬レジャーランド太田店",
         "update": "2026/08/25 10:01:43",
         "status": "green",
-        "ageSeconds": 737
+        "ageSeconds": 798
       },
       {
         "name": "Ｏｃｈｏｉｒ",
@@ -62,7 +62,7 @@
         "shop": "ＧｉＧＯ日立",
         "update": "2026/08/25 09:55:41",
         "status": "yellow",
-        "ageSeconds": 1099
+        "ageSeconds": 1160
       }
     ],
     "Ruby": [
@@ -73,8 +73,8 @@
         "car": "CT9Aエボ7[DH]",
         "shop": "モーリーファンタジー茅ヶ崎中央",
         "update": "2026/08/25 09:59:01",
-        "status": "green",
-        "ageSeconds": 899
+        "status": "yellow",
+        "ageSeconds": 960
       },
       {
         "name": "Ｓαｖαｇё",
@@ -84,7 +84,7 @@
         "shop": "ＧｉＧＯ石岡",
         "update": "2026/08/25 09:55:48",
         "status": "yellow",
-        "ageSeconds": 1092
+        "ageSeconds": 1153
       },
       {
         "name": "メッチー",
@@ -94,7 +94,7 @@
         "shop": "遊道楽仲原店",
         "update": "2026/08/25 10:02:17",
         "status": "green",
-        "ageSeconds": 703
+        "ageSeconds": 764
       },
       {
         "name": "すぎたまご．",
@@ -104,7 +104,7 @@
         "shop": "AMパークイオンモール奈良登美ヶ丘店",
         "update": "2026/08/25 09:58:46",
         "status": "yellow",
-        "ageSeconds": 914
+        "ageSeconds": 975
       }
     ],
     "Sapphire": [],
@@ -117,7 +117,7 @@
         "shop": "アピナ太田店",
         "update": "2026/08/25 09:55:07",
         "status": "yellow",
-        "ageSeconds": 1133
+        "ageSeconds": 1194
       },
       {
         "name": "赤雪",
@@ -127,7 +127,7 @@
         "shop": "ラウンドワンＪＲ尼崎駅前店",
         "update": "2026/08/25 10:00:21",
         "status": "green",
-        "ageSeconds": 819
+        "ageSeconds": 880
       },
       {
         "name": "梅丸",
@@ -137,7 +137,7 @@
         "shop": "ラウンドワン市原店",
         "update": "2026/08/25 09:49:07",
         "status": "yellow",
-        "ageSeconds": 1493
+        "ageSeconds": 1554
       }
     ],
     "Clear Blue": [
@@ -149,21 +149,10 @@
         "shop": "楽市楽座福重店",
         "update": "2026/08/25 10:01:49",
         "status": "green",
-        "ageSeconds": 731
+        "ageSeconds": 792
       }
     ],
-    "Clear Red": [
-      {
-        "name": "シロ",
-        "rank": "Clear Red",
-        "point": 6340,
-        "car": "GC8[DH]",
-        "shop": "アミューズメントパークＭＧ四万十",
-        "update": "2026/08/25 09:44:17",
-        "status": "yellow",
-        "ageSeconds": 1783
-      }
-    ],
+    "Clear Red": [],
     "Clear Green": [],
     "Unknown Online Rank": []
   }
