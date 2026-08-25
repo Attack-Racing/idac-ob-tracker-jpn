@@ -1,9 +1,30 @@
 {
-  "trackerTime": "2026-08-26 07:21:05",
-  "activeSince": "2026-08-26 06:51:05",
-  "total": 2,
+  "trackerTime": "2026-08-26 07:22:11",
+  "activeSince": "2026-08-26 06:52:11",
+  "total": 7,
   "ranks": {
-    "Pride": [],
+    "Pride": [
+      {
+        "name": "わがまますぎ",
+        "rank": "Pride",
+        "point": 72360,
+        "car": "ST205[AR]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/08/26 07:14:34",
+        "status": "green",
+        "ageSeconds": 457
+      },
+      {
+        "name": "Ｏｃｈｏｉｒ",
+        "rank": "Pride",
+        "point": 14080,
+        "car": "RZ34[AR]",
+        "shop": "ＧｉＧＯ日立",
+        "update": "2026/08/26 07:15:30",
+        "status": "green",
+        "ageSeconds": 401
+      }
+    ],
     "Ruby": [
       {
         "name": "ｓｃｕｍｐ．",
@@ -13,7 +34,37 @@
         "shop": "ゲームランド草津店",
         "update": "2026/08/26 07:14:18",
         "status": "green",
-        "ageSeconds": 406
+        "ageSeconds": 473
+      },
+      {
+        "name": "ゆうらんきー",
+        "rank": "Ruby",
+        "point": 2800,
+        "car": "CN9Aエボ4[AR]",
+        "shop": "ＧｉＧＯ勿来",
+        "update": "2026/08/26 07:10:24",
+        "status": "green",
+        "ageSeconds": 707
+      },
+      {
+        "name": "２０１４りく",
+        "rank": "Ruby",
+        "point": 2520,
+        "car": "4C[AR]",
+        "shop": "ＧｉＧＯ総本店",
+        "update": "2026/08/26 07:15:36",
+        "status": "green",
+        "ageSeconds": 395
+      },
+      {
+        "name": "笑顔のレシピ",
+        "rank": "Ruby",
+        "point": 2240,
+        "car": "S15[AR]",
+        "shop": "セガ東京ドームシティ",
+        "update": "2026/08/26 07:14:41",
+        "status": "green",
+        "ageSeconds": 450
       },
       {
         "name": "ＣｈｅｅｒＳ",
@@ -23,7 +74,7 @@
         "shop": "ＧｉＧＯ福岡天神",
         "update": "2026/08/26 07:09:43",
         "status": "green",
-        "ageSeconds": 681
+        "ageSeconds": 748
       }
     ],
     "Sapphire": [],
