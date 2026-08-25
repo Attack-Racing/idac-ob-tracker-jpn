@@ -1,50 +1,80 @@
 {
-  "trackerTime": "2026-08-26 07:50:15",
-  "activeSince": "2026-08-26 07:20:15",
-  "total": 9,
+  "trackerTime": "2026-08-26 07:52:19",
+  "activeSince": "2026-08-26 07:22:19",
+  "total": 12,
   "ranks": {
     "Pride": [
       {
         "name": "わがまますぎ",
         "rank": "Pride",
-        "point": 73140,
+        "point": 73920,
         "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/26 07:31:04",
-        "status": "yellow",
-        "ageSeconds": 1150
+        "update": "2026/08/26 07:44:59",
+        "status": "green",
+        "ageSeconds": 440
       },
       {
         "name": "Ｏｃｈｏｉｒ",
         "rank": "Pride",
-        "point": 14860,
+        "point": 15640,
         "car": "RZ34[AR]",
         "shop": "ＧｉＧＯ日立",
-        "update": "2026/08/26 07:31:39",
-        "status": "yellow",
-        "ageSeconds": 1115
+        "update": "2026/08/26 07:46:00",
+        "status": "green",
+        "ageSeconds": 379
       },
       {
         "name": "救世主Ｒёｏ",
         "rank": "Pride",
-        "point": 1300,
+        "point": 2080,
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯ渋谷宮益坂",
-        "update": "2026/08/26 07:30:43",
-        "status": "yellow",
-        "ageSeconds": 1171
+        "update": "2026/08/26 07:45:52",
+        "status": "green",
+        "ageSeconds": 387
       }
     ],
     "Ruby": [
       {
         "name": "ｓｃｕｍｐ．",
         "rank": "Ruby",
-        "point": 25820,
+        "point": 25760,
         "car": "86トレノ[AR]",
         "shop": "ゲームランド草津店",
-        "update": "2026/08/26 07:20:40",
-        "status": "yellow",
-        "ageSeconds": 1774
+        "update": "2026/08/26 07:46:00",
+        "status": "green",
+        "ageSeconds": 379
+      },
+      {
+        "name": "テラパゴス",
+        "rank": "Ruby",
+        "point": 4060,
+        "car": "BNR32[HC]",
+        "shop": "サンリオフェス SEGAブース",
+        "update": "2026/08/26 07:40:38",
+        "status": "green",
+        "ageSeconds": 701
+      },
+      {
+        "name": "ゆうらんきー",
+        "rank": "Ruby",
+        "point": 2680,
+        "car": "CN9Aエボ4[AR]",
+        "shop": "ＧｉＧＯ勿来",
+        "update": "2026/08/26 07:41:35",
+        "status": "green",
+        "ageSeconds": 644
+      },
+      {
+        "name": "２０１４りく",
+        "rank": "Ruby",
+        "point": 2400,
+        "car": "4C[AR]",
+        "shop": "ＧｉＧＯ総本店",
+        "update": "2026/08/26 07:46:07",
+        "status": "green",
+        "ageSeconds": 372
       },
       {
         "name": "ＣｈｅｅｒＳ",
@@ -54,17 +84,7 @@
         "shop": "ＧｉＧＯ福岡天神",
         "update": "2026/08/26 07:30:45",
         "status": "yellow",
-        "ageSeconds": 1169
-      },
-      {
-        "name": "家庭の事情",
-        "rank": "Ruby",
-        "point": 1380,
-        "car": "86トレノ[AR]",
-        "shop": "トレジャーサバイバル",
-        "update": "2026/08/26 07:20:19",
-        "status": "yellow",
-        "ageSeconds": 1795
+        "ageSeconds": 1294
       },
       {
         "name": "啓悟の弟子",
@@ -74,27 +94,37 @@
         "shop": "ＧｉＧＯ福島南",
         "update": "2026/08/26 07:31:08",
         "status": "yellow",
-        "ageSeconds": 1146
+        "ageSeconds": 1271
       },
       {
         "name": "青空　ひかり",
         "rank": "Ruby",
-        "point": 980,
+        "point": 920,
         "car": "GDBF[AR]",
         "shop": "キャッツアイ新札幌店",
-        "update": "2026/08/26 07:30:38",
+        "update": "2026/08/26 07:36:26",
         "status": "yellow",
-        "ageSeconds": 1176
+        "ageSeconds": 953
       },
       {
         "name": "Ｐｅｔｒａ．",
         "rank": "Ruby",
-        "point": 660,
+        "point": 600,
         "car": "シルエイティ[AR]",
         "shop": "ハロータイトー むつ店",
-        "update": "2026/08/26 07:25:46",
+        "update": "2026/08/26 07:36:05",
         "status": "yellow",
-        "ageSeconds": 1468
+        "ageSeconds": 974
+      },
+      {
+        "name": "菅波　美玲",
+        "rank": "Ruby",
+        "point": 360,
+        "car": "FC3S[DH]",
+        "shop": "アミューズパークいわき神谷店",
+        "update": "2026/08/26 07:45:06",
+        "status": "green",
+        "ageSeconds": 433
       }
     ],
     "Sapphire": [],
