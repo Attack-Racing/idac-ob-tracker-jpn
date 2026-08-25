@@ -1,58 +1,58 @@
 {
-  "trackerTime": "2026-08-26 08:36:11",
-  "activeSince": "2026-08-26 08:06:11",
-  "total": 10,
+  "trackerTime": "2026-08-26 08:37:18",
+  "activeSince": "2026-08-26 08:07:18",
+  "total": 14,
   "ranks": {
     "Pride": [
       {
         "name": "わがまますぎ",
         "rank": "Pride",
-        "point": 75220,
+        "point": 76000,
         "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/26 08:11:42",
-        "status": "yellow",
-        "ageSeconds": 1469
+        "update": "2026/08/26 08:28:31",
+        "status": "green",
+        "ageSeconds": 527
       },
       {
         "name": "小野瀬　真奈",
         "rank": "Pride",
-        "point": 18940,
+        "point": 19720,
         "car": "ST205[AR]",
         "shop": "群馬レジャーランド太田店",
-        "update": "2026/08/26 08:14:23",
-        "status": "yellow",
-        "ageSeconds": 1308
+        "update": "2026/08/26 08:30:35",
+        "status": "green",
+        "ageSeconds": 403
       },
       {
         "name": "Ｏｃｈｏｉｒ",
         "rank": "Pride",
-        "point": 16940,
-        "car": "RZ34[AR]",
+        "point": 17460,
+        "car": "CP9Aエボ6[AR]",
         "shop": "ＧｉＧＯ日立",
-        "update": "2026/08/26 08:15:22",
-        "status": "yellow",
-        "ageSeconds": 1249
+        "update": "2026/08/26 08:26:18",
+        "status": "green",
+        "ageSeconds": 660
       },
       {
         "name": "波多野　真実",
         "rank": "Pride",
-        "point": 12800,
-        "car": "EG6[HC]",
+        "point": 12680,
+        "car": "CE9Aエボ3[AR]",
         "shop": "ゲームファンタジアン蒲郡店",
-        "update": "2026/08/26 08:13:30",
-        "status": "yellow",
-        "ageSeconds": 1361
+        "update": "2026/08/26 08:26:18",
+        "status": "green",
+        "ageSeconds": 660
       },
       {
         "name": "救世主Ｒёｏ",
         "rank": "Pride",
-        "point": 3380,
-        "car": "ST205[AR]",
+        "point": 3900,
+        "car": "BNR32[HC]",
         "shop": "ＧｉＧＯ渋谷宮益坂",
-        "update": "2026/08/26 08:15:44",
-        "status": "yellow",
-        "ageSeconds": 1227
+        "update": "2026/08/26 08:28:29",
+        "status": "green",
+        "ageSeconds": 529
       }
     ],
     "Ruby": [
@@ -64,7 +64,7 @@
         "shop": "上越レジャーランボウル",
         "update": "2026/08/26 08:13:30",
         "status": "yellow",
-        "ageSeconds": 1361
+        "ageSeconds": 1428
       },
       {
         "name": "日頃からモブ",
@@ -74,7 +74,7 @@
         "shop": "楽市楽座黒崎店",
         "update": "2026/08/26 08:15:01",
         "status": "yellow",
-        "ageSeconds": 1270
+        "ageSeconds": 1337
       },
       {
         "name": "テラパゴス",
@@ -84,17 +84,57 @@
         "shop": "サンリオフェス SEGAブース",
         "update": "2026/08/26 08:11:49",
         "status": "yellow",
-        "ageSeconds": 1462
+        "ageSeconds": 1529
+      },
+      {
+        "name": "拾ったデータ",
+        "rank": "Ruby",
+        "point": 3360,
+        "car": "ST205[AR]",
+        "shop": "楽市街道箱崎店",
+        "update": "2026/08/26 08:28:35",
+        "status": "green",
+        "ageSeconds": 523
+      },
+      {
+        "name": "２０１４りく",
+        "rank": "Ruby",
+        "point": 2340,
+        "car": "4C[AR]",
+        "shop": "ＧｉＧＯ総本店",
+        "update": "2026/08/26 08:21:33",
+        "status": "yellow",
+        "ageSeconds": 945
+      },
+      {
+        "name": "笑顔のレシピ",
+        "rank": "Ruby",
+        "point": 2180,
+        "car": "S15[AR]",
+        "shop": "セガ東京ドームシティ",
+        "update": "2026/08/26 08:17:21",
+        "status": "yellow",
+        "ageSeconds": 1197
       },
       {
         "name": "ＣｈｅｅｒＳ",
         "rank": "Ruby",
-        "point": 1740,
+        "point": 1620,
         "car": "FD3S[AR]",
         "shop": "ＧｉＧＯ福岡天神",
-        "update": "2026/08/26 08:08:28",
-        "status": "yellow",
-        "ageSeconds": 1663
+        "update": "2026/08/26 08:30:42",
+        "status": "green",
+        "ageSeconds": 396
+      },
+      {
+        "name": "家庭の事情",
+        "rank": "Ruby",
+        "point": 1320,
+        "car": "86トレノ[AR]",
+        "shop": "トレジャーサバイバル",
+        "update": "2026/08/26 08:28:25",
+        "status": "green",
+        "ageSeconds": 533
       },
       {
         "name": "青空　ひかり",
@@ -104,7 +144,7 @@
         "shop": "キャッツアイ新札幌店",
         "update": "2026/08/26 08:15:38",
         "status": "yellow",
-        "ageSeconds": 1233
+        "ageSeconds": 1300
       }
     ],
     "Sapphire": [],
