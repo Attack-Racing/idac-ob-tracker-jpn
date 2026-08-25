@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-26 01:21:15",
-  "activeSince": "2026-08-26 00:51:15",
-  "total": 12,
+  "trackerTime": "2026-08-26 01:23:22",
+  "activeSince": "2026-08-26 00:53:22",
+  "total": 13,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "アミパラ倉敷店",
         "update": "2026/08/26 00:53:31",
         "status": "yellow",
-        "ageSeconds": 1664
+        "ageSeconds": 1791
       },
       {
         "name": "バレンシーア",
@@ -22,27 +22,27 @@
         "shop": "ＧｉＧＯスエヒロボウル徳島",
         "update": "2026/08/26 01:12:10",
         "status": "green",
-        "ageSeconds": 545
+        "ageSeconds": 672
       },
       {
         "name": "千石　唯華",
         "rank": "Pride",
-        "point": 52260,
+        "point": 52520,
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯイオンモールむさし村山",
-        "update": "2026/08/26 01:00:00",
+        "update": "2026/08/26 01:04:31",
         "status": "yellow",
-        "ageSeconds": 1275
+        "ageSeconds": 1131
       },
       {
         "name": "りくちゃん？",
         "rank": "Pride",
-        "point": 49100,
-        "car": "CP9Aエボ5[AR]",
+        "point": 49240,
+        "car": "ST205[AR]",
         "shop": "ウェアハウス三橋店",
-        "update": "2026/08/26 00:59:07",
-        "status": "yellow",
-        "ageSeconds": 1328
+        "update": "2026/08/26 01:14:58",
+        "status": "green",
+        "ageSeconds": 504
       },
       {
         "name": "トラベリング",
@@ -52,17 +52,17 @@
         "shop": "ＧｉＧＯ尾道",
         "update": "2026/08/26 01:09:13",
         "status": "green",
-        "ageSeconds": 722
+        "ageSeconds": 849
       },
       {
         "name": "ラクウェル．",
         "rank": "Pride",
-        "point": 18220,
+        "point": 18420,
         "car": "ST205[AR]",
         "shop": "半田メトロポリス",
-        "update": "2026/08/26 00:56:51",
-        "status": "yellow",
-        "ageSeconds": 1464
+        "update": "2026/08/26 01:13:38",
+        "status": "green",
+        "ageSeconds": 584
       }
     ],
     "Ruby": [
@@ -74,17 +74,7 @@
         "shop": "アミューズメントフィールドバイヨン",
         "update": "2026/08/26 00:59:08",
         "status": "yellow",
-        "ageSeconds": 1327
-      },
-      {
-        "name": "常闇トワ",
-        "rank": "Ruby",
-        "point": 2240,
-        "car": "NB8C[DH]",
-        "shop": "ＧｉＧＯ秋葉原１号館",
-        "update": "2026/08/26 00:52:39",
-        "status": "yellow",
-        "ageSeconds": 1716
+        "ageSeconds": 1454
       },
       {
         "name": "むけない後藤",
@@ -94,7 +84,7 @@
         "shop": "関大前フタバボウル",
         "update": "2026/08/26 01:13:45",
         "status": "green",
-        "ageSeconds": 450
+        "ageSeconds": 577
       }
     ],
     "Sapphire": [
@@ -106,17 +96,17 @@
         "shop": "ＧｉＧＯスマーク伊勢崎",
         "update": "2026/08/26 00:54:29",
         "status": "yellow",
-        "ageSeconds": 1606
+        "ageSeconds": 1733
       },
       {
         "name": "Ｓｈｉａｎ",
         "rank": "Sapphire",
-        "point": 460,
-        "car": "S13[AR]",
+        "point": 880,
+        "car": "DC2[HC]",
         "shop": "ＧｉＧＯ宇都宮",
-        "update": "2026/08/26 00:54:15",
-        "status": "yellow",
-        "ageSeconds": 1620
+        "update": "2026/08/26 01:15:54",
+        "status": "green",
+        "ageSeconds": 448
       }
     ],
     "Emerald": [],
@@ -129,10 +119,31 @@
         "shop": "ラウンドワン仙台苦竹店",
         "update": "2026/08/26 00:58:41",
         "status": "yellow",
-        "ageSeconds": 1354
+        "ageSeconds": 1481
       }
     ],
-    "Clear Red": [],
+    "Clear Red": [
+      {
+        "name": "ぶるーたけ",
+        "rank": "Clear Red",
+        "point": 4340,
+        "car": "FD3S6[AR]",
+        "shop": "バイパスレジャーランド藤江新館",
+        "update": "2026/08/26 01:10:04",
+        "status": "green",
+        "ageSeconds": 798
+      },
+      {
+        "name": "前進不止満毛",
+        "rank": "Clear Red",
+        "point": 2200,
+        "car": "ST205[AR]",
+        "shop": "ゲームゴジラ",
+        "update": "2026/08/26 01:16:23",
+        "status": "green",
+        "ageSeconds": 419
+      }
+    ],
     "Clear Green": [],
     "Unknown Online Rank": []
   }
