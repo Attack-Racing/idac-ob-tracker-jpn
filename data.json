@@ -1,10 +1,31 @@
 {
-  "trackerTime": "2026-08-26 07:19:21",
-  "activeSince": "2026-08-26 06:49:21",
-  "total": 0,
+  "trackerTime": "2026-08-26 07:21:05",
+  "activeSince": "2026-08-26 06:51:05",
+  "total": 2,
   "ranks": {
     "Pride": [],
-    "Ruby": [],
+    "Ruby": [
+      {
+        "name": "ｓｃｕｍｐ．",
+        "rank": "Ruby",
+        "point": 25880,
+        "car": "86トレノ[AR]",
+        "shop": "ゲームランド草津店",
+        "update": "2026/08/26 07:14:18",
+        "status": "green",
+        "ageSeconds": 406
+      },
+      {
+        "name": "ＣｈｅｅｒＳ",
+        "rank": "Ruby",
+        "point": 1920,
+        "car": "FD3S[AR]",
+        "shop": "ＧｉＧＯ福岡天神",
+        "update": "2026/08/26 07:09:43",
+        "status": "green",
+        "ageSeconds": 681
+      }
+    ],
     "Sapphire": [],
     "Emerald": [],
     "Clear Blue": [],
