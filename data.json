@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-25 10:01:21",
-  "activeSince": "2026-08-25 09:31:21",
-  "total": 13,
+  "trackerTime": "2026-08-25 10:03:11",
+  "activeSince": "2026-08-25 09:33:11",
+  "total": 11,
   "ranks": {
     "Pride": [
       {
@@ -11,8 +11,8 @@
         "car": "GXPA16[AR]",
         "shop": "ＧｉＧＯ海老名",
         "update": "2026/08/25 09:46:31",
-        "status": "green",
-        "ageSeconds": 890
+        "status": "yellow",
+        "ageSeconds": 1000
       },
       {
         "name": "さんかれあ",
@@ -22,7 +22,7 @@
         "shop": "ラウンドワン博多半道橋店",
         "update": "2026/08/25 09:45:58",
         "status": "yellow",
-        "ageSeconds": 923
+        "ageSeconds": 1033
       },
       {
         "name": "たこまけ",
@@ -32,7 +32,7 @@
         "shop": "ゲームパニック大高",
         "update": "2026/08/25 09:45:58",
         "status": "yellow",
-        "ageSeconds": 923
+        "ageSeconds": 1033
       },
       {
         "name": "小野瀬　真奈",
@@ -42,17 +42,7 @@
         "shop": "群馬レジャーランド太田店",
         "update": "2026/08/25 09:44:56",
         "status": "yellow",
-        "ageSeconds": 985
-      },
-      {
-        "name": "Ｏｃｈｏｉｒ",
-        "rank": "Pride",
-        "point": 11540,
-        "car": "RZ34[AR]",
-        "shop": "ＧｉＧＯ日立",
-        "update": "2026/08/25 09:32:41",
-        "status": "yellow",
-        "ageSeconds": 1720
+        "ageSeconds": 1095
       }
     ],
     "Ruby": [
@@ -64,17 +54,7 @@
         "shop": "ラウンドワン宮崎店",
         "update": "2026/08/25 09:43:22",
         "status": "yellow",
-        "ageSeconds": 1079
-      },
-      {
-        "name": "ＲＡＩＲＡ",
-        "rank": "Ruby",
-        "point": 4660,
-        "car": "EK9[AR]",
-        "shop": "シルクハット川崎モアーズ",
-        "update": "2026/08/25 09:32:19",
-        "status": "yellow",
-        "ageSeconds": 1742
+        "ageSeconds": 1189
       },
       {
         "name": "拾ったデータ",
@@ -84,7 +64,7 @@
         "shop": "楽市街道箱崎店",
         "update": "2026/08/25 09:40:37",
         "status": "yellow",
-        "ageSeconds": 1244
+        "ageSeconds": 1354
       },
       {
         "name": "アストリア",
@@ -94,7 +74,7 @@
         "shop": "ＧｉＧＯ名取",
         "update": "2026/08/25 09:38:08",
         "status": "yellow",
-        "ageSeconds": 1393
+        "ageSeconds": 1503
       }
     ],
     "Sapphire": [
@@ -106,7 +86,7 @@
         "shop": "ユーズランド高崎店",
         "update": "2026/08/25 09:35:51",
         "status": "yellow",
-        "ageSeconds": 1530
+        "ageSeconds": 1640
       }
     ],
     "Emerald": [
@@ -118,7 +98,7 @@
         "shop": "イトーヨーカドーららぽーと横浜２Ｆ",
         "update": "2026/08/25 09:39:24",
         "status": "yellow",
-        "ageSeconds": 1317
+        "ageSeconds": 1427
       },
       {
         "name": "梅丸",
@@ -128,7 +108,7 @@
         "shop": "ラウンドワン市原店",
         "update": "2026/08/25 09:44:09",
         "status": "yellow",
-        "ageSeconds": 1032
+        "ageSeconds": 1142
       }
     ],
     "Clear Blue": [],
@@ -141,7 +121,7 @@
         "shop": "アミューズメントパークＭＧ四万十",
         "update": "2026/08/25 09:44:17",
         "status": "yellow",
-        "ageSeconds": 1024
+        "ageSeconds": 1134
       }
     ],
     "Clear Green": [],
