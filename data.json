@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-26 08:41:08",
-  "activeSince": "2026-08-26 08:11:08",
-  "total": 14,
+  "trackerTime": "2026-08-26 08:42:18",
+  "activeSince": "2026-08-26 08:12:18",
+  "total": 13,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/26 08:28:31",
         "status": "green",
-        "ageSeconds": 757
+        "ageSeconds": 827
       },
       {
         "name": "小野瀬　真奈",
@@ -22,7 +22,7 @@
         "shop": "群馬レジャーランド太田店",
         "update": "2026/08/26 08:30:35",
         "status": "green",
-        "ageSeconds": 633
+        "ageSeconds": 703
       },
       {
         "name": "Ｏｃｈｏｉｒ",
@@ -31,8 +31,8 @@
         "car": "CP9Aエボ6[AR]",
         "shop": "ＧｉＧＯ日立",
         "update": "2026/08/26 08:26:18",
-        "status": "green",
-        "ageSeconds": 890
+        "status": "yellow",
+        "ageSeconds": 960
       },
       {
         "name": "波多野　真実",
@@ -41,8 +41,8 @@
         "car": "CE9Aエボ3[AR]",
         "shop": "ゲームファンタジアン蒲郡店",
         "update": "2026/08/26 08:26:18",
-        "status": "green",
-        "ageSeconds": 890
+        "status": "yellow",
+        "ageSeconds": 960
       },
       {
         "name": "救世主Ｒёｏ",
@@ -52,7 +52,7 @@
         "shop": "ＧｉＧＯ渋谷宮益坂",
         "update": "2026/08/26 08:28:29",
         "status": "green",
-        "ageSeconds": 759
+        "ageSeconds": 829
       }
     ],
     "Ruby": [
@@ -64,7 +64,7 @@
         "shop": "上越レジャーランボウル",
         "update": "2026/08/26 08:13:30",
         "status": "yellow",
-        "ageSeconds": 1658
+        "ageSeconds": 1728
       },
       {
         "name": "日頃からモブ",
@@ -74,17 +74,7 @@
         "shop": "楽市楽座黒崎店",
         "update": "2026/08/26 08:15:01",
         "status": "yellow",
-        "ageSeconds": 1567
-      },
-      {
-        "name": "テラパゴス",
-        "rank": "Ruby",
-        "point": 4000,
-        "car": "BNR32[HC]",
-        "shop": "サンリオフェス SEGAブース",
-        "update": "2026/08/26 08:11:49",
-        "status": "yellow",
-        "ageSeconds": 1759
+        "ageSeconds": 1637
       },
       {
         "name": "拾ったデータ",
@@ -94,7 +84,7 @@
         "shop": "楽市街道箱崎店",
         "update": "2026/08/26 08:28:35",
         "status": "green",
-        "ageSeconds": 753
+        "ageSeconds": 823
       },
       {
         "name": "２０１４りく",
@@ -104,7 +94,7 @@
         "shop": "ＧｉＧＯ総本店",
         "update": "2026/08/26 08:21:33",
         "status": "yellow",
-        "ageSeconds": 1175
+        "ageSeconds": 1245
       },
       {
         "name": "笑顔のレシピ",
@@ -114,7 +104,7 @@
         "shop": "セガ東京ドームシティ",
         "update": "2026/08/26 08:17:21",
         "status": "yellow",
-        "ageSeconds": 1427
+        "ageSeconds": 1497
       },
       {
         "name": "ＣｈｅｅｒＳ",
@@ -124,7 +114,7 @@
         "shop": "ＧｉＧＯ福岡天神",
         "update": "2026/08/26 08:30:42",
         "status": "green",
-        "ageSeconds": 626
+        "ageSeconds": 696
       },
       {
         "name": "家庭の事情",
@@ -134,7 +124,7 @@
         "shop": "トレジャーサバイバル",
         "update": "2026/08/26 08:28:25",
         "status": "green",
-        "ageSeconds": 763
+        "ageSeconds": 833
       },
       {
         "name": "青空　ひかり",
@@ -144,7 +134,7 @@
         "shop": "キャッツアイ新札幌店",
         "update": "2026/08/26 08:21:33",
         "status": "yellow",
-        "ageSeconds": 1175
+        "ageSeconds": 1245
       }
     ],
     "Sapphire": [],
