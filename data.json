@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-26 00:54:18",
-  "activeSince": "2026-08-26 00:24:18",
-  "total": 16,
+  "trackerTime": "2026-08-26 00:56:01",
+  "activeSince": "2026-08-26 00:26:01",
+  "total": 13,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "アミパラ倉敷店",
         "update": "2026/08/26 00:42:49",
         "status": "green",
-        "ageSeconds": 689
+        "ageSeconds": 792
       },
       {
         "name": "バレンシーア",
@@ -22,7 +22,7 @@
         "shop": "ＧｉＧＯスエヒロボウル徳島",
         "update": "2026/08/26 00:43:56",
         "status": "green",
-        "ageSeconds": 622
+        "ageSeconds": 725
       },
       {
         "name": "千石　唯華",
@@ -32,7 +32,7 @@
         "shop": "ＧｉＧＯイオンモールむさし村山",
         "update": "2026/08/26 00:45:54",
         "status": "green",
-        "ageSeconds": 504
+        "ageSeconds": 607
       },
       {
         "name": "トラベリング",
@@ -42,7 +42,7 @@
         "shop": "ＧｉＧＯ尾道",
         "update": "2026/08/26 00:42:25",
         "status": "green",
-        "ageSeconds": 713
+        "ageSeconds": 816
       },
       {
         "name": "ラクウェル．",
@@ -52,7 +52,7 @@
         "shop": "半田メトロポリス",
         "update": "2026/08/26 00:45:56",
         "status": "green",
-        "ageSeconds": 502
+        "ageSeconds": 605
       }
     ],
     "Ruby": [
@@ -64,7 +64,7 @@
         "shop": "アミュージアム茂原店",
         "update": "2026/08/26 00:42:25",
         "status": "green",
-        "ageSeconds": 713
+        "ageSeconds": 816
       },
       {
         "name": "Ｍａｓｕｏ？",
@@ -74,17 +74,7 @@
         "shop": "アミューズメントフィールドバイヨン",
         "update": "2026/08/26 00:43:56",
         "status": "green",
-        "ageSeconds": 622
-      },
-      {
-        "name": "千凜あゆむ",
-        "rank": "Ruby",
-        "point": 3240,
-        "car": "RPS13[HC]",
-        "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/26 00:25:56",
-        "status": "yellow",
-        "ageSeconds": 1702
+        "ageSeconds": 725
       },
       {
         "name": "ｙαｋμｍｏ",
@@ -94,7 +84,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/26 00:42:49",
         "status": "green",
-        "ageSeconds": 689
+        "ageSeconds": 792
       },
       {
         "name": "こうちゃ",
@@ -104,7 +94,7 @@
         "shop": "群馬レジャーランド太田店",
         "update": "2026/08/26 00:37:52",
         "status": "yellow",
-        "ageSeconds": 986
+        "ageSeconds": 1089
       },
       {
         "name": "今この瞬間を",
@@ -114,7 +104,7 @@
         "shop": "アミューズメントフィールドバイヨン",
         "update": "2026/08/26 00:32:48",
         "status": "yellow",
-        "ageSeconds": 1290
+        "ageSeconds": 1393
       }
     ],
     "Sapphire": [
@@ -126,7 +116,7 @@
         "shop": "ＧｉＧＯスマーク伊勢崎",
         "update": "2026/08/26 00:43:32",
         "status": "green",
-        "ageSeconds": 646
+        "ageSeconds": 749
       },
       {
         "name": "Ｓｈｉａｎ",
@@ -136,7 +126,7 @@
         "shop": "ＧｉＧＯ宇都宮",
         "update": "2026/08/26 00:43:24",
         "status": "green",
-        "ageSeconds": 654
+        "ageSeconds": 757
       },
       {
         "name": "うめみな",
@@ -146,34 +136,12 @@
         "shop": "ピンクパンサー結城店",
         "update": "2026/08/26 00:42:07",
         "status": "green",
-        "ageSeconds": 731
+        "ageSeconds": 834
       }
     ],
     "Emerald": [],
-    "Clear Blue": [
-      {
-        "name": "かいちん＿",
-        "rank": "Clear Blue",
-        "point": 200,
-        "car": "FC3S[DH]",
-        "shop": "群馬レジャーランド伊勢崎店",
-        "update": "2026/08/26 00:25:47",
-        "status": "yellow",
-        "ageSeconds": 1711
-      }
-    ],
-    "Clear Red": [
-      {
-        "name": "あいり",
-        "rank": "Clear Red",
-        "point": 4820,
-        "car": "NA6CE[HC]",
-        "shop": "ラウンドワン加古川店",
-        "update": "2026/08/26 00:25:44",
-        "status": "yellow",
-        "ageSeconds": 1714
-      }
-    ],
+    "Clear Blue": [],
+    "Clear Red": [],
     "Clear Green": [],
     "Unknown Online Rank": []
   }
