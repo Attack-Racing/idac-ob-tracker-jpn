@@ -1,60 +1,80 @@
 {
-  "trackerTime": "2026-08-25 09:22:15",
-  "activeSince": "2026-08-25 08:52:15",
-  "total": 7,
+  "trackerTime": "2026-08-25 09:24:08",
+  "activeSince": "2026-08-25 08:54:08",
+  "total": 13,
   "ranks": {
     "Pride": [
       {
+        "name": "たこまけ",
+        "rank": "Pride",
+        "point": 26140,
+        "car": "ST205[DH]",
+        "shop": "ゲームパニック大高",
+        "update": "2026/08/25 09:12:24",
+        "status": "green",
+        "ageSeconds": 704
+      },
+      {
         "name": "森島Ｌはるか",
         "rank": "Pride",
-        "point": 22360,
+        "point": 22560,
         "car": "ST205[AR]",
         "shop": "ゲームランド草津店",
-        "update": "2026/08/25 09:02:10",
-        "status": "yellow",
-        "ageSeconds": 1204
+        "update": "2026/08/25 09:12:24",
+        "status": "green",
+        "ageSeconds": 704
       },
       {
         "name": "小野瀬　真奈",
         "rank": "Pride",
-        "point": 15280,
-        "car": "ST205[AR]",
+        "point": 16060,
+        "car": "CE9Aエボ3[AR]",
         "shop": "群馬レジャーランド太田店",
-        "update": "2026/08/25 09:00:23",
-        "status": "yellow",
-        "ageSeconds": 1311
+        "update": "2026/08/25 09:14:37",
+        "status": "green",
+        "ageSeconds": 571
       },
       {
         "name": "Ｏｃｈｏｉｒ",
         "rank": "Pride",
-        "point": 9980,
+        "point": 10760,
         "car": "RZ34[AR]",
         "shop": "ＧｉＧＯ日立",
-        "update": "2026/08/25 09:00:51",
-        "status": "yellow",
-        "ageSeconds": 1283
+        "update": "2026/08/25 09:16:13",
+        "status": "green",
+        "ageSeconds": 475
       }
     ],
     "Ruby": [
       {
         "name": "みれいの弟子",
         "rank": "Ruby",
-        "point": 6360,
-        "car": "ST205[AR]",
+        "point": 6500,
+        "car": "SW20[DH]",
         "shop": "ラウンドワン京都伏見店",
-        "update": "2026/08/25 08:57:32",
-        "status": "yellow",
-        "ageSeconds": 1482
+        "update": "2026/08/25 09:13:02",
+        "status": "green",
+        "ageSeconds": 666
+      },
+      {
+        "name": "正宗の弟子",
+        "rank": "Ruby",
+        "point": 5920,
+        "car": "CP9Aエボ6[AR]",
+        "shop": "ＧｉＧＯ新庄",
+        "update": "2026/08/25 09:14:37",
+        "status": "green",
+        "ageSeconds": 571
       },
       {
         "name": "ＲＡＩＲＡ",
         "rank": "Ruby",
-        "point": 4060,
-        "car": "RZ34[AR]",
+        "point": 4520,
+        "car": "EK9[AR]",
         "shop": "シルクハット川崎モアーズ",
-        "update": "2026/08/25 08:57:31",
-        "status": "yellow",
-        "ageSeconds": 1483
+        "update": "2026/08/25 09:15:24",
+        "status": "green",
+        "ageSeconds": 524
       },
       {
         "name": "ガボンＤ",
@@ -64,7 +84,17 @@
         "shop": "ＧｉＧＯ中間",
         "update": "2026/08/25 08:56:27",
         "status": "yellow",
-        "ageSeconds": 1547
+        "ageSeconds": 1661
+      },
+      {
+        "name": "拾ったデータ",
+        "rank": "Ruby",
+        "point": 3480,
+        "car": "CP9Aエボ6[AR]",
+        "shop": "楽市街道箱崎店",
+        "update": "2026/08/25 09:05:55",
+        "status": "yellow",
+        "ageSeconds": 1093
       },
       {
         "name": "いっちゃん",
@@ -74,13 +104,44 @@
         "shop": "アミパラ草津店",
         "update": "2026/08/25 08:55:26",
         "status": "yellow",
-        "ageSeconds": 1608
+        "ageSeconds": 1722
+      },
+      {
+        "name": "朝比奈まふゆ",
+        "rank": "Ruby",
+        "point": 900,
+        "car": "ST205[AR]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/08/25 09:05:13",
+        "status": "yellow",
+        "ageSeconds": 1135
+      },
+      {
+        "name": "菅波　美玲",
+        "rank": "Ruby",
+        "point": 420,
+        "car": "S30[AR]",
+        "shop": "アミューズパークいわき神谷店",
+        "update": "2026/08/25 09:13:09",
+        "status": "green",
+        "ageSeconds": 659
       }
     ],
     "Sapphire": [],
     "Emerald": [],
     "Clear Blue": [],
-    "Clear Red": [],
+    "Clear Red": [
+      {
+        "name": "伝説の塗装屋",
+        "rank": "Clear Red",
+        "point": 2260,
+        "car": "シルエイティ[AR]",
+        "shop": "サービスエリアイン高岡",
+        "update": "2026/08/25 09:04:34",
+        "status": "yellow",
+        "ageSeconds": 1174
+      }
+    ],
     "Clear Green": [],
     "Unknown Online Rank": []
   }
