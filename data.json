@@ -1,70 +1,100 @@
 {
-  "trackerTime": "2026-08-26 03:35:26",
-  "activeSince": "2026-08-26 03:05:26",
-  "total": 8,
+  "trackerTime": "2026-08-26 03:37:18",
+  "activeSince": "2026-08-26 03:07:18",
+  "total": 12,
   "ranks": {
     "Pride": [
       {
         "name": "わがまますぎ",
         "rank": "Pride",
-        "point": 71060,
+        "point": 71580,
         "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/26 03:14:23",
-        "status": "yellow",
-        "ageSeconds": 1263
+        "update": "2026/08/26 03:30:08",
+        "status": "green",
+        "ageSeconds": 430
       },
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 59480,
-        "car": "CE9Aエボ3[AR]",
+        "point": 59680,
+        "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/26 03:12:50",
-        "status": "yellow",
-        "ageSeconds": 1356
+        "update": "2026/08/26 03:28:28",
+        "status": "green",
+        "ageSeconds": 530
       },
       {
         "name": "りくちゃん？",
         "rank": "Pride",
-        "point": 53480,
+        "point": 54000,
         "car": "ST205[AR]",
         "shop": "ウェアハウス三橋店",
-        "update": "2026/08/26 03:14:22",
-        "status": "yellow",
-        "ageSeconds": 1264
+        "update": "2026/08/26 03:31:06",
+        "status": "green",
+        "ageSeconds": 372
+      },
+      {
+        "name": "ラクウェル．",
+        "rank": "Pride",
+        "point": 20720,
+        "car": "ST205[AR]",
+        "shop": "半田メトロポリス",
+        "update": "2026/08/26 03:30:08",
+        "status": "green",
+        "ageSeconds": 430
       },
       {
         "name": "ガツンと蜜柑",
         "rank": "Pride",
-        "point": 5860,
-        "car": "CP9Aエボ5[AR]",
+        "point": 6120,
+        "car": "ST205[AR]",
         "shop": "東京レジャーランド秋葉原2号店",
-        "update": "2026/08/26 03:12:50",
+        "update": "2026/08/26 03:18:39",
         "status": "yellow",
-        "ageSeconds": 1356
+        "ageSeconds": 1119
       }
     ],
     "Ruby": [
       {
+        "name": "未来の三原色",
+        "rank": "Ruby",
+        "point": 17880,
+        "car": "ST205[AR]",
+        "shop": "ラウンドワンダイバーシティ東京プラザ店",
+        "update": "2026/08/26 03:28:28",
+        "status": "green",
+        "ageSeconds": 530
+      },
+      {
         "name": "パイズリ魔人",
         "rank": "Ruby",
-        "point": 8480,
-        "car": "SW20[DH]",
+        "point": 8420,
+        "car": "ST205[AR]",
         "shop": "コムテックタワー",
-        "update": "2026/08/26 03:07:38",
+        "update": "2026/08/26 03:20:01",
         "status": "yellow",
-        "ageSeconds": 1668
+        "ageSeconds": 1037
       },
       {
         "name": "千凜あゆむ",
         "rank": "Ruby",
-        "point": 3160,
+        "point": 3100,
         "car": "SW20[DH]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/26 03:14:09",
+        "update": "2026/08/26 03:22:31",
+        "status": "green",
+        "ageSeconds": 887
+      },
+      {
+        "name": "２０１４りく",
+        "rank": "Ruby",
+        "point": 2700,
+        "car": "BNR32[AR]",
+        "shop": "ＧｉＧＯ総本店",
+        "update": "2026/08/26 03:20:29",
         "status": "yellow",
-        "ageSeconds": 1277
+        "ageSeconds": 1009
       },
       {
         "name": "ＡＲＯＭＡ",
@@ -74,17 +104,27 @@
         "shop": "ラウンドワン千種店",
         "update": "2026/08/26 03:08:52",
         "status": "yellow",
-        "ageSeconds": 1594
+        "ageSeconds": 1706
+      },
+      {
+        "name": "今この瞬間を",
+        "rank": "Ruby",
+        "point": 640,
+        "car": "CP9Aエボ6[AR]",
+        "shop": "アミューズメントフィールドバイヨン",
+        "update": "2026/08/26 03:18:46",
+        "status": "yellow",
+        "ageSeconds": 1112
       },
       {
         "name": "あたいがふー",
         "rank": "Ruby",
-        "point": 260,
-        "car": "GC8[AR]",
+        "point": 200,
+        "car": "ZC6[AR]",
         "shop": "滋賀レジャーランド大津店",
-        "update": "2026/08/26 03:14:02",
+        "update": "2026/08/26 03:19:30",
         "status": "yellow",
-        "ageSeconds": 1284
+        "ageSeconds": 1068
       }
     ],
     "Sapphire": [],
