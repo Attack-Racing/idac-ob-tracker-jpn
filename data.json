@@ -1,6 +1,6 @@
 {
-  "trackerTime": "2026-08-27 08:57:19",
-  "activeSince": "2026-08-27 08:27:19",
+  "trackerTime": "2026-08-27 08:59:16",
+  "activeSince": "2026-08-27 08:29:16",
   "total": 4,
   "ranks": {
     "Pride": [
@@ -11,8 +11,8 @@
         "car": "ST205[AR]",
         "shop": "群馬レジャーランド伊勢崎店",
         "update": "2026/08/27 08:42:47",
-        "status": "green",
-        "ageSeconds": 871
+        "status": "yellow",
+        "ageSeconds": 989
       },
       {
         "name": "Ｏｃｈｏｉｒ",
@@ -21,8 +21,8 @@
         "car": "RZ34[AR]",
         "shop": "ＧｉＧＯ日立",
         "update": "2026/08/27 08:43:46",
-        "status": "green",
-        "ageSeconds": 812
+        "status": "yellow",
+        "ageSeconds": 930
       },
       {
         "name": "森島Ｌはるか",
@@ -32,7 +32,7 @@
         "shop": "ゲームランド草津店",
         "update": "2026/08/27 08:46:50",
         "status": "green",
-        "ageSeconds": 628
+        "ageSeconds": 746
       }
     ],
     "Ruby": [
@@ -44,7 +44,7 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/27 08:38:58",
         "status": "yellow",
-        "ageSeconds": 1100
+        "ageSeconds": 1218
       }
     ],
     "Sapphire": [],
