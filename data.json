@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-27 08:44:03",
-  "activeSince": "2026-08-27 08:14:03",
-  "total": 10,
+  "trackerTime": "2026-08-27 08:45:22",
+  "activeSince": "2026-08-27 08:15:22",
+  "total": 9,
   "ranks": {
     "Pride": [
       {
@@ -11,8 +11,8 @@
         "car": "ST205[AR]",
         "shop": "群馬レジャーランド伊勢崎店",
         "update": "2026/08/27 08:29:55",
-        "status": "green",
-        "ageSeconds": 848
+        "status": "yellow",
+        "ageSeconds": 927
       },
       {
         "name": "わがまますぎ",
@@ -22,7 +22,7 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/27 08:22:31",
         "status": "yellow",
-        "ageSeconds": 1292
+        "ageSeconds": 1371
       },
       {
         "name": "Ｏｃｈｏｉｒ",
@@ -32,7 +32,7 @@
         "shop": "ＧｉＧＯ日立",
         "update": "2026/08/27 08:26:52",
         "status": "yellow",
-        "ageSeconds": 1031
+        "ageSeconds": 1110
       },
       {
         "name": "森島Ｌはるか",
@@ -41,21 +41,11 @@
         "car": "ST205[AR]",
         "shop": "ゲームランド草津店",
         "update": "2026/08/27 08:29:54",
-        "status": "green",
-        "ageSeconds": 849
+        "status": "yellow",
+        "ageSeconds": 928
       }
     ],
     "Ruby": [
-      {
-        "name": "笑顔のレシピ",
-        "rank": "Ruby",
-        "point": 1880,
-        "car": "AP1[DH]",
-        "shop": "セガ東京ドームシティ",
-        "update": "2026/08/27 08:14:38",
-        "status": "yellow",
-        "ageSeconds": 1765
-      },
       {
         "name": "山田　勝己",
         "rank": "Ruby",
@@ -64,7 +54,7 @@
         "shop": "タイトーステーション溝の口",
         "update": "2026/08/27 08:18:08",
         "status": "yellow",
-        "ageSeconds": 1555
+        "ageSeconds": 1634
       },
       {
         "name": "冗談は顔だけ",
@@ -74,7 +64,7 @@
         "shop": "アピナ松本店",
         "update": "2026/08/27 08:22:38",
         "status": "yellow",
-        "ageSeconds": 1285
+        "ageSeconds": 1364
       },
       {
         "name": "尾木　波菜",
@@ -84,7 +74,7 @@
         "shop": "ラウンドワン市川鬼高店",
         "update": "2026/08/27 08:31:31",
         "status": "green",
-        "ageSeconds": 752
+        "ageSeconds": 831
       },
       {
         "name": "ツンデレ川田",
@@ -94,7 +84,7 @@
         "shop": "キャッツアイ篠路店",
         "update": "2026/08/27 08:22:04",
         "status": "yellow",
-        "ageSeconds": 1319
+        "ageSeconds": 1398
       },
       {
         "name": "菅波　美玲",
@@ -104,7 +94,7 @@
         "shop": "アミューズパークいわき神谷店",
         "update": "2026/08/27 08:24:40",
         "status": "yellow",
-        "ageSeconds": 1163
+        "ageSeconds": 1242
       }
     ],
     "Sapphire": [],
