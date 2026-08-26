@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-27 02:12:19",
-  "activeSince": "2026-08-27 01:42:19",
-  "total": 15,
+  "trackerTime": "2026-08-27 02:14:23",
+  "activeSince": "2026-08-27 01:44:23",
+  "total": 14,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/27 01:55:38",
         "status": "yellow",
-        "ageSeconds": 1001
+        "ageSeconds": 1125
       },
       {
         "name": "ちぉんだにょ",
@@ -22,7 +22,7 @@
         "shop": "マンガ倉庫浦添店",
         "update": "2026/08/27 01:46:18",
         "status": "yellow",
-        "ageSeconds": 1561
+        "ageSeconds": 1685
       },
       {
         "name": "Ｔａｋｔｏ",
@@ -32,7 +32,7 @@
         "shop": "関大前フタバボウル",
         "update": "2026/08/27 02:00:34",
         "status": "green",
-        "ageSeconds": 705
+        "ageSeconds": 829
       },
       {
         "name": "賢者ＴＩＭＥ",
@@ -41,8 +41,8 @@
         "car": "4C[AR]",
         "shop": "ドットコム葛西",
         "update": "2026/08/27 01:58:21",
-        "status": "green",
-        "ageSeconds": 838
+        "status": "yellow",
+        "ageSeconds": 962
       },
       {
         "name": "有利天貫道☆",
@@ -52,7 +52,7 @@
         "shop": "ＧｉＧＯ帯広稲田",
         "update": "2026/08/27 01:53:09",
         "status": "yellow",
-        "ageSeconds": 1150
+        "ageSeconds": 1274
       }
     ],
     "Ruby": [
@@ -64,7 +64,7 @@
         "shop": "ＧｉＧＯ秋葉原３号館",
         "update": "2026/08/27 01:46:25",
         "status": "yellow",
-        "ageSeconds": 1554
+        "ageSeconds": 1678
       },
       {
         "name": "未来の三原色",
@@ -73,18 +73,8 @@
         "car": "ST205[AR]",
         "shop": "ラウンドワンダイバーシティ東京プラザ店",
         "update": "2026/08/27 01:58:30",
-        "status": "green",
-        "ageSeconds": 829
-      },
-      {
-        "name": "漆黒の麻友",
-        "rank": "Ruby",
-        "point": 4620,
-        "car": "FD3S[AR]",
-        "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/27 01:42:56",
         "status": "yellow",
-        "ageSeconds": 1763
+        "ageSeconds": 953
       },
       {
         "name": "Ｓαｖαｇё",
@@ -94,7 +84,7 @@
         "shop": "ＧｉＧＯ石岡",
         "update": "2026/08/27 02:00:33",
         "status": "green",
-        "ageSeconds": 706
+        "ageSeconds": 830
       },
       {
         "name": "今この瞬間を",
@@ -103,8 +93,8 @@
         "car": "ER34[AR]",
         "shop": "アミューズメントフィールドバイヨン",
         "update": "2026/08/27 01:58:10",
-        "status": "green",
-        "ageSeconds": 849
+        "status": "yellow",
+        "ageSeconds": 973
       }
     ],
     "Sapphire": [
@@ -115,8 +105,8 @@
         "car": "86トレノ[AR]",
         "shop": "タイトーステーション 上野アメ横店",
         "update": "2026/08/27 01:58:03",
-        "status": "green",
-        "ageSeconds": 856
+        "status": "yellow",
+        "ageSeconds": 980
       },
       {
         "name": "ｌｉｚ",
@@ -126,7 +116,7 @@
         "shop": "ラウンドワン沖縄・宜野湾店",
         "update": "2026/08/27 01:56:48",
         "status": "yellow",
-        "ageSeconds": 931
+        "ageSeconds": 1055
       },
       {
         "name": "よわねはく",
@@ -136,7 +126,7 @@
         "shop": "関大前フタバボウル",
         "update": "2026/08/27 01:56:32",
         "status": "yellow",
-        "ageSeconds": 947
+        "ageSeconds": 1071
       },
       {
         "name": "シールやさん",
@@ -146,7 +136,7 @@
         "shop": "ピタゴラス和歌山",
         "update": "2026/08/27 01:56:48",
         "status": "yellow",
-        "ageSeconds": 931
+        "ageSeconds": 1055
       }
     ],
     "Emerald": [
@@ -158,7 +148,7 @@
         "shop": "ラウンドワン和歌山店",
         "update": "2026/08/27 01:56:30",
         "status": "yellow",
-        "ageSeconds": 949
+        "ageSeconds": 1073
       }
     ],
     "Clear Blue": [],
