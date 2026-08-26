@@ -1,50 +1,90 @@
 {
-  "trackerTime": "2026-08-27 02:49:19",
-  "activeSince": "2026-08-27 02:19:19",
-  "total": 9,
+  "trackerTime": "2026-08-27 02:51:06",
+  "activeSince": "2026-08-27 02:21:06",
+  "total": 12,
   "ranks": {
     "Pride": [
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 61920,
+        "point": 62120,
         "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/27 02:28:46",
+        "update": "2026/08/27 02:44:04",
+        "status": "green",
+        "ageSeconds": 422
+      },
+      {
+        "name": "Ｒａｌｐｈ．",
+        "rank": "Pride",
+        "point": 31420,
+        "car": "ST205[AR]",
+        "shop": "ＧｉＧＯスエヒロボウル徳島",
+        "update": "2026/08/27 02:34:24",
         "status": "yellow",
-        "ageSeconds": 1233
+        "ageSeconds": 1002
       }
     ],
     "Ruby": [
       {
         "name": "琵琶湖博物館",
         "rank": "Ruby",
-        "point": 76720,
-        "car": "ST205[AR]",
+        "point": 76600,
+        "car": "86トレノ[AR]",
         "shop": "ＧｉＧＯ秋葉原３号館",
-        "update": "2026/08/27 02:29:45",
-        "status": "yellow",
-        "ageSeconds": 1174
+        "update": "2026/08/27 02:39:37",
+        "status": "green",
+        "ageSeconds": 689
+      },
+      {
+        "name": "人間の端くれ",
+        "rank": "Ruby",
+        "point": 60900,
+        "car": "ST205[AR]",
+        "shop": "ｎａｍｃｏ博多バスターミナル店",
+        "update": "2026/08/27 02:45:32",
+        "status": "green",
+        "ageSeconds": 334
       },
       {
         "name": "未来の三原色",
         "rank": "Ruby",
-        "point": 18540,
+        "point": 19320,
         "car": "ST205[AR]",
         "shop": "ラウンドワンダイバーシティ東京プラザ店",
-        "update": "2026/08/27 02:30:04",
-        "status": "yellow",
-        "ageSeconds": 1155
+        "update": "2026/08/27 02:45:39",
+        "status": "green",
+        "ageSeconds": 327
       },
       {
         "name": "ＰＰダービー",
         "rank": "Ruby",
-        "point": 11200,
-        "car": "ST205[HC]",
+        "point": 11080,
+        "car": "CP9Aエボ6[HC]",
         "shop": "バイパスレジャーランド加賀店",
-        "update": "2026/08/27 02:30:34",
+        "update": "2026/08/27 02:40:58",
+        "status": "green",
+        "ageSeconds": 608
+      },
+      {
+        "name": "ルサンチマン",
+        "rank": "Ruby",
+        "point": 10240,
+        "car": "ST205[AR]",
+        "shop": "タイトーＦステーションイオン近江八幡店",
+        "update": "2026/08/27 02:45:38",
+        "status": "green",
+        "ageSeconds": 328
+      },
+      {
+        "name": "　　？！　　",
+        "rank": "Ruby",
+        "point": 5060,
+        "car": "86トレノ[DH]",
+        "shop": "楽市楽座福重店",
+        "update": "2026/08/27 02:35:57",
         "status": "yellow",
-        "ageSeconds": 1125
+        "ageSeconds": 909
       },
       {
         "name": "Ｓαｖαｇё",
@@ -54,49 +94,39 @@
         "shop": "ＧｉＧＯ石岡",
         "update": "2026/08/27 02:27:54",
         "status": "yellow",
-        "ageSeconds": 1285
-      },
-      {
-        "name": "　　？！　　",
-        "rank": "Ruby",
-        "point": 4800,
-        "car": "FD3S[AR]",
-        "shop": "楽市楽座福重店",
-        "update": "2026/08/27 02:30:05",
-        "status": "yellow",
-        "ageSeconds": 1154
+        "ageSeconds": 1392
       },
       {
         "name": "溝ルドダック",
         "rank": "Ruby",
-        "point": 3400,
+        "point": 3600,
         "car": "FD3S[AR]",
         "shop": "関大前フタバボウル",
-        "update": "2026/08/27 02:28:48",
-        "status": "yellow",
-        "ageSeconds": 1231
+        "update": "2026/08/27 02:45:39",
+        "status": "green",
+        "ageSeconds": 327
       },
       {
         "name": "＝ＴＫＴ＝",
         "rank": "Ruby",
-        "point": 680,
-        "car": "FD3S[AR]",
+        "point": 880,
+        "car": "ZC33S[AR]",
         "shop": "関大前フタバボウル",
-        "update": "2026/08/27 02:29:44",
-        "status": "yellow",
-        "ageSeconds": 1175
+        "update": "2026/08/27 02:40:58",
+        "status": "green",
+        "ageSeconds": 608
       }
     ],
     "Sapphire": [
       {
         "name": "夢の中の話",
         "rank": "Sapphire",
-        "point": 14260,
+        "point": 14200,
         "car": "ST205[AR]",
         "shop": "タイトーステーション 上野アメ横店",
-        "update": "2026/08/27 02:23:20",
+        "update": "2026/08/27 02:32:38",
         "status": "yellow",
-        "ageSeconds": 1559
+        "ageSeconds": 1108
       }
     ],
     "Emerald": [],
