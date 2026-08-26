@@ -1,40 +1,40 @@
 {
-  "trackerTime": "2026-08-27 07:36:03",
-  "activeSince": "2026-08-27 07:06:03",
-  "total": 6,
+  "trackerTime": "2026-08-27 07:37:19",
+  "activeSince": "2026-08-27 07:07:19",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
         "name": "わがまますぎ",
         "rank": "Pride",
-        "point": 79720,
+        "point": 80500,
         "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/27 07:15:49",
-        "status": "yellow",
-        "ageSeconds": 1214
+        "update": "2026/08/27 07:28:46",
+        "status": "green",
+        "ageSeconds": 512
       },
       {
         "name": "Ｏｃｈｏｉｒ",
         "rank": "Pride",
-        "point": 24180,
+        "point": 24960,
         "car": "RZ34[AR]",
         "shop": "ＧｉＧＯ日立",
-        "update": "2026/08/27 07:15:02",
-        "status": "yellow",
-        "ageSeconds": 1261
+        "update": "2026/08/27 07:27:57",
+        "status": "green",
+        "ageSeconds": 561
       }
     ],
     "Ruby": [
       {
-        "name": "笑顔のレシピ",
+        "name": "ｈａｏｓ．",
         "rank": "Ruby",
-        "point": 2060,
-        "car": "AP1[DH]",
-        "shop": "セガ東京ドームシティ",
-        "update": "2026/08/27 07:06:53",
+        "point": 1000,
+        "car": "FC3S[AR]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/08/27 07:19:26",
         "status": "yellow",
-        "ageSeconds": 1750
+        "ageSeconds": 1072
       },
       {
         "name": "りく夜勤？",
@@ -44,7 +44,7 @@
         "shop": "ジーパラ出雲",
         "update": "2026/08/27 07:15:09",
         "status": "yellow",
-        "ageSeconds": 1254
+        "ageSeconds": 1329
       },
       {
         "name": "あおとの弟子",
@@ -54,7 +54,17 @@
         "shop": "ピンクパンサー下妻店",
         "update": "2026/08/27 07:10:42",
         "status": "yellow",
-        "ageSeconds": 1521
+        "ageSeconds": 1596
+      },
+      {
+        "name": "ツンデレ川田",
+        "rank": "Ruby",
+        "point": 340,
+        "car": "RZ34[AR]",
+        "shop": "キャッツアイ篠路店",
+        "update": "2026/08/27 07:28:04",
+        "status": "green",
+        "ageSeconds": 554
       },
       {
         "name": "菅波　美玲",
@@ -64,7 +74,7 @@
         "shop": "アミューズパークいわき神谷店",
         "update": "2026/08/27 07:15:56",
         "status": "yellow",
-        "ageSeconds": 1207
+        "ageSeconds": 1282
       }
     ],
     "Sapphire": [],
