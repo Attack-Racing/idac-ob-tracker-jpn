@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-27 08:19:21",
-  "activeSince": "2026-08-27 07:49:21",
-  "total": 3,
+  "trackerTime": "2026-08-27 08:21:22",
+  "activeSince": "2026-08-27 07:51:22",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/27 07:59:06",
         "status": "yellow",
-        "ageSeconds": 1215
+        "ageSeconds": 1336
       },
       {
         "name": "Ｏｃｈｏｉｒ",
@@ -22,10 +22,50 @@
         "shop": "ＧｉＧＯ日立",
         "update": "2026/08/27 07:58:27",
         "status": "yellow",
-        "ageSeconds": 1254
+        "ageSeconds": 1375
+      },
+      {
+        "name": "森島Ｌはるか",
+        "rank": "Pride",
+        "point": 24840,
+        "car": "ST205[AR]",
+        "shop": "ゲームランド草津店",
+        "update": "2026/08/27 08:14:32",
+        "status": "green",
+        "ageSeconds": 410
       }
     ],
     "Ruby": [
+      {
+        "name": "上崎　裡沙．",
+        "rank": "Ruby",
+        "point": 4540,
+        "car": "86トレノ[AR]",
+        "shop": "ラウンドワン豊中店",
+        "update": "2026/08/27 08:13:02",
+        "status": "green",
+        "ageSeconds": 500
+      },
+      {
+        "name": "水野　乃愛",
+        "rank": "Ruby",
+        "point": 3020,
+        "car": "86トレノ2[DH]",
+        "shop": "アミパラここじゃ店",
+        "update": "2026/08/27 08:09:21",
+        "status": "green",
+        "ageSeconds": 721
+      },
+      {
+        "name": "りく夜勤？",
+        "rank": "Ruby",
+        "point": 740,
+        "car": "CT9Aエボ9[AR]",
+        "shop": "ジーパラ出雲",
+        "update": "2026/08/27 08:07:31",
+        "status": "green",
+        "ageSeconds": 831
+      },
       {
         "name": "ツンデレ川田",
         "rank": "Ruby",
@@ -34,7 +74,7 @@
         "shop": "キャッツアイ篠路店",
         "update": "2026/08/27 07:54:12",
         "status": "yellow",
-        "ageSeconds": 1509
+        "ageSeconds": 1630
       }
     ],
     "Sapphire": [],
