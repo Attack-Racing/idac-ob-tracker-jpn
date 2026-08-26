@@ -1,38 +1,48 @@
 {
-  "trackerTime": "2026-08-27 08:36:15",
-  "activeSince": "2026-08-27 08:06:15",
-  "total": 8,
+  "trackerTime": "2026-08-27 08:38:02",
+  "activeSince": "2026-08-27 08:08:02",
+  "total": 13,
   "ranks": {
     "Pride": [
       {
+        "name": "ノアてぃん",
+        "rank": "Pride",
+        "point": 88960,
+        "car": "ST205[AR]",
+        "shop": "群馬レジャーランド伊勢崎店",
+        "update": "2026/08/27 08:29:55",
+        "status": "green",
+        "ageSeconds": 487
+      },
+      {
         "name": "わがまますぎ",
         "rank": "Pride",
-        "point": 83100,
+        "point": 83620,
         "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/27 08:12:55",
+        "update": "2026/08/27 08:22:31",
         "status": "yellow",
-        "ageSeconds": 1400
+        "ageSeconds": 931
       },
       {
         "name": "Ｏｃｈｏｉｒ",
         "rank": "Pride",
-        "point": 27820,
+        "point": 28340,
         "car": "RZ34[AR]",
         "shop": "ＧｉＧＯ日立",
-        "update": "2026/08/27 08:16:11",
-        "status": "yellow",
-        "ageSeconds": 1204
+        "update": "2026/08/27 08:26:52",
+        "status": "green",
+        "ageSeconds": 670
       },
       {
         "name": "森島Ｌはるか",
         "rank": "Pride",
-        "point": 24840,
+        "point": 25300,
         "car": "ST205[AR]",
         "shop": "ゲームランド草津店",
-        "update": "2026/08/27 08:14:32",
-        "status": "yellow",
-        "ageSeconds": 1303
+        "update": "2026/08/27 08:29:54",
+        "status": "green",
+        "ageSeconds": 488
       }
     ],
     "Ruby": [
@@ -44,7 +54,7 @@
         "shop": "ラウンドワン豊中店",
         "update": "2026/08/27 08:13:02",
         "status": "yellow",
-        "ageSeconds": 1393
+        "ageSeconds": 1500
       },
       {
         "name": "水野　乃愛",
@@ -54,7 +64,7 @@
         "shop": "アミパラここじゃ店",
         "update": "2026/08/27 08:09:21",
         "status": "yellow",
-        "ageSeconds": 1614
+        "ageSeconds": 1721
       },
       {
         "name": "笑顔のレシピ",
@@ -64,7 +74,27 @@
         "shop": "セガ東京ドームシティ",
         "update": "2026/08/27 08:14:38",
         "status": "yellow",
-        "ageSeconds": 1297
+        "ageSeconds": 1404
+      },
+      {
+        "name": "山田　勝己",
+        "rank": "Ruby",
+        "point": 1700,
+        "car": "AP1[AR]",
+        "shop": "タイトーステーション溝の口",
+        "update": "2026/08/27 08:18:08",
+        "status": "yellow",
+        "ageSeconds": 1194
+      },
+      {
+        "name": "冗談は顔だけ",
+        "rank": "Ruby",
+        "point": 1640,
+        "car": "ST205[AR]",
+        "shop": "アピナ松本店",
+        "update": "2026/08/27 08:22:38",
+        "status": "yellow",
+        "ageSeconds": 924
       },
       {
         "name": "ｈａｏｓ．",
@@ -74,17 +104,37 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/27 08:11:51",
         "status": "yellow",
-        "ageSeconds": 1464
+        "ageSeconds": 1571
       },
       {
-        "name": "りく夜勤？",
+        "name": "尾木　波菜",
         "rank": "Ruby",
-        "point": 740,
-        "car": "CT9Aエボ9[AR]",
-        "shop": "ジーパラ出雲",
-        "update": "2026/08/27 08:07:31",
+        "point": 260,
+        "car": "FD3S[AR]",
+        "shop": "ラウンドワン市川鬼高店",
+        "update": "2026/08/27 08:31:31",
+        "status": "green",
+        "ageSeconds": 391
+      },
+      {
+        "name": "ツンデレ川田",
+        "rank": "Ruby",
+        "point": 220,
+        "car": "RZ34[AR]",
+        "shop": "キャッツアイ篠路店",
+        "update": "2026/08/27 08:22:04",
         "status": "yellow",
-        "ageSeconds": 1724
+        "ageSeconds": 958
+      },
+      {
+        "name": "菅波　美玲",
+        "rank": "Ruby",
+        "point": 120,
+        "car": "FC3S[DH]",
+        "shop": "アミューズパークいわき神谷店",
+        "update": "2026/08/27 08:24:40",
+        "status": "green",
+        "ageSeconds": 802
       }
     ],
     "Sapphire": [],
