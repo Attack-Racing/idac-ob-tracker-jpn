@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-27 01:24:19",
-  "activeSince": "2026-08-27 00:54:19",
-  "total": 9,
+  "trackerTime": "2026-08-27 01:26:35",
+  "activeSince": "2026-08-27 00:56:35",
+  "total": 8,
   "ranks": {
     "Pride": [
       {
@@ -11,8 +11,8 @@
         "car": "CE9Aエボ3[AR]",
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/27 01:09:26",
-        "status": "green",
-        "ageSeconds": 893
+        "status": "yellow",
+        "ageSeconds": 1028
       },
       {
         "name": "Ｒａｌｐｈ．",
@@ -22,7 +22,7 @@
         "shop": "ＧｉＧＯスエヒロボウル徳島",
         "update": "2026/08/27 01:09:12",
         "status": "yellow",
-        "ageSeconds": 907
+        "ageSeconds": 1042
       },
       {
         "name": "ちぉんだにょ",
@@ -32,7 +32,7 @@
         "shop": "マンガ倉庫浦添店",
         "update": "2026/08/27 01:15:08",
         "status": "green",
-        "ageSeconds": 551
+        "ageSeconds": 686
       },
       {
         "name": "Ｔａｋｔｏ",
@@ -42,7 +42,7 @@
         "shop": "関大前フタバボウル",
         "update": "2026/08/27 01:15:01",
         "status": "green",
-        "ageSeconds": 558
+        "ageSeconds": 693
       }
     ],
     "Ruby": [
@@ -54,7 +54,7 @@
         "shop": "ＧｉＧＯ秋葉原３号館",
         "update": "2026/08/27 01:04:29",
         "status": "yellow",
-        "ageSeconds": 1190
+        "ageSeconds": 1325
       },
       {
         "name": "　清水美早",
@@ -64,7 +64,7 @@
         "shop": "タイトーステーションフジグラン北島店",
         "update": "2026/08/27 00:57:14",
         "status": "yellow",
-        "ageSeconds": 1625
+        "ageSeconds": 1760
       },
       {
         "name": "不亞ん鼎",
@@ -74,7 +74,7 @@
         "shop": "ラウンドワン高槻店",
         "update": "2026/08/27 00:59:34",
         "status": "yellow",
-        "ageSeconds": 1485
+        "ageSeconds": 1620
       }
     ],
     "Sapphire": [
@@ -86,21 +86,10 @@
         "shop": "タイトーステーション 上野アメ横店",
         "update": "2026/08/27 01:04:31",
         "status": "yellow",
-        "ageSeconds": 1188
+        "ageSeconds": 1323
       }
     ],
-    "Emerald": [
-      {
-        "name": "ふるこあ",
-        "rank": "Emerald",
-        "point": 840,
-        "car": "シルエイティ[AR]",
-        "shop": "モーリーファンタジー明石店",
-        "update": "2026/08/27 00:55:01",
-        "status": "yellow",
-        "ageSeconds": 1758
-      }
-    ],
+    "Emerald": [],
     "Clear Blue": [],
     "Clear Red": [],
     "Clear Green": [],
