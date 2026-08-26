@@ -1,28 +1,38 @@
 {
-  "trackerTime": "2026-08-27 01:35:21",
-  "activeSince": "2026-08-27 01:05:21",
-  "total": 4,
+  "trackerTime": "2026-08-27 01:37:13",
+  "activeSince": "2026-08-27 01:07:13",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 61320,
-        "car": "CE9Aエボ3[AR]",
+        "point": 61200,
+        "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/27 01:09:26",
-        "status": "yellow",
-        "ageSeconds": 1555
+        "update": "2026/08/27 01:25:44",
+        "status": "green",
+        "ageSeconds": 689
+      },
+      {
+        "name": "千石　唯華",
+        "rank": "Pride",
+        "point": 56780,
+        "car": "SW20[AR]",
+        "shop": "ＧｉＧＯイオンモールむさし村山",
+        "update": "2026/08/27 01:28:07",
+        "status": "green",
+        "ageSeconds": 546
       },
       {
         "name": "Ｒａｌｐｈ．",
         "rank": "Pride",
-        "point": 30960,
-        "car": "CP9Aエボ6[HC]",
+        "point": 31160,
+        "car": "ST205[AR]",
         "shop": "ＧｉＧＯスエヒロボウル徳島",
-        "update": "2026/08/27 01:09:12",
-        "status": "yellow",
-        "ageSeconds": 1569
+        "update": "2026/08/27 01:23:21",
+        "status": "green",
+        "ageSeconds": 832
       },
       {
         "name": "ちぉんだにょ",
@@ -32,21 +42,42 @@
         "shop": "マンガ倉庫浦添店",
         "update": "2026/08/27 01:15:08",
         "status": "yellow",
-        "ageSeconds": 1213
+        "ageSeconds": 1325
       },
       {
         "name": "Ｔａｋｔｏ",
         "rank": "Pride",
-        "point": 27220,
+        "point": 27420,
         "car": "FC3S[AR]",
         "shop": "関大前フタバボウル",
-        "update": "2026/08/27 01:15:01",
-        "status": "yellow",
-        "ageSeconds": 1220
+        "update": "2026/08/27 01:28:07",
+        "status": "green",
+        "ageSeconds": 546
       }
     ],
     "Ruby": [],
-    "Sapphire": [],
+    "Sapphire": [
+      {
+        "name": "夢の中の話",
+        "rank": "Sapphire",
+        "point": 14300,
+        "car": "86トレノ[AR]",
+        "shop": "タイトーステーション 上野アメ横店",
+        "update": "2026/08/27 01:16:55",
+        "status": "yellow",
+        "ageSeconds": 1218
+      },
+      {
+        "name": "ｌｉｚ",
+        "rank": "Sapphire",
+        "point": 3320,
+        "car": "FD3S[AR]",
+        "shop": "ラウンドワン沖縄・宜野湾店",
+        "update": "2026/08/27 01:16:54",
+        "status": "yellow",
+        "ageSeconds": 1219
+      }
+    ],
     "Emerald": [],
     "Clear Blue": [],
     "Clear Red": [],
