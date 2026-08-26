@@ -1,28 +1,28 @@
 {
-  "trackerTime": "2026-08-27 07:51:12",
-  "activeSince": "2026-08-27 07:21:12",
-  "total": 5,
+  "trackerTime": "2026-08-27 07:52:16",
+  "activeSince": "2026-08-27 07:22:16",
+  "total": 9,
   "ranks": {
     "Pride": [
       {
         "name": "わがまますぎ",
         "rank": "Pride",
-        "point": 80500,
+        "point": 81540,
         "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/27 07:28:46",
-        "status": "yellow",
-        "ageSeconds": 1346
+        "update": "2026/08/27 07:46:06",
+        "status": "green",
+        "ageSeconds": 370
       },
       {
         "name": "Ｏｃｈｏｉｒ",
         "rank": "Pride",
-        "point": 24960,
+        "point": 26000,
         "car": "RZ34[AR]",
         "shop": "ＧｉＧＯ日立",
-        "update": "2026/08/27 07:27:57",
-        "status": "yellow",
-        "ageSeconds": 1395
+        "update": "2026/08/27 07:45:17",
+        "status": "green",
+        "ageSeconds": 419
       }
     ],
     "Ruby": [
@@ -34,7 +34,27 @@
         "shop": "アミパラここじゃ店",
         "update": "2026/08/27 07:37:33",
         "status": "green",
-        "ageSeconds": 819
+        "ageSeconds": 883
+      },
+      {
+        "name": "笑顔のレシピ",
+        "rank": "Ruby",
+        "point": 2000,
+        "car": "AP1[DH]",
+        "shop": "セガ東京ドームシティ",
+        "update": "2026/08/27 07:33:21",
+        "status": "yellow",
+        "ageSeconds": 1135
+      },
+      {
+        "name": "ｈａｏｓ．",
+        "rank": "Ruby",
+        "point": 940,
+        "car": "FC3S[AR]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/08/27 07:45:24",
+        "status": "green",
+        "ageSeconds": 412
       },
       {
         "name": "りく夜勤？",
@@ -44,7 +64,17 @@
         "shop": "ジーパラ出雲",
         "update": "2026/08/27 07:41:10",
         "status": "green",
-        "ageSeconds": 602
+        "ageSeconds": 666
+      },
+      {
+        "name": "あおとの弟子",
+        "rank": "Ruby",
+        "point": 400,
+        "car": "SXE10[AR]",
+        "shop": "ピンクパンサー下妻店",
+        "update": "2026/08/27 07:36:46",
+        "status": "yellow",
+        "ageSeconds": 930
       },
       {
         "name": "ツンデレ川田",
@@ -54,7 +84,17 @@
         "shop": "キャッツアイ篠路店",
         "update": "2026/08/27 07:28:04",
         "status": "yellow",
-        "ageSeconds": 1388
+        "ageSeconds": 1452
+      },
+      {
+        "name": "菅波　美玲",
+        "rank": "Ruby",
+        "point": 180,
+        "car": "FC3S[DH]",
+        "shop": "アミューズパークいわき神谷店",
+        "update": "2026/08/27 07:46:13",
+        "status": "green",
+        "ageSeconds": 363
       }
     ],
     "Sapphire": [],
