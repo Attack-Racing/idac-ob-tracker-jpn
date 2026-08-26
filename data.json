@@ -1,10 +1,72 @@
 {
-  "trackerTime": "2026-08-27 07:20:19",
-  "activeSince": "2026-08-27 06:50:19",
-  "total": 0,
+  "trackerTime": "2026-08-27 07:22:18",
+  "activeSince": "2026-08-27 06:52:18",
+  "total": 6,
   "ranks": {
-    "Pride": [],
-    "Ruby": [],
+    "Pride": [
+      {
+        "name": "わがまますぎ",
+        "rank": "Pride",
+        "point": 79720,
+        "car": "ST205[AR]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/08/27 07:15:49",
+        "status": "green",
+        "ageSeconds": 389
+      },
+      {
+        "name": "Ｏｃｈｏｉｒ",
+        "rank": "Pride",
+        "point": 24180,
+        "car": "RZ34[AR]",
+        "shop": "ＧｉＧＯ日立",
+        "update": "2026/08/27 07:15:02",
+        "status": "green",
+        "ageSeconds": 436
+      }
+    ],
+    "Ruby": [
+      {
+        "name": "笑顔のレシピ",
+        "rank": "Ruby",
+        "point": 2060,
+        "car": "AP1[DH]",
+        "shop": "セガ東京ドームシティ",
+        "update": "2026/08/27 07:06:53",
+        "status": "yellow",
+        "ageSeconds": 925
+      },
+      {
+        "name": "りく夜勤？",
+        "rank": "Ruby",
+        "point": 860,
+        "car": "CT9Aエボ9[AR]",
+        "shop": "ジーパラ出雲",
+        "update": "2026/08/27 07:15:09",
+        "status": "green",
+        "ageSeconds": 429
+      },
+      {
+        "name": "あおとの弟子",
+        "rank": "Ruby",
+        "point": 460,
+        "car": "SXE10[AR]",
+        "shop": "ピンクパンサー下妻店",
+        "update": "2026/08/27 07:10:42",
+        "status": "green",
+        "ageSeconds": 696
+      },
+      {
+        "name": "菅波　美玲",
+        "rank": "Ruby",
+        "point": 240,
+        "car": "FC3S[DH]",
+        "shop": "アミューズパークいわき神谷店",
+        "update": "2026/08/27 07:15:56",
+        "status": "green",
+        "ageSeconds": 382
+      }
+    ],
     "Sapphire": [],
     "Emerald": [],
     "Clear Blue": [],
