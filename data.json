@@ -1,6 +1,6 @@
 {
-  "trackerTime": "2026-08-27 02:51:06",
-  "activeSince": "2026-08-27 02:21:06",
+  "trackerTime": "2026-08-27 02:52:03",
+  "activeSince": "2026-08-27 02:22:03",
   "total": 12,
   "ranks": {
     "Pride": [
@@ -12,7 +12,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/27 02:44:04",
         "status": "green",
-        "ageSeconds": 422
+        "ageSeconds": 479
       },
       {
         "name": "Ｒａｌｐｈ．",
@@ -22,7 +22,7 @@
         "shop": "ＧｉＧＯスエヒロボウル徳島",
         "update": "2026/08/27 02:34:24",
         "status": "yellow",
-        "ageSeconds": 1002
+        "ageSeconds": 1059
       }
     ],
     "Ruby": [
@@ -34,7 +34,7 @@
         "shop": "ＧｉＧＯ秋葉原３号館",
         "update": "2026/08/27 02:39:37",
         "status": "green",
-        "ageSeconds": 689
+        "ageSeconds": 746
       },
       {
         "name": "人間の端くれ",
@@ -44,7 +44,7 @@
         "shop": "ｎａｍｃｏ博多バスターミナル店",
         "update": "2026/08/27 02:45:32",
         "status": "green",
-        "ageSeconds": 334
+        "ageSeconds": 391
       },
       {
         "name": "未来の三原色",
@@ -54,7 +54,7 @@
         "shop": "ラウンドワンダイバーシティ東京プラザ店",
         "update": "2026/08/27 02:45:39",
         "status": "green",
-        "ageSeconds": 327
+        "ageSeconds": 384
       },
       {
         "name": "ＰＰダービー",
@@ -64,7 +64,7 @@
         "shop": "バイパスレジャーランド加賀店",
         "update": "2026/08/27 02:40:58",
         "status": "green",
-        "ageSeconds": 608
+        "ageSeconds": 665
       },
       {
         "name": "ルサンチマン",
@@ -74,7 +74,17 @@
         "shop": "タイトーＦステーションイオン近江八幡店",
         "update": "2026/08/27 02:45:38",
         "status": "green",
-        "ageSeconds": 328
+        "ageSeconds": 385
+      },
+      {
+        "name": "Ｓαｖαｇё",
+        "rank": "Ruby",
+        "point": 5340,
+        "car": "BNR32[AR]",
+        "shop": "ＧｉＧＯ石岡",
+        "update": "2026/08/27 02:44:04",
+        "status": "green",
+        "ageSeconds": 479
       },
       {
         "name": "　　？！　　",
@@ -84,17 +94,7 @@
         "shop": "楽市楽座福重店",
         "update": "2026/08/27 02:35:57",
         "status": "yellow",
-        "ageSeconds": 909
-      },
-      {
-        "name": "Ｓαｖαｇё",
-        "rank": "Ruby",
-        "point": 4900,
-        "car": "86トレノ[HC]",
-        "shop": "ＧｉＧＯ石岡",
-        "update": "2026/08/27 02:27:54",
-        "status": "yellow",
-        "ageSeconds": 1392
+        "ageSeconds": 966
       },
       {
         "name": "溝ルドダック",
@@ -104,7 +104,7 @@
         "shop": "関大前フタバボウル",
         "update": "2026/08/27 02:45:39",
         "status": "green",
-        "ageSeconds": 327
+        "ageSeconds": 384
       },
       {
         "name": "＝ＴＫＴ＝",
@@ -114,7 +114,7 @@
         "shop": "関大前フタバボウル",
         "update": "2026/08/27 02:40:58",
         "status": "green",
-        "ageSeconds": 608
+        "ageSeconds": 665
       }
     ],
     "Sapphire": [
@@ -126,7 +126,7 @@
         "shop": "タイトーステーション 上野アメ横店",
         "update": "2026/08/27 02:32:38",
         "status": "yellow",
-        "ageSeconds": 1108
+        "ageSeconds": 1165
       }
     ],
     "Emerald": [],
