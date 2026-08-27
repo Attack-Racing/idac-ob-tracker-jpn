@@ -1,18 +1,18 @@
 {
-  "trackerTime": "2026-08-28 03:50:58",
-  "activeSince": "2026-08-28 03:20:58",
-  "total": 4,
+  "trackerTime": "2026-08-28 03:53:00",
+  "activeSince": "2026-08-28 03:23:00",
+  "total": 6,
   "ranks": {
     "Pride": [
       {
         "name": "わがまますぎ",
         "rank": "Pride",
-        "point": 84340,
-        "car": "EG6[HC]",
+        "point": 84860,
+        "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/28 03:25:01",
-        "status": "yellow",
-        "ageSeconds": 1557
+        "update": "2026/08/28 03:39:05",
+        "status": "green",
+        "ageSeconds": 835
       },
       {
         "name": "あ＠とくしま",
@@ -22,7 +22,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/28 03:44:47",
         "status": "green",
-        "ageSeconds": 371
+        "ageSeconds": 493
       }
     ],
     "Ruby": [
@@ -34,17 +34,37 @@
         "shop": "ｎａｍｃｏ博多バスターミナル店",
         "update": "2026/08/28 03:43:50",
         "status": "green",
-        "ageSeconds": 428
+        "ageSeconds": 550
       },
       {
         "name": "ラクウェル．",
         "rank": "Ruby",
-        "point": 22120,
-        "car": "ST205[AR]",
+        "point": 22640,
+        "car": "CE9Aエボ3[AR]",
         "shop": "半田メトロポリス",
-        "update": "2026/08/28 03:30:10",
-        "status": "yellow",
-        "ageSeconds": 1248
+        "update": "2026/08/28 03:43:51",
+        "status": "green",
+        "ageSeconds": 549
+      },
+      {
+        "name": "未来の三原色",
+        "rank": "Ruby",
+        "point": 20440,
+        "car": "SW20[AR]",
+        "shop": "ラウンドワンダイバーシティ東京プラザ店",
+        "update": "2026/08/28 03:44:46",
+        "status": "green",
+        "ageSeconds": 494
+      },
+      {
+        "name": "あおとの弟子",
+        "rank": "Ruby",
+        "point": 1260,
+        "car": "ST205[AR]",
+        "shop": "ピンクパンサー下妻店",
+        "update": "2026/08/28 03:39:30",
+        "status": "green",
+        "ageSeconds": 810
       }
     ],
     "Sapphire": [],
