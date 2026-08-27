@@ -1,9 +1,19 @@
 {
-  "trackerTime": "2026-08-28 03:36:03",
-  "activeSince": "2026-08-28 03:06:03",
-  "total": 6,
+  "trackerTime": "2026-08-28 03:37:43",
+  "activeSince": "2026-08-28 03:07:43",
+  "total": 7,
   "ranks": {
     "Pride": [
+      {
+        "name": "わがまますぎ",
+        "rank": "Pride",
+        "point": 84340,
+        "car": "EG6[HC]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/08/28 03:25:01",
+        "status": "green",
+        "ageSeconds": 761
+      },
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
@@ -12,7 +22,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/28 03:30:09",
         "status": "green",
-        "ageSeconds": 354
+        "ageSeconds": 453
       },
       {
         "name": "Ｖｉｏｌｅｔ",
@@ -22,7 +32,7 @@
         "shop": "アミューズメントパフェパレパレ田宮店",
         "update": "2026/08/28 03:15:16",
         "status": "yellow",
-        "ageSeconds": 1247
+        "ageSeconds": 1346
       }
     ],
     "Ruby": [
@@ -34,17 +44,17 @@
         "shop": "ｎａｍｃｏ博多バスターミナル店",
         "update": "2026/08/28 03:09:50",
         "status": "yellow",
-        "ageSeconds": 1573
+        "ageSeconds": 1672
       },
       {
         "name": "ラクウェル．",
         "rank": "Ruby",
-        "point": 21920,
+        "point": 22120,
         "car": "ST205[AR]",
         "shop": "半田メトロポリス",
-        "update": "2026/08/28 03:15:16",
-        "status": "yellow",
-        "ageSeconds": 1247
+        "update": "2026/08/28 03:30:10",
+        "status": "green",
+        "ageSeconds": 452
       },
       {
         "name": "けんきくん♯",
@@ -54,7 +64,7 @@
         "shop": "アミューズメントパフェパレパレ田宮店",
         "update": "2026/08/28 03:14:33",
         "status": "yellow",
-        "ageSeconds": 1290
+        "ageSeconds": 1389
       },
       {
         "name": "赤城ユイナ",
@@ -64,7 +74,7 @@
         "shop": "タイトーステーション 大宮店",
         "update": "2026/08/28 03:08:08",
         "status": "yellow",
-        "ageSeconds": 1675
+        "ageSeconds": 1774
       }
     ],
     "Sapphire": [],
