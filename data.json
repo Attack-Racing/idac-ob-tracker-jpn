@@ -1,50 +1,80 @@
 {
-  "trackerTime": "2026-08-27 09:08:15",
-  "activeSince": "2026-08-27 08:38:15",
-  "total": 5,
+  "trackerTime": "2026-08-27 09:10:12",
+  "activeSince": "2026-08-27 08:40:12",
+  "total": 8,
   "ranks": {
     "Pride": [
       {
         "name": "ノアてぃん",
         "rank": "Pride",
-        "point": 89480,
+        "point": 90000,
         "car": "ST205[AR]",
         "shop": "群馬レジャーランド伊勢崎店",
-        "update": "2026/08/27 08:42:47",
+        "update": "2026/08/27 08:53:35",
         "status": "yellow",
-        "ageSeconds": 1528
+        "ageSeconds": 996
       },
       {
         "name": "Ｏｃｈｏｉｒ",
         "rank": "Pride",
-        "point": 28860,
+        "point": 29320,
         "car": "RZ34[AR]",
         "shop": "ＧｉＧＯ日立",
-        "update": "2026/08/27 08:43:46",
-        "status": "yellow",
-        "ageSeconds": 1469
+        "update": "2026/08/27 09:01:08",
+        "status": "green",
+        "ageSeconds": 543
       },
       {
         "name": "森島Ｌはるか",
         "rank": "Pride",
-        "point": 26080,
+        "point": 26600,
         "car": "ST205[AR]",
         "shop": "ゲームランド草津店",
-        "update": "2026/08/27 08:46:50",
-        "status": "yellow",
-        "ageSeconds": 1285
+        "update": "2026/08/27 08:56:17",
+        "status": "green",
+        "ageSeconds": 834
       }
     ],
     "Ruby": [
       {
-        "name": "朝比奈まふゆ",
+        "name": "みれいの弟子",
         "rank": "Ruby",
-        "point": 840,
+        "point": 7020,
         "car": "ST205[AR]",
-        "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/27 08:38:58",
+        "shop": "ラウンドワン京都伏見店",
+        "update": "2026/08/27 08:56:46",
+        "status": "green",
+        "ageSeconds": 805
+      },
+      {
+        "name": "水野　乃愛",
+        "rank": "Ruby",
+        "point": 2960,
+        "car": "86トレノ2[DH]",
+        "shop": "アミパラここじゃ店",
+        "update": "2026/08/27 08:51:52",
         "status": "yellow",
-        "ageSeconds": 1757
+        "ageSeconds": 1099
+      },
+      {
+        "name": "いっちゃん",
+        "rank": "Ruby",
+        "point": 1860,
+        "car": "NA1[AR]",
+        "shop": "アミパラ草津店",
+        "update": "2026/08/27 08:49:31",
+        "status": "yellow",
+        "ageSeconds": 1240
+      },
+      {
+        "name": "ギラファ森島",
+        "rank": "Ruby",
+        "point": 1760,
+        "car": "BNR32[AR]",
+        "shop": "ＭＦ　ＬＩＮＫＳ　ＵＭＥＤＡ",
+        "update": "2026/08/27 09:01:15",
+        "status": "green",
+        "ageSeconds": 536
       },
       {
         "name": "ネブ博士．",
@@ -54,7 +84,7 @@
         "shop": "パスカランド日田店",
         "update": "2026/08/27 08:48:39",
         "status": "yellow",
-        "ageSeconds": 1176
+        "ageSeconds": 1292
       }
     ],
     "Sapphire": [],
