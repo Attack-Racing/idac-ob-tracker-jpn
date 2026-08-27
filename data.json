@@ -1,19 +1,9 @@
 {
-  "trackerTime": "2026-08-28 01:15:59",
-  "activeSince": "2026-08-28 00:45:59",
-  "total": 7,
+  "trackerTime": "2026-08-28 01:18:03",
+  "activeSince": "2026-08-28 00:48:03",
+  "total": 5,
   "ranks": {
     "Pride": [
-      {
-        "name": "ｔｋｓｉｎ．",
-        "rank": "Pride",
-        "point": 79860,
-        "car": "CE9Aエボ3[AR]",
-        "shop": "沼津バッティングスタジアム",
-        "update": "2026/08/28 00:46:23",
-        "status": "yellow",
-        "ageSeconds": 1776
-      },
       {
         "name": "Ｓすらーく＠",
         "rank": "Pride",
@@ -22,7 +12,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/28 00:54:21",
         "status": "yellow",
-        "ageSeconds": 1298
+        "ageSeconds": 1422
       },
       {
         "name": "ドパガキＸ",
@@ -32,21 +22,10 @@
         "shop": "ゲームパニック新宿歌舞伎町",
         "update": "2026/08/28 00:49:46",
         "status": "yellow",
-        "ageSeconds": 1573
+        "ageSeconds": 1697
       }
     ],
-    "Ruby": [
-      {
-        "name": "十六夜　輝流",
-        "rank": "Ruby",
-        "point": 15080,
-        "car": "86トレノ[AR]",
-        "shop": "アミュージアム茂原店",
-        "update": "2026/08/28 00:46:22",
-        "status": "yellow",
-        "ageSeconds": 1777
-      }
-    ],
+    "Ruby": [],
     "Sapphire": [
       {
         "name": "あわすばる",
@@ -56,7 +35,7 @@
         "shop": "ＧｉＧＯスマーク伊勢崎",
         "update": "2026/08/28 00:58:19",
         "status": "yellow",
-        "ageSeconds": 1060
+        "ageSeconds": 1184
       },
       {
         "name": "狸己京輸ｊｏ",
@@ -65,8 +44,8 @@
         "car": "86トレノ2[HC]",
         "shop": "ＳＰＥＥＤ",
         "update": "2026/08/28 01:01:10",
-        "status": "green",
-        "ageSeconds": 889
+        "status": "yellow",
+        "ageSeconds": 1013
       }
     ],
     "Emerald": [
@@ -77,8 +56,8 @@
         "car": "ZN8[DH]",
         "shop": "ラウンドワン沖縄・南風原店",
         "update": "2026/08/28 01:01:10",
-        "status": "green",
-        "ageSeconds": 889
+        "status": "yellow",
+        "ageSeconds": 1013
       }
     ],
     "Clear Blue": [],
