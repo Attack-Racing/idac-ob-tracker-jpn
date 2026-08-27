@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-28 03:39:01",
-  "activeSince": "2026-08-28 03:09:01",
-  "total": 6,
+  "trackerTime": "2026-08-28 03:40:40",
+  "activeSince": "2026-08-28 03:10:40",
+  "total": 5,
   "ranks": {
     "Pride": [
       {
@@ -11,8 +11,8 @@
         "car": "EG6[HC]",
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/28 03:25:01",
-        "status": "green",
-        "ageSeconds": 840
+        "status": "yellow",
+        "ageSeconds": 939
       },
       {
         "name": "あ＠とくしま",
@@ -22,7 +22,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/28 03:30:09",
         "status": "green",
-        "ageSeconds": 532
+        "ageSeconds": 631
       },
       {
         "name": "Ｖｉｏｌｅｔ",
@@ -32,20 +32,10 @@
         "shop": "アミューズメントパフェパレパレ田宮店",
         "update": "2026/08/28 03:15:16",
         "status": "yellow",
-        "ageSeconds": 1425
+        "ageSeconds": 1524
       }
     ],
     "Ruby": [
-      {
-        "name": "人間の端くれ",
-        "rank": "Ruby",
-        "point": 62540,
-        "car": "86トレノ[AR]",
-        "shop": "ｎａｍｃｏ博多バスターミナル店",
-        "update": "2026/08/28 03:09:50",
-        "status": "yellow",
-        "ageSeconds": 1751
-      },
       {
         "name": "ラクウェル．",
         "rank": "Ruby",
@@ -54,7 +44,7 @@
         "shop": "半田メトロポリス",
         "update": "2026/08/28 03:30:10",
         "status": "green",
-        "ageSeconds": 531
+        "ageSeconds": 630
       },
       {
         "name": "けんきくん♯",
@@ -64,7 +54,7 @@
         "shop": "アミューズメントパフェパレパレ田宮店",
         "update": "2026/08/28 03:14:33",
         "status": "yellow",
-        "ageSeconds": 1468
+        "ageSeconds": 1567
       }
     ],
     "Sapphire": [],
