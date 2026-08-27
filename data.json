@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-27 09:07:09",
-  "activeSince": "2026-08-27 08:37:09",
-  "total": 4,
+  "trackerTime": "2026-08-27 09:08:15",
+  "activeSince": "2026-08-27 08:38:15",
+  "total": 5,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "群馬レジャーランド伊勢崎店",
         "update": "2026/08/27 08:42:47",
         "status": "yellow",
-        "ageSeconds": 1462
+        "ageSeconds": 1528
       },
       {
         "name": "Ｏｃｈｏｉｒ",
@@ -22,7 +22,7 @@
         "shop": "ＧｉＧＯ日立",
         "update": "2026/08/27 08:43:46",
         "status": "yellow",
-        "ageSeconds": 1403
+        "ageSeconds": 1469
       },
       {
         "name": "森島Ｌはるか",
@@ -32,7 +32,7 @@
         "shop": "ゲームランド草津店",
         "update": "2026/08/27 08:46:50",
         "status": "yellow",
-        "ageSeconds": 1219
+        "ageSeconds": 1285
       }
     ],
     "Ruby": [
@@ -44,7 +44,17 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/27 08:38:58",
         "status": "yellow",
-        "ageSeconds": 1691
+        "ageSeconds": 1757
+      },
+      {
+        "name": "ネブ博士．",
+        "rank": "Ruby",
+        "point": 180,
+        "car": "ZC33S[DH]",
+        "shop": "パスカランド日田店",
+        "update": "2026/08/27 08:48:39",
+        "status": "yellow",
+        "ageSeconds": 1176
       }
     ],
     "Sapphire": [],
