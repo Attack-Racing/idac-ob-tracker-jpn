@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-28 02:23:53",
-  "activeSince": "2026-08-28 01:53:53",
-  "total": 8,
+  "trackerTime": "2026-08-28 02:25:58",
+  "activeSince": "2026-08-28 01:55:58",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
@@ -11,8 +11,8 @@
         "car": "ST205[HC]",
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/28 02:09:36",
-        "status": "green",
-        "ageSeconds": 857
+        "status": "yellow",
+        "ageSeconds": 982
       },
       {
         "name": "Ｖｉｏｌｅｔ",
@@ -22,7 +22,7 @@
         "shop": "アミューズメントパフェパレパレ田宮店",
         "update": "2026/08/28 02:15:26",
         "status": "green",
-        "ageSeconds": 507
+        "ageSeconds": 632
       }
     ],
     "Ruby": [
@@ -34,7 +34,7 @@
         "shop": "群馬レジャーランド高崎駅東口店",
         "update": "2026/08/28 02:04:52",
         "status": "yellow",
-        "ageSeconds": 1141
+        "ageSeconds": 1266
       },
       {
         "name": "十六夜　輝流",
@@ -44,7 +44,7 @@
         "shop": "アミュージアム茂原店",
         "update": "2026/08/28 02:15:20",
         "status": "green",
-        "ageSeconds": 513
+        "ageSeconds": 638
       },
       {
         "name": "おがしょーー",
@@ -54,7 +54,7 @@
         "shop": "群馬レジャーランド伊勢崎店",
         "update": "2026/08/28 02:04:31",
         "status": "yellow",
-        "ageSeconds": 1162
+        "ageSeconds": 1287
       },
       {
         "name": "桐間　紗路",
@@ -64,7 +64,7 @@
         "shop": "キャロム坂戸店",
         "update": "2026/08/28 02:04:52",
         "status": "yellow",
-        "ageSeconds": 1141
+        "ageSeconds": 1266
       },
       {
         "name": "かりにゃのＲ",
@@ -74,17 +74,7 @@
         "shop": "ラウンドワン東大阪店",
         "update": "2026/08/28 01:59:53",
         "status": "yellow",
-        "ageSeconds": 1440
-      },
-      {
-        "name": "てでざりんぐ",
-        "rank": "Ruby",
-        "point": 620,
-        "car": "NA1[HC]",
-        "shop": "ラウンドワン八千代村上店",
-        "update": "2026/08/28 01:53:56",
-        "status": "yellow",
-        "ageSeconds": 1797
+        "ageSeconds": 1565
       }
     ],
     "Sapphire": [],
