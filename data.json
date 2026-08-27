@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-28 00:42:59",
-  "activeSince": "2026-08-28 00:12:59",
-  "total": 14,
+  "trackerTime": "2026-08-28 00:44:40",
+  "activeSince": "2026-08-28 00:14:40",
+  "total": 11,
   "ranks": {
     "Pride": [
       {
@@ -11,8 +11,8 @@
         "car": "CE9Aエボ3[AR]",
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/28 00:28:46",
-        "status": "green",
-        "ageSeconds": 853
+        "status": "yellow",
+        "ageSeconds": 954
       },
       {
         "name": "バレンシーア",
@@ -21,8 +21,8 @@
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯスエヒロボウル徳島",
         "update": "2026/08/28 00:29:37",
-        "status": "green",
-        "ageSeconds": 802
+        "status": "yellow",
+        "ageSeconds": 903
       },
       {
         "name": "犬寄　しのぶ",
@@ -32,27 +32,7 @@
         "shop": "ラウンドワン沖縄・南風原店",
         "update": "2026/08/28 00:19:11",
         "status": "yellow",
-        "ageSeconds": 1428
-      },
-      {
-        "name": "あばろっとぉ",
-        "rank": "Pride",
-        "point": 3920,
-        "car": "NA1[AR]",
-        "shop": "アミパラ高知店",
-        "update": "2026/08/28 00:14:04",
-        "status": "yellow",
-        "ageSeconds": 1735
-      },
-      {
-        "name": "ＴＲＧ－４２",
-        "rank": "Pride",
-        "point": 1520,
-        "car": "ER34[AR]",
-        "shop": "アミューズメントスペース遊ランド春光店",
-        "update": "2026/08/28 00:14:11",
-        "status": "yellow",
-        "ageSeconds": 1728
+        "ageSeconds": 1529
       },
       {
         "name": "　　育児放棄",
@@ -61,8 +41,8 @@
         "car": "CT9Aエボ7[HC]",
         "shop": "関大前フタバボウル",
         "update": "2026/08/28 00:28:39",
-        "status": "green",
-        "ageSeconds": 860
+        "status": "yellow",
+        "ageSeconds": 961
       },
       {
         "name": "ドパガキＸ",
@@ -71,8 +51,8 @@
         "car": "CE9Aエボ3[AR]",
         "shop": "ゲームパニック新宿歌舞伎町",
         "update": "2026/08/28 00:28:47",
-        "status": "green",
-        "ageSeconds": 852
+        "status": "yellow",
+        "ageSeconds": 953
       }
     ],
     "Ruby": [
@@ -84,7 +64,7 @@
         "shop": "ＧｉＧＯ入間",
         "update": "2026/08/28 00:22:41",
         "status": "yellow",
-        "ageSeconds": 1218
+        "ageSeconds": 1319
       },
       {
         "name": "Ｔ－ｆａｌ",
@@ -94,7 +74,7 @@
         "shop": "タイトーステーション錦糸町楽天地店",
         "update": "2026/08/28 00:25:02",
         "status": "yellow",
-        "ageSeconds": 1077
+        "ageSeconds": 1178
       }
     ],
     "Sapphire": [
@@ -106,7 +86,7 @@
         "shop": "ＧｉＧＯスマーク伊勢崎",
         "update": "2026/08/28 00:31:09",
         "status": "green",
-        "ageSeconds": 710
+        "ageSeconds": 811
       },
       {
         "name": "☆ＶＥＧＡ☆",
@@ -115,8 +95,8 @@
         "car": "FD3S[AR]",
         "shop": "ラウンドワン千日前店",
         "update": "2026/08/28 00:29:15",
-        "status": "green",
-        "ageSeconds": 824
+        "status": "yellow",
+        "ageSeconds": 925
       },
       {
         "name": "たむちん",
@@ -125,8 +105,8 @@
         "car": "Z33[DH]",
         "shop": "群馬レジャーランド太田店",
         "update": "2026/08/28 00:29:15",
-        "status": "green",
-        "ageSeconds": 824
+        "status": "yellow",
+        "ageSeconds": 925
       },
       {
         "name": "与田　祐希",
@@ -136,17 +116,7 @@
         "shop": "楽市楽座イオンモール甲府店",
         "update": "2026/08/28 00:24:45",
         "status": "yellow",
-        "ageSeconds": 1094
-      },
-      {
-        "name": "ガバメンツ",
-        "rank": "Sapphire",
-        "point": 180,
-        "car": "BNR32[HC]",
-        "shop": "ラウンドワン沖縄・南風原店",
-        "update": "2026/08/28 00:13:40",
-        "status": "yellow",
-        "ageSeconds": 1759
+        "ageSeconds": 1195
       }
     ],
     "Emerald": [],
