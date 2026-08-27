@@ -1,18 +1,18 @@
 {
-  "trackerTime": "2026-08-28 01:49:51",
-  "activeSince": "2026-08-28 01:19:51",
-  "total": 4,
+  "trackerTime": "2026-08-28 01:51:50",
+  "activeSince": "2026-08-28 01:21:50",
+  "total": 5,
   "ranks": {
     "Pride": [
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 66880,
+        "point": 67140,
         "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/28 01:31:15",
-        "status": "yellow",
-        "ageSeconds": 1116
+        "update": "2026/08/28 01:45:58",
+        "status": "green",
+        "ageSeconds": 352
       },
       {
         "name": "ドパガキＸ",
@@ -22,7 +22,7 @@
         "shop": "ゲームパニック新宿歌舞伎町",
         "update": "2026/08/28 01:27:42",
         "status": "yellow",
-        "ageSeconds": 1329
+        "ageSeconds": 1448
       }
     ],
     "Ruby": [
@@ -34,7 +34,17 @@
         "shop": "アミュージアム茂原店",
         "update": "2026/08/28 01:27:42",
         "status": "yellow",
-        "ageSeconds": 1329
+        "ageSeconds": 1448
+      },
+      {
+        "name": "どかたニキ",
+        "rank": "Ruby",
+        "point": 520,
+        "car": "JZA80[AR]",
+        "shop": "ＰＡＬＯ五所川原",
+        "update": "2026/08/28 01:45:58",
+        "status": "green",
+        "ageSeconds": 352
       }
     ],
     "Sapphire": [],
@@ -47,7 +57,7 @@
         "shop": "ラウンドワン沖縄・南風原店",
         "update": "2026/08/28 01:28:30",
         "status": "yellow",
-        "ageSeconds": 1281
+        "ageSeconds": 1400
       }
     ],
     "Clear Blue": [],
