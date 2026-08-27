@@ -1,9 +1,19 @@
 {
-  "trackerTime": "2026-08-28 03:05:42",
-  "activeSince": "2026-08-28 02:35:42",
-  "total": 2,
+  "trackerTime": "2026-08-28 03:06:51",
+  "activeSince": "2026-08-28 02:36:51",
+  "total": 7,
   "ranks": {
     "Pride": [
+      {
+        "name": "わがまますぎ",
+        "rank": "Pride",
+        "point": 83880,
+        "car": "FD3S6[AR]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/08/28 02:59:58",
+        "status": "green",
+        "ageSeconds": 413
+      },
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
@@ -12,10 +22,30 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/28 02:45:46",
         "status": "yellow",
-        "ageSeconds": 1196
+        "ageSeconds": 1265
+      },
+      {
+        "name": "Ｖｉｏｌｅｔ",
+        "rank": "Pride",
+        "point": 8600,
+        "car": "JZA80[AR]",
+        "shop": "アミューズメントパフェパレパレ田宮店",
+        "update": "2026/08/28 02:59:21",
+        "status": "green",
+        "ageSeconds": 450
       }
     ],
     "Ruby": [
+      {
+        "name": "人間の端くれ",
+        "rank": "Ruby",
+        "point": 62340,
+        "car": "ST205[AR]",
+        "shop": "ｎａｍｃｏ博多バスターミナル店",
+        "update": "2026/08/28 02:59:25",
+        "status": "green",
+        "ageSeconds": 446
+      },
       {
         "name": "モリバトーレ",
         "rank": "Ruby",
@@ -24,7 +54,27 @@
         "shop": "ＧｉＧＯフレスポ東大阪",
         "update": "2026/08/28 02:45:46",
         "status": "yellow",
-        "ageSeconds": 1196
+        "ageSeconds": 1265
+      },
+      {
+        "name": "赤城ユイナ",
+        "rank": "Ruby",
+        "point": 1700,
+        "car": "シルエイティ[HC]",
+        "shop": "タイトーステーション 大宮店",
+        "update": "2026/08/28 03:00:05",
+        "status": "green",
+        "ageSeconds": 406
+      },
+      {
+        "name": "ｈａｏｓ．",
+        "rank": "Ruby",
+        "point": 1600,
+        "car": "FC3S[AR]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/08/28 02:53:25",
+        "status": "green",
+        "ageSeconds": 806
       }
     ],
     "Sapphire": [],
