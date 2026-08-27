@@ -1,21 +1,71 @@
 {
-  "trackerTime": "2026-08-28 02:05:59",
-  "activeSince": "2026-08-28 01:35:59",
-  "total": 2,
+  "trackerTime": "2026-08-28 02:08:00",
+  "activeSince": "2026-08-28 01:38:00",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 67140,
-        "car": "ST205[AR]",
+        "point": 67400,
+        "car": "CE9Aエボ3[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/28 01:45:58",
+        "update": "2026/08/28 01:52:21",
         "status": "yellow",
-        "ageSeconds": 1201
+        "ageSeconds": 938
       }
     ],
     "Ruby": [
+      {
+        "name": "無冠の帝王",
+        "rank": "Ruby",
+        "point": 16840,
+        "car": "ST205[AR]",
+        "shop": "群馬レジャーランド高崎駅東口店",
+        "update": "2026/08/28 01:58:21",
+        "status": "green",
+        "ageSeconds": 578
+      },
+      {
+        "name": "おがしょーー",
+        "rank": "Ruby",
+        "point": 2700,
+        "car": "ST205[AR]",
+        "shop": "群馬レジャーランド伊勢崎店",
+        "update": "2026/08/28 01:58:15",
+        "status": "green",
+        "ageSeconds": 584
+      },
+      {
+        "name": "桐間　紗路",
+        "rank": "Ruby",
+        "point": 2040,
+        "car": "ST205[AR]",
+        "shop": "キャロム坂戸店",
+        "update": "2026/08/28 01:59:54",
+        "status": "green",
+        "ageSeconds": 485
+      },
+      {
+        "name": "かりにゃのＲ",
+        "rank": "Ruby",
+        "point": 1940,
+        "car": "CT9Aエボ9[AR]",
+        "shop": "ラウンドワン東大阪店",
+        "update": "2026/08/28 01:59:53",
+        "status": "green",
+        "ageSeconds": 486
+      },
+      {
+        "name": "てでざりんぐ",
+        "rank": "Ruby",
+        "point": 620,
+        "car": "NA1[HC]",
+        "shop": "ラウンドワン八千代村上店",
+        "update": "2026/08/28 01:53:56",
+        "status": "green",
+        "ageSeconds": 843
+      },
       {
         "name": "どかたニキ",
         "rank": "Ruby",
@@ -24,7 +74,7 @@
         "shop": "ＰＡＬＯ五所川原",
         "update": "2026/08/28 01:45:58",
         "status": "yellow",
-        "ageSeconds": 1201
+        "ageSeconds": 1321
       }
     ],
     "Sapphire": [],
