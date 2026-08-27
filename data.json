@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-28 08:52:46",
-  "activeSince": "2026-08-28 08:22:46",
-  "total": 5,
+  "trackerTime": "2026-08-28 08:53:58",
+  "activeSince": "2026-08-28 08:23:58",
+  "total": 4,
   "ranks": {
     "Pride": [
       {
@@ -11,8 +11,8 @@
         "car": "ST205[AR]",
         "shop": "関大前フタバボウル",
         "update": "2026/08/28 08:37:51",
-        "status": "green",
-        "ageSeconds": 895
+        "status": "yellow",
+        "ageSeconds": 967
       }
     ],
     "Ruby": [
@@ -24,7 +24,7 @@
         "shop": "ラウンドワン京都伏見店",
         "update": "2026/08/28 08:35:34",
         "status": "yellow",
-        "ageSeconds": 1032
+        "ageSeconds": 1104
       },
       {
         "name": "はまちゅわん",
@@ -34,7 +34,7 @@
         "shop": "ＧｉＧＯあべのアポロ３Ｆ",
         "update": "2026/08/28 08:35:39",
         "status": "yellow",
-        "ageSeconds": 1027
+        "ageSeconds": 1099
       },
       {
         "name": "時崎　くるみ",
@@ -43,18 +43,8 @@
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯ生桑",
         "update": "2026/08/28 08:37:50",
-        "status": "green",
-        "ageSeconds": 896
-      },
-      {
-        "name": "ＭＩＳＡＫＩ",
-        "rank": "Ruby",
-        "point": 2660,
-        "car": "CP9Aエボ5[AR]",
-        "shop": "エースレーン近江八幡店",
-        "update": "2026/08/28 08:23:07",
         "status": "yellow",
-        "ageSeconds": 1779
+        "ageSeconds": 968
       }
     ],
     "Sapphire": [],
