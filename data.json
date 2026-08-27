@@ -1,94 +1,125 @@
 {
-  "trackerTime": "2026-08-27 09:37:22",
-  "activeSince": "2026-08-27 09:07:22",
-  "total": 8,
+  "trackerTime": "2026-08-27 09:39:22",
+  "activeSince": "2026-08-27 09:09:22",
+  "total": 11,
   "ranks": {
     "Pride": [
       {
         "name": "ノアてぃん",
         "rank": "Pride",
-        "point": 90780,
-        "car": "CE9Aエボ3[AR]",
+        "point": 91240,
+        "car": "ST205[AR]",
         "shop": "群馬レジャーランド伊勢崎店",
-        "update": "2026/08/27 09:13:26",
-        "status": "yellow",
-        "ageSeconds": 1436
+        "update": "2026/08/27 09:27:59",
+        "status": "green",
+        "ageSeconds": 683
       },
       {
         "name": "たこまけ",
         "rank": "Pride",
-        "point": 32600,
+        "point": 33380,
         "car": "ST205[AR]",
         "shop": "ゲームパニック大高",
-        "update": "2026/08/27 09:13:05",
-        "status": "yellow",
-        "ageSeconds": 1457
+        "update": "2026/08/27 09:28:09",
+        "status": "green",
+        "ageSeconds": 673
+      },
+      {
+        "name": "Ｏｃｈｏｉｒ",
+        "rank": "Pride",
+        "point": 30100,
+        "car": "ER34[AR]",
+        "shop": "ＧｉＧＯ日立",
+        "update": "2026/08/27 09:31:43",
+        "status": "green",
+        "ageSeconds": 459
       },
       {
         "name": "森島Ｌはるか",
         "rank": "Pride",
-        "point": 26860,
-        "car": "SW20[AR]",
+        "point": 27120,
+        "car": "ST205[AR]",
         "shop": "ゲームランド草津店",
-        "update": "2026/08/27 09:13:44",
-        "status": "yellow",
-        "ageSeconds": 1418
+        "update": "2026/08/27 09:30:51",
+        "status": "green",
+        "ageSeconds": 511
       }
     ],
     "Ruby": [
       {
         "name": "みれいの弟子",
         "rank": "Ruby",
-        "point": 7160,
+        "point": 7300,
         "car": "ST205[AR]",
         "shop": "ラウンドワン京都伏見店",
-        "update": "2026/08/27 09:13:33",
-        "status": "yellow",
-        "ageSeconds": 1429
+        "update": "2026/08/27 09:30:58",
+        "status": "green",
+        "ageSeconds": 504
       },
       {
         "name": "ぱるぱる",
         "rank": "Ruby",
-        "point": 3140,
+        "point": 3020,
         "car": "BNR32[AR]",
         "shop": "ラウンドワン半田店",
-        "update": "2026/08/27 09:09:42",
-        "status": "yellow",
-        "ageSeconds": 1660
+        "update": "2026/08/27 09:27:58",
+        "status": "green",
+        "ageSeconds": 684
       },
       {
         "name": "笑顔のレシピ",
         "rank": "Ruby",
-        "point": 2080,
-        "car": "AP1[DH]",
+        "point": 2280,
+        "car": "S15[AR]",
         "shop": "セガ東京ドームシティ",
-        "update": "2026/08/27 09:09:43",
+        "update": "2026/08/27 09:23:56",
         "status": "yellow",
-        "ageSeconds": 1659
+        "ageSeconds": 926
       },
       {
-        "name": "冗談は顔だけ",
+        "name": "いっちゃん",
         "rank": "Ruby",
-        "point": 1580,
-        "car": "ST205[AR]",
-        "shop": "アピナ松本店",
-        "update": "2026/08/27 09:08:15",
+        "point": 1800,
+        "car": "NA1[AR]",
+        "shop": "アミパラ草津店",
+        "update": "2026/08/27 09:18:35",
         "status": "yellow",
-        "ageSeconds": 1747
+        "ageSeconds": 1247
       },
       {
         "name": "朝比奈まふゆ",
         "rank": "Ruby",
-        "point": 780,
+        "point": 720,
         "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/27 09:13:12",
-        "status": "yellow",
-        "ageSeconds": 1450
+        "update": "2026/08/27 09:31:11",
+        "status": "green",
+        "ageSeconds": 491
       }
     ],
     "Sapphire": [],
-    "Emerald": [],
+    "Emerald": [
+      {
+        "name": "＊１７３",
+        "rank": "Emerald",
+        "point": 2840,
+        "car": "DC2[HC]",
+        "shop": "ゲーム　アルカナ",
+        "update": "2026/08/27 09:25:54",
+        "status": "green",
+        "ageSeconds": 808
+      },
+      {
+        "name": "かいばしら",
+        "rank": "Emerald",
+        "point": 420,
+        "car": "JZX100[HC]",
+        "shop": "群馬レジャーランド太田店",
+        "update": "2026/08/27 09:25:53",
+        "status": "green",
+        "ageSeconds": 809
+      }
+    ],
     "Clear Blue": [],
     "Clear Red": [],
     "Clear Green": [],
