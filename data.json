@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-28 03:49:02",
-  "activeSince": "2026-08-28 03:19:02",
-  "total": 3,
+  "trackerTime": "2026-08-28 03:50:58",
+  "activeSince": "2026-08-28 03:20:58",
+  "total": 4,
   "ranks": {
     "Pride": [
       {
@@ -12,20 +12,30 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/28 03:25:01",
         "status": "yellow",
-        "ageSeconds": 1441
+        "ageSeconds": 1557
       },
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 68960,
-        "car": "ST205[HC]",
+        "point": 69480,
+        "car": "CE9Aエボ3[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/28 03:30:09",
-        "status": "yellow",
-        "ageSeconds": 1133
+        "update": "2026/08/28 03:44:47",
+        "status": "green",
+        "ageSeconds": 371
       }
     ],
     "Ruby": [
+      {
+        "name": "人間の端くれ",
+        "rank": "Ruby",
+        "point": 62480,
+        "car": "86トレノ[AR]",
+        "shop": "ｎａｍｃｏ博多バスターミナル店",
+        "update": "2026/08/28 03:43:50",
+        "status": "green",
+        "ageSeconds": 428
+      },
       {
         "name": "ラクウェル．",
         "rank": "Ruby",
@@ -34,7 +44,7 @@
         "shop": "半田メトロポリス",
         "update": "2026/08/28 03:30:10",
         "status": "yellow",
-        "ageSeconds": 1132
+        "ageSeconds": 1248
       }
     ],
     "Sapphire": [],
