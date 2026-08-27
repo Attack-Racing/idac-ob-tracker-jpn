@@ -1,6 +1,6 @@
 {
-  "trackerTime": "2026-08-28 01:05:50",
-  "activeSince": "2026-08-28 00:35:50",
+  "trackerTime": "2026-08-28 01:07:58",
+  "activeSince": "2026-08-28 00:37:58",
   "total": 9,
   "ranks": {
     "Pride": [
@@ -12,7 +12,7 @@
         "shop": "沼津バッティングスタジアム",
         "update": "2026/08/28 00:46:23",
         "status": "yellow",
-        "ageSeconds": 1167
+        "ageSeconds": 1295
       },
       {
         "name": "あ＠とくしま",
@@ -22,17 +22,27 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/28 00:41:17",
         "status": "yellow",
-        "ageSeconds": 1473
+        "ageSeconds": 1601
+      },
+      {
+        "name": "Ｓすらーく＠",
+        "rank": "Pride",
+        "point": 2040,
+        "car": "FD3S[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/28 00:54:21",
+        "status": "green",
+        "ageSeconds": 817
       },
       {
         "name": "ドパガキＸ",
         "rank": "Pride",
-        "point": 1380,
-        "car": "CE9Aエボ3[AR]",
+        "point": 1640,
+        "car": "JZA80[AR]",
         "shop": "ゲームパニック新宿歌舞伎町",
-        "update": "2026/08/28 00:45:03",
+        "update": "2026/08/28 00:49:46",
         "status": "yellow",
-        "ageSeconds": 1247
+        "ageSeconds": 1092
       },
       {
         "name": "精神世界３０",
@@ -42,7 +52,7 @@
         "shop": "アピナ長野村山店",
         "update": "2026/08/28 00:43:46",
         "status": "yellow",
-        "ageSeconds": 1324
+        "ageSeconds": 1452
       }
     ],
     "Ruby": [
@@ -54,51 +64,41 @@
         "shop": "アミュージアム茂原店",
         "update": "2026/08/28 00:46:22",
         "status": "yellow",
-        "ageSeconds": 1168
+        "ageSeconds": 1296
       }
     ],
     "Sapphire": [
       {
         "name": "あわすばる",
         "rank": "Sapphire",
-        "point": 4300,
+        "point": 4400,
         "car": "CT9Aエボ7[DH]",
         "shop": "ＧｉＧＯスマーク伊勢崎",
-        "update": "2026/08/28 00:40:42",
-        "status": "yellow",
-        "ageSeconds": 1508
+        "update": "2026/08/28 00:58:19",
+        "status": "green",
+        "ageSeconds": 579
       },
       {
-        "name": "南極阿弥陀佛",
+        "name": "狸己京輸ｊｏ",
         "rank": "Sapphire",
-        "point": 980,
+        "point": 920,
         "car": "86トレノ2[HC]",
-        "shop": "ゲームサファリ池袋",
-        "update": "2026/08/28 00:36:37",
-        "status": "yellow",
-        "ageSeconds": 1753
-      },
-      {
-        "name": "☆ＶＥＧＡ☆",
-        "rank": "Sapphire",
-        "point": 760,
-        "car": "CT9Aエボ7[HC]",
-        "shop": "ラウンドワン千日前店",
-        "update": "2026/08/28 00:36:36",
-        "status": "yellow",
-        "ageSeconds": 1754
+        "shop": "ＳＰＥＥＤ",
+        "update": "2026/08/28 01:01:10",
+        "status": "green",
+        "ageSeconds": 408
       }
     ],
     "Emerald": [
       {
         "name": "ＧＲＫ",
         "rank": "Emerald",
-        "point": 4000,
+        "point": 3880,
         "car": "ZN8[DH]",
         "shop": "ラウンドワン沖縄・南風原店",
-        "update": "2026/08/28 00:46:38",
-        "status": "yellow",
-        "ageSeconds": 1152
+        "update": "2026/08/28 01:01:10",
+        "status": "green",
+        "ageSeconds": 408
       }
     ],
     "Clear Blue": [],
