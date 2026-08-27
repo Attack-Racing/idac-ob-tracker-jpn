@@ -1,50 +1,70 @@
 {
-  "trackerTime": "2026-08-28 02:19:55",
-  "activeSince": "2026-08-28 01:49:55",
-  "total": 6,
+  "trackerTime": "2026-08-28 02:21:57",
+  "activeSince": "2026-08-28 01:51:57",
+  "total": 8,
   "ranks": {
     "Pride": [
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 67400,
-        "car": "CE9Aエボ3[AR]",
+        "point": 67660,
+        "car": "ST205[HC]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/28 01:52:21",
-        "status": "yellow",
-        "ageSeconds": 1654
+        "update": "2026/08/28 02:09:36",
+        "status": "green",
+        "ageSeconds": 741
+      },
+      {
+        "name": "Ｖｉｏｌｅｔ",
+        "rank": "Pride",
+        "point": 7820,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "アミューズメントパフェパレパレ田宮店",
+        "update": "2026/08/28 02:15:26",
+        "status": "green",
+        "ageSeconds": 391
       }
     ],
     "Ruby": [
       {
         "name": "無冠の帝王",
         "rank": "Ruby",
-        "point": 16840,
-        "car": "ST205[AR]",
+        "point": 17100,
+        "car": "CZ4Aエボ10[HC]",
         "shop": "群馬レジャーランド高崎駅東口店",
-        "update": "2026/08/28 01:58:21",
+        "update": "2026/08/28 02:04:52",
         "status": "yellow",
-        "ageSeconds": 1294
+        "ageSeconds": 1025
+      },
+      {
+        "name": "十六夜　輝流",
+        "rank": "Ruby",
+        "point": 15420,
+        "car": "CP9Aエボ6[HC]",
+        "shop": "アミュージアム茂原店",
+        "update": "2026/08/28 02:15:20",
+        "status": "green",
+        "ageSeconds": 397
       },
       {
         "name": "おがしょーー",
         "rank": "Ruby",
-        "point": 2700,
+        "point": 2960,
         "car": "ST205[AR]",
         "shop": "群馬レジャーランド伊勢崎店",
-        "update": "2026/08/28 01:58:15",
+        "update": "2026/08/28 02:04:31",
         "status": "yellow",
-        "ageSeconds": 1300
+        "ageSeconds": 1046
       },
       {
         "name": "桐間　紗路",
         "rank": "Ruby",
-        "point": 2040,
+        "point": 1980,
         "car": "ST205[AR]",
         "shop": "キャロム坂戸店",
-        "update": "2026/08/28 01:59:54",
+        "update": "2026/08/28 02:04:52",
         "status": "yellow",
-        "ageSeconds": 1201
+        "ageSeconds": 1025
       },
       {
         "name": "かりにゃのＲ",
@@ -54,7 +74,7 @@
         "shop": "ラウンドワン東大阪店",
         "update": "2026/08/28 01:59:53",
         "status": "yellow",
-        "ageSeconds": 1202
+        "ageSeconds": 1324
       },
       {
         "name": "てでざりんぐ",
@@ -64,7 +84,7 @@
         "shop": "ラウンドワン八千代村上店",
         "update": "2026/08/28 01:53:56",
         "status": "yellow",
-        "ageSeconds": 1559
+        "ageSeconds": 1681
       }
     ],
     "Sapphire": [],
