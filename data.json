@@ -1,18 +1,18 @@
 {
-  "trackerTime": "2026-08-28 03:20:52",
-  "activeSince": "2026-08-28 02:50:52",
-  "total": 7,
+  "trackerTime": "2026-08-28 03:22:04",
+  "activeSince": "2026-08-28 02:52:04",
+  "total": 8,
   "ranks": {
     "Pride": [
       {
         "name": "わがまますぎ",
         "rank": "Pride",
-        "point": 83880,
+        "point": 83820,
         "car": "FD3S6[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/28 02:59:58",
+        "update": "2026/08/28 03:04:40",
         "status": "yellow",
-        "ageSeconds": 1254
+        "ageSeconds": 1044
       },
       {
         "name": "あ＠とくしま",
@@ -22,7 +22,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/28 03:14:26",
         "status": "green",
-        "ageSeconds": 386
+        "ageSeconds": 458
       },
       {
         "name": "Ｖｉｏｌｅｔ",
@@ -32,7 +32,7 @@
         "shop": "アミューズメントパフェパレパレ田宮店",
         "update": "2026/08/28 03:15:16",
         "status": "green",
-        "ageSeconds": 336
+        "ageSeconds": 408
       }
     ],
     "Ruby": [
@@ -44,7 +44,17 @@
         "shop": "ｎａｍｃｏ博多バスターミナル店",
         "update": "2026/08/28 03:09:50",
         "status": "green",
-        "ageSeconds": 662
+        "ageSeconds": 734
+      },
+      {
+        "name": "ラクウェル．",
+        "rank": "Ruby",
+        "point": 21920,
+        "car": "ST205[AR]",
+        "shop": "半田メトロポリス",
+        "update": "2026/08/28 03:15:16",
+        "status": "green",
+        "ageSeconds": 408
       },
       {
         "name": "けんきくん♯",
@@ -54,17 +64,17 @@
         "shop": "アミューズメントパフェパレパレ田宮店",
         "update": "2026/08/28 03:14:33",
         "status": "green",
-        "ageSeconds": 379
+        "ageSeconds": 451
       },
       {
         "name": "赤城ユイナ",
         "rank": "Ruby",
-        "point": 1700,
-        "car": "シルエイティ[HC]",
+        "point": 1640,
+        "car": "FD3S6[AR]",
         "shop": "タイトーステーション 大宮店",
-        "update": "2026/08/28 03:00:05",
-        "status": "yellow",
-        "ageSeconds": 1247
+        "update": "2026/08/28 03:08:08",
+        "status": "green",
+        "ageSeconds": 836
       },
       {
         "name": "ｈａｏｓ．",
@@ -74,7 +84,7 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/28 02:53:25",
         "status": "yellow",
-        "ageSeconds": 1647
+        "ageSeconds": 1719
       }
     ],
     "Sapphire": [],
