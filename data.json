@@ -1,10 +1,62 @@
 {
-  "trackerTime": "2026-08-28 08:34:51",
-  "activeSince": "2026-08-28 08:04:51",
-  "total": 0,
+  "trackerTime": "2026-08-28 08:36:48",
+  "activeSince": "2026-08-28 08:06:48",
+  "total": 5,
   "ranks": {
-    "Pride": [],
-    "Ruby": [],
+    "Pride": [
+      {
+        "name": "　　らーめん",
+        "rank": "Pride",
+        "point": 13360,
+        "car": "ST205[AR]",
+        "shop": "関大前フタバボウル",
+        "update": "2026/08/28 08:28:34",
+        "status": "green",
+        "ageSeconds": 494
+      }
+    ],
+    "Ruby": [
+      {
+        "name": "みれいの弟子",
+        "rank": "Ruby",
+        "point": 8100,
+        "car": "SW20[DH]",
+        "shop": "ラウンドワン京都伏見店",
+        "update": "2026/08/28 08:25:39",
+        "status": "green",
+        "ageSeconds": 669
+      },
+      {
+        "name": "はまちゅわん",
+        "rank": "Ruby",
+        "point": 5440,
+        "car": "FD3S[HC]",
+        "shop": "ＧｉＧＯあべのアポロ３Ｆ",
+        "update": "2026/08/28 08:28:35",
+        "status": "green",
+        "ageSeconds": 493
+      },
+      {
+        "name": "時崎　くるみ",
+        "rank": "Ruby",
+        "point": 3360,
+        "car": "SW20[DH]",
+        "shop": "ＧｉＧＯ生桑",
+        "update": "2026/08/28 08:31:08",
+        "status": "green",
+        "ageSeconds": 340
+      },
+      {
+        "name": "ＭＩＳＡＫＩ",
+        "rank": "Ruby",
+        "point": 2660,
+        "car": "CP9Aエボ5[AR]",
+        "shop": "エースレーン近江八幡店",
+        "update": "2026/08/28 08:23:07",
+        "status": "green",
+        "ageSeconds": 821
+      }
+    ],
     "Sapphire": [],
     "Emerald": [],
     "Clear Blue": [],
