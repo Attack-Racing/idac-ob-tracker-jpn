@@ -1,10 +1,42 @@
 {
-  "trackerTime": "2026-08-28 02:50:37",
-  "activeSince": "2026-08-28 02:20:37",
-  "total": 0,
+  "trackerTime": "2026-08-28 02:51:44",
+  "activeSince": "2026-08-28 02:21:44",
+  "total": 3,
   "ranks": {
-    "Pride": [],
-    "Ruby": [],
+    "Pride": [
+      {
+        "name": "あ＠とくしま",
+        "rank": "Pride",
+        "point": 67920,
+        "car": "ST205[HC]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/28 02:45:46",
+        "status": "green",
+        "ageSeconds": 357
+      },
+      {
+        "name": "Ｖｉｏｌｅｔ",
+        "rank": "Pride",
+        "point": 8080,
+        "car": "FD3S[AR]",
+        "shop": "アミューズメントパフェパレパレ田宮店",
+        "update": "2026/08/28 02:34:45",
+        "status": "yellow",
+        "ageSeconds": 1018
+      }
+    ],
+    "Ruby": [
+      {
+        "name": "モリバトーレ",
+        "rank": "Ruby",
+        "point": 15100,
+        "car": "FD3S6[AR]",
+        "shop": "ＧｉＧＯフレスポ東大阪",
+        "update": "2026/08/28 02:45:46",
+        "status": "green",
+        "ageSeconds": 357
+      }
+    ],
     "Sapphire": [],
     "Emerald": [],
     "Clear Blue": [],
