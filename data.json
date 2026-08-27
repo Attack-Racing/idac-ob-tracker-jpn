@@ -1,9 +1,19 @@
 {
-  "trackerTime": "2026-08-28 00:50:44",
-  "activeSince": "2026-08-28 00:20:44",
-  "total": 11,
+  "trackerTime": "2026-08-28 00:52:05",
+  "activeSince": "2026-08-28 00:22:05",
+  "total": 15,
   "ranks": {
     "Pride": [
+      {
+        "name": "ｔｋｓｉｎ．",
+        "rank": "Pride",
+        "point": 79860,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "沼津バッティングスタジアム",
+        "update": "2026/08/28 00:46:23",
+        "status": "green",
+        "ageSeconds": 342
+      },
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
@@ -12,7 +22,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/28 00:41:17",
         "status": "green",
-        "ageSeconds": 567
+        "ageSeconds": 648
       },
       {
         "name": "バレンシーア",
@@ -22,7 +32,17 @@
         "shop": "ＧｉＧＯスエヒロボウル徳島",
         "update": "2026/08/28 00:29:37",
         "status": "yellow",
-        "ageSeconds": 1267
+        "ageSeconds": 1348
+      },
+      {
+        "name": "ドパガキＸ",
+        "rank": "Pride",
+        "point": 1380,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "ゲームパニック新宿歌舞伎町",
+        "update": "2026/08/28 00:45:03",
+        "status": "green",
+        "ageSeconds": 422
       },
       {
         "name": "　　育児放棄",
@@ -32,20 +52,30 @@
         "shop": "関大前フタバボウル",
         "update": "2026/08/28 00:28:39",
         "status": "yellow",
-        "ageSeconds": 1325
+        "ageSeconds": 1406
       },
       {
-        "name": "ドパガキＸ",
+        "name": "精神世界３０",
         "rank": "Pride",
-        "point": 920,
+        "point": 460,
         "car": "CE9Aエボ3[AR]",
-        "shop": "ゲームパニック新宿歌舞伎町",
-        "update": "2026/08/28 00:28:47",
-        "status": "yellow",
-        "ageSeconds": 1317
+        "shop": "アピナ長野村山店",
+        "update": "2026/08/28 00:43:46",
+        "status": "green",
+        "ageSeconds": 499
       }
     ],
     "Ruby": [
+      {
+        "name": "十六夜　輝流",
+        "rank": "Ruby",
+        "point": 15080,
+        "car": "86トレノ[AR]",
+        "shop": "アミュージアム茂原店",
+        "update": "2026/08/28 00:46:22",
+        "status": "green",
+        "ageSeconds": 343
+      },
       {
         "name": "あんこ",
         "rank": "Ruby",
@@ -54,7 +84,7 @@
         "shop": "ＧｉＧＯ入間",
         "update": "2026/08/28 00:22:41",
         "status": "yellow",
-        "ageSeconds": 1683
+        "ageSeconds": 1764
       },
       {
         "name": "Ｔ－ｆａｌ",
@@ -64,29 +94,39 @@
         "shop": "タイトーステーション錦糸町楽天地店",
         "update": "2026/08/28 00:25:02",
         "status": "yellow",
-        "ageSeconds": 1542
+        "ageSeconds": 1623
       }
     ],
     "Sapphire": [
       {
         "name": "あわすばる",
         "rank": "Sapphire",
-        "point": 4060,
-        "car": "NA1[AR]",
+        "point": 4300,
+        "car": "CT9Aエボ7[DH]",
         "shop": "ＧｉＧＯスマーク伊勢崎",
-        "update": "2026/08/28 00:31:09",
+        "update": "2026/08/28 00:40:42",
+        "status": "green",
+        "ageSeconds": 683
+      },
+      {
+        "name": "南極阿弥陀佛",
+        "rank": "Sapphire",
+        "point": 980,
+        "car": "86トレノ2[HC]",
+        "shop": "ゲームサファリ池袋",
+        "update": "2026/08/28 00:36:37",
         "status": "yellow",
-        "ageSeconds": 1175
+        "ageSeconds": 928
       },
       {
         "name": "☆ＶＥＧＡ☆",
         "rank": "Sapphire",
-        "point": 820,
-        "car": "FD3S[AR]",
+        "point": 760,
+        "car": "CT9Aエボ7[HC]",
         "shop": "ラウンドワン千日前店",
-        "update": "2026/08/28 00:29:15",
+        "update": "2026/08/28 00:36:36",
         "status": "yellow",
-        "ageSeconds": 1289
+        "ageSeconds": 929
       },
       {
         "name": "たむちん",
@@ -96,7 +136,7 @@
         "shop": "群馬レジャーランド太田店",
         "update": "2026/08/28 00:29:15",
         "status": "yellow",
-        "ageSeconds": 1289
+        "ageSeconds": 1370
       },
       {
         "name": "与田　祐希",
@@ -106,7 +146,7 @@
         "shop": "楽市楽座イオンモール甲府店",
         "update": "2026/08/28 00:24:45",
         "status": "yellow",
-        "ageSeconds": 1559
+        "ageSeconds": 1640
       }
     ],
     "Emerald": [
@@ -118,7 +158,7 @@
         "shop": "ラウンドワン沖縄・南風原店",
         "update": "2026/08/28 00:46:38",
         "status": "green",
-        "ageSeconds": 246
+        "ageSeconds": 327
       }
     ],
     "Clear Blue": [],
