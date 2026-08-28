@@ -1,49 +1,80 @@
 {
-  "trackerTime": "2026-08-29 08:20:38",
-  "activeSince": "2026-08-29 07:50:38",
-  "total": 8,
+  "trackerTime": "2026-08-29 08:21:56",
+  "activeSince": "2026-08-29 07:51:56",
+  "total": 12,
   "ranks": {
-    "Pride": [],
+    "Pride": [
+      {
+        "name": "ｔｋｓｉｎ．",
+        "rank": "Pride",
+        "point": 81420,
+        "car": "ST205[AR]",
+        "shop": "沼津バッティングスタジアム",
+        "update": "2026/08/29 08:14:32",
+        "status": "green",
+        "ageSeconds": 444
+      },
+      {
+        "name": "ゆにこーん",
+        "rank": "Pride",
+        "point": 20080,
+        "car": "シルエイティ[AR]",
+        "shop": "ラウンドワン岸和田店",
+        "update": "2026/08/29 08:09:25",
+        "status": "green",
+        "ageSeconds": 751
+      },
+      {
+        "name": "実行役の漢",
+        "rank": "Pride",
+        "point": 1720,
+        "car": "CN9Aエボ4[HC]",
+        "shop": "タイトーFステーションヨドバシ博多店",
+        "update": "2026/08/29 08:04:00",
+        "status": "yellow",
+        "ageSeconds": 1076
+      }
+    ],
     "Ruby": [
       {
         "name": "シランケド",
         "rank": "Ruby",
-        "point": 278960,
-        "car": "86トレノ[AR]",
+        "point": 279100,
+        "car": "NA1[AR]",
         "shop": "プラサカプコン羽生店",
-        "update": "2026/08/29 07:57:22",
-        "status": "yellow",
-        "ageSeconds": 1396
+        "update": "2026/08/29 08:15:14",
+        "status": "green",
+        "ageSeconds": 402
       },
       {
         "name": "夢咲乃愛",
         "rank": "Ruby",
-        "point": 84080,
-        "car": "CZ4Aエボ10[AR]",
+        "point": 84340,
+        "car": "NA1[AR]",
         "shop": "関大前フタバボウル",
-        "update": "2026/08/29 07:57:01",
-        "status": "yellow",
-        "ageSeconds": 1417
+        "update": "2026/08/29 08:13:34",
+        "status": "green",
+        "ageSeconds": 502
       },
       {
         "name": "ＭＩ",
         "rank": "Ruby",
-        "point": 81640,
+        "point": 81520,
         "car": "CT9Aエボ9[AR]",
         "shop": "群馬レジャーランド太田店",
-        "update": "2026/08/29 08:01:50",
-        "status": "yellow",
-        "ageSeconds": 1128
+        "update": "2026/08/29 08:13:33",
+        "status": "green",
+        "ageSeconds": 503
       },
       {
         "name": "るな",
         "rank": "Ruby",
-        "point": 44340,
-        "car": "86トレノ[AR]",
+        "point": 44480,
+        "car": "FD3S6[AR]",
         "shop": "ＧｉＧＯ今福",
-        "update": "2026/08/29 07:58:05",
-        "status": "yellow",
-        "ageSeconds": 1353
+        "update": "2026/08/29 08:14:33",
+        "status": "green",
+        "ageSeconds": 443
       },
       {
         "name": "フルーチェ♪",
@@ -53,7 +84,7 @@
         "shop": "ゲームコング",
         "update": "2026/08/29 07:52:22",
         "status": "yellow",
-        "ageSeconds": 1696
+        "ageSeconds": 1774
       },
       {
         "name": "また親一二三",
@@ -63,7 +94,27 @@
         "shop": "キャロム青梅店",
         "update": "2026/08/29 07:58:06",
         "status": "yellow",
-        "ageSeconds": 1352
+        "ageSeconds": 1430
+      },
+      {
+        "name": "ＫＡＫＥＲＵ",
+        "rank": "Ruby",
+        "point": 2980,
+        "car": "85レビン[HC]",
+        "shop": "ラウンドワン市川鬼高店",
+        "update": "2026/08/29 08:08:20",
+        "status": "green",
+        "ageSeconds": 816
+      },
+      {
+        "name": "ぎんがのきき",
+        "rank": "Ruby",
+        "point": 2720,
+        "car": "FD3S[AR]",
+        "shop": "ラウンドワン千日前店",
+        "update": "2026/08/29 08:15:07",
+        "status": "green",
+        "ageSeconds": 409
       },
       {
         "name": "ＳＹＯＵＴＡ",
@@ -73,17 +124,7 @@
         "shop": "ラウンドワン市川鬼高店",
         "update": "2026/08/29 07:57:22",
         "status": "yellow",
-        "ageSeconds": 1396
-      },
-      {
-        "name": "ぎんがのきき",
-        "rank": "Ruby",
-        "point": 2520,
-        "car": "NA1[HC]",
-        "shop": "ラウンドワン千日前店",
-        "update": "2026/08/29 08:01:49",
-        "status": "yellow",
-        "ageSeconds": 1129
+        "ageSeconds": 1474
       }
     ],
     "Sapphire": [],
