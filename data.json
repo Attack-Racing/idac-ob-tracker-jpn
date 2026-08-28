@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-29 01:41:39",
-  "activeSince": "2026-08-29 01:11:39",
-  "total": 13,
+  "trackerTime": "2026-08-29 01:42:57",
+  "activeSince": "2026-08-29 01:12:57",
+  "total": 11,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "アミパラ倉敷店",
         "update": "2026/08/29 01:29:17",
         "status": "green",
-        "ageSeconds": 741
+        "ageSeconds": 820
       },
       {
         "name": "あ＠とくしま",
@@ -22,7 +22,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/29 01:29:47",
         "status": "green",
-        "ageSeconds": 711
+        "ageSeconds": 790
       },
       {
         "name": "Ｅｃｈｏ．",
@@ -32,7 +32,7 @@
         "shop": "ＧｉＧＯ中間",
         "update": "2026/08/29 01:31:42",
         "status": "green",
-        "ageSeconds": 596
+        "ageSeconds": 675
       },
       {
         "name": "Ｚｅｒａ",
@@ -41,8 +41,8 @@
         "car": "CP9Aエボ6[AR]",
         "shop": "アミパラ倉敷店",
         "update": "2026/08/29 01:27:38",
-        "status": "green",
-        "ageSeconds": 840
+        "status": "yellow",
+        "ageSeconds": 919
       },
       {
         "name": "夏草の線路",
@@ -51,8 +51,8 @@
         "car": "CP9Aエボ6[HC]",
         "shop": "M's PARK豊田店",
         "update": "2026/08/29 01:27:38",
-        "status": "green",
-        "ageSeconds": 840
+        "status": "yellow",
+        "ageSeconds": 919
       },
       {
         "name": "－ＡｉＲ－",
@@ -62,7 +62,7 @@
         "shop": "アピナ小山店",
         "update": "2026/08/29 01:23:47",
         "status": "yellow",
-        "ageSeconds": 1071
+        "ageSeconds": 1150
       },
       {
         "name": "高木さん",
@@ -72,7 +72,7 @@
         "shop": "アピナ長野川中島店",
         "update": "2026/08/29 01:31:41",
         "status": "green",
-        "ageSeconds": 597
+        "ageSeconds": 676
       },
       {
         "name": "フリースピン",
@@ -82,7 +82,7 @@
         "shop": "キャロム青梅店",
         "update": "2026/08/29 01:21:44",
         "status": "yellow",
-        "ageSeconds": 1194
+        "ageSeconds": 1273
       }
     ],
     "Ruby": [
@@ -94,27 +94,7 @@
         "shop": "ラウンドワン山梨・石和店",
         "update": "2026/08/29 01:29:48",
         "status": "green",
-        "ageSeconds": 710
-      },
-      {
-        "name": "漆黒の麻友",
-        "rank": "Ruby",
-        "point": 4500,
-        "car": "FD3S[AR]",
-        "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/29 01:12:40",
-        "status": "yellow",
-        "ageSeconds": 1738
-      },
-      {
-        "name": "艶～ｅｎ～蝕",
-        "rank": "Ruby",
-        "point": 2860,
-        "car": "FC3S[AR]",
-        "shop": "バイパスレジャーランド藤江新館",
-        "update": "2026/08/29 01:11:50",
-        "status": "yellow",
-        "ageSeconds": 1788
+        "ageSeconds": 789
       },
       {
         "name": "キミに贈る歌",
@@ -124,7 +104,7 @@
         "shop": "ＧｉＧＯイオンモールむさし村山",
         "update": "2026/08/29 01:29:17",
         "status": "green",
-        "ageSeconds": 741
+        "ageSeconds": 820
       }
     ],
     "Sapphire": [],
@@ -136,8 +116,8 @@
         "car": "AP1[DH]",
         "shop": "ゲームゴジラ",
         "update": "2026/08/29 01:27:34",
-        "status": "green",
-        "ageSeconds": 844
+        "status": "yellow",
+        "ageSeconds": 923
       }
     ],
     "Clear Blue": [],
