@@ -1,33 +1,43 @@
 {
-  "trackerTime": "2026-08-28 09:06:57",
-  "activeSince": "2026-08-28 08:36:57",
-  "total": 2,
+  "trackerTime": "2026-08-28 09:08:51",
+  "activeSince": "2026-08-28 08:38:51",
+  "total": 3,
   "ranks": {
-    "Pride": [
-      {
-        "name": "　　らーめん",
-        "rank": "Pride",
-        "point": 13620,
-        "car": "ST205[AR]",
-        "shop": "関大前フタバボウル",
-        "update": "2026/08/28 08:37:51",
-        "status": "yellow",
-        "ageSeconds": 1746
-      }
-    ],
+    "Pride": [],
     "Ruby": [
       {
-        "name": "時崎　くるみ",
+        "name": "みれいの弟子",
         "rank": "Ruby",
-        "point": 3300,
-        "car": "ST205[AR]",
-        "shop": "ＧｉＧＯ生桑",
-        "update": "2026/08/28 08:37:50",
-        "status": "yellow",
-        "ageSeconds": 1747
+        "point": 8600,
+        "car": "EG6[HC]",
+        "shop": "ラウンドワン京都伏見店",
+        "update": "2026/08/28 08:54:16",
+        "status": "green",
+        "ageSeconds": 875
+      },
+      {
+        "name": "ＭＩＳＡＫＩ",
+        "rank": "Ruby",
+        "point": 2900,
+        "car": "FD3S[AR]",
+        "shop": "エースレーン近江八幡店",
+        "update": "2026/08/28 09:01:16",
+        "status": "green",
+        "ageSeconds": 455
       }
     ],
-    "Sapphire": [],
+    "Sapphire": [
+      {
+        "name": "ёらいぴっぴ",
+        "rank": "Sapphire",
+        "point": 1320,
+        "car": "NA1[DH]",
+        "shop": "新宿スポーツランド本館",
+        "update": "2026/08/28 09:01:15",
+        "status": "green",
+        "ageSeconds": 456
+      }
+    ],
     "Emerald": [],
     "Clear Blue": [],
     "Clear Red": [],
