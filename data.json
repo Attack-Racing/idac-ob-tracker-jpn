@@ -1,45 +1,87 @@
 {
-  "trackerTime": "2026-08-29 07:50:39",
-  "activeSince": "2026-08-29 07:20:39",
-  "total": 3,
+  "trackerTime": "2026-08-29 07:51:48",
+  "activeSince": "2026-08-29 07:21:48",
+  "total": 7,
   "ranks": {
     "Pride": [],
     "Ruby": [
       {
         "name": "シランケド",
         "rank": "Ruby",
-        "point": 278240,
+        "point": 278760,
         "car": "RZ34[AR]",
         "shop": "プラサカプコン羽生店",
-        "update": "2026/08/29 07:21:10",
-        "status": "yellow",
-        "ageSeconds": 1769
+        "update": "2026/08/29 07:45:52",
+        "status": "green",
+        "ageSeconds": 355
       },
       {
         "name": "夢咲乃愛",
         "rank": "Ruby",
-        "point": 83680,
+        "point": 83880,
         "car": "ZZW30[HC]",
         "shop": "関大前フタバボウル",
-        "update": "2026/08/29 07:26:00",
-        "status": "yellow",
-        "ageSeconds": 1479
+        "update": "2026/08/29 07:46:30",
+        "status": "green",
+        "ageSeconds": 317
+      },
+      {
+        "name": "ＭＩ",
+        "rank": "Ruby",
+        "point": 81440,
+        "car": "RZ34[AR]",
+        "shop": "群馬レジャーランド太田店",
+        "update": "2026/08/29 07:45:51",
+        "status": "green",
+        "ageSeconds": 356
       },
       {
         "name": "るな",
         "rank": "Ruby",
-        "point": 44200,
+        "point": 44140,
         "car": "86トレノ[AR]",
         "shop": "ＧｉＧＯ今福",
-        "update": "2026/08/29 07:25:59",
-        "status": "yellow",
-        "ageSeconds": 1480
+        "update": "2026/08/29 07:39:41",
+        "status": "green",
+        "ageSeconds": 726
+      },
+      {
+        "name": "龍一郎の弟子",
+        "rank": "Ruby",
+        "point": 3120,
+        "car": "964[HC]",
+        "shop": "タイトーＦステーション市川妙典店",
+        "update": "2026/08/29 07:46:24",
+        "status": "green",
+        "ageSeconds": 323
       }
     ],
     "Sapphire": [],
-    "Emerald": [],
+    "Emerald": [
+      {
+        "name": "～＊蒼＊～",
+        "rank": "Emerald",
+        "point": 1980,
+        "car": "86トレノ[DH]",
+        "shop": "ラウンドワン堺中央環状店",
+        "update": "2026/08/29 07:46:02",
+        "status": "green",
+        "ageSeconds": 345
+      }
+    ],
     "Clear Blue": [],
-    "Clear Red": [],
+    "Clear Red": [
+      {
+        "name": "名探偵",
+        "rank": "Clear Red",
+        "point": 6420,
+        "car": "EK9[DH]",
+        "shop": "アミューズメントパフェパレパレ田宮店",
+        "update": "2026/08/29 07:46:01",
+        "status": "green",
+        "ageSeconds": 346
+      }
+    ],
     "Clear Green": [],
     "Unknown Online Rank": []
   }
