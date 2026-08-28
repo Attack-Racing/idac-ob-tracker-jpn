@@ -1,18 +1,18 @@
 {
-  "trackerTime": "2026-08-29 03:06:52",
-  "activeSince": "2026-08-29 02:36:52",
-  "total": 12,
+  "trackerTime": "2026-08-29 03:09:01",
+  "activeSince": "2026-08-29 02:39:01",
+  "total": 13,
   "ranks": {
     "Pride": [
       {
         "name": "ふぁいなる",
         "rank": "Pride",
-        "point": 164360,
+        "point": 164820,
         "car": "FD3S[AR]",
         "shop": "ゲーム＆ビリヤード　遊ｉｎｇ",
-        "update": "2026/08/29 02:44:23",
-        "status": "yellow",
-        "ageSeconds": 1349
+        "update": "2026/08/29 03:00:03",
+        "status": "green",
+        "ageSeconds": 538
       },
       {
         "name": "ｊｏｋｅｒ？",
@@ -22,7 +22,7 @@
         "shop": "アミパラ松江店",
         "update": "2026/08/29 02:51:05",
         "status": "yellow",
-        "ageSeconds": 947
+        "ageSeconds": 1076
       },
       {
         "name": "青眼の魔術師",
@@ -32,7 +32,7 @@
         "shop": "ＧｉＧＯ豊橋飯村",
         "update": "2026/08/29 03:00:02",
         "status": "green",
-        "ageSeconds": 410
+        "ageSeconds": 539
       },
       {
         "name": "あ＠とくしま",
@@ -41,61 +41,61 @@
         "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/29 02:52:38",
-        "status": "green",
-        "ageSeconds": 854
-      },
-      {
-        "name": "バレンシーア",
-        "rank": "Pride",
-        "point": 56920,
-        "car": "CP9Aエボ6[AR]",
-        "shop": "ＧｉＧＯスエヒロボウル徳島",
-        "update": "2026/08/29 02:38:55",
         "status": "yellow",
-        "ageSeconds": 1677
+        "ageSeconds": 983
       },
       {
         "name": "－ＡｉＲ－",
         "rank": "Pride",
-        "point": 11760,
+        "point": 12020,
         "car": "ST205[AR]",
         "shop": "アピナ小山店",
-        "update": "2026/08/29 02:44:23",
+        "update": "2026/08/29 02:49:41",
         "status": "yellow",
-        "ageSeconds": 1349
+        "ageSeconds": 1160
       },
       {
         "name": "フリースピン",
         "rank": "Pride",
-        "point": 3480,
+        "point": 3420,
         "car": "ST205[AR]",
         "shop": "キャロム青梅店",
-        "update": "2026/08/29 02:44:29",
+        "update": "2026/08/29 02:50:52",
         "status": "yellow",
-        "ageSeconds": 1343
+        "ageSeconds": 1089
       },
       {
         "name": "綾瀬　桃",
         "rank": "Pride",
-        "point": 1500,
+        "point": 1440,
         "car": "FD3S[AR]",
         "shop": "ゲームメガみらい平店",
-        "update": "2026/08/29 02:46:04",
+        "update": "2026/08/29 02:51:04",
         "status": "yellow",
-        "ageSeconds": 1248
+        "ageSeconds": 1077
       },
       {
         "name": "精神世界３０",
         "rank": "Pride",
-        "point": 400,
+        "point": 340,
         "car": "ER34[AR]",
         "shop": "アピナ長野村山店",
-        "update": "2026/08/29 02:44:36",
+        "update": "2026/08/29 02:49:41",
         "status": "yellow",
-        "ageSeconds": 1336
+        "ageSeconds": 1160
       }
     ],
     "Ruby": [
+      {
+        "name": "あぁ～ち",
+        "rank": "Ruby",
+        "point": 18420,
+        "car": "S15[AR]",
+        "shop": "タイトーステーション 盛岡マッハランド店",
+        "update": "2026/08/29 02:54:57",
+        "status": "green",
+        "ageSeconds": 844
+      },
       {
         "name": "Ｎｅｃｈｏ．",
         "rank": "Ruby",
@@ -104,17 +104,27 @@
         "shop": "ブック245",
         "update": "2026/08/29 02:49:24",
         "status": "yellow",
-        "ageSeconds": 1048
+        "ageSeconds": 1177
       },
       {
         "name": "なぁちゃん",
         "rank": "Ruby",
-        "point": 7940,
+        "point": 8140,
         "car": "ST205[AR]",
         "shop": "タイトーステーション 和光店",
-        "update": "2026/08/29 02:46:03",
+        "update": "2026/08/29 02:58:55",
+        "status": "green",
+        "ageSeconds": 606
+      },
+      {
+        "name": "病三杉　愛望",
+        "rank": "Ruby",
+        "point": 7380,
+        "car": "SW20[AR]",
+        "shop": "ＧｉＧＯ神栖",
+        "update": "2026/08/29 02:53:51",
         "status": "yellow",
-        "ageSeconds": 1249
+        "ageSeconds": 910
       },
       {
         "name": "おですこ",
@@ -124,7 +134,7 @@
         "shop": "タイトーステーションフジグラン北島店",
         "update": "2026/08/29 02:58:56",
         "status": "green",
-        "ageSeconds": 476
+        "ageSeconds": 605
       }
     ],
     "Sapphire": [],
