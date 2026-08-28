@@ -1,70 +1,110 @@
 {
-  "trackerTime": "2026-08-29 08:35:54",
-  "activeSince": "2026-08-29 08:05:54",
-  "total": 8,
+  "trackerTime": "2026-08-29 08:37:57",
+  "activeSince": "2026-08-29 08:07:57",
+  "total": 14,
   "ranks": {
     "Pride": [
       {
+        "name": "下神アンダー",
+        "rank": "Pride",
+        "point": 198400,
+        "car": "ST205[AR]",
+        "shop": "ＧｉＧＯｍｏｚｏワンダーシティ",
+        "update": "2026/08/29 08:31:07",
+        "status": "green",
+        "ageSeconds": 410
+      },
+      {
         "name": "ｔｋｓｉｎ．",
         "rank": "Pride",
-        "point": 81420,
+        "point": 81680,
         "car": "ST205[AR]",
         "shop": "沼津バッティングスタジアム",
-        "update": "2026/08/29 08:14:32",
+        "update": "2026/08/29 08:21:13",
         "status": "yellow",
-        "ageSeconds": 1282
+        "ageSeconds": 1004
       },
       {
         "name": "ゆにこーん",
         "rank": "Pride",
-        "point": 20080,
-        "car": "シルエイティ[AR]",
+        "point": 20540,
+        "car": "FD3S[HC]",
         "shop": "ラウンドワン岸和田店",
-        "update": "2026/08/29 08:09:25",
-        "status": "yellow",
-        "ageSeconds": 1589
+        "update": "2026/08/29 08:31:08",
+        "status": "green",
+        "ageSeconds": 409
       }
     ],
     "Ruby": [
       {
         "name": "シランケド",
         "rank": "Ruby",
-        "point": 279100,
+        "point": 279040,
         "car": "NA1[AR]",
         "shop": "プラサカプコン羽生店",
-        "update": "2026/08/29 08:15:14",
+        "update": "2026/08/29 08:21:14",
         "status": "yellow",
-        "ageSeconds": 1240
+        "ageSeconds": 1003
       },
       {
         "name": "夢咲乃愛",
         "rank": "Ruby",
-        "point": 84340,
-        "car": "NA1[AR]",
+        "point": 84280,
+        "car": "CE9Aエボ3[DH]",
         "shop": "関大前フタバボウル",
-        "update": "2026/08/29 08:13:34",
+        "update": "2026/08/29 08:19:21",
         "status": "yellow",
-        "ageSeconds": 1340
+        "ageSeconds": 1116
       },
       {
         "name": "ＭＩ",
         "rank": "Ruby",
-        "point": 81520,
-        "car": "CT9Aエボ9[AR]",
+        "point": 82040,
+        "car": "CP9Aエボ5[AR]",
         "shop": "群馬レジャーランド太田店",
-        "update": "2026/08/29 08:13:33",
-        "status": "yellow",
-        "ageSeconds": 1341
+        "update": "2026/08/29 08:29:46",
+        "status": "green",
+        "ageSeconds": 491
       },
       {
         "name": "るな",
         "rank": "Ruby",
-        "point": 44480,
-        "car": "FD3S6[AR]",
+        "point": 44680,
+        "car": "86トレノ[AR]",
         "shop": "ＧｉＧＯ今福",
-        "update": "2026/08/29 08:14:33",
-        "status": "yellow",
-        "ageSeconds": 1281
+        "update": "2026/08/29 08:29:37",
+        "status": "green",
+        "ageSeconds": 500
+      },
+      {
+        "name": "風ニモマケズ",
+        "rank": "Ruby",
+        "point": 21120,
+        "car": "CT9Aエボ7[HC]",
+        "shop": "上越レジャーランボウル",
+        "update": "2026/08/29 08:30:47",
+        "status": "green",
+        "ageSeconds": 430
+      },
+      {
+        "name": "ＳＨＲ",
+        "rank": "Ruby",
+        "point": 20880,
+        "car": "GC8[HC]",
+        "shop": "ＧｉＧＯ尾道",
+        "update": "2026/08/29 08:29:47",
+        "status": "green",
+        "ageSeconds": 490
+      },
+      {
+        "name": "谷口　美奈子",
+        "rank": "Ruby",
+        "point": 3180,
+        "car": "FC3S[DH]",
+        "shop": "ラウンドワン市川鬼高店",
+        "update": "2026/08/29 08:29:37",
+        "status": "green",
+        "ageSeconds": 500
       },
       {
         "name": "ＫＡＫＥＲＵ",
@@ -74,17 +114,37 @@
         "shop": "ラウンドワン市川鬼高店",
         "update": "2026/08/29 08:08:20",
         "status": "yellow",
-        "ageSeconds": 1654
+        "ageSeconds": 1777
       },
       {
         "name": "ぎんがのきき",
         "rank": "Ruby",
-        "point": 2720,
-        "car": "FD3S[AR]",
+        "point": 2600,
+        "car": "CP9Aエボ6[HC]",
         "shop": "ラウンドワン千日前店",
-        "update": "2026/08/29 08:15:07",
+        "update": "2026/08/29 08:30:46",
+        "status": "green",
+        "ageSeconds": 431
+      },
+      {
+        "name": "櫻井　理那",
+        "rank": "Ruby",
+        "point": 2460,
+        "car": "FC3S[DH]",
+        "shop": "ラウンドワン市川鬼高店",
+        "update": "2026/08/29 08:22:47",
         "status": "yellow",
-        "ageSeconds": 1247
+        "ageSeconds": 910
+      },
+      {
+        "name": "百地　希留耶",
+        "rank": "Ruby",
+        "point": 2160,
+        "car": "BNR32[AR]",
+        "shop": "アソビックスゲームワールド",
+        "update": "2026/08/29 08:24:26",
+        "status": "green",
+        "ageSeconds": 811
       }
     ],
     "Sapphire": [],
