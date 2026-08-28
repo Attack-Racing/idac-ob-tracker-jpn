@@ -1,70 +1,60 @@
 {
-  "trackerTime": "2026-08-29 03:49:59",
-  "activeSince": "2026-08-29 03:19:59",
-  "total": 7,
+  "trackerTime": "2026-08-29 03:51:59",
+  "activeSince": "2026-08-29 03:21:59",
+  "total": 6,
   "ranks": {
     "Pride": [
       {
         "name": "ふぁいなる",
         "rank": "Pride",
-        "point": 165480,
-        "car": "CE9Aエボ3[AR]",
+        "point": 165740,
+        "car": "FD3S[AR]",
         "shop": "ゲーム＆ビリヤード　遊ｉｎｇ",
-        "update": "2026/08/29 03:28:04",
+        "update": "2026/08/29 03:33:55",
         "status": "yellow",
-        "ageSeconds": 1315
+        "ageSeconds": 1083
       },
       {
         "name": "青眼の魔術師",
         "rank": "Pride",
-        "point": 123940,
+        "point": 124460,
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯ豊橋飯村",
-        "update": "2026/08/29 03:27:48",
-        "status": "yellow",
-        "ageSeconds": 1331
+        "update": "2026/08/29 03:39:39",
+        "status": "green",
+        "ageSeconds": 739
+      },
+      {
+        "name": "ｔｋｓｉｎ．",
+        "rank": "Pride",
+        "point": 80640,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "沼津バッティングスタジアム",
+        "update": "2026/08/29 03:44:10",
+        "status": "green",
+        "ageSeconds": 468
       },
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 73620,
-        "car": "シルエイティ[HC]",
+        "point": 73820,
+        "car": "CE9Aエボ3[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/29 03:28:02",
-        "status": "yellow",
-        "ageSeconds": 1317
-      },
-      {
-        "name": "バレンシーア",
-        "rank": "Pride",
-        "point": 57440,
-        "car": "ST205[AR]",
-        "shop": "ＧｉＧＯスエヒロボウル徳島",
-        "update": "2026/08/29 03:21:48",
-        "status": "yellow",
-        "ageSeconds": 1691
+        "update": "2026/08/29 03:46:17",
+        "status": "green",
+        "ageSeconds": 341
       }
     ],
     "Ruby": [
       {
         "name": "なぁちゃん",
         "rank": "Ruby",
-        "point": 8220,
-        "car": "AP1[AR]",
+        "point": 8160,
+        "car": "EG6[DH]",
         "shop": "タイトーステーション 和光店",
-        "update": "2026/08/29 03:28:03",
-        "status": "yellow",
-        "ageSeconds": 1316
-      },
-      {
-        "name": "金野　火織",
-        "rank": "Ruby",
-        "point": 7980,
-        "car": "CN9Aエボ4[HC]",
-        "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/29 03:21:54",
-        "status": "yellow",
-        "ageSeconds": 1685
+        "update": "2026/08/29 03:39:45",
+        "status": "green",
+        "ageSeconds": 733
       },
       {
         "name": "＋マニア悪魔",
@@ -74,7 +64,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/29 03:27:47",
         "status": "yellow",
-        "ageSeconds": 1332
+        "ageSeconds": 1451
       }
     ],
     "Sapphire": [],
