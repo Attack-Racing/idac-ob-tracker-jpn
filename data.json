@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-29 02:48:56",
-  "activeSince": "2026-08-29 02:18:56",
-  "total": 9,
+  "trackerTime": "2026-08-29 02:50:58",
+  "activeSince": "2026-08-29 02:20:58",
+  "total": 11,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,17 @@
         "shop": "ゲーム＆ビリヤード　遊ｉｎｇ",
         "update": "2026/08/29 02:28:13",
         "status": "yellow",
-        "ageSeconds": 1243
+        "ageSeconds": 1365
+      },
+      {
+        "name": "ｊｏｋｅｒ？",
+        "rank": "Pride",
+        "point": 137440,
+        "car": "CP9Aエボ6[HC]",
+        "shop": "アミパラ松江店",
+        "update": "2026/08/29 02:44:31",
+        "status": "green",
+        "ageSeconds": 387
       },
       {
         "name": "青眼の魔術師",
@@ -22,27 +32,27 @@
         "shop": "ＧｉＧＯ豊橋飯村",
         "update": "2026/08/29 02:27:34",
         "status": "yellow",
-        "ageSeconds": 1282
+        "ageSeconds": 1404
       },
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 72960,
+        "point": 72900,
         "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/29 02:29:40",
-        "status": "yellow",
-        "ageSeconds": 1156
+        "update": "2026/08/29 02:39:32",
+        "status": "green",
+        "ageSeconds": 686
       },
       {
         "name": "バレンシーア",
         "rank": "Pride",
-        "point": 56980,
+        "point": 56920,
         "car": "CP9Aエボ6[AR]",
         "shop": "ＧｉＧＯスエヒロボウル徳島",
-        "update": "2026/08/29 02:31:27",
-        "status": "yellow",
-        "ageSeconds": 1049
+        "update": "2026/08/29 02:38:55",
+        "status": "green",
+        "ageSeconds": 723
       },
       {
         "name": "－ＡｉＲ－",
@@ -52,7 +62,7 @@
         "shop": "アピナ小山店",
         "update": "2026/08/29 02:29:40",
         "status": "yellow",
-        "ageSeconds": 1156
+        "ageSeconds": 1278
       },
       {
         "name": "フリースピン",
@@ -62,7 +72,7 @@
         "shop": "キャロム青梅店",
         "update": "2026/08/29 02:31:26",
         "status": "yellow",
-        "ageSeconds": 1050
+        "ageSeconds": 1172
       },
       {
         "name": "斎藤　飛鳥",
@@ -72,7 +82,7 @@
         "shop": "アピナ上田店",
         "update": "2026/08/29 02:27:34",
         "status": "yellow",
-        "ageSeconds": 1282
+        "ageSeconds": 1404
       }
     ],
     "Ruby": [
@@ -84,7 +94,7 @@
         "shop": "タイトーステーション 和光店",
         "update": "2026/08/29 02:26:33",
         "status": "yellow",
-        "ageSeconds": 1343
+        "ageSeconds": 1465
       },
       {
         "name": "ワキガくさ美",
@@ -94,7 +104,17 @@
         "shop": "ラウンドワン沖縄・宜野湾店",
         "update": "2026/08/29 02:23:41",
         "status": "yellow",
-        "ageSeconds": 1515
+        "ageSeconds": 1637
+      },
+      {
+        "name": "おですこ",
+        "rank": "Ruby",
+        "point": 260,
+        "car": "S13[HC]",
+        "shop": "タイトーステーションフジグラン北島店",
+        "update": "2026/08/29 02:39:24",
+        "status": "green",
+        "ageSeconds": 694
       }
     ],
     "Sapphire": [],
