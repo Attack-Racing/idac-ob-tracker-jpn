@@ -1,19 +1,60 @@
 {
-  "trackerTime": "2026-08-28 09:22:38",
-  "activeSince": "2026-08-28 08:52:38",
-  "total": 3,
+  "trackerTime": "2026-08-28 09:23:52",
+  "activeSince": "2026-08-28 08:53:52",
+  "total": 7,
   "ranks": {
-    "Pride": [],
+    "Pride": [
+      {
+        "name": "Ｐｓｙｃｈｏ",
+        "rank": "Pride",
+        "point": 208180,
+        "car": "ST205[AR]",
+        "shop": "ＧｉＧＯマーケットスクエアささしま",
+        "update": "2026/08/28 09:16:31",
+        "status": "green",
+        "ageSeconds": 441
+      },
+      {
+        "name": "賢者ＴＩＭＥ",
+        "rank": "Pride",
+        "point": 3480,
+        "car": "4C[AR]",
+        "shop": "ドットコム葛西",
+        "update": "2026/08/28 09:10:36",
+        "status": "green",
+        "ageSeconds": 796
+      }
+    ],
     "Ruby": [
       {
         "name": "みれいの弟子",
         "rank": "Ruby",
-        "point": 8600,
-        "car": "EG6[HC]",
+        "point": 8800,
+        "car": "SW20[DH]",
         "shop": "ラウンドワン京都伏見店",
-        "update": "2026/08/28 08:54:16",
-        "status": "yellow",
-        "ageSeconds": 1702
+        "update": "2026/08/28 09:14:49",
+        "status": "green",
+        "ageSeconds": 543
+      },
+      {
+        "name": "ＲＡＩＲＡ",
+        "rank": "Ruby",
+        "point": 5060,
+        "car": "EK9[AR]",
+        "shop": "シルクハット川崎モアーズ",
+        "update": "2026/08/28 09:14:50",
+        "status": "green",
+        "ageSeconds": 542
+      },
+      {
+        "name": "時崎　くるみ",
+        "rank": "Ruby",
+        "point": 3240,
+        "car": "ST205[AR]",
+        "shop": "ＧｉＧＯ生桑",
+        "update": "2026/08/28 09:16:38",
+        "status": "green",
+        "ageSeconds": 434
       },
       {
         "name": "ＭＩＳＡＫＩ",
@@ -23,7 +64,7 @@
         "shop": "エースレーン近江八幡店",
         "update": "2026/08/28 09:01:16",
         "status": "yellow",
-        "ageSeconds": 1282
+        "ageSeconds": 1356
       }
     ],
     "Sapphire": [
@@ -35,7 +76,7 @@
         "shop": "新宿スポーツランド本館",
         "update": "2026/08/28 09:01:15",
         "status": "yellow",
-        "ageSeconds": 1283
+        "ageSeconds": 1357
       }
     ],
     "Emerald": [],
