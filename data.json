@@ -1,6 +1,6 @@
 {
-  "trackerTime": "2026-08-28 10:06:56",
-  "activeSince": "2026-08-28 09:36:56",
+  "trackerTime": "2026-08-28 10:08:40",
+  "activeSince": "2026-08-28 09:38:40",
   "total": 11,
   "ranks": {
     "Pride": [
@@ -12,7 +12,7 @@
         "shop": "ＧｉＧＯマーケットスクエアささしま",
         "update": "2026/08/28 09:42:48",
         "status": "yellow",
-        "ageSeconds": 1448
+        "ageSeconds": 1552
       },
       {
         "name": "下神アンダー",
@@ -22,20 +22,10 @@
         "shop": "ＧｉＧＯｍｏｚｏワンダーシティ",
         "update": "2026/08/28 09:42:47",
         "status": "yellow",
-        "ageSeconds": 1449
+        "ageSeconds": 1553
       }
     ],
     "Ruby": [
-      {
-        "name": "一ノ瀬　麗",
-        "rank": "Ruby",
-        "point": 7460,
-        "car": "CE9Aエボ3[AR]",
-        "shop": "ラウンドワン宮崎店",
-        "update": "2026/08/28 09:38:06",
-        "status": "yellow",
-        "ageSeconds": 1730
-      },
       {
         "name": "Ｓαｖαｇё",
         "rank": "Ruby",
@@ -44,7 +34,7 @@
         "shop": "ＧｉＧＯ石岡",
         "update": "2026/08/28 09:41:52",
         "status": "yellow",
-        "ageSeconds": 1504
+        "ageSeconds": 1608
       },
       {
         "name": "ＲＡＩＲＡ",
@@ -54,7 +44,7 @@
         "shop": "シルクハット川崎モアーズ",
         "update": "2026/08/28 09:41:52",
         "status": "yellow",
-        "ageSeconds": 1504
+        "ageSeconds": 1608
       }
     ],
     "Sapphire": [
@@ -66,7 +56,7 @@
         "shop": "プラサカプコン甲府店",
         "update": "2026/08/28 09:41:03",
         "status": "yellow",
-        "ageSeconds": 1553
+        "ageSeconds": 1657
       },
       {
         "name": "Ｃａｐｐｕ～",
@@ -76,7 +66,7 @@
         "shop": "ラウンドワン習志野店",
         "update": "2026/08/28 09:41:04",
         "status": "yellow",
-        "ageSeconds": 1552
+        "ageSeconds": 1656
       }
     ],
     "Emerald": [
@@ -88,7 +78,7 @@
         "shop": "ＧｉＧＯイオンモール浦和美園",
         "update": "2026/08/28 09:46:01",
         "status": "yellow",
-        "ageSeconds": 1255
+        "ageSeconds": 1359
       },
       {
         "name": "キョンシー",
@@ -98,7 +88,17 @@
         "shop": "岡崎グランドボウル",
         "update": "2026/08/28 09:46:01",
         "status": "yellow",
-        "ageSeconds": 1255
+        "ageSeconds": 1359
+      },
+      {
+        "name": "しゅう",
+        "rank": "Emerald",
+        "point": 200,
+        "car": "CT9Aエボ7[HC]",
+        "shop": "ＧｉＧＯ姫路駅前",
+        "update": "2026/08/28 09:58:40",
+        "status": "green",
+        "ageSeconds": 600
       }
     ],
     "Clear Blue": [],
@@ -111,7 +111,7 @@
         "shop": "群馬レジャーランド渋川店",
         "update": "2026/08/28 09:39:36",
         "status": "yellow",
-        "ageSeconds": 1640
+        "ageSeconds": 1744
       }
     ],
     "Clear Green": [
@@ -123,7 +123,7 @@
         "shop": "タイトーステーション 千歳店",
         "update": "2026/08/28 09:44:50",
         "status": "yellow",
-        "ageSeconds": 1326
+        "ageSeconds": 1430
       }
     ],
     "Unknown Online Rank": []
