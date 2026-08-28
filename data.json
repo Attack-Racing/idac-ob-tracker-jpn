@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-29 02:18:53",
-  "activeSince": "2026-08-29 01:48:53",
-  "total": 9,
+  "trackerTime": "2026-08-29 02:20:53",
+  "activeSince": "2026-08-29 01:50:53",
+  "total": 13,
   "ranks": {
     "Pride": [
       {
@@ -12,17 +12,27 @@
         "shop": "アミパラ倉敷店",
         "update": "2026/08/29 01:56:53",
         "status": "yellow",
-        "ageSeconds": 1320
+        "ageSeconds": 1440
       },
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 72300,
-        "car": "CE9Aエボ3[AR]",
+        "point": 72440,
+        "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/29 01:58:36",
-        "status": "yellow",
-        "ageSeconds": 1217
+        "update": "2026/08/29 02:14:01",
+        "status": "green",
+        "ageSeconds": 412
+      },
+      {
+        "name": "バレンシーア",
+        "rank": "Pride",
+        "point": 56520,
+        "car": "ST205[HC]",
+        "shop": "ＧｉＧＯスエヒロボウル徳島",
+        "update": "2026/08/29 02:13:39",
+        "status": "green",
+        "ageSeconds": 434
       },
       {
         "name": "Ｚｅｒａ",
@@ -32,7 +42,7 @@
         "shop": "アミパラ倉敷店",
         "update": "2026/08/29 01:58:08",
         "status": "yellow",
-        "ageSeconds": 1245
+        "ageSeconds": 1365
       },
       {
         "name": "斎藤　飛鳥",
@@ -42,7 +52,7 @@
         "shop": "アピナ上田店",
         "update": "2026/08/29 01:58:35",
         "status": "yellow",
-        "ageSeconds": 1218
+        "ageSeconds": 1338
       }
     ],
     "Ruby": [
@@ -54,7 +64,7 @@
         "shop": "タイトーステーション 盛岡マッハランド店",
         "update": "2026/08/29 01:58:36",
         "status": "yellow",
-        "ageSeconds": 1217
+        "ageSeconds": 1337
       },
       {
         "name": "あわれなり．",
@@ -64,7 +74,27 @@
         "shop": "アミューズメントパフェパレパレ田宮店",
         "update": "2026/08/29 01:56:53",
         "status": "yellow",
-        "ageSeconds": 1320
+        "ageSeconds": 1440
+      },
+      {
+        "name": "Ｉｔちゃん",
+        "rank": "Ruby",
+        "point": 16040,
+        "car": "FD3S6[AR]",
+        "shop": "ラウンドワン沖縄・南風原店",
+        "update": "2026/08/29 02:08:20",
+        "status": "green",
+        "ageSeconds": 753
+      },
+      {
+        "name": "ごめん寝てた",
+        "rank": "Ruby",
+        "point": 12340,
+        "car": "CP9Aエボ5[AR]",
+        "shop": "チッキッズイオン高知旭町店",
+        "update": "2026/08/29 02:05:32",
+        "status": "yellow",
+        "ageSeconds": 921
       },
       {
         "name": "なぁちゃん",
@@ -74,7 +104,7 @@
         "shop": "タイトーステーション 和光店",
         "update": "2026/08/29 02:00:16",
         "status": "yellow",
-        "ageSeconds": 1117
+        "ageSeconds": 1237
       },
       {
         "name": "病三杉　愛望",
@@ -84,7 +114,7 @@
         "shop": "ＧｉＧＯ神栖",
         "update": "2026/08/29 01:58:07",
         "status": "yellow",
-        "ageSeconds": 1246
+        "ageSeconds": 1366
       },
       {
         "name": "　田所　浩二",
@@ -94,7 +124,17 @@
         "shop": "ラウンドワン山梨・石和店",
         "update": "2026/08/29 01:58:43",
         "status": "yellow",
-        "ageSeconds": 1210
+        "ageSeconds": 1330
+      },
+      {
+        "name": "ワキガくさ美",
+        "rank": "Ruby",
+        "point": 3200,
+        "car": "964[AR]",
+        "shop": "ラウンドワン沖縄・宜野湾店",
+        "update": "2026/08/29 02:10:14",
+        "status": "green",
+        "ageSeconds": 639
       }
     ],
     "Sapphire": [],
