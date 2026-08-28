@@ -1,71 +1,101 @@
 {
-  "trackerTime": "2026-08-29 01:35:50",
-  "activeSince": "2026-08-29 01:05:50",
-  "total": 8,
+  "trackerTime": "2026-08-29 01:38:00",
+  "activeSince": "2026-08-29 01:08:00",
+  "total": 13,
   "ranks": {
     "Pride": [
       {
         "name": "　Ｌｖｔｒ",
         "rank": "Pride",
-        "point": 74300,
-        "car": "BNR32[AR]",
+        "point": 74500,
+        "car": "SW20[DH]",
         "shop": "アミパラ倉敷店",
-        "update": "2026/08/29 01:16:37",
-        "status": "yellow",
-        "ageSeconds": 1153
+        "update": "2026/08/29 01:29:17",
+        "status": "green",
+        "ageSeconds": 522
+      },
+      {
+        "name": "あ＠とくしま",
+        "rank": "Pride",
+        "point": 71580,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/29 01:29:47",
+        "status": "green",
+        "ageSeconds": 492
       },
       {
         "name": "Ｅｃｈｏ．",
         "rank": "Pride",
-        "point": 53600,
+        "point": 54060,
         "car": "CP9Aエボ6[HC]",
         "shop": "ＧｉＧＯ中間",
-        "update": "2026/08/29 01:13:19",
-        "status": "yellow",
-        "ageSeconds": 1351
+        "update": "2026/08/29 01:31:42",
+        "status": "green",
+        "ageSeconds": 377
       },
       {
         "name": "Ｚｅｒａ",
         "rank": "Pride",
-        "point": 53100,
+        "point": 53300,
         "car": "CP9Aエボ6[AR]",
         "shop": "アミパラ倉敷店",
-        "update": "2026/08/29 01:14:55",
-        "status": "yellow",
-        "ageSeconds": 1255
+        "update": "2026/08/29 01:27:38",
+        "status": "green",
+        "ageSeconds": 621
       },
       {
         "name": "夏草の線路",
         "rank": "Pride",
-        "point": 13040,
-        "car": "ST205[AR]",
+        "point": 13820,
+        "car": "CP9Aエボ6[HC]",
         "shop": "M's PARK豊田店",
-        "update": "2026/08/29 01:12:40",
-        "status": "yellow",
-        "ageSeconds": 1390
+        "update": "2026/08/29 01:27:38",
+        "status": "green",
+        "ageSeconds": 621
       },
       {
         "name": "－ＡｉＲ－",
         "rank": "Pride",
-        "point": 11680,
+        "point": 11620,
         "car": "CP9Aエボ6[AR]",
         "shop": "アピナ小山店",
-        "update": "2026/08/29 01:14:56",
-        "status": "yellow",
-        "ageSeconds": 1254
+        "update": "2026/08/29 01:23:47",
+        "status": "green",
+        "ageSeconds": 852
+      },
+      {
+        "name": "高木さん",
+        "rank": "Pride",
+        "point": 5720,
+        "car": "FC3S[AR]",
+        "shop": "アピナ長野川中島店",
+        "update": "2026/08/29 01:31:41",
+        "status": "green",
+        "ageSeconds": 378
       },
       {
         "name": "フリースピン",
         "rank": "Pride",
-        "point": 3400,
+        "point": 3340,
         "car": "ST205[AR]",
         "shop": "キャロム青梅店",
-        "update": "2026/08/29 01:16:37",
+        "update": "2026/08/29 01:21:44",
         "status": "yellow",
-        "ageSeconds": 1153
+        "ageSeconds": 975
       }
     ],
     "Ruby": [
+      {
+        "name": "　田所　浩二",
+        "rank": "Ruby",
+        "point": 5980,
+        "car": "CP9Aエボ5[AR]",
+        "shop": "ラウンドワン山梨・石和店",
+        "update": "2026/08/29 01:29:48",
+        "status": "green",
+        "ageSeconds": 491
+      },
       {
         "name": "漆黒の麻友",
         "rank": "Ruby",
@@ -74,7 +104,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/29 01:12:40",
         "status": "yellow",
-        "ageSeconds": 1390
+        "ageSeconds": 1519
       },
       {
         "name": "艶～ｅｎ～蝕",
@@ -84,11 +114,32 @@
         "shop": "バイパスレジャーランド藤江新館",
         "update": "2026/08/29 01:11:50",
         "status": "yellow",
-        "ageSeconds": 1440
+        "ageSeconds": 1569
+      },
+      {
+        "name": "キミに贈る歌",
+        "rank": "Ruby",
+        "point": 1900,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "ＧｉＧＯイオンモールむさし村山",
+        "update": "2026/08/29 01:29:17",
+        "status": "green",
+        "ageSeconds": 522
       }
     ],
     "Sapphire": [],
-    "Emerald": [],
+    "Emerald": [
+      {
+        "name": "前進不止満毛",
+        "rank": "Emerald",
+        "point": 4500,
+        "car": "AP1[DH]",
+        "shop": "ゲームゴジラ",
+        "update": "2026/08/29 01:27:34",
+        "status": "green",
+        "ageSeconds": 625
+      }
+    ],
     "Clear Blue": [],
     "Clear Red": [],
     "Clear Green": [],
