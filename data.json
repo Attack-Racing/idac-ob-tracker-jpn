@@ -1,70 +1,90 @@
 {
-  "trackerTime": "2026-08-30 02:05:31",
-  "activeSince": "2026-08-30 01:35:31",
-  "total": 16,
+  "trackerTime": "2026-08-30 02:06:49",
+  "activeSince": "2026-08-30 01:36:49",
+  "total": 18,
   "ranks": {
     "Pride": [
       {
         "name": "神無月　燐",
         "rank": "Pride",
-        "point": 316040,
+        "point": 316560,
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯ豊橋飯村",
-        "update": "2026/08/30 01:41:38",
-        "status": "yellow",
-        "ageSeconds": 1433
+        "update": "2026/08/30 01:54:56",
+        "status": "green",
+        "ageSeconds": 712
       },
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 75540,
-        "car": "ST205[AR]",
+        "point": 76320,
+        "car": "CE9Aエボ3[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/30 01:41:37",
-        "status": "yellow",
-        "ageSeconds": 1434
+        "update": "2026/08/30 01:57:53",
+        "status": "green",
+        "ageSeconds": 535
       },
       {
         "name": "クラミジＲ",
         "rank": "Pride",
-        "point": 8980,
+        "point": 9500,
         "car": "SW20[AR]",
         "shop": "楽市街道箱崎店",
-        "update": "2026/08/30 01:45:51",
-        "status": "yellow",
-        "ageSeconds": 1180
+        "update": "2026/08/30 01:57:53",
+        "status": "green",
+        "ageSeconds": 535
       }
     ],
     "Ruby": [
       {
         "name": "Ｈａｎｔｙｏ",
         "rank": "Ruby",
-        "point": 85160,
-        "car": "CZ4Aエボ10[AR]",
+        "point": 85300,
+        "car": "EG6[HC]",
         "shop": "ゲームサファリ池袋",
-        "update": "2026/08/30 01:41:11",
-        "status": "yellow",
-        "ageSeconds": 1460
+        "update": "2026/08/30 02:00:26",
+        "status": "green",
+        "ageSeconds": 382
       },
       {
         "name": "摩多羅隠岐奈",
         "rank": "Ruby",
-        "point": 63920,
+        "point": 64440,
         "car": "CT9Aエボ7[HC]",
         "shop": "サンアミューズ鹿屋店",
-        "update": "2026/08/30 01:46:07",
-        "status": "yellow",
-        "ageSeconds": 1164
+        "update": "2026/08/30 01:58:24",
+        "status": "green",
+        "ageSeconds": 504
       },
       {
         "name": "レッドブル∞",
         "rank": "Ruby",
-        "point": 49100,
-        "car": "CP9Aエボ5[AR]",
+        "point": 49600,
+        "car": "CZ4Aエボ10[AR]",
         "shop": "ＧｉＧＯ豊橋飯村",
-        "update": "2026/08/30 01:45:56",
-        "status": "yellow",
-        "ageSeconds": 1175
+        "update": "2026/08/30 01:56:05",
+        "status": "green",
+        "ageSeconds": 643
+      },
+      {
+        "name": "Ｌμйα．",
+        "rank": "Ruby",
+        "point": 31860,
+        "car": "CT9Aエボ7[HC]",
+        "shop": "プラサカプコン広島店",
+        "update": "2026/08/30 02:00:25",
+        "status": "green",
+        "ageSeconds": 383
+      },
+      {
+        "name": "プレイヤー",
+        "rank": "Ruby",
+        "point": 20720,
+        "car": "FD3S[AR]",
+        "shop": "モンキートリック",
+        "update": "2026/08/30 01:53:44",
+        "status": "green",
+        "ageSeconds": 784
       },
       {
         "name": "イカレパンチ",
@@ -74,7 +94,7 @@
         "shop": "ベネクス川崎",
         "update": "2026/08/30 01:45:56",
         "status": "yellow",
-        "ageSeconds": 1175
+        "ageSeconds": 1252
       },
       {
         "name": "ＴＯＫＭＥＩ",
@@ -84,27 +104,27 @@
         "shop": "タイトーステーション 和光店",
         "update": "2026/08/30 01:42:33",
         "status": "yellow",
-        "ageSeconds": 1378
+        "ageSeconds": 1455
       },
       {
         "name": "モリバトーレ",
         "rank": "Ruby",
-        "point": 15140,
-        "car": "CT9Aエボ9[AR]",
+        "point": 15020,
+        "car": "CN9Aエボ4[HC]",
         "shop": "ＧｉＧＯフレスポ東大阪",
-        "update": "2026/08/30 01:46:12",
-        "status": "yellow",
-        "ageSeconds": 1159
+        "update": "2026/08/30 01:58:31",
+        "status": "green",
+        "ageSeconds": 497
       },
       {
-        "name": "旧都市愛好家",
+        "name": "　清水美早",
         "rank": "Ruby",
-        "point": 6700,
-        "car": "CP9Aエボ6[HC]",
-        "shop": "Ｈｅｙ",
-        "update": "2026/08/30 01:35:46",
-        "status": "yellow",
-        "ageSeconds": 1785
+        "point": 12700,
+        "car": "86トレノ[AR]",
+        "shop": "タイトーステーションフジグラン北島店",
+        "update": "2026/08/30 01:58:05",
+        "status": "green",
+        "ageSeconds": 523
       },
       {
         "name": "八意永琳",
@@ -114,29 +134,29 @@
         "shop": "ＧｉＧＯ袋井",
         "update": "2026/08/30 01:42:33",
         "status": "yellow",
-        "ageSeconds": 1378
+        "ageSeconds": 1455
       }
     ],
     "Sapphire": [
       {
         "name": "∽眠姫めあ∽",
         "rank": "Sapphire",
-        "point": 19080,
-        "car": "ER34[HC]",
+        "point": 19020,
+        "car": "85レビン[AR]",
         "shop": "アミパラ岡山店",
-        "update": "2026/08/30 01:42:33",
+        "update": "2026/08/30 01:49:37",
         "status": "yellow",
-        "ageSeconds": 1378
+        "ageSeconds": 1031
       },
       {
         "name": "らぶきあら†",
         "rank": "Sapphire",
-        "point": 12760,
-        "car": "CT9Aエボ9[AR]",
+        "point": 12700,
+        "car": "CP9Aエボ5[AR]",
         "shop": "モンキートリック",
-        "update": "2026/08/30 01:45:28",
+        "update": "2026/08/30 01:50:57",
         "status": "yellow",
-        "ageSeconds": 1203
+        "ageSeconds": 951
       },
       {
         "name": "銀河の帝王",
@@ -146,7 +166,7 @@
         "shop": "ＧｉＧＯ岡崎",
         "update": "2026/08/30 01:45:28",
         "status": "yellow",
-        "ageSeconds": 1203
+        "ageSeconds": 1280
       },
       {
         "name": "しげ",
@@ -156,7 +176,7 @@
         "shop": "ラウンドワン熊本店",
         "update": "2026/08/30 01:46:13",
         "status": "yellow",
-        "ageSeconds": 1158
+        "ageSeconds": 1235
       }
     ],
     "Emerald": [
@@ -168,7 +188,7 @@
         "shop": "プレビ　ららぽーとＴＯＫＹＯーＢＡＹ店",
         "update": "2026/08/30 01:42:26",
         "status": "yellow",
-        "ageSeconds": 1385
+        "ageSeconds": 1462
       }
     ],
     "Clear Blue": [],
