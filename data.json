@@ -1,12 +1,23 @@
 {
-  "trackerTime": "2026-08-30 07:19:59",
-  "activeSince": "2026-08-30 06:49:59",
-  "total": 0,
+  "trackerTime": "2026-08-30 07:21:54",
+  "activeSince": "2026-08-30 06:51:54",
+  "total": 1,
   "ranks": {
     "Pride": [],
     "Ruby": [],
     "Sapphire": [],
-    "Emerald": [],
+    "Emerald": [
+      {
+        "name": "あーちゃん　",
+        "rank": "Emerald",
+        "point": 7280,
+        "car": "JZX100[HC]",
+        "shop": "ＧｉＧＯ東梅田",
+        "update": "2026/08/30 07:14:54",
+        "status": "green",
+        "ageSeconds": 420
+      }
+    ],
     "Clear Blue": [],
     "Clear Red": [],
     "Clear Green": [],
