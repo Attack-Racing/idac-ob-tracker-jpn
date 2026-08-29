@@ -1,29 +1,39 @@
 {
-  "trackerTime": "2026-08-30 08:06:53",
-  "activeSince": "2026-08-30 07:36:53",
-  "total": 5,
+  "trackerTime": "2026-08-30 08:08:41",
+  "activeSince": "2026-08-30 07:38:41",
+  "total": 6,
   "ranks": {
     "Pride": [],
     "Ruby": [
       {
         "name": "シランケド",
         "rank": "Ruby",
-        "point": 289120,
+        "point": 289560,
         "car": "86トレノ[AR]",
         "shop": "プラサカプコン羽生店",
-        "update": "2026/08/30 07:43:30",
-        "status": "yellow",
-        "ageSeconds": 1403
+        "update": "2026/08/30 08:01:29",
+        "status": "green",
+        "ageSeconds": 432
       },
       {
         "name": "ＭＩ",
         "rank": "Ruby",
-        "point": 90880,
+        "point": 91000,
         "car": "CP9Aエボ5[AR]",
         "shop": "群馬レジャーランド太田店",
-        "update": "2026/08/30 07:43:23",
-        "status": "yellow",
-        "ageSeconds": 1410
+        "update": "2026/08/30 08:01:42",
+        "status": "green",
+        "ageSeconds": 419
+      },
+      {
+        "name": "ＫｓＲｅｎ．",
+        "rank": "Ruby",
+        "point": 3740,
+        "car": "BNR34[AR]",
+        "shop": "ＧｉＧＯ福生",
+        "update": "2026/08/30 08:01:22",
+        "status": "green",
+        "ageSeconds": 439
       },
       {
         "name": "まさたか",
@@ -33,29 +43,29 @@
         "shop": "ＧｉＧＯスエヒロボウル徳島",
         "update": "2026/08/30 08:01:35",
         "status": "green",
-        "ageSeconds": 318
+        "ageSeconds": 426
       }
     ],
     "Sapphire": [
       {
         "name": "Ｋ",
         "rank": "Sapphire",
-        "point": 5760,
-        "car": "S30[HC]",
+        "point": 5700,
+        "car": "86トレノ[DH]",
         "shop": "タイトーＦステーションオリナス錦糸町店",
-        "update": "2026/08/30 07:43:38",
-        "status": "yellow",
-        "ageSeconds": 1395
+        "update": "2026/08/30 07:54:28",
+        "status": "green",
+        "ageSeconds": 853
       },
       {
         "name": "イーブイ・Ａ",
         "rank": "Sapphire",
-        "point": 4400,
-        "car": "シルエイティ[HC]",
+        "point": 4280,
+        "car": "FD3S[AR]",
         "shop": "ＧｉＧＯ花園",
-        "update": "2026/08/30 07:43:39",
-        "status": "yellow",
-        "ageSeconds": 1394
+        "update": "2026/08/30 07:55:13",
+        "status": "green",
+        "ageSeconds": 808
       }
     ],
     "Emerald": [],
