@@ -1,29 +1,49 @@
 {
-  "trackerTime": "2026-08-30 08:50:58",
-  "activeSince": "2026-08-30 08:20:58",
-  "total": 11,
+  "trackerTime": "2026-08-30 08:52:40",
+  "activeSince": "2026-08-30 08:22:40",
+  "total": 20,
   "ranks": {
     "Pride": [],
     "Ruby": [
       {
         "name": "シランケド",
         "rank": "Ruby",
-        "point": 290540,
-        "car": "85レビン[AR]",
+        "point": 291000,
+        "car": "BNR34[AR]",
         "shop": "プラサカプコン羽生店",
-        "update": "2026/08/30 08:30:20",
-        "status": "yellow",
-        "ageSeconds": 1237
+        "update": "2026/08/30 08:46:08",
+        "status": "green",
+        "ageSeconds": 391
       },
       {
         "name": "ＭＩ",
         "rank": "Ruby",
-        "point": 91340,
+        "point": 91160,
         "car": "NA1[AR]",
         "shop": "群馬レジャーランド太田店",
-        "update": "2026/08/30 08:29:17",
-        "status": "yellow",
-        "ageSeconds": 1300
+        "update": "2026/08/30 08:46:08",
+        "status": "green",
+        "ageSeconds": 391
+      },
+      {
+        "name": "風ニモマケズ",
+        "rank": "Ruby",
+        "point": 23440,
+        "car": "CT9Aエボ7[HC]",
+        "shop": "上越レジャーランボウル",
+        "update": "2026/08/30 08:46:00",
+        "status": "green",
+        "ageSeconds": 399
+      },
+      {
+        "name": "ＳＨＲ",
+        "rank": "Ruby",
+        "point": 22260,
+        "car": "NA1[AR]",
+        "shop": "ＧｉＧＯ尾道",
+        "update": "2026/08/30 08:46:00",
+        "status": "green",
+        "ageSeconds": 399
       },
       {
         "name": "朝日　奈央♪",
@@ -33,7 +53,17 @@
         "shop": "ベネクス大和店",
         "update": "2026/08/30 08:29:17",
         "status": "yellow",
-        "ageSeconds": 1300
+        "ageSeconds": 1402
+      },
+      {
+        "name": "まさたか",
+        "rank": "Ruby",
+        "point": 4300,
+        "car": "ST205[AR]",
+        "shop": "ＧｉＧＯスエヒロボウル徳島",
+        "update": "2026/08/30 08:46:45",
+        "status": "green",
+        "ageSeconds": 354
       },
       {
         "name": "Ｂｅｔｔｅｒ",
@@ -43,17 +73,7 @@
         "shop": "シルクハット伊勢佐木町",
         "update": "2026/08/30 08:23:50",
         "status": "yellow",
-        "ageSeconds": 1627
-      },
-      {
-        "name": "まさたか",
-        "rank": "Ruby",
-        "point": 3840,
-        "car": "ST205[AR]",
-        "shop": "ＧｉＧＯスエヒロボウル徳島",
-        "update": "2026/08/30 08:27:39",
-        "status": "yellow",
-        "ageSeconds": 1398
+        "ageSeconds": 1729
       },
       {
         "name": "ＫＡＫＥＲＵ",
@@ -63,7 +83,7 @@
         "shop": "ラウンドワン市川鬼高店",
         "update": "2026/08/30 08:24:12",
         "status": "yellow",
-        "ageSeconds": 1605
+        "ageSeconds": 1707
       },
       {
         "name": "谷口　美奈子",
@@ -73,7 +93,17 @@
         "shop": "ラウンドワン市川鬼高店",
         "update": "2026/08/30 08:30:20",
         "status": "yellow",
-        "ageSeconds": 1237
+        "ageSeconds": 1339
+      },
+      {
+        "name": "櫻井　理那",
+        "rank": "Ruby",
+        "point": 3380,
+        "car": "85レビン[HC]",
+        "shop": "ラウンドワン市川鬼高店",
+        "update": "2026/08/30 08:36:22",
+        "status": "yellow",
+        "ageSeconds": 977
       },
       {
         "name": "プレイヤー",
@@ -83,10 +113,40 @@
         "shop": "ＧｉＧＯイオン新浦安ショッピングセンター",
         "update": "2026/08/30 08:27:39",
         "status": "yellow",
-        "ageSeconds": 1398
+        "ageSeconds": 1500
       }
     ],
     "Sapphire": [
+      {
+        "name": "？",
+        "rank": "Sapphire",
+        "point": 13440,
+        "car": "FC3S[AR]",
+        "shop": "ウェアハウス草加店別館",
+        "update": "2026/08/30 08:42:50",
+        "status": "green",
+        "ageSeconds": 589
+      },
+      {
+        "name": "ガッシュ",
+        "rank": "Sapphire",
+        "point": 6440,
+        "car": "85レビン[HC]",
+        "shop": "ラウンドワン市川鬼高店",
+        "update": "2026/08/30 08:45:15",
+        "status": "green",
+        "ageSeconds": 444
+      },
+      {
+        "name": "電撃あら太郎",
+        "rank": "Sapphire",
+        "point": 6020,
+        "car": "DC51T[DH]",
+        "shop": "シルクハット伊勢佐木町",
+        "update": "2026/08/30 08:42:56",
+        "status": "green",
+        "ageSeconds": 583
+      },
       {
         "name": "アキひとみ～",
         "rank": "Sapphire",
@@ -95,33 +155,64 @@
         "shop": "ラウンドワンさいたま・栗橋店",
         "update": "2026/08/30 08:26:48",
         "status": "yellow",
-        "ageSeconds": 1449
+        "ageSeconds": 1551
       }
     ],
     "Emerald": [
       {
         "name": "り～ふぁ",
         "rank": "Emerald",
-        "point": 5400,
+        "point": 5340,
         "car": "GC8[AR]",
         "shop": "ドリームアイランド鐘紡町店",
-        "update": "2026/08/30 08:31:27",
-        "status": "yellow",
-        "ageSeconds": 1170
+        "update": "2026/08/30 08:37:58",
+        "status": "green",
+        "ageSeconds": 881
       },
       {
         "name": "ジョエル",
         "rank": "Emerald",
-        "point": 4540,
-        "car": "DC51T[DH]",
+        "point": 4480,
+        "car": "DC2[HC]",
         "shop": "ラウンドワン高松店",
-        "update": "2026/08/30 08:31:35",
-        "status": "yellow",
-        "ageSeconds": 1162
+        "update": "2026/08/30 08:40:32",
+        "status": "green",
+        "ageSeconds": 727
+      },
+      {
+        "name": "いいそら７４",
+        "rank": "Emerald",
+        "point": 2440,
+        "car": "FD3S6[HC]",
+        "shop": "群馬レジャーランド太田店",
+        "update": "2026/08/30 08:45:41",
+        "status": "green",
+        "ageSeconds": 418
+      },
+      {
+        "name": "ＬＥＲ３",
+        "rank": "Emerald",
+        "point": 440,
+        "car": "EK9[AR]",
+        "shop": "紀ノ川ボウル",
+        "update": "2026/08/30 08:45:22",
+        "status": "green",
+        "ageSeconds": 437
       }
     ],
     "Clear Blue": [],
-    "Clear Red": [],
+    "Clear Red": [
+      {
+        "name": "伝説の塗装屋",
+        "rank": "Clear Red",
+        "point": 4720,
+        "car": "NA1[AR]",
+        "shop": "サービスエリアイン高岡",
+        "update": "2026/08/30 08:45:40",
+        "status": "green",
+        "ageSeconds": 419
+      }
+    ],
     "Clear Green": [],
     "Unknown Online Rank": []
   }
