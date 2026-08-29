@@ -1,10 +1,21 @@
 {
-  "trackerTime": "2026-08-30 07:35:52",
-  "activeSince": "2026-08-30 07:05:52",
-  "total": 1,
+  "trackerTime": "2026-08-30 07:37:55",
+  "activeSince": "2026-08-30 07:07:55",
+  "total": 2,
   "ranks": {
     "Pride": [],
-    "Ruby": [],
+    "Ruby": [
+      {
+        "name": "シランケド",
+        "rank": "Ruby",
+        "point": 289240,
+        "car": "S207[AR]",
+        "shop": "プラサカプコン羽生店",
+        "update": "2026/08/30 07:20:21",
+        "status": "yellow",
+        "ageSeconds": 1053
+      }
+    ],
     "Sapphire": [],
     "Emerald": [
       {
@@ -15,7 +26,7 @@
         "shop": "ＧｉＧＯ東梅田",
         "update": "2026/08/30 07:14:54",
         "status": "yellow",
-        "ageSeconds": 1258
+        "ageSeconds": 1380
       }
     ],
     "Clear Blue": [],
