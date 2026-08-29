@@ -1,22 +1,63 @@
 {
-  "trackerTime": "2026-08-30 07:50:01",
-  "activeSince": "2026-08-30 07:20:01",
-  "total": 1,
+  "trackerTime": "2026-08-30 07:52:01",
+  "activeSince": "2026-08-30 07:22:01",
+  "total": 5,
   "ranks": {
     "Pride": [],
     "Ruby": [
       {
         "name": "シランケド",
         "rank": "Ruby",
-        "point": 289240,
-        "car": "S207[AR]",
+        "point": 289120,
+        "car": "86トレノ[AR]",
         "shop": "プラサカプコン羽生店",
-        "update": "2026/08/30 07:20:21",
+        "update": "2026/08/30 07:43:30",
+        "status": "green",
+        "ageSeconds": 511
+      },
+      {
+        "name": "ＭＩ",
+        "rank": "Ruby",
+        "point": 90880,
+        "car": "CP9Aエボ5[AR]",
+        "shop": "群馬レジャーランド太田店",
+        "update": "2026/08/30 07:43:23",
+        "status": "green",
+        "ageSeconds": 518
+      },
+      {
+        "name": "ＫｓＲｅｎ．",
+        "rank": "Ruby",
+        "point": 2980,
+        "car": "BNR34[AR]",
+        "shop": "ＧｉＧＯ福生",
+        "update": "2026/08/30 07:33:45",
         "status": "yellow",
-        "ageSeconds": 1780
+        "ageSeconds": 1096
       }
     ],
-    "Sapphire": [],
+    "Sapphire": [
+      {
+        "name": "Ｋ",
+        "rank": "Sapphire",
+        "point": 5760,
+        "car": "S30[HC]",
+        "shop": "タイトーＦステーションオリナス錦糸町店",
+        "update": "2026/08/30 07:43:38",
+        "status": "green",
+        "ageSeconds": 503
+      },
+      {
+        "name": "イーブイ・Ａ",
+        "rank": "Sapphire",
+        "point": 4400,
+        "car": "シルエイティ[HC]",
+        "shop": "ＧｉＧＯ花園",
+        "update": "2026/08/30 07:43:39",
+        "status": "green",
+        "ageSeconds": 502
+      }
+    ],
     "Emerald": [],
     "Clear Blue": [],
     "Clear Red": [],
