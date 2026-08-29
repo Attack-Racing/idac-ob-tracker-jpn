@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-29 09:19:00",
-  "activeSince": "2026-08-29 08:49:00",
-  "total": 12,
+  "trackerTime": "2026-08-29 09:20:38",
+  "activeSince": "2026-08-29 08:50:38",
+  "total": 11,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "ＧｉＧＯｍｏｚｏワンダーシティ",
         "update": "2026/08/29 08:58:15",
         "status": "yellow",
-        "ageSeconds": 1245
+        "ageSeconds": 1343
       },
       {
         "name": "きざきゆりあ",
@@ -22,7 +22,7 @@
         "shop": "サープラ天文館あそびタウン",
         "update": "2026/08/29 08:58:15",
         "status": "yellow",
-        "ageSeconds": 1245
+        "ageSeconds": 1343
       },
       {
         "name": "ゆにこーん",
@@ -32,7 +32,7 @@
         "shop": "ラウンドワン岸和田店",
         "update": "2026/08/29 08:57:44",
         "status": "yellow",
-        "ageSeconds": 1276
+        "ageSeconds": 1374
       }
     ],
     "Ruby": [
@@ -44,7 +44,7 @@
         "shop": "ＧｉＧＯ今福",
         "update": "2026/08/29 08:57:44",
         "status": "yellow",
-        "ageSeconds": 1276
+        "ageSeconds": 1374
       },
       {
         "name": "ＳＨＲ",
@@ -54,7 +54,7 @@
         "shop": "ＧｉＧＯ尾道",
         "update": "2026/08/29 08:59:03",
         "status": "yellow",
-        "ageSeconds": 1197
+        "ageSeconds": 1295
       },
       {
         "name": "ぎんがのきき",
@@ -64,7 +64,7 @@
         "shop": "ラウンドワン千日前店",
         "update": "2026/08/29 08:59:03",
         "status": "yellow",
-        "ageSeconds": 1197
+        "ageSeconds": 1295
       },
       {
         "name": "ジェネシス",
@@ -74,7 +74,7 @@
         "shop": "ラウンドワン浜大津アーカス店",
         "update": "2026/08/29 08:59:43",
         "status": "yellow",
-        "ageSeconds": 1157
+        "ageSeconds": 1255
       }
     ],
     "Sapphire": [
@@ -86,7 +86,7 @@
         "shop": "新宿スポーツランド本館",
         "update": "2026/08/29 08:55:38",
         "status": "yellow",
-        "ageSeconds": 1402
+        "ageSeconds": 1500
       },
       {
         "name": "Ｓｏｄｏ",
@@ -96,7 +96,7 @@
         "shop": "タイトーステーション錦糸町楽天地店",
         "update": "2026/08/29 08:59:45",
         "status": "yellow",
-        "ageSeconds": 1155
+        "ageSeconds": 1253
       }
     ],
     "Emerald": [
@@ -108,7 +108,7 @@
         "shop": "ACT草津ACTION",
         "update": "2026/08/29 08:55:38",
         "status": "yellow",
-        "ageSeconds": 1402
+        "ageSeconds": 1500
       }
     ],
     "Clear Blue": [
@@ -120,21 +120,10 @@
         "shop": "ラウンドワン広島店",
         "update": "2026/08/29 08:57:02",
         "status": "yellow",
-        "ageSeconds": 1318
+        "ageSeconds": 1416
       }
     ],
-    "Clear Red": [
-      {
-        "name": "ひな",
-        "rank": "Clear Red",
-        "point": 220,
-        "car": "FC3S[DH]",
-        "shop": "フクイレジャーランドワイプラザ店",
-        "update": "2026/08/29 08:50:05",
-        "status": "yellow",
-        "ageSeconds": 1735
-      }
-    ],
+    "Clear Red": [],
     "Clear Green": [],
     "Unknown Online Rank": []
   }
