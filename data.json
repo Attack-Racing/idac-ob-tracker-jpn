@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-30 08:04:58",
-  "activeSince": "2026-08-30 07:34:58",
-  "total": 4,
+  "trackerTime": "2026-08-30 08:06:53",
+  "activeSince": "2026-08-30 07:36:53",
+  "total": 5,
   "ranks": {
     "Pride": [],
     "Ruby": [
@@ -13,7 +13,7 @@
         "shop": "プラサカプコン羽生店",
         "update": "2026/08/30 07:43:30",
         "status": "yellow",
-        "ageSeconds": 1288
+        "ageSeconds": 1403
       },
       {
         "name": "ＭＩ",
@@ -23,7 +23,17 @@
         "shop": "群馬レジャーランド太田店",
         "update": "2026/08/30 07:43:23",
         "status": "yellow",
-        "ageSeconds": 1295
+        "ageSeconds": 1410
+      },
+      {
+        "name": "まさたか",
+        "rank": "Ruby",
+        "point": 3640,
+        "car": "CP9Aエボ5[AR]",
+        "shop": "ＧｉＧＯスエヒロボウル徳島",
+        "update": "2026/08/30 08:01:35",
+        "status": "green",
+        "ageSeconds": 318
       }
     ],
     "Sapphire": [
@@ -35,7 +45,7 @@
         "shop": "タイトーＦステーションオリナス錦糸町店",
         "update": "2026/08/30 07:43:38",
         "status": "yellow",
-        "ageSeconds": 1280
+        "ageSeconds": 1395
       },
       {
         "name": "イーブイ・Ａ",
@@ -45,7 +55,7 @@
         "shop": "ＧｉＧＯ花園",
         "update": "2026/08/30 07:43:39",
         "status": "yellow",
-        "ageSeconds": 1279
+        "ageSeconds": 1394
       }
     ],
     "Emerald": [],
