@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-31 08:11:55",
-  "activeSince": "2026-08-31 07:41:55",
-  "total": 8,
+  "trackerTime": "2026-08-31 08:13:48",
+  "activeSince": "2026-08-31 07:43:48",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/31 08:01:37",
         "status": "green",
-        "ageSeconds": 618
+        "ageSeconds": 731
       },
       {
         "name": "賀喜　遥香",
@@ -21,21 +21,11 @@
         "car": "ST205[AR]",
         "shop": "キャッツアイ篠路店",
         "update": "2026/08/31 07:57:23",
-        "status": "green",
-        "ageSeconds": 872
+        "status": "yellow",
+        "ageSeconds": 985
       }
     ],
     "Ruby": [
-      {
-        "name": "Ｊａｃｋ",
-        "rank": "Ruby",
-        "point": 9960,
-        "car": "ST205[AR]",
-        "shop": "タイトーステーション摂津富田店",
-        "update": "2026/08/31 07:42:24",
-        "status": "yellow",
-        "ageSeconds": 1771
-      },
       {
         "name": "安牌す川田",
         "rank": "Ruby",
@@ -44,7 +34,7 @@
         "shop": "セガショールーム",
         "update": "2026/08/31 07:48:17",
         "status": "yellow",
-        "ageSeconds": 1418
+        "ageSeconds": 1531
       },
       {
         "name": "丸の内ててけ",
@@ -53,8 +43,8 @@
         "car": "CP9Aエボ6[AR]",
         "shop": "東京レジャーランド秋葉原2号店",
         "update": "2026/08/31 07:57:30",
-        "status": "green",
-        "ageSeconds": 865
+        "status": "yellow",
+        "ageSeconds": 978
       },
       {
         "name": "しけぽの弟子",
@@ -64,7 +54,7 @@
         "shop": "ラウンドワン梅田店",
         "update": "2026/08/31 07:52:59",
         "status": "yellow",
-        "ageSeconds": 1136
+        "ageSeconds": 1249
       },
       {
         "name": "音もない世界",
@@ -74,7 +64,7 @@
         "shop": "楽市楽座行橋店",
         "update": "2026/08/31 08:01:44",
         "status": "green",
-        "ageSeconds": 611
+        "ageSeconds": 724
       },
       {
         "name": "ルーファウス",
@@ -84,7 +74,7 @@
         "shop": "セガ東京ドームシティ",
         "update": "2026/08/31 07:48:11",
         "status": "yellow",
-        "ageSeconds": 1424
+        "ageSeconds": 1537
       }
     ],
     "Sapphire": [],
