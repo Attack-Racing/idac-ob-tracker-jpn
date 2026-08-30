@@ -1,18 +1,28 @@
 {
-  "trackerTime": "2026-08-31 08:06:46",
-  "activeSince": "2026-08-31 07:36:46",
-  "total": 5,
+  "trackerTime": "2026-08-31 08:07:37",
+  "activeSince": "2026-08-31 07:37:37",
+  "total": 9,
   "ranks": {
     "Pride": [
       {
         "name": "藤咲　可憐",
         "rank": "Pride",
-        "point": 35140,
+        "point": 36180,
         "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/31 07:41:52",
-        "status": "yellow",
-        "ageSeconds": 1493
+        "update": "2026/08/31 08:01:37",
+        "status": "green",
+        "ageSeconds": 360
+      },
+      {
+        "name": "賀喜　遥香",
+        "rank": "Pride",
+        "point": 4820,
+        "car": "ST205[AR]",
+        "shop": "キャッツアイ篠路店",
+        "update": "2026/08/31 07:57:23",
+        "status": "green",
+        "ageSeconds": 614
       }
     ],
     "Ruby": [
@@ -24,7 +34,37 @@
         "shop": "タイトーステーション摂津富田店",
         "update": "2026/08/31 07:42:24",
         "status": "yellow",
-        "ageSeconds": 1461
+        "ageSeconds": 1513
+      },
+      {
+        "name": "安牌す川田",
+        "rank": "Ruby",
+        "point": 8380,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "セガショールーム",
+        "update": "2026/08/31 07:48:17",
+        "status": "yellow",
+        "ageSeconds": 1160
+      },
+      {
+        "name": "丸の内ててけ",
+        "rank": "Ruby",
+        "point": 2740,
+        "car": "CP9Aエボ6[AR]",
+        "shop": "東京レジャーランド秋葉原2号店",
+        "update": "2026/08/31 07:57:30",
+        "status": "green",
+        "ageSeconds": 607
+      },
+      {
+        "name": "しけぽの弟子",
+        "rank": "Ruby",
+        "point": 2660,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "ラウンドワン梅田店",
+        "update": "2026/08/31 07:52:59",
+        "status": "green",
+        "ageSeconds": 878
       },
       {
         "name": "音もない世界",
@@ -34,17 +74,17 @@
         "shop": "楽市楽座行橋店",
         "update": "2026/08/31 08:01:44",
         "status": "green",
-        "ageSeconds": 301
+        "ageSeconds": 353
       },
       {
         "name": "ルーファウス",
         "rank": "Ruby",
-        "point": 1220,
+        "point": 1160,
         "car": "ST205[AR]",
         "shop": "セガ東京ドームシティ",
-        "update": "2026/08/31 07:42:24",
+        "update": "2026/08/31 07:48:11",
         "status": "yellow",
-        "ageSeconds": 1461
+        "ageSeconds": 1166
       },
       {
         "name": "俺の師匠北浦",
@@ -54,7 +94,7 @@
         "shop": "タイトーステーション 池袋西口店",
         "update": "2026/08/31 07:41:47",
         "status": "yellow",
-        "ageSeconds": 1498
+        "ageSeconds": 1550
       }
     ],
     "Sapphire": [],
