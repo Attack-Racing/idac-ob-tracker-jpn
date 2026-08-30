@@ -1,70 +1,70 @@
 {
-  "trackerTime": "2026-08-31 02:04:59",
-  "activeSince": "2026-08-31 01:34:59",
-  "total": 10,
+  "trackerTime": "2026-08-31 02:07:01",
+  "activeSince": "2026-08-31 01:37:01",
+  "total": 12,
   "ranks": {
     "Pride": [
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 82380,
+        "point": 82900,
         "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/31 01:43:06",
-        "status": "yellow",
-        "ageSeconds": 1313
+        "update": "2026/08/31 01:57:11",
+        "status": "green",
+        "ageSeconds": 590
       },
       {
         "name": "千石　唯華",
         "rank": "Pride",
-        "point": 63320,
+        "point": 63580,
         "car": "NB8C[AR]",
         "shop": "ＧｉＧＯイオンモールむさし村山",
-        "update": "2026/08/31 01:44:42",
+        "update": "2026/08/31 01:50:01",
         "status": "yellow",
-        "ageSeconds": 1217
+        "ageSeconds": 1020
       },
       {
         "name": "ブランド天皇",
         "rank": "Pride",
-        "point": 1580,
+        "point": 1840,
         "car": "ST205[AR]",
         "shop": "関大前フタバボウル",
-        "update": "2026/08/31 01:40:14",
+        "update": "2026/08/31 01:46:51",
         "status": "yellow",
-        "ageSeconds": 1485
+        "ageSeconds": 1210
       }
     ],
     "Ruby": [
       {
-        "name": "パイズリ魔人",
+        "name": "ラクウェル．",
         "rank": "Ruby",
-        "point": 10020,
+        "point": 29180,
         "car": "ST205[AR]",
-        "shop": "コムテックタワー",
-        "update": "2026/08/31 01:43:05",
-        "status": "yellow",
-        "ageSeconds": 1314
+        "shop": "半田メトロポリス",
+        "update": "2026/08/31 01:57:11",
+        "status": "green",
+        "ageSeconds": 590
       },
       {
-        "name": "西田　汐里",
+        "name": "パイズリ魔人",
         "rank": "Ruby",
-        "point": 7760,
-        "car": "JZA80[AR]",
-        "shop": "ＧｉＧＯ太田",
-        "update": "2026/08/31 01:35:09",
-        "status": "yellow",
-        "ageSeconds": 1790
+        "point": 10540,
+        "car": "ST205[AR]",
+        "shop": "コムテックタワー",
+        "update": "2026/08/31 01:55:09",
+        "status": "green",
+        "ageSeconds": 712
       },
       {
         "name": "いいなぁ～☆",
         "rank": "Ruby",
-        "point": 7400,
+        "point": 7280,
         "car": "ER34[AR]",
         "shop": "アミューズメントフィールドバイヨン",
-        "update": "2026/08/31 01:45:04",
-        "status": "yellow",
-        "ageSeconds": 1195
+        "update": "2026/08/31 01:55:09",
+        "status": "green",
+        "ageSeconds": 712
       },
       {
         "name": "旧都市愛好家",
@@ -74,17 +74,17 @@
         "shop": "Ｈｅｙ",
         "update": "2026/08/31 01:38:08",
         "status": "yellow",
-        "ageSeconds": 1611
+        "ageSeconds": 1733
       },
       {
         "name": "ノアの亡霊．",
         "rank": "Ruby",
-        "point": 6120,
+        "point": 6000,
         "car": "CT9Aエボ9[AR]",
         "shop": "カーニバル・Ｃ・ドーム",
-        "update": "2026/08/31 01:45:03",
-        "status": "yellow",
-        "ageSeconds": 1196
+        "update": "2026/08/31 01:57:46",
+        "status": "green",
+        "ageSeconds": 555
       },
       {
         "name": "Ｔｒｕｓｔ",
@@ -94,17 +94,37 @@
         "shop": "ＧｉＧＯ足利朝倉",
         "update": "2026/08/31 01:40:16",
         "status": "yellow",
-        "ageSeconds": 1483
+        "ageSeconds": 1605
       },
       {
         "name": "Ａｑｎｓｙ",
         "rank": "Ruby",
-        "point": 2360,
+        "point": 2820,
         "car": "CT9Aエボ9[AR]",
         "shop": "ウェアハウス三橋店",
-        "update": "2026/08/31 01:40:14",
-        "status": "yellow",
-        "ageSeconds": 1485
+        "update": "2026/08/31 01:57:48",
+        "status": "green",
+        "ageSeconds": 553
+      },
+      {
+        "name": "むけない後藤",
+        "rank": "Ruby",
+        "point": 1540,
+        "car": "ST205[AR]",
+        "shop": "関大前フタバボウル",
+        "update": "2026/08/31 01:52:13",
+        "status": "green",
+        "ageSeconds": 888
+      },
+      {
+        "name": "ラムレザル",
+        "rank": "Ruby",
+        "point": 740,
+        "car": "ST205[AR]",
+        "shop": "群馬レジャーランド太田店",
+        "update": "2026/08/31 01:53:23",
+        "status": "green",
+        "ageSeconds": 818
       }
     ],
     "Sapphire": [],
