@@ -1,80 +1,90 @@
 {
-  "trackerTime": "2026-08-31 01:35:41",
-  "activeSince": "2026-08-31 01:05:41",
-  "total": 8,
+  "trackerTime": "2026-08-31 01:36:39",
+  "activeSince": "2026-08-31 01:06:39",
+  "total": 11,
   "ranks": {
     "Pride": [
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 81660,
-        "car": "CE9Aエボ3[AR]",
+        "point": 81860,
+        "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/31 01:16:19",
-        "status": "yellow",
-        "ageSeconds": 1162
+        "update": "2026/08/31 01:29:56",
+        "status": "green",
+        "ageSeconds": 403
       },
       {
         "name": "千石　唯華",
         "rank": "Pride",
-        "point": 62340,
-        "car": "ST205[AR]",
+        "point": 62860,
+        "car": "SW20[AR]",
         "shop": "ＧｉＧＯイオンモールむさし村山",
-        "update": "2026/08/31 01:15:24",
-        "status": "yellow",
-        "ageSeconds": 1217
+        "update": "2026/08/31 01:27:27",
+        "status": "green",
+        "ageSeconds": 552
+      },
+      {
+        "name": "絶対的第六感",
+        "rank": "Pride",
+        "point": 45220,
+        "car": "ST205[AR]",
+        "shop": "アミューズメントゲーム　マグレブ",
+        "update": "2026/08/31 01:29:56",
+        "status": "green",
+        "ageSeconds": 403
       }
     ],
     "Ruby": [
       {
         "name": "パイズリ魔人",
         "rank": "Ruby",
-        "point": 9360,
+        "point": 9880,
         "car": "86トレノ[AR]",
         "shop": "コムテックタワー",
-        "update": "2026/08/31 01:15:31",
-        "status": "yellow",
-        "ageSeconds": 1210
+        "update": "2026/08/31 01:27:17",
+        "status": "green",
+        "ageSeconds": 562
+      },
+      {
+        "name": "西田　汐里",
+        "rank": "Ruby",
+        "point": 7820,
+        "car": "CZ4Aエボ10[AR]",
+        "shop": "ＧｉＧＯ太田",
+        "update": "2026/08/31 01:29:04",
+        "status": "green",
+        "ageSeconds": 455
       },
       {
         "name": "いいなぁ～☆",
         "rank": "Ruby",
-        "point": 7260,
+        "point": 7200,
         "car": "CT9Aエボ7[AR]",
         "shop": "アミューズメントフィールドバイヨン",
-        "update": "2026/08/31 01:14:19",
+        "update": "2026/08/31 01:20:45",
         "status": "yellow",
-        "ageSeconds": 1282
+        "ageSeconds": 954
       },
       {
         "name": "ノアの亡霊．",
         "rank": "Ruby",
-        "point": 5460,
-        "car": "AP1[AR]",
+        "point": 5980,
+        "car": "CT9Aエボ9[AR]",
         "shop": "カーニバル・Ｃ・ドーム",
-        "update": "2026/08/31 01:16:19",
-        "status": "yellow",
-        "ageSeconds": 1162
-      },
-      {
-        "name": "ねっちー．",
-        "rank": "Ruby",
-        "point": 4400,
-        "car": "DC2[HC]",
-        "shop": "ファンタジックランド高浜店",
-        "update": "2026/08/31 01:05:46",
-        "status": "yellow",
-        "ageSeconds": 1795
+        "update": "2026/08/31 01:29:03",
+        "status": "green",
+        "ageSeconds": 456
       },
       {
         "name": "むけない後藤",
         "rank": "Ruby",
-        "point": 1720,
-        "car": "86トレノ[HC]",
+        "point": 1600,
+        "car": "ST205[AR]",
         "shop": "関大前フタバボウル",
-        "update": "2026/08/31 01:05:48",
-        "status": "yellow",
-        "ageSeconds": 1793
+        "update": "2026/08/31 01:22:58",
+        "status": "green",
+        "ageSeconds": 821
       }
     ],
     "Sapphire": [],
@@ -82,12 +92,32 @@
       {
         "name": "前進不止満毛",
         "rank": "Emerald",
-        "point": 6020,
+        "point": 6200,
         "car": "ST205[AR]",
         "shop": "ゲームゴジラ",
-        "update": "2026/08/31 01:11:51",
-        "status": "yellow",
-        "ageSeconds": 1430
+        "update": "2026/08/31 01:26:48",
+        "status": "green",
+        "ageSeconds": 591
+      },
+      {
+        "name": "Ａｕｒｏｒａ",
+        "rank": "Emerald",
+        "point": 3800,
+        "car": "86レビン[HC]",
+        "shop": "ＧｉＧＯ水戸",
+        "update": "2026/08/31 01:29:41",
+        "status": "green",
+        "ageSeconds": 418
+      },
+      {
+        "name": "まりあ",
+        "rank": "Emerald",
+        "point": 980,
+        "car": "JZX100[HC]",
+        "shop": "ラウンドワン富士店",
+        "update": "2026/08/31 01:29:41",
+        "status": "green",
+        "ageSeconds": 418
       }
     ],
     "Clear Blue": [],
