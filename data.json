@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-31 03:48:57",
-  "activeSince": "2026-08-31 03:18:57",
-  "total": 7,
+  "trackerTime": "2026-08-31 03:50:42",
+  "activeSince": "2026-08-31 03:20:42",
+  "total": 10,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,17 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/31 03:30:49",
         "status": "yellow",
-        "ageSeconds": 1088
+        "ageSeconds": 1193
+      },
+      {
+        "name": "あ＠とくしま",
+        "rank": "Pride",
+        "point": 86220,
+        "car": "ST205[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/31 03:45:47",
+        "status": "green",
+        "ageSeconds": 295
       },
       {
         "name": "絶対的第六感",
@@ -22,17 +32,17 @@
         "shop": "アミューズメントゲーム　マグレブ",
         "update": "2026/08/31 03:30:42",
         "status": "yellow",
-        "ageSeconds": 1095
+        "ageSeconds": 1200
       },
       {
         "name": "Ｖｉｏｌｅｔ",
         "rank": "Pride",
-        "point": 10560,
-        "car": "FD3S[AR]",
+        "point": 10820,
+        "car": "CE9Aエボ3[AR]",
         "shop": "アミューズメントパフェパレパレ田宮店",
-        "update": "2026/08/31 03:29:21",
-        "status": "yellow",
-        "ageSeconds": 1176
+        "update": "2026/08/31 03:42:50",
+        "status": "green",
+        "ageSeconds": 472
       }
     ],
     "Ruby": [
@@ -44,7 +54,17 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/31 03:24:14",
         "status": "yellow",
-        "ageSeconds": 1483
+        "ageSeconds": 1588
+      },
+      {
+        "name": "あわれなり．",
+        "rank": "Ruby",
+        "point": 19500,
+        "car": "86トレノ[AR]",
+        "shop": "アミューズメントパフェパレパレ田宮店",
+        "update": "2026/08/31 03:36:06",
+        "status": "green",
+        "ageSeconds": 876
       },
       {
         "name": "モリバトーレ",
@@ -54,7 +74,17 @@
         "shop": "ＧｉＧＯフレスポ東大阪",
         "update": "2026/08/31 03:25:24",
         "status": "yellow",
-        "ageSeconds": 1413
+        "ageSeconds": 1518
+      },
+      {
+        "name": "ビールテロ！",
+        "rank": "Ruby",
+        "point": 6120,
+        "car": "DC2[HC]",
+        "shop": "コムテックスクウェア",
+        "update": "2026/08/31 03:41:23",
+        "status": "green",
+        "ageSeconds": 559
       },
       {
         "name": "けんきくん♯",
@@ -64,17 +94,17 @@
         "shop": "アミューズメントパフェパレパレ田宮店",
         "update": "2026/08/31 03:23:22",
         "status": "yellow",
-        "ageSeconds": 1535
+        "ageSeconds": 1640
       },
       {
         "name": "ＡＲＯＭＡ",
         "rank": "Ruby",
-        "point": 820,
-        "car": "FD3S6[AR]",
+        "point": 960,
+        "car": "CP9Aエボ5[AR]",
         "shop": "ラウンドワン千種店",
-        "update": "2026/08/31 03:29:20",
-        "status": "yellow",
-        "ageSeconds": 1177
+        "update": "2026/08/31 03:46:05",
+        "status": "green",
+        "ageSeconds": 277
       }
     ],
     "Sapphire": [],
