@@ -1,28 +1,28 @@
 {
-  "trackerTime": "2026-08-31 01:19:57",
-  "activeSince": "2026-08-31 00:49:57",
-  "total": 10,
+  "trackerTime": "2026-08-31 01:21:58",
+  "activeSince": "2026-08-31 00:51:58",
+  "total": 12,
   "ranks": {
     "Pride": [
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 81140,
-        "car": "CP9Aエボ6[HC]",
+        "point": 81660,
+        "car": "CE9Aエボ3[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/31 01:00:24",
-        "status": "yellow",
-        "ageSeconds": 1173
+        "update": "2026/08/31 01:16:19",
+        "status": "green",
+        "ageSeconds": 339
       },
       {
         "name": "千石　唯華",
         "rank": "Pride",
-        "point": 61560,
+        "point": 62340,
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯイオンモールむさし村山",
-        "update": "2026/08/31 00:55:30",
-        "status": "yellow",
-        "ageSeconds": 1467
+        "update": "2026/08/31 01:15:24",
+        "status": "green",
+        "ageSeconds": 394
       },
       {
         "name": "絶対的第六感",
@@ -32,7 +32,7 @@
         "shop": "アミューズメントゲーム　マグレブ",
         "update": "2026/08/31 00:57:52",
         "status": "yellow",
-        "ageSeconds": 1325
+        "ageSeconds": 1446
       },
       {
         "name": "Ｉｔｏｍａｎ",
@@ -42,7 +42,7 @@
         "shop": "ラウンドワン沖縄・宜野湾店",
         "update": "2026/08/31 00:55:30",
         "status": "yellow",
-        "ageSeconds": 1467
+        "ageSeconds": 1588
       }
     ],
     "Ruby": [
@@ -54,27 +54,47 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/31 00:53:40",
         "status": "yellow",
-        "ageSeconds": 1577
+        "ageSeconds": 1698
       },
       {
-        "name": "旧都市愛好家",
+        "name": "パイズリ魔人",
         "rank": "Ruby",
-        "point": 7080,
-        "car": "CP9Aエボ5[AR]",
-        "shop": "Ｈｅｙ",
-        "update": "2026/08/31 00:51:13",
-        "status": "yellow",
-        "ageSeconds": 1724
+        "point": 9360,
+        "car": "86トレノ[AR]",
+        "shop": "コムテックタワー",
+        "update": "2026/08/31 01:15:31",
+        "status": "green",
+        "ageSeconds": 387
+      },
+      {
+        "name": "いいなぁ～☆",
+        "rank": "Ruby",
+        "point": 7260,
+        "car": "CT9Aエボ7[AR]",
+        "shop": "アミューズメントフィールドバイヨン",
+        "update": "2026/08/31 01:14:19",
+        "status": "green",
+        "ageSeconds": 459
       },
       {
         "name": "ノアの亡霊．",
         "rank": "Ruby",
-        "point": 5520,
-        "car": "EK9[AR]",
+        "point": 5460,
+        "car": "AP1[AR]",
         "shop": "カーニバル・Ｃ・ドーム",
-        "update": "2026/08/31 00:57:56",
+        "update": "2026/08/31 01:16:19",
+        "status": "green",
+        "ageSeconds": 339
+      },
+      {
+        "name": "ねっちー．",
+        "rank": "Ruby",
+        "point": 4400,
+        "car": "DC2[HC]",
+        "shop": "ファンタジックランド高浜店",
+        "update": "2026/08/31 01:05:46",
         "status": "yellow",
-        "ageSeconds": 1321
+        "ageSeconds": 972
       },
       {
         "name": "おがしょーー",
@@ -84,17 +104,17 @@
         "shop": "群馬レジャーランド伊勢崎店",
         "update": "2026/08/31 00:56:27",
         "status": "yellow",
-        "ageSeconds": 1410
+        "ageSeconds": 1531
       },
       {
         "name": "むけない後藤",
         "rank": "Ruby",
-        "point": 1780,
+        "point": 1720,
         "car": "86トレノ[HC]",
         "shop": "関大前フタバボウル",
-        "update": "2026/08/31 01:00:24",
+        "update": "2026/08/31 01:05:48",
         "status": "yellow",
-        "ageSeconds": 1173
+        "ageSeconds": 970
       }
     ],
     "Sapphire": [],
@@ -102,12 +122,12 @@
       {
         "name": "前進不止満毛",
         "rank": "Emerald",
-        "point": 5860,
+        "point": 6020,
         "car": "ST205[AR]",
         "shop": "ゲームゴジラ",
-        "update": "2026/08/31 00:54:36",
-        "status": "yellow",
-        "ageSeconds": 1521
+        "update": "2026/08/31 01:11:51",
+        "status": "green",
+        "ageSeconds": 607
       }
     ],
     "Clear Blue": [],
