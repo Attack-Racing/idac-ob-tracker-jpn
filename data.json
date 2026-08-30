@@ -1,28 +1,28 @@
 {
-  "trackerTime": "2026-08-31 03:19:56",
-  "activeSince": "2026-08-31 02:49:56",
-  "total": 9,
+  "trackerTime": "2026-08-31 03:21:58",
+  "activeSince": "2026-08-31 02:51:58",
+  "total": 11,
   "ranks": {
     "Pride": [
       {
         "name": "わがまますぎ",
         "rank": "Pride",
-        "point": 99680,
-        "car": "ST205[AR]",
+        "point": 100460,
+        "car": "CP9Aエボ5[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/31 02:58:07",
-        "status": "yellow",
-        "ageSeconds": 1309
+        "update": "2026/08/31 03:14:09",
+        "status": "green",
+        "ageSeconds": 469
       },
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 85180,
-        "car": "ST205[AR]",
+        "point": 85440,
+        "car": "CP9Aエボ6[HC]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/31 02:57:24",
+        "update": "2026/08/31 03:03:33",
         "status": "yellow",
-        "ageSeconds": 1352
+        "ageSeconds": 1105
       },
       {
         "name": "絶対的第六感",
@@ -32,30 +32,40 @@
         "shop": "アミューズメントゲーム　マグレブ",
         "update": "2026/08/31 02:53:34",
         "status": "yellow",
-        "ageSeconds": 1582
+        "ageSeconds": 1704
       },
       {
         "name": "ガツンと蜜柑",
         "rank": "Pride",
-        "point": 11720,
+        "point": 11660,
         "car": "CP9Aエボ5[AR]",
         "shop": "東京レジャーランド秋葉原2号店",
-        "update": "2026/08/31 02:59:08",
-        "status": "yellow",
-        "ageSeconds": 1248
+        "update": "2026/08/31 03:08:44",
+        "status": "green",
+        "ageSeconds": 794
       },
       {
         "name": "Ｖｉｏｌｅｔ",
         "rank": "Pride",
-        "point": 9840,
+        "point": 10040,
         "car": "CE9Aエボ3[AR]",
         "shop": "アミューズメントパフェパレパレ田宮店",
-        "update": "2026/08/31 02:59:01",
-        "status": "yellow",
-        "ageSeconds": 1255
+        "update": "2026/08/31 03:14:09",
+        "status": "green",
+        "ageSeconds": 469
       }
     ],
     "Ruby": [
+      {
+        "name": "れな姫＠愛Ｒ",
+        "rank": "Ruby",
+        "point": 119080,
+        "car": "86トレノ[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/31 03:13:27",
+        "status": "green",
+        "ageSeconds": 511
+      },
       {
         "name": "ハゲト～さん",
         "rank": "Ruby",
@@ -64,7 +74,17 @@
         "shop": "ＧｉＧＯ秋葉原３号館",
         "update": "2026/08/31 02:58:14",
         "status": "yellow",
-        "ageSeconds": 1302
+        "ageSeconds": 1424
+      },
+      {
+        "name": "いいなぁ～☆",
+        "rank": "Ruby",
+        "point": 6860,
+        "car": "CT9Aエボ7[AR]",
+        "shop": "アミューズメントフィールドバイヨン",
+        "update": "2026/08/31 03:03:24",
+        "status": "yellow",
+        "ageSeconds": 1114
       },
       {
         "name": "ビールテロ！",
@@ -74,17 +94,17 @@
         "shop": "コムテックスクウェア",
         "update": "2026/08/31 02:58:46",
         "status": "yellow",
-        "ageSeconds": 1270
+        "ageSeconds": 1392
       },
       {
         "name": "西施でた／／",
         "rank": "Ruby",
-        "point": 820,
+        "point": 1280,
         "car": "CT9Aエボ7[AR]",
         "shop": "半田メトロポリス",
-        "update": "2026/08/31 02:57:31",
-        "status": "yellow",
-        "ageSeconds": 1345
+        "update": "2026/08/31 03:13:28",
+        "status": "green",
+        "ageSeconds": 510
       },
       {
         "name": "ＡＲＯＭＡ",
@@ -94,7 +114,7 @@
         "shop": "ラウンドワン千種店",
         "update": "2026/08/31 02:58:47",
         "status": "yellow",
-        "ageSeconds": 1269
+        "ageSeconds": 1391
       }
     ],
     "Sapphire": [],
