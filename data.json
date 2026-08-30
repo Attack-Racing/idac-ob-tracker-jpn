@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-31 03:11:50",
-  "activeSince": "2026-08-31 02:41:50",
-  "total": 12,
+  "trackerTime": "2026-08-31 03:14:01",
+  "activeSince": "2026-08-31 02:44:01",
+  "total": 11,
   "ranks": {
     "Pride": [
       {
@@ -11,8 +11,8 @@
         "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/31 02:58:07",
-        "status": "green",
-        "ageSeconds": 823
+        "status": "yellow",
+        "ageSeconds": 954
       },
       {
         "name": "あ＠とくしま",
@@ -21,8 +21,8 @@
         "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/31 02:57:24",
-        "status": "green",
-        "ageSeconds": 866
+        "status": "yellow",
+        "ageSeconds": 997
       },
       {
         "name": "絶対的第六感",
@@ -32,7 +32,7 @@
         "shop": "アミューズメントゲーム　マグレブ",
         "update": "2026/08/31 02:53:34",
         "status": "yellow",
-        "ageSeconds": 1096
+        "ageSeconds": 1227
       },
       {
         "name": "ガツンと蜜柑",
@@ -42,7 +42,7 @@
         "shop": "東京レジャーランド秋葉原2号店",
         "update": "2026/08/31 02:59:08",
         "status": "green",
-        "ageSeconds": 762
+        "ageSeconds": 893
       },
       {
         "name": "Ｖｉｏｌｅｔ",
@@ -51,8 +51,8 @@
         "car": "CE9Aエボ3[AR]",
         "shop": "アミューズメントパフェパレパレ田宮店",
         "update": "2026/08/31 02:59:01",
-        "status": "green",
-        "ageSeconds": 769
+        "status": "yellow",
+        "ageSeconds": 900
       }
     ],
     "Ruby": [
@@ -63,18 +63,8 @@
         "car": "SW20[AR]",
         "shop": "ＧｉＧＯ秋葉原３号館",
         "update": "2026/08/31 02:58:14",
-        "status": "green",
-        "ageSeconds": 816
-      },
-      {
-        "name": "いいなぁ～☆",
-        "rank": "Ruby",
-        "point": 6920,
-        "car": "CT9Aエボ7[AR]",
-        "shop": "アミューズメントフィールドバイヨン",
-        "update": "2026/08/31 02:43:14",
         "status": "yellow",
-        "ageSeconds": 1716
+        "ageSeconds": 947
       },
       {
         "name": "ビールテロ！",
@@ -83,8 +73,8 @@
         "car": "DC2[HC]",
         "shop": "コムテックスクウェア",
         "update": "2026/08/31 02:58:46",
-        "status": "green",
-        "ageSeconds": 784
+        "status": "yellow",
+        "ageSeconds": 915
       },
       {
         "name": "むけない後藤",
@@ -94,7 +84,7 @@
         "shop": "関大前フタバボウル",
         "update": "2026/08/31 02:48:08",
         "status": "yellow",
-        "ageSeconds": 1422
+        "ageSeconds": 1553
       },
       {
         "name": "今この瞬間を",
@@ -104,7 +94,7 @@
         "shop": "アミューズメントフィールドバイヨン",
         "update": "2026/08/31 02:48:00",
         "status": "yellow",
-        "ageSeconds": 1430
+        "ageSeconds": 1561
       },
       {
         "name": "西施でた／／",
@@ -113,8 +103,8 @@
         "car": "CT9Aエボ7[AR]",
         "shop": "半田メトロポリス",
         "update": "2026/08/31 02:57:31",
-        "status": "green",
-        "ageSeconds": 859
+        "status": "yellow",
+        "ageSeconds": 990
       },
       {
         "name": "ＡＲＯＭＡ",
@@ -123,8 +113,8 @@
         "car": "FD3S6[AR]",
         "shop": "ラウンドワン千種店",
         "update": "2026/08/31 02:58:47",
-        "status": "green",
-        "ageSeconds": 783
+        "status": "yellow",
+        "ageSeconds": 914
       }
     ],
     "Sapphire": [],
