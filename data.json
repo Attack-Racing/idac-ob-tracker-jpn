@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-31 08:05:50",
-  "activeSince": "2026-08-31 07:35:50",
-  "total": 4,
+  "trackerTime": "2026-08-31 08:06:46",
+  "activeSince": "2026-08-31 07:36:46",
+  "total": 5,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/31 07:41:52",
         "status": "yellow",
-        "ageSeconds": 1438
+        "ageSeconds": 1493
       }
     ],
     "Ruby": [
@@ -24,7 +24,17 @@
         "shop": "タイトーステーション摂津富田店",
         "update": "2026/08/31 07:42:24",
         "status": "yellow",
-        "ageSeconds": 1406
+        "ageSeconds": 1461
+      },
+      {
+        "name": "音もない世界",
+        "rank": "Ruby",
+        "point": 2020,
+        "car": "ST205[AR]",
+        "shop": "楽市楽座行橋店",
+        "update": "2026/08/31 08:01:44",
+        "status": "green",
+        "ageSeconds": 301
       },
       {
         "name": "ルーファウス",
@@ -34,7 +44,7 @@
         "shop": "セガ東京ドームシティ",
         "update": "2026/08/31 07:42:24",
         "status": "yellow",
-        "ageSeconds": 1406
+        "ageSeconds": 1461
       },
       {
         "name": "俺の師匠北浦",
@@ -44,7 +54,7 @@
         "shop": "タイトーステーション 池袋西口店",
         "update": "2026/08/31 07:41:47",
         "status": "yellow",
-        "ageSeconds": 1443
+        "ageSeconds": 1498
       }
     ],
     "Sapphire": [],
