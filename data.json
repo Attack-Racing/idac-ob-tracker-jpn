@@ -1,28 +1,48 @@
 {
-  "trackerTime": "2026-08-31 02:34:59",
-  "activeSince": "2026-08-31 02:04:59",
-  "total": 10,
+  "trackerTime": "2026-08-31 02:36:39",
+  "activeSince": "2026-08-31 02:06:39",
+  "total": 14,
   "ranks": {
     "Pride": [
       {
+        "name": "わがまますぎ",
+        "rank": "Pride",
+        "point": 99020,
+        "car": "EG6[HC]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/08/31 02:24:00",
+        "status": "green",
+        "ageSeconds": 759
+      },
+      {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 83680,
-        "car": "ST205[AR]",
+        "point": 83880,
+        "car": "CP9Aエボ6[HC]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/31 02:12:23",
-        "status": "yellow",
-        "ageSeconds": 1356
+        "update": "2026/08/31 02:24:00",
+        "status": "green",
+        "ageSeconds": 759
       },
       {
         "name": "ラクウェル．",
         "rank": "Pride",
-        "point": 29960,
+        "point": 30420,
         "car": "ST205[AR]",
         "shop": "半田メトロポリス",
-        "update": "2026/08/31 02:11:17",
-        "status": "yellow",
-        "ageSeconds": 1422
+        "update": "2026/08/31 02:26:40",
+        "status": "green",
+        "ageSeconds": 599
+      },
+      {
+        "name": "ガツンと蜜柑",
+        "rank": "Pride",
+        "point": 11780,
+        "car": "ST205[AR]",
+        "shop": "東京レジャーランド秋葉原2号店",
+        "update": "2026/08/31 02:26:42",
+        "status": "green",
+        "ageSeconds": 597
       },
       {
         "name": "ブランド天皇",
@@ -32,49 +52,49 @@
         "shop": "関大前フタバボウル",
         "update": "2026/08/31 02:11:36",
         "status": "yellow",
-        "ageSeconds": 1403
+        "ageSeconds": 1503
       }
     ],
     "Ruby": [
       {
         "name": "れな姫＠愛Ｒ",
         "rank": "Ruby",
-        "point": 118360,
+        "point": 119140,
         "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/31 02:11:43",
-        "status": "yellow",
-        "ageSeconds": 1396
+        "update": "2026/08/31 02:29:22",
+        "status": "green",
+        "ageSeconds": 437
       },
       {
         "name": "パイズリ魔人",
         "rank": "Ruby",
-        "point": 10420,
-        "car": "ST205[AR]",
+        "point": 10880,
+        "car": "86トレノ[AR]",
         "shop": "コムテックタワー",
-        "update": "2026/08/31 02:11:42",
-        "status": "yellow",
-        "ageSeconds": 1397
+        "update": "2026/08/31 02:26:48",
+        "status": "green",
+        "ageSeconds": 591
       },
       {
         "name": "ハゲト～さん",
         "rank": "Ruby",
-        "point": 9280,
+        "point": 9220,
         "car": "SW20[AR]",
         "shop": "ＧｉＧＯ秋葉原３号館",
-        "update": "2026/08/31 02:11:24",
-        "status": "yellow",
-        "ageSeconds": 1415
+        "update": "2026/08/31 02:21:58",
+        "status": "green",
+        "ageSeconds": 881
       },
       {
         "name": "いいなぁ～☆",
         "rank": "Ruby",
-        "point": 7160,
-        "car": "CT9Aエボ7[AR]",
+        "point": 6980,
+        "car": "BNR32[DH]",
         "shop": "アミューズメントフィールドバイヨン",
-        "update": "2026/08/31 02:07:21",
-        "status": "yellow",
-        "ageSeconds": 1658
+        "update": "2026/08/31 02:27:34",
+        "status": "green",
+        "ageSeconds": 545
       },
       {
         "name": "ビールテロ！",
@@ -84,17 +104,17 @@
         "shop": "コムテックスクウェア",
         "update": "2026/08/31 02:12:30",
         "status": "yellow",
-        "ageSeconds": 1349
+        "ageSeconds": 1449
       },
       {
         "name": "ノアの亡霊．",
         "rank": "Ruby",
-        "point": 5940,
+        "point": 5880,
         "car": "86トレノ2[HC]",
         "shop": "カーニバル・Ｃ・ドーム",
-        "update": "2026/08/31 02:06:39",
+        "update": "2026/08/31 02:18:41",
         "status": "yellow",
-        "ageSeconds": 1700
+        "ageSeconds": 1078
       },
       {
         "name": "ｈａｏｓ．",
@@ -104,7 +124,27 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/31 02:11:36",
         "status": "yellow",
-        "ageSeconds": 1403
+        "ageSeconds": 1503
+      },
+      {
+        "name": "今この瞬間を",
+        "rank": "Ruby",
+        "point": 1580,
+        "car": "ER34[AR]",
+        "shop": "アミューズメントフィールドバイヨン",
+        "update": "2026/08/31 02:27:27",
+        "status": "green",
+        "ageSeconds": 552
+      },
+      {
+        "name": "むけない後藤",
+        "rank": "Ruby",
+        "point": 1420,
+        "car": "ST205[AR]",
+        "shop": "関大前フタバボウル",
+        "update": "2026/08/31 02:26:47",
+        "status": "green",
+        "ageSeconds": 592
       }
     ],
     "Sapphire": [],
