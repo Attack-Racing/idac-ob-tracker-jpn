@@ -1,41 +1,61 @@
 {
-  "trackerTime": "2026-08-31 08:50:57",
-  "activeSince": "2026-08-31 08:20:57",
-  "total": 7,
+  "trackerTime": "2026-08-31 08:52:54",
+  "activeSince": "2026-08-31 08:22:54",
+  "total": 14,
   "ranks": {
     "Pride": [
       {
         "name": "藤咲　可憐",
         "rank": "Pride",
-        "point": 37740,
+        "point": 38520,
         "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/31 08:28:46",
-        "status": "yellow",
-        "ageSeconds": 1331
+        "update": "2026/08/31 08:42:13",
+        "status": "green",
+        "ageSeconds": 641
       },
       {
         "name": "森島Ｌはるか",
         "rank": "Pride",
-        "point": 28820,
+        "point": 29340,
         "car": "ST205[AR]",
         "shop": "ゲームランド草津店",
-        "update": "2026/08/31 08:31:39",
-        "status": "yellow",
-        "ageSeconds": 1158
+        "update": "2026/08/31 08:41:21",
+        "status": "green",
+        "ageSeconds": 693
+      },
+      {
+        "name": "ゾシアタバコ",
+        "rank": "Pride",
+        "point": 7460,
+        "car": "EK9[DH]",
+        "shop": "ラウンドワン旭川店",
+        "update": "2026/08/31 08:38:23",
+        "status": "green",
+        "ageSeconds": 871
       },
       {
         "name": "賀喜　遥香",
         "rank": "Pride",
-        "point": 6640,
+        "point": 7420,
         "car": "ST205[AR]",
         "shop": "キャッツアイ篠路店",
-        "update": "2026/08/31 08:29:17",
-        "status": "yellow",
-        "ageSeconds": 1300
+        "update": "2026/08/31 08:42:57",
+        "status": "green",
+        "ageSeconds": 597
       }
     ],
     "Ruby": [
+      {
+        "name": "安牌す川田",
+        "rank": "Ruby",
+        "point": 8260,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "セガショールーム",
+        "update": "2026/08/31 08:43:04",
+        "status": "green",
+        "ageSeconds": 590
+      },
       {
         "name": "いっちゃん",
         "rank": "Ruby",
@@ -44,7 +64,17 @@
         "shop": "アミパラ草津店",
         "update": "2026/08/31 08:28:53",
         "status": "yellow",
-        "ageSeconds": 1324
+        "ageSeconds": 1441
+      },
+      {
+        "name": "　石原希望",
+        "rank": "Ruby",
+        "point": 3000,
+        "car": "CT9Aエボ9[AR]",
+        "shop": "ラウンドワンダイバーシティ東京プラザ店",
+        "update": "2026/08/31 08:33:57",
+        "status": "yellow",
+        "ageSeconds": 1137
       },
       {
         "name": "丸の内ててけ",
@@ -54,7 +84,17 @@
         "shop": "東京レジャーランド秋葉原2号店",
         "update": "2026/08/31 08:24:54",
         "status": "yellow",
-        "ageSeconds": 1563
+        "ageSeconds": 1680
+      },
+      {
+        "name": "ＭＡＲｉＡ．",
+        "rank": "Ruby",
+        "point": 2020,
+        "car": "CT9Aエボ9[AR]",
+        "shop": "ピンクパンサー水戸赤塚店",
+        "update": "2026/08/31 08:42:20",
+        "status": "green",
+        "ageSeconds": 634
       },
       {
         "name": "音もない世界",
@@ -64,7 +104,17 @@
         "shop": "楽市楽座行橋店",
         "update": "2026/08/31 08:31:46",
         "status": "yellow",
-        "ageSeconds": 1151
+        "ageSeconds": 1268
+      },
+      {
+        "name": "朝比奈まふゆ",
+        "rank": "Ruby",
+        "point": 1640,
+        "car": "FD3S6[AR]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/08/31 08:37:49",
+        "status": "yellow",
+        "ageSeconds": 905
       },
       {
         "name": "ｈａｏｓ．",
@@ -74,7 +124,27 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/31 08:29:24",
         "status": "yellow",
-        "ageSeconds": 1293
+        "ageSeconds": 1410
+      },
+      {
+        "name": "冗談は顔だけ",
+        "rank": "Ruby",
+        "point": 1520,
+        "car": "ST205[AR]",
+        "shop": "アピナ松本店",
+        "update": "2026/08/31 08:33:17",
+        "status": "yellow",
+        "ageSeconds": 1177
+      },
+      {
+        "name": "ルーファウス",
+        "rank": "Ruby",
+        "point": 1100,
+        "car": "ST205[AR]",
+        "shop": "セガ東京ドームシティ",
+        "update": "2026/08/31 08:36:44",
+        "status": "yellow",
+        "ageSeconds": 970
       }
     ],
     "Sapphire": [],
