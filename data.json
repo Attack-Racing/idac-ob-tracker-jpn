@@ -1,38 +1,48 @@
 {
-  "trackerTime": "2026-08-31 08:35:57",
-  "activeSince": "2026-08-31 08:05:57",
-  "total": 8,
+  "trackerTime": "2026-08-31 08:37:51",
+  "activeSince": "2026-08-31 08:07:51",
+  "total": 13,
   "ranks": {
     "Pride": [
       {
         "name": "藤咲　可憐",
         "rank": "Pride",
-        "point": 36960,
+        "point": 37740,
         "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/31 08:14:54",
-        "status": "yellow",
-        "ageSeconds": 1263
+        "update": "2026/08/31 08:28:46",
+        "status": "green",
+        "ageSeconds": 545
       },
       {
         "name": "森島Ｌはるか",
         "rank": "Pride",
-        "point": 27780,
+        "point": 28820,
         "car": "ST205[AR]",
         "shop": "ゲームランド草津店",
-        "update": "2026/08/31 08:12:50",
-        "status": "yellow",
-        "ageSeconds": 1387
+        "update": "2026/08/31 08:31:39",
+        "status": "green",
+        "ageSeconds": 372
       },
       {
         "name": "賀喜　遥香",
         "rank": "Pride",
-        "point": 5860,
+        "point": 6640,
         "car": "ST205[AR]",
         "shop": "キャッツアイ篠路店",
-        "update": "2026/08/31 08:15:52",
+        "update": "2026/08/31 08:29:17",
+        "status": "green",
+        "ageSeconds": 514
+      },
+      {
+        "name": "西条ほのか",
+        "rank": "Pride",
+        "point": 5980,
+        "car": "CP9Aエボ5[AR]",
+        "shop": "ＧｉＧＯ海老名",
+        "update": "2026/08/31 08:20:22",
         "status": "yellow",
-        "ageSeconds": 1205
+        "ageSeconds": 1049
       }
     ],
     "Ruby": [
@@ -44,7 +54,7 @@
         "shop": "ラウンドワン京都河原町店",
         "update": "2026/08/31 08:10:35",
         "status": "yellow",
-        "ageSeconds": 1522
+        "ageSeconds": 1636
       },
       {
         "name": "安牌す川田",
@@ -54,17 +64,27 @@
         "shop": "セガショールーム",
         "update": "2026/08/31 08:11:05",
         "status": "yellow",
-        "ageSeconds": 1492
+        "ageSeconds": 1606
       },
       {
-        "name": "　石原希望",
+        "name": "いっちゃん",
         "rank": "Ruby",
-        "point": 3060,
-        "car": "CT9Aエボ9[AR]",
-        "shop": "ラウンドワンダイバーシティ東京プラザ店",
-        "update": "2026/08/31 08:06:36",
-        "status": "yellow",
-        "ageSeconds": 1761
+        "point": 3760,
+        "car": "86トレノ[HC]",
+        "shop": "アミパラ草津店",
+        "update": "2026/08/31 08:28:53",
+        "status": "green",
+        "ageSeconds": 538
+      },
+      {
+        "name": "丸の内ててけ",
+        "rank": "Ruby",
+        "point": 2680,
+        "car": "CP9Aエボ6[AR]",
+        "shop": "東京レジャーランド秋葉原2号店",
+        "update": "2026/08/31 08:24:54",
+        "status": "green",
+        "ageSeconds": 777
       },
       {
         "name": "しけぽの弟子",
@@ -74,7 +94,17 @@
         "shop": "ラウンドワン梅田店",
         "update": "2026/08/31 08:15:59",
         "status": "yellow",
-        "ageSeconds": 1198
+        "ageSeconds": 1312
+      },
+      {
+        "name": "音もない世界",
+        "rank": "Ruby",
+        "point": 1960,
+        "car": "ST205[AR]",
+        "shop": "楽市楽座行橋店",
+        "update": "2026/08/31 08:31:46",
+        "status": "green",
+        "ageSeconds": 365
       },
       {
         "name": "山田　勝己",
@@ -84,7 +114,27 @@
         "shop": "タイトーステーション溝の口",
         "update": "2026/08/31 08:15:01",
         "status": "yellow",
-        "ageSeconds": 1256
+        "ageSeconds": 1370
+      },
+      {
+        "name": "ギラファ森島",
+        "rank": "Ruby",
+        "point": 1640,
+        "car": "BNR32[AR]",
+        "shop": "ＭＦ　ＬＩＮＫＳ　ＵＭＥＤＡ",
+        "update": "2026/08/31 08:19:47",
+        "status": "yellow",
+        "ageSeconds": 1084
+      },
+      {
+        "name": "ｈａｏｓ．",
+        "rank": "Ruby",
+        "point": 1620,
+        "car": "FC3S[AR]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/08/31 08:29:24",
+        "status": "green",
+        "ageSeconds": 507
       }
     ],
     "Sapphire": [],
