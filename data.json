@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-31 02:21:50",
-  "activeSince": "2026-08-31 01:51:50",
-  "total": 13,
+  "trackerTime": "2026-08-31 02:24:00",
+  "activeSince": "2026-08-31 01:54:00",
+  "total": 11,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/31 02:12:23",
         "status": "green",
-        "ageSeconds": 567
+        "ageSeconds": 697
       },
       {
         "name": "ラクウェル．",
@@ -22,7 +22,7 @@
         "shop": "半田メトロポリス",
         "update": "2026/08/31 02:11:17",
         "status": "green",
-        "ageSeconds": 633
+        "ageSeconds": 763
       },
       {
         "name": "ブランド天皇",
@@ -32,7 +32,7 @@
         "shop": "関大前フタバボウル",
         "update": "2026/08/31 02:11:36",
         "status": "green",
-        "ageSeconds": 614
+        "ageSeconds": 744
       }
     ],
     "Ruby": [
@@ -44,7 +44,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/08/31 02:11:43",
         "status": "green",
-        "ageSeconds": 607
+        "ageSeconds": 737
       },
       {
         "name": "パイズリ魔人",
@@ -54,7 +54,7 @@
         "shop": "コムテックタワー",
         "update": "2026/08/31 02:11:42",
         "status": "green",
-        "ageSeconds": 608
+        "ageSeconds": 738
       },
       {
         "name": "ハゲト～さん",
@@ -64,7 +64,7 @@
         "shop": "ＧｉＧＯ秋葉原３号館",
         "update": "2026/08/31 02:11:24",
         "status": "green",
-        "ageSeconds": 626
+        "ageSeconds": 756
       },
       {
         "name": "いいなぁ～☆",
@@ -73,8 +73,8 @@
         "car": "CT9Aエボ7[AR]",
         "shop": "アミューズメントフィールドバイヨン",
         "update": "2026/08/31 02:07:21",
-        "status": "green",
-        "ageSeconds": 869
+        "status": "yellow",
+        "ageSeconds": 999
       },
       {
         "name": "ビールテロ！",
@@ -84,7 +84,7 @@
         "shop": "コムテックスクウェア",
         "update": "2026/08/31 02:12:30",
         "status": "green",
-        "ageSeconds": 560
+        "ageSeconds": 690
       },
       {
         "name": "ノアの亡霊．",
@@ -94,7 +94,7 @@
         "shop": "カーニバル・Ｃ・ドーム",
         "update": "2026/08/31 02:06:39",
         "status": "yellow",
-        "ageSeconds": 911
+        "ageSeconds": 1041
       },
       {
         "name": "Ａｑｎｓｙ",
@@ -104,7 +104,7 @@
         "shop": "ウェアハウス三橋店",
         "update": "2026/08/31 01:57:48",
         "status": "yellow",
-        "ageSeconds": 1442
+        "ageSeconds": 1572
       },
       {
         "name": "ｈａｏｓ．",
@@ -114,27 +114,7 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/31 02:11:36",
         "status": "green",
-        "ageSeconds": 614
-      },
-      {
-        "name": "むけない後藤",
-        "rank": "Ruby",
-        "point": 1540,
-        "car": "ST205[AR]",
-        "shop": "関大前フタバボウル",
-        "update": "2026/08/31 01:52:13",
-        "status": "yellow",
-        "ageSeconds": 1777
-      },
-      {
-        "name": "ラムレザル",
-        "rank": "Ruby",
-        "point": 740,
-        "car": "ST205[AR]",
-        "shop": "群馬レジャーランド太田店",
-        "update": "2026/08/31 01:53:23",
-        "status": "yellow",
-        "ageSeconds": 1707
+        "ageSeconds": 744
       }
     ],
     "Sapphire": [],
