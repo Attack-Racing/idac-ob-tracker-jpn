@@ -1,70 +1,100 @@
 {
-  "trackerTime": "2026-08-31 02:19:54",
-  "activeSince": "2026-08-31 01:49:54",
-  "total": 9,
+  "trackerTime": "2026-08-31 02:21:50",
+  "activeSince": "2026-08-31 01:51:50",
+  "total": 13,
   "ranks": {
     "Pride": [
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 82900,
+        "point": 83680,
         "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/08/31 01:57:11",
-        "status": "yellow",
-        "ageSeconds": 1363
+        "update": "2026/08/31 02:12:23",
+        "status": "green",
+        "ageSeconds": 567
       },
       {
-        "name": "千石　唯華",
+        "name": "ラクウェル．",
         "rank": "Pride",
-        "point": 63580,
-        "car": "NB8C[AR]",
-        "shop": "ＧｉＧＯイオンモールむさし村山",
-        "update": "2026/08/31 01:50:01",
-        "status": "yellow",
-        "ageSeconds": 1793
+        "point": 29960,
+        "car": "ST205[AR]",
+        "shop": "半田メトロポリス",
+        "update": "2026/08/31 02:11:17",
+        "status": "green",
+        "ageSeconds": 633
+      },
+      {
+        "name": "ブランド天皇",
+        "rank": "Pride",
+        "point": 2360,
+        "car": "CP9Aエボ6[AR]",
+        "shop": "関大前フタバボウル",
+        "update": "2026/08/31 02:11:36",
+        "status": "green",
+        "ageSeconds": 614
       }
     ],
     "Ruby": [
       {
-        "name": "ラクウェル．",
+        "name": "れな姫＠愛Ｒ",
         "rank": "Ruby",
-        "point": 29180,
+        "point": 118360,
         "car": "ST205[AR]",
-        "shop": "半田メトロポリス",
-        "update": "2026/08/31 01:57:11",
-        "status": "yellow",
-        "ageSeconds": 1363
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/08/31 02:11:43",
+        "status": "green",
+        "ageSeconds": 607
       },
       {
         "name": "パイズリ魔人",
         "rank": "Ruby",
-        "point": 10540,
+        "point": 10420,
         "car": "ST205[AR]",
         "shop": "コムテックタワー",
-        "update": "2026/08/31 01:55:09",
-        "status": "yellow",
-        "ageSeconds": 1485
+        "update": "2026/08/31 02:11:42",
+        "status": "green",
+        "ageSeconds": 608
+      },
+      {
+        "name": "ハゲト～さん",
+        "rank": "Ruby",
+        "point": 9280,
+        "car": "SW20[AR]",
+        "shop": "ＧｉＧＯ秋葉原３号館",
+        "update": "2026/08/31 02:11:24",
+        "status": "green",
+        "ageSeconds": 626
       },
       {
         "name": "いいなぁ～☆",
         "rank": "Ruby",
-        "point": 7280,
-        "car": "ER34[AR]",
+        "point": 7160,
+        "car": "CT9Aエボ7[AR]",
         "shop": "アミューズメントフィールドバイヨン",
-        "update": "2026/08/31 01:55:09",
-        "status": "yellow",
-        "ageSeconds": 1485
+        "update": "2026/08/31 02:07:21",
+        "status": "green",
+        "ageSeconds": 869
+      },
+      {
+        "name": "ビールテロ！",
+        "rank": "Ruby",
+        "point": 6420,
+        "car": "DC2[HC]",
+        "shop": "コムテックスクウェア",
+        "update": "2026/08/31 02:12:30",
+        "status": "green",
+        "ageSeconds": 560
       },
       {
         "name": "ノアの亡霊．",
         "rank": "Ruby",
-        "point": 6000,
-        "car": "CT9Aエボ9[AR]",
+        "point": 5940,
+        "car": "86トレノ2[HC]",
         "shop": "カーニバル・Ｃ・ドーム",
-        "update": "2026/08/31 01:57:46",
+        "update": "2026/08/31 02:06:39",
         "status": "yellow",
-        "ageSeconds": 1328
+        "ageSeconds": 911
       },
       {
         "name": "Ａｑｎｓｙ",
@@ -74,7 +104,17 @@
         "shop": "ウェアハウス三橋店",
         "update": "2026/08/31 01:57:48",
         "status": "yellow",
-        "ageSeconds": 1326
+        "ageSeconds": 1442
+      },
+      {
+        "name": "ｈａｏｓ．",
+        "rank": "Ruby",
+        "point": 1800,
+        "car": "FC3S[AR]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/08/31 02:11:36",
+        "status": "green",
+        "ageSeconds": 614
       },
       {
         "name": "むけない後藤",
@@ -84,7 +124,7 @@
         "shop": "関大前フタバボウル",
         "update": "2026/08/31 01:52:13",
         "status": "yellow",
-        "ageSeconds": 1661
+        "ageSeconds": 1777
       },
       {
         "name": "ラムレザル",
@@ -94,7 +134,7 @@
         "shop": "群馬レジャーランド太田店",
         "update": "2026/08/31 01:53:23",
         "status": "yellow",
-        "ageSeconds": 1591
+        "ageSeconds": 1707
       }
     ],
     "Sapphire": [],
