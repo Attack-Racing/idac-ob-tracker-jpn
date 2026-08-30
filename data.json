@@ -1,10 +1,62 @@
 {
-  "trackerTime": "2026-08-31 07:20:58",
-  "activeSince": "2026-08-31 06:50:58",
-  "total": 0,
+  "trackerTime": "2026-08-31 07:22:42",
+  "activeSince": "2026-08-31 06:52:42",
+  "total": 5,
   "ranks": {
-    "Pride": [],
-    "Ruby": [],
+    "Pride": [
+      {
+        "name": "藤咲　可憐",
+        "rank": "Pride",
+        "point": 33840,
+        "car": "ST205[AR]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/08/31 07:15:57",
+        "status": "green",
+        "ageSeconds": 405
+      },
+      {
+        "name": "賀喜　遥香",
+        "rank": "Pride",
+        "point": 3000,
+        "car": "ST205[AR]",
+        "shop": "キャッツアイ篠路店",
+        "update": "2026/08/31 07:12:17",
+        "status": "green",
+        "ageSeconds": 625
+      }
+    ],
+    "Ruby": [
+      {
+        "name": "Ｊａｃｋ",
+        "rank": "Ruby",
+        "point": 9440,
+        "car": "SW20[AR]",
+        "shop": "タイトーステーション摂津富田店",
+        "update": "2026/08/31 07:10:58",
+        "status": "green",
+        "ageSeconds": 704
+      },
+      {
+        "name": "　石原希望",
+        "rank": "Ruby",
+        "point": 3180,
+        "car": "CT9Aエボ9[AR]",
+        "shop": "ラウンドワンダイバーシティ東京プラザ店",
+        "update": "2026/08/31 07:06:54",
+        "status": "yellow",
+        "ageSeconds": 948
+      },
+      {
+        "name": "しけぽの弟子",
+        "rank": "Ruby",
+        "point": 2720,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "ラウンドワン梅田店",
+        "update": "2026/08/31 07:12:24",
+        "status": "green",
+        "ageSeconds": 618
+      }
+    ],
     "Sapphire": [],
     "Emerald": [],
     "Clear Blue": [],
