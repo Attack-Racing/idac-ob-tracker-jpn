@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-09-01 02:26:38",
-  "activeSince": "2026-09-01 01:56:38",
-  "total": 8,
+  "trackerTime": "2026-09-01 02:27:49",
+  "activeSince": "2026-09-01 01:57:49",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
@@ -11,8 +11,8 @@
         "car": "EG6[HC]",
         "shop": "千葉レジャーランド野田店",
         "update": "2026/09/01 02:12:19",
-        "status": "green",
-        "ageSeconds": 858
+        "status": "yellow",
+        "ageSeconds": 929
       },
       {
         "name": "あ＠とくしま",
@@ -22,7 +22,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/09/01 02:05:33",
         "status": "yellow",
-        "ageSeconds": 1264
+        "ageSeconds": 1335
       },
       {
         "name": "Ｒａｌｐｈ．",
@@ -31,8 +31,8 @@
         "car": "CP9Aエボ6[HC]",
         "shop": "ＧｉＧＯスエヒロボウル徳島",
         "update": "2026/09/01 02:12:19",
-        "status": "green",
-        "ageSeconds": 858
+        "status": "yellow",
+        "ageSeconds": 929
       }
     ],
     "Ruby": [
@@ -44,17 +44,7 @@
         "shop": "ラウンドワンダイバーシティ東京プラザ店",
         "update": "2026/09/01 02:13:51",
         "status": "green",
-        "ageSeconds": 766
-      },
-      {
-        "name": "女華乱＠泥酔",
-        "rank": "Ruby",
-        "point": 17600,
-        "car": "ST205[AR]",
-        "shop": "遊道楽新合川店",
-        "update": "2026/09/01 01:56:52",
-        "status": "yellow",
-        "ageSeconds": 1785
+        "ageSeconds": 837
       },
       {
         "name": "ぐんまちゃん",
@@ -64,7 +54,7 @@
         "shop": "群馬レジャーランド渋川店",
         "update": "2026/09/01 02:13:53",
         "status": "green",
-        "ageSeconds": 764
+        "ageSeconds": 835
       },
       {
         "name": "ＴＣＲ＠新宿",
@@ -74,7 +64,7 @@
         "shop": "タイトーステーション新宿東口店",
         "update": "2026/09/01 02:13:57",
         "status": "green",
-        "ageSeconds": 760
+        "ageSeconds": 831
       },
       {
         "name": "今この瞬間を",
@@ -84,7 +74,7 @@
         "shop": "アミューズメントフィールドバイヨン",
         "update": "2026/09/01 02:14:00",
         "status": "green",
-        "ageSeconds": 757
+        "ageSeconds": 828
       }
     ],
     "Sapphire": [],
