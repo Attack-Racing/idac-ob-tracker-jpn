@@ -1,6 +1,6 @@
 {
-  "trackerTime": "2026-09-01 00:49:50",
-  "activeSince": "2026-09-01 00:19:50",
+  "trackerTime": "2026-09-01 00:51:34",
+  "activeSince": "2026-09-01 00:21:34",
   "total": 15,
   "ranks": {
     "Pride": [
@@ -12,7 +12,7 @@
         "shop": "アミパラ松江店",
         "update": "2026/09/01 00:31:34",
         "status": "yellow",
-        "ageSeconds": 1096
+        "ageSeconds": 1200
       },
       {
         "name": "あ＠とくしま",
@@ -22,7 +22,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/09/01 00:42:13",
         "status": "green",
-        "ageSeconds": 457
+        "ageSeconds": 561
       },
       {
         "name": "Ｒａｌｐｈ．",
@@ -32,7 +32,7 @@
         "shop": "ＧｉＧＯスエヒロボウル徳島",
         "update": "2026/09/01 00:46:31",
         "status": "green",
-        "ageSeconds": 199
+        "ageSeconds": 303
       },
       {
         "name": "Ｃｌｕｂ　Ａ",
@@ -42,7 +42,7 @@
         "shop": "アレックス",
         "update": "2026/09/01 00:37:24",
         "status": "green",
-        "ageSeconds": 746
+        "ageSeconds": 850
       }
     ],
     "Ruby": [
@@ -54,7 +54,7 @@
         "shop": "アピナ川越店",
         "update": "2026/09/01 00:34:12",
         "status": "yellow",
-        "ageSeconds": 938
+        "ageSeconds": 1042
       },
       {
         "name": "ぐんまちゃん",
@@ -64,7 +64,7 @@
         "shop": "群馬レジャーランド渋川店",
         "update": "2026/09/01 00:46:30",
         "status": "green",
-        "ageSeconds": 200
+        "ageSeconds": 304
       },
       {
         "name": "こうちゃ",
@@ -74,7 +74,7 @@
         "shop": "群馬レジャーランド太田店",
         "update": "2026/09/01 00:46:27",
         "status": "green",
-        "ageSeconds": 203
+        "ageSeconds": 307
       },
       {
         "name": "コマネっち",
@@ -84,7 +84,7 @@
         "shop": "楽市楽座イオンモール宮崎店",
         "update": "2026/09/01 00:42:13",
         "status": "green",
-        "ageSeconds": 457
+        "ageSeconds": 561
       }
     ],
     "Sapphire": [
@@ -96,7 +96,7 @@
         "shop": "ベネクス浦和店",
         "update": "2026/09/01 00:41:29",
         "status": "green",
-        "ageSeconds": 501
+        "ageSeconds": 605
       },
       {
         "name": "ゴミラ隊長",
@@ -106,7 +106,17 @@
         "shop": "ウェアハウス三橋店",
         "update": "2026/09/01 00:41:36",
         "status": "green",
-        "ageSeconds": 494
+        "ageSeconds": 598
+      },
+      {
+        "name": "ｋｉｔｔｙ",
+        "rank": "Sapphire",
+        "point": 6800,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "ゲームメガみらい平店",
+        "update": "2026/09/01 00:46:27",
+        "status": "green",
+        "ageSeconds": 307
       },
       {
         "name": "クマママ",
@@ -116,7 +126,7 @@
         "shop": "ＧｉＧＯ秋葉原３号館",
         "update": "2026/09/01 00:25:01",
         "status": "yellow",
-        "ageSeconds": 1489
+        "ageSeconds": 1593
       },
       {
         "name": "障害もち＾＾",
@@ -126,21 +136,10 @@
         "shop": "群馬レジャーランド太田店",
         "update": "2026/09/01 00:41:37",
         "status": "green",
-        "ageSeconds": 493
+        "ageSeconds": 597
       }
     ],
-    "Emerald": [
-      {
-        "name": "ばぶ",
-        "rank": "Emerald",
-        "point": 1000,
-        "car": "SW20[DH]",
-        "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/09/01 00:20:57",
-        "status": "yellow",
-        "ageSeconds": 1733
-      }
-    ],
+    "Emerald": [],
     "Clear Blue": [
       {
         "name": "星街すいせい",
@@ -149,8 +148,8 @@
         "car": "CN9Aエボ4[HC]",
         "shop": "群馬レジャーランド太田店",
         "update": "2026/09/01 00:35:34",
-        "status": "green",
-        "ageSeconds": 856
+        "status": "yellow",
+        "ageSeconds": 960
       }
     ],
     "Clear Red": [],
@@ -162,8 +161,8 @@
         "car": "CE9Aエボ3[DH]",
         "shop": "ゲームパニック新宿歌舞伎町",
         "update": "2026/09/01 00:35:41",
-        "status": "green",
-        "ageSeconds": 849
+        "status": "yellow",
+        "ageSeconds": 953
       }
     ],
     "Unknown Online Rank": []
