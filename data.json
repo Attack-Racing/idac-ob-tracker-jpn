@@ -1,10 +1,31 @@
 {
-  "trackerTime": "2026-09-01 08:33:47",
-  "activeSince": "2026-09-01 08:03:47",
-  "total": 0,
+  "trackerTime": "2026-09-01 08:35:34",
+  "activeSince": "2026-09-01 08:05:34",
+  "total": 2,
   "ranks": {
     "Pride": [],
-    "Ruby": [],
+    "Ruby": [
+      {
+        "name": "けんちんだぉ",
+        "rank": "Ruby",
+        "point": 23000,
+        "car": "CP9Aエボ5[AR]",
+        "shop": "インターワールド伊勢崎店",
+        "update": "2026/09/01 08:23:23",
+        "status": "green",
+        "ageSeconds": 731
+      },
+      {
+        "name": "Ｘ３２６Ｘ",
+        "rank": "Ruby",
+        "point": 14000,
+        "car": "SW20[AR]",
+        "shop": "ラウンドワン札幌すすきの店",
+        "update": "2026/09/01 08:23:24",
+        "status": "green",
+        "ageSeconds": 730
+      }
+    ],
     "Sapphire": [],
     "Emerald": [],
     "Clear Blue": [],
