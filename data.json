@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-09-01 02:33:34",
-  "activeSince": "2026-09-01 02:03:34",
-  "total": 7,
+  "trackerTime": "2026-09-01 02:34:52",
+  "activeSince": "2026-09-01 02:04:52",
+  "total": 10,
   "ranks": {
     "Pride": [
       {
@@ -12,27 +12,27 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/09/01 02:12:19",
         "status": "yellow",
-        "ageSeconds": 1275
+        "ageSeconds": 1353
       },
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 88440,
-        "car": "ZN6[AR]",
+        "point": 88700,
+        "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/09/01 02:05:33",
-        "status": "yellow",
-        "ageSeconds": 1681
+        "update": "2026/09/01 02:31:15",
+        "status": "green",
+        "ageSeconds": 217
       },
       {
         "name": "Ｒａｌｐｈ．",
         "rank": "Pride",
-        "point": 44860,
-        "car": "CP9Aエボ6[HC]",
+        "point": 45640,
+        "car": "CP9Aエボ5[AR]",
         "shop": "ＧｉＧＯスエヒロボウル徳島",
-        "update": "2026/09/01 02:12:19",
-        "status": "yellow",
-        "ageSeconds": 1275
+        "update": "2026/09/01 02:28:15",
+        "status": "green",
+        "ageSeconds": 397
       }
     ],
     "Ruby": [
@@ -44,7 +44,7 @@
         "shop": "ラウンドワンダイバーシティ東京プラザ店",
         "update": "2026/09/01 02:13:51",
         "status": "yellow",
-        "ageSeconds": 1183
+        "ageSeconds": 1261
       },
       {
         "name": "ぐんまちゃん",
@@ -54,7 +54,17 @@
         "shop": "群馬レジャーランド渋川店",
         "update": "2026/09/01 02:13:53",
         "status": "yellow",
-        "ageSeconds": 1181
+        "ageSeconds": 1259
+      },
+      {
+        "name": "ＰＰダービー",
+        "rank": "Ruby",
+        "point": 11820,
+        "car": "ST205[AR]",
+        "shop": "バイパスレジャーランド加賀店",
+        "update": "2026/09/01 02:28:58",
+        "status": "green",
+        "ageSeconds": 354
       },
       {
         "name": "ＴＣＲ＠新宿",
@@ -64,7 +74,27 @@
         "shop": "タイトーステーション新宿東口店",
         "update": "2026/09/01 02:13:57",
         "status": "yellow",
-        "ageSeconds": 1177
+        "ageSeconds": 1255
+      },
+      {
+        "name": "湊崎　紗夏",
+        "rank": "Ruby",
+        "point": 2760,
+        "car": "CP9Aエボ6[AR]",
+        "shop": "ＹＡＺ寝屋川店",
+        "update": "2026/09/01 02:28:22",
+        "status": "green",
+        "ageSeconds": 390
+      },
+      {
+        "name": "けんきくん♯",
+        "rank": "Ruby",
+        "point": 2420,
+        "car": "FD3S[AR]",
+        "shop": "アミューズメントパフェパレパレ田宮店",
+        "update": "2026/09/01 02:22:41",
+        "status": "green",
+        "ageSeconds": 731
       },
       {
         "name": "今この瞬間を",
@@ -74,7 +104,7 @@
         "shop": "アミューズメントフィールドバイヨン",
         "update": "2026/09/01 02:14:00",
         "status": "yellow",
-        "ageSeconds": 1174
+        "ageSeconds": 1252
       }
     ],
     "Sapphire": [],
