@@ -1,51 +1,81 @@
 {
-  "trackerTime": "2026-08-31 09:07:52",
-  "activeSince": "2026-08-31 08:37:52",
-  "total": 6,
+  "trackerTime": "2026-08-31 09:09:47",
+  "activeSince": "2026-08-31 08:39:47",
+  "total": 14,
   "ranks": {
     "Pride": [
       {
+        "name": "　Ｌｖｔｒ",
+        "rank": "Pride",
+        "point": 84740,
+        "car": "ST205[AR]",
+        "shop": "アミパラ倉敷店",
+        "update": "2026/08/31 09:01:00",
+        "status": "green",
+        "ageSeconds": 527
+      },
+      {
         "name": "藤咲　可憐",
         "rank": "Pride",
-        "point": 38520,
-        "car": "ST205[AR]",
+        "point": 39300,
+        "car": "GDBA[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/08/31 08:42:13",
-        "status": "yellow",
-        "ageSeconds": 1539
+        "update": "2026/08/31 08:57:33",
+        "status": "green",
+        "ageSeconds": 734
       },
       {
         "name": "森島Ｌはるか",
         "rank": "Pride",
-        "point": 29340,
+        "point": 30120,
         "car": "ST205[AR]",
         "shop": "ゲームランド草津店",
-        "update": "2026/08/31 08:41:21",
-        "status": "yellow",
-        "ageSeconds": 1591
+        "update": "2026/08/31 09:01:00",
+        "status": "green",
+        "ageSeconds": 527
       },
       {
-        "name": "ゾシアタバコ",
+        "name": "ミッキー",
         "rank": "Pride",
-        "point": 7460,
-        "car": "EK9[DH]",
-        "shop": "ラウンドワン旭川店",
-        "update": "2026/08/31 08:38:23",
+        "point": 14820,
+        "car": "FD3S6[AR]",
+        "shop": "トップラン岩岡",
+        "update": "2026/08/31 08:57:32",
+        "status": "green",
+        "ageSeconds": 735
+      },
+      {
+        "name": "Ｊａｃｋ",
+        "rank": "Pride",
+        "point": 10480,
+        "car": "FD3S6[AR]",
+        "shop": "タイトーステーション摂津富田店",
+        "update": "2026/08/31 08:51:29",
         "status": "yellow",
-        "ageSeconds": 1769
+        "ageSeconds": 1098
       },
       {
         "name": "賀喜　遥香",
         "rank": "Pride",
-        "point": 7420,
+        "point": 8200,
         "car": "ST205[AR]",
         "shop": "キャッツアイ篠路店",
-        "update": "2026/08/31 08:42:57",
-        "status": "yellow",
-        "ageSeconds": 1495
+        "update": "2026/08/31 08:59:10",
+        "status": "green",
+        "ageSeconds": 637
       }
     ],
     "Ruby": [
+      {
+        "name": "一ノ瀬　麗",
+        "rank": "Ruby",
+        "point": 14420,
+        "car": "FD3S[AR]",
+        "shop": "ラウンドワン宮崎店",
+        "update": "2026/08/31 08:59:06",
+        "status": "green",
+        "ageSeconds": 641
+      },
       {
         "name": "安牌す川田",
         "rank": "Ruby",
@@ -54,7 +84,27 @@
         "shop": "セガショールーム",
         "update": "2026/08/31 08:43:04",
         "status": "yellow",
-        "ageSeconds": 1488
+        "ageSeconds": 1603
+      },
+      {
+        "name": "上崎　裡沙．",
+        "rank": "Ruby",
+        "point": 4420,
+        "car": "86トレノ[AR]",
+        "shop": "ラウンドワン豊中店",
+        "update": "2026/08/31 08:47:24",
+        "status": "yellow",
+        "ageSeconds": 1343
+      },
+      {
+        "name": "しけぽの弟子",
+        "rank": "Ruby",
+        "point": 2540,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "ラウンドワン梅田店",
+        "update": "2026/08/31 08:47:57",
+        "status": "yellow",
+        "ageSeconds": 1310
       },
       {
         "name": "ＭＡＲｉＡ．",
@@ -64,7 +114,37 @@
         "shop": "ピンクパンサー水戸赤塚店",
         "update": "2026/08/31 08:42:20",
         "status": "yellow",
-        "ageSeconds": 1532
+        "ageSeconds": 1647
+      },
+      {
+        "name": "音もない世界",
+        "rank": "Ruby",
+        "point": 1900,
+        "car": "ST205[AR]",
+        "shop": "楽市楽座行橋店",
+        "update": "2026/08/31 08:59:13",
+        "status": "green",
+        "ageSeconds": 634
+      },
+      {
+        "name": "勝負師　哲也",
+        "rank": "Ruby",
+        "point": 1220,
+        "car": "FL5[DH]",
+        "shop": "ラウンドワン堺駅前店",
+        "update": "2026/08/31 08:59:09",
+        "status": "green",
+        "ageSeconds": 638
+      },
+      {
+        "name": "ネブ博士．",
+        "rank": "Ruby",
+        "point": 120,
+        "car": "ZC33S[DH]",
+        "shop": "パスカランド日田店",
+        "update": "2026/08/31 08:53:41",
+        "status": "yellow",
+        "ageSeconds": 966
       }
     ],
     "Sapphire": [],
