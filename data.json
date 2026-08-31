@@ -1,30 +1,60 @@
 {
-  "trackerTime": "2026-09-01 01:48:51",
-  "activeSince": "2026-09-01 01:18:51",
-  "total": 4,
+  "trackerTime": "2026-09-01 01:50:56",
+  "activeSince": "2026-09-01 01:20:56",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
+        "name": "あ＠とくしま",
+        "rank": "Pride",
+        "point": 88500,
+        "car": "ST205[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/09/01 01:41:25",
+        "status": "green",
+        "ageSeconds": 571
+      },
+      {
         "name": "Ｒａｌｐｈ．",
         "rank": "Pride",
-        "point": 43360,
+        "point": 43880,
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯスエヒロボウル徳島",
-        "update": "2026/09/01 01:29:52",
-        "status": "yellow",
-        "ageSeconds": 1139
+        "update": "2026/09/01 01:43:39",
+        "status": "green",
+        "ageSeconds": 437
       }
     ],
     "Ruby": [
       {
         "name": "ぐんまちゃん",
         "rank": "Ruby",
-        "point": 13340,
-        "car": "JZX100[HC]",
+        "point": 13480,
+        "car": "SW20[AR]",
         "shop": "群馬レジャーランド渋川店",
-        "update": "2026/09/01 01:26:13",
-        "status": "yellow",
-        "ageSeconds": 1358
+        "update": "2026/09/01 01:43:46",
+        "status": "green",
+        "ageSeconds": 430
+      },
+      {
+        "name": "Ｌｐｅａ＊",
+        "rank": "Ruby",
+        "point": 4420,
+        "car": "ST205[AR]",
+        "shop": "ＧｉＧＯ籠原",
+        "update": "2026/09/01 01:41:32",
+        "status": "green",
+        "ageSeconds": 564
+      },
+      {
+        "name": "ＴＣＲ＠新宿",
+        "rank": "Ruby",
+        "point": 4360,
+        "car": "ST205[AR]",
+        "shop": "タイトーステーション新宿東口店",
+        "update": "2026/09/01 01:43:55",
+        "status": "green",
+        "ageSeconds": 421
       },
       {
         "name": "コマネっち",
@@ -34,17 +64,17 @@
         "shop": "楽市楽座イオンモール宮崎店",
         "update": "2026/09/01 01:26:13",
         "status": "yellow",
-        "ageSeconds": 1358
+        "ageSeconds": 1483
       },
       {
         "name": "今この瞬間を",
         "rank": "Ruby",
-        "point": 1760,
+        "point": 1960,
         "car": "ER34[AR]",
         "shop": "アミューズメントフィールドバイヨン",
-        "update": "2026/09/01 01:29:57",
-        "status": "yellow",
-        "ageSeconds": 1134
+        "update": "2026/09/01 01:43:55",
+        "status": "green",
+        "ageSeconds": 421
       }
     ],
     "Sapphire": [],
