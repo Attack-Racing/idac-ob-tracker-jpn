@@ -1,21 +1,51 @@
 {
-  "trackerTime": "2026-09-01 02:18:33",
-  "activeSince": "2026-09-01 01:48:33",
-  "total": 5,
+  "trackerTime": "2026-09-01 02:19:32",
+  "activeSince": "2026-09-01 01:49:32",
+  "total": 8,
   "ranks": {
     "Pride": [
       {
+        "name": "わがまますぎ",
+        "rank": "Pride",
+        "point": 101900,
+        "car": "EG6[HC]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/09/01 02:12:19",
+        "status": "green",
+        "ageSeconds": 433
+      },
+      {
+        "name": "あ＠とくしま",
+        "rank": "Pride",
+        "point": 88440,
+        "car": "ZN6[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/09/01 02:05:33",
+        "status": "green",
+        "ageSeconds": 839
+      },
+      {
         "name": "Ｒａｌｐｈ．",
         "rank": "Pride",
-        "point": 44400,
-        "car": "ST205[AR]",
+        "point": 44860,
+        "car": "CP9Aエボ6[HC]",
         "shop": "ＧｉＧＯスエヒロボウル徳島",
-        "update": "2026/09/01 01:56:45",
-        "status": "yellow",
-        "ageSeconds": 1308
+        "update": "2026/09/01 02:12:19",
+        "status": "green",
+        "ageSeconds": 433
       }
     ],
     "Ruby": [
+      {
+        "name": "未来の三原色",
+        "rank": "Ruby",
+        "point": 24400,
+        "car": "CP9Aエボ5[DH]",
+        "shop": "ラウンドワンダイバーシティ東京プラザ店",
+        "update": "2026/09/01 02:13:51",
+        "status": "green",
+        "ageSeconds": 341
+      },
       {
         "name": "女華乱＠泥酔",
         "rank": "Ruby",
@@ -24,37 +54,37 @@
         "shop": "遊道楽新合川店",
         "update": "2026/09/01 01:56:52",
         "status": "yellow",
-        "ageSeconds": 1301
+        "ageSeconds": 1360
       },
       {
         "name": "ぐんまちゃん",
         "rank": "Ruby",
-        "point": 13740,
+        "point": 13940,
         "car": "JZX100[HC]",
         "shop": "群馬レジャーランド渋川店",
-        "update": "2026/09/01 01:54:49",
-        "status": "yellow",
-        "ageSeconds": 1424
+        "update": "2026/09/01 02:13:53",
+        "status": "green",
+        "ageSeconds": 339
       },
       {
         "name": "ＴＣＲ＠新宿",
         "rank": "Ruby",
-        "point": 4620,
-        "car": "SW20[AR]",
+        "point": 4500,
+        "car": "86トレノ2[HC]",
         "shop": "タイトーステーション新宿東口店",
-        "update": "2026/09/01 02:00:57",
-        "status": "yellow",
-        "ageSeconds": 1056
+        "update": "2026/09/01 02:13:57",
+        "status": "green",
+        "ageSeconds": 335
       },
       {
         "name": "今この瞬間を",
         "rank": "Ruby",
-        "point": 1780,
-        "car": "CP9Aエボ6[AR]",
+        "point": 1720,
+        "car": "ER34[AR]",
         "shop": "アミューズメントフィールドバイヨン",
-        "update": "2026/09/01 02:00:57",
-        "status": "yellow",
-        "ageSeconds": 1056
+        "update": "2026/09/01 02:14:00",
+        "status": "green",
+        "ageSeconds": 332
       }
     ],
     "Sapphire": [],
