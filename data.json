@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-09-01 00:34:35",
-  "activeSince": "2026-09-01 00:04:35",
-  "total": 13,
+  "trackerTime": "2026-09-01 00:35:32",
+  "activeSince": "2026-09-01 00:05:32",
+  "total": 16,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "アミパラ松江店",
         "update": "2026/09/01 00:31:34",
         "status": "green",
-        "ageSeconds": 181
+        "ageSeconds": 238
       },
       {
         "name": "たなベーコン",
@@ -22,7 +22,7 @@
         "shop": "バイパスレジャーランド藤江新館",
         "update": "2026/09/01 00:09:07",
         "status": "yellow",
-        "ageSeconds": 1528
+        "ageSeconds": 1585
       },
       {
         "name": "Ｒａｌｐｈ．",
@@ -32,7 +32,7 @@
         "shop": "ＧｉＧＯスエヒロボウル徳島",
         "update": "2026/09/01 00:30:32",
         "status": "green",
-        "ageSeconds": 243
+        "ageSeconds": 300
       },
       {
         "name": "Ｃｌｕｂ　Ａ",
@@ -42,51 +42,61 @@
         "shop": "アレックス",
         "update": "2026/09/01 00:30:32",
         "status": "green",
-        "ageSeconds": 243
+        "ageSeconds": 300
       }
     ],
     "Ruby": [
       {
         "name": "もっちゃん？",
         "rank": "Ruby",
-        "point": 37060,
+        "point": 37260,
         "car": "ST205[AR]",
         "shop": "アピナ川越店",
-        "update": "2026/09/01 00:16:22",
-        "status": "yellow",
-        "ageSeconds": 1093
+        "update": "2026/09/01 00:28:28",
+        "status": "green",
+        "ageSeconds": 424
+      },
+      {
+        "name": "ぐんまちゃん",
+        "rank": "Ruby",
+        "point": 13560,
+        "car": "ST205[AR]",
+        "shop": "群馬レジャーランド渋川店",
+        "update": "2026/09/01 00:25:16",
+        "status": "green",
+        "ageSeconds": 616
       },
       {
         "name": "嫉妬と怠惰",
         "rank": "Ruby",
-        "point": 10300,
+        "point": 10240,
         "car": "ZC33S[AR]",
         "shop": "群馬レジャーランド渋川店",
-        "update": "2026/09/01 00:14:49",
+        "update": "2026/09/01 00:19:43",
         "status": "yellow",
-        "ageSeconds": 1186
-      },
-      {
-        "name": "こうちゃ",
-        "rank": "Ruby",
-        "point": 2260,
-        "car": "ER34[AR]",
-        "shop": "群馬レジャーランド太田店",
-        "update": "2026/09/01 00:05:26",
-        "status": "yellow",
-        "ageSeconds": 1749
+        "ageSeconds": 949
       }
     ],
     "Sapphire": [
       {
         "name": "エロオヤジ",
         "rank": "Sapphire",
-        "point": 11240,
-        "car": "BNR32[DH]",
+        "point": 11120,
+        "car": "BNR32[HC]",
         "shop": "ベネクス浦和店",
-        "update": "2026/09/01 00:12:51",
-        "status": "yellow",
-        "ageSeconds": 1304
+        "update": "2026/09/01 00:29:57",
+        "status": "green",
+        "ageSeconds": 335
+      },
+      {
+        "name": "ゴミラ隊長",
+        "rank": "Sapphire",
+        "point": 10120,
+        "car": "EK9[DH]",
+        "shop": "ウェアハウス三橋店",
+        "update": "2026/09/01 00:30:47",
+        "status": "green",
+        "ageSeconds": 285
       },
       {
         "name": "クマママ",
@@ -96,17 +106,27 @@
         "shop": "ＧｉＧＯ秋葉原３号館",
         "update": "2026/09/01 00:25:01",
         "status": "green",
-        "ageSeconds": 574
+        "ageSeconds": 631
+      },
+      {
+        "name": "障害もち＾＾",
+        "rank": "Sapphire",
+        "point": 4320,
+        "car": "FD3S6[AR]",
+        "shop": "群馬レジャーランド太田店",
+        "update": "2026/09/01 00:29:57",
+        "status": "green",
+        "ageSeconds": 335
       },
       {
         "name": "輪堂千速",
         "rank": "Sapphire",
-        "point": 240,
-        "car": "SW20[DH]",
+        "point": 180,
+        "car": "FD3S[AR]",
         "shop": "群馬レジャーランド太田店",
-        "update": "2026/09/01 00:12:51",
+        "update": "2026/09/01 00:17:44",
         "status": "yellow",
-        "ageSeconds": 1304
+        "ageSeconds": 1068
       },
       {
         "name": "あ＿りん",
@@ -116,7 +136,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/09/01 00:14:33",
         "status": "yellow",
-        "ageSeconds": 1202
+        "ageSeconds": 1259
       }
     ],
     "Emerald": [
@@ -128,7 +148,7 @@
         "shop": "楽市楽座イオンタウン姶良店",
         "update": "2026/09/01 00:13:10",
         "status": "yellow",
-        "ageSeconds": 1285
+        "ageSeconds": 1342
       },
       {
         "name": "ばぶ",
@@ -138,12 +158,23 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/09/01 00:20:57",
         "status": "green",
-        "ageSeconds": 818
+        "ageSeconds": 875
       }
     ],
     "Clear Blue": [],
     "Clear Red": [],
-    "Clear Green": [],
+    "Clear Green": [
+      {
+        "name": "れもん",
+        "rank": "Clear Green",
+        "point": 160,
+        "car": "FD3S[AR]",
+        "shop": "群馬レジャーランド太田店",
+        "update": "2026/09/01 00:25:23",
+        "status": "green",
+        "ageSeconds": 609
+      }
+    ],
     "Unknown Online Rank": []
   }
 }
