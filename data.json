@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-08-31 10:15:47",
-  "activeSince": "2026-08-31 09:45:47",
-  "total": 19,
+  "trackerTime": "2026-08-31 10:16:50",
+  "activeSince": "2026-08-31 09:46:50",
+  "total": 17,
   "ranks": {
     "Pride": [
       {
@@ -11,8 +11,8 @@
         "car": "CP9Aエボ6[AR]",
         "shop": "ＧｉＧＯマーケットスクエアささしま",
         "update": "2026/08/31 10:01:41",
-        "status": "green",
-        "ageSeconds": 845
+        "status": "yellow",
+        "ageSeconds": 908
       },
       {
         "name": "　Ｌｖｔｒ",
@@ -21,8 +21,8 @@
         "car": "CP9Aエボ6[AR]",
         "shop": "アミパラ倉敷店",
         "update": "2026/08/31 10:01:41",
-        "status": "green",
-        "ageSeconds": 845
+        "status": "yellow",
+        "ageSeconds": 908
       },
       {
         "name": "雪ニモマケズ",
@@ -32,7 +32,7 @@
         "shop": "ラウンドワン長野店",
         "update": "2026/08/31 10:01:52",
         "status": "green",
-        "ageSeconds": 834
+        "ageSeconds": 897
       },
       {
         "name": "たかし",
@@ -42,7 +42,7 @@
         "shop": "ラウンドワン梅田店",
         "update": "2026/08/31 09:58:05",
         "status": "yellow",
-        "ageSeconds": 1061
+        "ageSeconds": 1124
       },
       {
         "name": "ＰＬＵＴＯ．",
@@ -52,7 +52,7 @@
         "shop": "ラウンドワン伊丹店",
         "update": "2026/08/31 10:01:53",
         "status": "green",
-        "ageSeconds": 833
+        "ageSeconds": 896
       }
     ],
     "Ruby": [
@@ -64,7 +64,7 @@
         "shop": "バイパスレジャーランド藤江新館",
         "update": "2026/08/31 09:58:05",
         "status": "yellow",
-        "ageSeconds": 1061
+        "ageSeconds": 1124
       },
       {
         "name": "一ノ瀬　麗",
@@ -74,7 +74,7 @@
         "shop": "ラウンドワン宮崎店",
         "update": "2026/08/31 09:56:13",
         "status": "yellow",
-        "ageSeconds": 1173
+        "ageSeconds": 1236
       },
       {
         "name": "もりなべさ",
@@ -84,7 +84,7 @@
         "shop": "楽市街道箱崎店",
         "update": "2026/08/31 09:50:50",
         "status": "yellow",
-        "ageSeconds": 1496
+        "ageSeconds": 1559
       },
       {
         "name": "無名ＣＺ",
@@ -94,7 +94,7 @@
         "shop": "ＳＯＹＵ　ＧＡＭＥ　ＦＩＥＬＤ古川店",
         "update": "2026/08/31 09:56:20",
         "status": "yellow",
-        "ageSeconds": 1166
+        "ageSeconds": 1229
       },
       {
         "name": "朝比奈まふゆ",
@@ -104,17 +104,7 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/08/31 09:48:04",
         "status": "yellow",
-        "ageSeconds": 1662
-      },
-      {
-        "name": "蒼羽　ひなの",
-        "rank": "Ruby",
-        "point": 1840,
-        "car": "ZZW30[HC]",
-        "shop": "ＧｉＧＯ長久手",
-        "update": "2026/08/31 09:46:13",
-        "status": "yellow",
-        "ageSeconds": 1773
+        "ageSeconds": 1725
       },
       {
         "name": "たかし",
@@ -124,7 +114,7 @@
         "shop": "アピナ富山新庄店",
         "update": "2026/08/31 09:51:55",
         "status": "yellow",
-        "ageSeconds": 1431
+        "ageSeconds": 1494
       }
     ],
     "Sapphire": [
@@ -136,7 +126,7 @@
         "shop": "ＧｉＧＯ中間",
         "update": "2026/08/31 10:02:17",
         "status": "green",
-        "ageSeconds": 809
+        "ageSeconds": 872
       },
       {
         "name": "タマモクロス",
@@ -145,8 +135,8 @@
         "car": "FD3S6[AR]",
         "shop": "ＰＡＬＯ小松島",
         "update": "2026/08/31 10:01:13",
-        "status": "green",
-        "ageSeconds": 873
+        "status": "yellow",
+        "ageSeconds": 936
       },
       {
         "name": "ハルウララ",
@@ -156,7 +146,7 @@
         "shop": "アミューズメントパークＭＧ徳島",
         "update": "2026/08/31 09:50:35",
         "status": "yellow",
-        "ageSeconds": 1511
+        "ageSeconds": 1574
       },
       {
         "name": "ごろうまる",
@@ -166,22 +156,11 @@
         "shop": "バイパスレジャーランド藤江新館",
         "update": "2026/08/31 09:56:28",
         "status": "yellow",
-        "ageSeconds": 1158
+        "ageSeconds": 1221
       }
     ],
     "Emerald": [],
-    "Clear Blue": [
-      {
-        "name": "あんぱん",
-        "rank": "Clear Blue",
-        "point": 640,
-        "car": "ZC33S[DH]",
-        "shop": "楽市楽座黒崎店",
-        "update": "2026/08/31 09:46:19",
-        "status": "yellow",
-        "ageSeconds": 1767
-      }
-    ],
+    "Clear Blue": [],
     "Clear Red": [
       {
         "name": "シロ",
@@ -191,7 +170,7 @@
         "shop": "アミューズメントパークＭＧ四万十",
         "update": "2026/08/31 09:57:18",
         "status": "yellow",
-        "ageSeconds": 1108
+        "ageSeconds": 1171
       },
       {
         "name": "けん",
@@ -201,7 +180,7 @@
         "shop": "シルクハット川崎モアーズ",
         "update": "2026/08/31 09:50:48",
         "status": "yellow",
-        "ageSeconds": 1498
+        "ageSeconds": 1561
       }
     ],
     "Clear Green": [],
