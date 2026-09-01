@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-09-02 03:04:44",
-  "activeSince": "2026-09-02 02:34:44",
-  "total": 9,
+  "trackerTime": "2026-09-02 03:06:31",
+  "activeSince": "2026-09-02 02:36:31",
+  "total": 10,
   "ranks": {
     "Pride": [
       {
@@ -12,27 +12,27 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/09/02 02:54:55",
         "status": "green",
-        "ageSeconds": 589
+        "ageSeconds": 696
       },
       {
         "name": "ゆとりでうす",
         "rank": "Pride",
-        "point": 49780,
+        "point": 50300,
         "car": "ST205[AR]",
         "shop": "インターワールド伊勢崎店",
-        "update": "2026/09/02 02:45:37",
-        "status": "yellow",
-        "ageSeconds": 1147
+        "update": "2026/09/02 02:58:18",
+        "status": "green",
+        "ageSeconds": 493
       },
       {
         "name": "絶対的第六感",
         "rank": "Pride",
-        "point": 48220,
-        "car": "ST205[AR]",
+        "point": 48740,
+        "car": "CP9Aエボ6[HC]",
         "shop": "アミューズメントゲーム　マグレブ",
-        "update": "2026/09/02 02:41:06",
-        "status": "yellow",
-        "ageSeconds": 1418
+        "update": "2026/09/02 02:59:26",
+        "status": "green",
+        "ageSeconds": 425
       },
       {
         "name": "夏草の線路",
@@ -42,7 +42,7 @@
         "shop": "M's PARK豊田店",
         "update": "2026/09/02 02:59:26",
         "status": "green",
-        "ageSeconds": 318
+        "ageSeconds": 425
       }
     ],
     "Ruby": [
@@ -54,7 +54,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/09/02 02:40:03",
         "status": "yellow",
-        "ageSeconds": 1481
+        "ageSeconds": 1588
       },
       {
         "name": "人間の端くれ",
@@ -64,17 +64,17 @@
         "shop": "ｎａｍｃｏ博多バスターミナル店",
         "update": "2026/09/02 03:00:45",
         "status": "green",
-        "ageSeconds": 239
+        "ageSeconds": 346
       },
       {
-        "name": "未来の三原色",
+        "name": "甘い生活へ",
         "rank": "Ruby",
-        "point": 24540,
-        "car": "ST205[AR]",
-        "shop": "ラウンドワンダイバーシティ東京プラザ店",
-        "update": "2026/09/02 02:36:06",
-        "status": "yellow",
-        "ageSeconds": 1718
+        "point": 3760,
+        "car": "CP9Aエボ6[AR]",
+        "shop": "アミューズメントフィールドバイヨン",
+        "update": "2026/09/02 02:58:25",
+        "status": "green",
+        "ageSeconds": 486
       },
       {
         "name": "西施でた／／",
@@ -84,7 +84,17 @@
         "shop": "半田メトロポリス",
         "update": "2026/09/02 03:00:51",
         "status": "green",
-        "ageSeconds": 233
+        "ageSeconds": 340
+      },
+      {
+        "name": "Ａｑｎｓｙ",
+        "rank": "Ruby",
+        "point": 2640,
+        "car": "CT9Aエボ9[AR]",
+        "shop": "ウェアハウス三橋店",
+        "update": "2026/09/02 03:00:52",
+        "status": "green",
+        "ageSeconds": 339
       },
       {
         "name": "ＡＲＯＭＡ",
@@ -93,8 +103,8 @@
         "car": "CE9Aエボ3[DH]",
         "shop": "ラウンドワン千種店",
         "update": "2026/09/02 02:50:20",
-        "status": "green",
-        "ageSeconds": 864
+        "status": "yellow",
+        "ageSeconds": 971
       }
     ],
     "Sapphire": [],
