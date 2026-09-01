@@ -1,6 +1,6 @@
 {
-  "trackerTime": "2026-09-02 01:17:47",
-  "activeSince": "2026-09-02 00:47:47",
+  "trackerTime": "2026-09-02 01:19:38",
+  "activeSince": "2026-09-02 00:49:38",
   "total": 9,
   "ranks": {
     "Pride": [
@@ -12,17 +12,17 @@
         "shop": "アミパラ松江店",
         "update": "2026/09/02 00:56:05",
         "status": "yellow",
-        "ageSeconds": 1302
+        "ageSeconds": 1413
       },
       {
         "name": "夏草の線路",
         "rank": "Pride",
-        "point": 17880,
+        "point": 18660,
         "car": "ST205[AR]",
         "shop": "M's PARK豊田店",
-        "update": "2026/09/02 01:00:16",
-        "status": "yellow",
-        "ageSeconds": 1051
+        "update": "2026/09/02 01:14:50",
+        "status": "green",
+        "ageSeconds": 288
       },
       {
         "name": "Ｃｌｕｂ　Ａ",
@@ -32,7 +32,17 @@
         "shop": "アレックス",
         "update": "2026/09/02 00:54:56",
         "status": "yellow",
-        "ageSeconds": 1371
+        "ageSeconds": 1482
+      },
+      {
+        "name": "ＡＤＲＥＮＡ",
+        "rank": "Pride",
+        "point": 340,
+        "car": "ST205[AR]",
+        "shop": "ジョイランドアミューズ諏訪店",
+        "update": "2026/09/02 01:14:50",
+        "status": "green",
+        "ageSeconds": 288
       }
     ],
     "Ruby": [
@@ -44,7 +54,27 @@
         "shop": "シルクハット伊勢佐木町",
         "update": "2026/09/02 00:50:10",
         "status": "yellow",
-        "ageSeconds": 1657
+        "ageSeconds": 1768
+      },
+      {
+        "name": "甘い生活へ",
+        "rank": "Ruby",
+        "point": 3800,
+        "car": "CP9Aエボ6[AR]",
+        "shop": "アミューズメントフィールドバイヨン",
+        "update": "2026/09/02 01:14:31",
+        "status": "green",
+        "ageSeconds": 307
+      },
+      {
+        "name": "西施でた／／",
+        "rank": "Ruby",
+        "point": 2880,
+        "car": "CT9Aエボ7[DH]",
+        "shop": "半田メトロポリス",
+        "update": "2026/09/02 01:14:30",
+        "status": "green",
+        "ageSeconds": 308
       },
       {
         "name": "ＧＯＮ",
@@ -54,53 +84,21 @@
         "shop": "ＧｉＧＯ函館昭和",
         "update": "2026/09/02 00:58:14",
         "status": "yellow",
-        "ageSeconds": 1173
-      },
-      {
-        "name": "西施でた／／",
-        "rank": "Ruby",
-        "point": 2360,
-        "car": "CT9Aエボ9[AR]",
-        "shop": "半田メトロポリス",
-        "update": "2026/09/02 00:58:12",
-        "status": "yellow",
-        "ageSeconds": 1175
+        "ageSeconds": 1284
       },
       {
         "name": "ラムレザル",
         "rank": "Ruby",
-        "point": 620,
-        "car": "ST205[AR]",
+        "point": 880,
+        "car": "BNR34[AR]",
         "shop": "群馬レジャーランド太田店",
-        "update": "2026/09/02 01:00:15",
-        "status": "yellow",
-        "ageSeconds": 1052
+        "update": "2026/09/02 01:12:47",
+        "status": "green",
+        "ageSeconds": 411
       }
     ],
-    "Sapphire": [
-      {
-        "name": "みーすけ！？",
-        "rank": "Sapphire",
-        "point": 5920,
-        "car": "NA1[HC]",
-        "shop": "ＧｉＧＯ八柱",
-        "update": "2026/09/02 00:47:52",
-        "status": "yellow",
-        "ageSeconds": 1795
-      }
-    ],
-    "Emerald": [
-      {
-        "name": "あ",
-        "rank": "Emerald",
-        "point": 260,
-        "car": "DC51T[DH]",
-        "shop": "アミューズメントスペース遊ランド春光店",
-        "update": "2026/09/02 00:47:53",
-        "status": "yellow",
-        "ageSeconds": 1794
-      }
-    ],
+    "Sapphire": [],
+    "Emerald": [],
     "Clear Blue": [],
     "Clear Red": [],
     "Clear Green": [],
