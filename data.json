@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-09-02 02:04:32",
-  "activeSince": "2026-09-02 01:34:32",
-  "total": 9,
+  "trackerTime": "2026-09-02 02:05:49",
+  "activeSince": "2026-09-02 01:35:49",
+  "total": 12,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/09/02 02:00:28",
         "status": "green",
-        "ageSeconds": 244
+        "ageSeconds": 321
       },
       {
         "name": "Ｒａｌｐｈ．",
@@ -22,17 +22,27 @@
         "shop": "ＧｉＧＯスエヒロボウル徳島",
         "update": "2026/09/02 02:01:28",
         "status": "green",
-        "ageSeconds": 184
+        "ageSeconds": 261
       },
       {
         "name": "ゆとりでうす",
         "rank": "Pride",
-        "point": 47760,
-        "car": "CP9Aエボ6[HC]",
+        "point": 48540,
+        "car": "ST205[AR]",
         "shop": "インターワールド伊勢崎店",
-        "update": "2026/09/02 01:44:44",
-        "status": "yellow",
-        "ageSeconds": 1188
+        "update": "2026/09/02 01:59:01",
+        "status": "green",
+        "ageSeconds": 408
+      },
+      {
+        "name": "絶対的第六感",
+        "rank": "Pride",
+        "point": 47300,
+        "car": "CP9Aエボ6[HC]",
+        "shop": "アミューズメントゲーム　マグレブ",
+        "update": "2026/09/02 02:01:27",
+        "status": "green",
+        "ageSeconds": 262
       },
       {
         "name": "夏草の線路",
@@ -42,7 +52,7 @@
         "shop": "M's PARK豊田店",
         "update": "2026/09/02 01:55:45",
         "status": "green",
-        "ageSeconds": 527
+        "ageSeconds": 604
       },
       {
         "name": "ガツンと蜜柑",
@@ -52,10 +62,20 @@
         "shop": "東京レジャーランド秋葉原2号店",
         "update": "2026/09/02 01:42:42",
         "status": "yellow",
-        "ageSeconds": 1310
+        "ageSeconds": 1387
       }
     ],
     "Ruby": [
+      {
+        "name": "ハゲト～さん",
+        "rank": "Ruby",
+        "point": 9020,
+        "car": "SW20[AR]",
+        "shop": "ＧｉＧＯ秋葉原３号館",
+        "update": "2026/09/02 02:00:34",
+        "status": "green",
+        "ageSeconds": 315
+      },
       {
         "name": "ビールテロ！",
         "rank": "Ruby",
@@ -64,7 +84,17 @@
         "shop": "コムテックスクウェア",
         "update": "2026/09/02 01:42:24",
         "status": "yellow",
-        "ageSeconds": 1328
+        "ageSeconds": 1405
+      },
+      {
+        "name": "甘い生活へ",
+        "rank": "Ruby",
+        "point": 3880,
+        "car": "CP9Aエボ6[AR]",
+        "shop": "アミューズメントフィールドバイヨン",
+        "update": "2026/09/02 01:55:52",
+        "status": "green",
+        "ageSeconds": 597
       },
       {
         "name": "ラクシキ６",
@@ -74,7 +104,7 @@
         "shop": "ＧｉＧＯ中津",
         "update": "2026/09/02 01:58:32",
         "status": "green",
-        "ageSeconds": 360
+        "ageSeconds": 437
       },
       {
         "name": "ラムレザル",
@@ -84,7 +114,7 @@
         "shop": "群馬レジャーランド太田店",
         "update": "2026/09/02 01:36:07",
         "status": "yellow",
-        "ageSeconds": 1705
+        "ageSeconds": 1782
       },
       {
         "name": "ＡＲＯＭＡ",
@@ -94,7 +124,7 @@
         "shop": "ラウンドワン千種店",
         "update": "2026/09/02 01:49:09",
         "status": "yellow",
-        "ageSeconds": 923
+        "ageSeconds": 1000
       }
     ],
     "Sapphire": [],
