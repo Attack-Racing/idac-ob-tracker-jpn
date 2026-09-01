@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-09-01 09:56:46",
-  "activeSince": "2026-09-01 09:26:46",
-  "total": 7,
+  "trackerTime": "2026-09-01 09:58:31",
+  "activeSince": "2026-09-01 09:28:31",
+  "total": 6,
   "ranks": {
     "Pride": [],
     "Ruby": [
@@ -12,8 +12,8 @@
         "car": "CT9Aエボ9[AR]",
         "shop": "ラウンドワンＪＲ尼崎駅前店",
         "update": "2026/09/01 09:42:54",
-        "status": "green",
-        "ageSeconds": 832
+        "status": "yellow",
+        "ageSeconds": 936
       },
       {
         "name": "るな",
@@ -23,7 +23,7 @@
         "shop": "ＧｉＧＯ今福",
         "update": "2026/09/01 09:44:12",
         "status": "green",
-        "ageSeconds": 754
+        "ageSeconds": 858
       },
       {
         "name": "たろりみっと",
@@ -32,8 +32,8 @@
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯ豊田",
         "update": "2026/09/01 09:42:55",
-        "status": "green",
-        "ageSeconds": 831
+        "status": "yellow",
+        "ageSeconds": 935
       },
       {
         "name": "オリパ芸人",
@@ -43,7 +43,7 @@
         "shop": "ラウンドワン市川鬼高店",
         "update": "2026/09/01 09:41:36",
         "status": "yellow",
-        "ageSeconds": 910
+        "ageSeconds": 1014
       },
       {
         "name": "Ｘ３２６Ｘ",
@@ -53,7 +53,7 @@
         "shop": "ラウンドワン札幌すすきの店",
         "update": "2026/09/01 09:44:12",
         "status": "green",
-        "ageSeconds": 754
+        "ageSeconds": 858
       },
       {
         "name": "ひめろっとぉ",
@@ -63,17 +63,7 @@
         "shop": "ラウンドワン松山店",
         "update": "2026/09/01 09:41:35",
         "status": "yellow",
-        "ageSeconds": 911
-      },
-      {
-        "name": "ああ",
-        "rank": "Ruby",
-        "point": 740,
-        "car": "ZC33S[AR]",
-        "shop": "ＧｉＧＯイオンモール高岡",
-        "update": "2026/09/01 09:27:49",
-        "status": "yellow",
-        "ageSeconds": 1737
+        "ageSeconds": 1015
       }
     ],
     "Sapphire": [],
