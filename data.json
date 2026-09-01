@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-09-02 00:26:50",
-  "activeSince": "2026-09-01 23:56:50",
-  "total": 17,
+  "trackerTime": "2026-09-02 00:28:43",
+  "activeSince": "2026-09-01 23:58:43",
+  "total": 14,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "アミパラ松江店",
         "update": "2026/09/02 00:15:35",
         "status": "green",
-        "ageSeconds": 674
+        "ageSeconds": 788
       },
       {
         "name": "千石　唯華",
@@ -22,7 +22,7 @@
         "shop": "ＧｉＧＯイオンモールむさし村山",
         "update": "2026/09/02 00:14:31",
         "status": "green",
-        "ageSeconds": 738
+        "ageSeconds": 852
       },
       {
         "name": "Ｃｌｕｂ　Ａ",
@@ -31,8 +31,8 @@
         "car": "ZC33S[AR]",
         "shop": "アレックス",
         "update": "2026/09/02 00:12:31",
-        "status": "green",
-        "ageSeconds": 858
+        "status": "yellow",
+        "ageSeconds": 972
       },
       {
         "name": "Ｏｊｉｐｏｎ",
@@ -41,8 +41,8 @@
         "car": "CP9Aエボ5[AR]",
         "shop": "ラウンドワン宮崎店",
         "update": "2026/09/02 00:12:31",
-        "status": "green",
-        "ageSeconds": 858
+        "status": "yellow",
+        "ageSeconds": 972
       }
     ],
     "Ruby": [
@@ -54,7 +54,7 @@
         "shop": "モーリーファンタジー上尾店",
         "update": "2026/09/01 23:59:33",
         "status": "yellow",
-        "ageSeconds": 1636
+        "ageSeconds": 1750
       },
       {
         "name": "ナイトＮＦＣ",
@@ -64,7 +64,7 @@
         "shop": "ウェアハウス三橋店",
         "update": "2026/09/02 00:00:33",
         "status": "yellow",
-        "ageSeconds": 1576
+        "ageSeconds": 1690
       },
       {
         "name": "１６０なのら",
@@ -74,7 +74,7 @@
         "shop": "アピナ長岡店",
         "update": "2026/09/02 00:00:26",
         "status": "yellow",
-        "ageSeconds": 1583
+        "ageSeconds": 1697
       },
       {
         "name": "パトランラン",
@@ -84,7 +84,7 @@
         "shop": "シルクハット川口",
         "update": "2026/09/02 00:15:52",
         "status": "green",
-        "ageSeconds": 657
+        "ageSeconds": 771
       },
       {
         "name": "幸福の絶頂期",
@@ -94,7 +94,7 @@
         "shop": "ＧｉＧＯ成増",
         "update": "2026/09/01 23:59:57",
         "status": "yellow",
-        "ageSeconds": 1612
+        "ageSeconds": 1726
       },
       {
         "name": "コマネっち",
@@ -104,7 +104,7 @@
         "shop": "楽市楽座イオンモール宮崎店",
         "update": "2026/09/02 00:11:35",
         "status": "yellow",
-        "ageSeconds": 914
+        "ageSeconds": 1028
       },
       {
         "name": "ＴＷ∞モモ",
@@ -114,17 +114,7 @@
         "shop": "楽市楽座イオンモール宮崎店",
         "update": "2026/09/02 00:15:53",
         "status": "green",
-        "ageSeconds": 656
-      },
-      {
-        "name": "電動口芸師ィ",
-        "rank": "Ruby",
-        "point": 1700,
-        "car": "ST205[AR]",
-        "shop": "G3ポロス原町店",
-        "update": "2026/09/01 23:57:51",
-        "status": "yellow",
-        "ageSeconds": 1738
+        "ageSeconds": 770
       },
       {
         "name": "今この瞬間を",
@@ -134,7 +124,7 @@
         "shop": "アミューズメントフィールドバイヨン",
         "update": "2026/09/02 00:14:37",
         "status": "green",
-        "ageSeconds": 732
+        "ageSeconds": 846
       }
     ],
     "Sapphire": [
@@ -146,17 +136,7 @@
         "shop": "ウェアハウス三橋店",
         "update": "2026/09/02 00:08:35",
         "status": "yellow",
-        "ageSeconds": 1094
-      },
-      {
-        "name": "流星ノ双子",
-        "rank": "Sapphire",
-        "point": 3440,
-        "car": "FD3S6[AR]",
-        "shop": "ＧｉＧＯ和泉",
-        "update": "2026/09/01 23:57:51",
-        "status": "yellow",
-        "ageSeconds": 1738
+        "ageSeconds": 1208
       }
     ],
     "Emerald": [],
@@ -169,21 +149,10 @@
         "shop": "キャッツアイ西葛西店",
         "update": "2026/09/02 00:10:46",
         "status": "yellow",
-        "ageSeconds": 963
+        "ageSeconds": 1077
       }
     ],
-    "Clear Red": [
-      {
-        "name": "カズヒロ＋４",
-        "rank": "Clear Red",
-        "point": 4300,
-        "car": "MXWH61[DH]",
-        "shop": "ＧｉＧＯ広島本通",
-        "update": "2026/09/01 23:57:01",
-        "status": "yellow",
-        "ageSeconds": 1788
-      }
-    ],
+    "Clear Red": [],
     "Clear Green": [],
     "Unknown Online Rank": []
   }
