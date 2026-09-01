@@ -1,60 +1,60 @@
 {
-  "trackerTime": "2026-09-02 03:18:35",
-  "activeSince": "2026-09-02 02:48:35",
-  "total": 9,
+  "trackerTime": "2026-09-02 03:19:38",
+  "activeSince": "2026-09-02 02:49:38",
+  "total": 10,
   "ranks": {
     "Pride": [
       {
         "name": "あ＠とくしま",
         "rank": "Pride",
-        "point": 92940,
+        "point": 93080,
         "car": "ST205[AR]",
         "shop": "ラウンドワン徳島・万代店",
-        "update": "2026/09/02 02:54:55",
-        "status": "yellow",
-        "ageSeconds": 1420
+        "update": "2026/09/02 03:15:41",
+        "status": "green",
+        "ageSeconds": 237
       },
       {
         "name": "ゆとりでうす",
         "rank": "Pride",
-        "point": 50300,
-        "car": "ST205[AR]",
+        "point": 51080,
+        "car": "CE9Aエボ3[AR]",
         "shop": "インターワールド伊勢崎店",
-        "update": "2026/09/02 02:58:18",
-        "status": "yellow",
-        "ageSeconds": 1217
+        "update": "2026/09/02 03:14:31",
+        "status": "green",
+        "ageSeconds": 307
       },
       {
         "name": "絶対的第六感",
         "rank": "Pride",
-        "point": 48740,
-        "car": "CP9Aエボ6[HC]",
+        "point": 48880,
+        "car": "ST205[AR]",
         "shop": "アミューズメントゲーム　マグレブ",
-        "update": "2026/09/02 02:59:26",
-        "status": "yellow",
-        "ageSeconds": 1149
+        "update": "2026/09/02 03:15:57",
+        "status": "green",
+        "ageSeconds": 221
       },
       {
         "name": "夏草の線路",
         "rank": "Pride",
-        "point": 21460,
-        "car": "CE9Aエボ3[AR]",
+        "point": 22240,
+        "car": "ST205[AR]",
         "shop": "M's PARK豊田店",
-        "update": "2026/09/02 02:59:26",
-        "status": "yellow",
-        "ageSeconds": 1149
+        "update": "2026/09/02 03:15:57",
+        "status": "green",
+        "ageSeconds": 221
       }
     ],
     "Ruby": [
       {
         "name": "人間の端くれ",
         "rank": "Ruby",
-        "point": 80380,
+        "point": 80640,
         "car": "ST205[AR]",
         "shop": "ｎａｍｃｏ博多バスターミナル店",
-        "update": "2026/09/02 03:00:45",
-        "status": "yellow",
-        "ageSeconds": 1070
+        "update": "2026/09/02 03:06:37",
+        "status": "green",
+        "ageSeconds": 781
       },
       {
         "name": "甘い生活へ",
@@ -64,17 +64,17 @@
         "shop": "アミューズメントフィールドバイヨン",
         "update": "2026/09/02 02:58:25",
         "status": "yellow",
-        "ageSeconds": 1210
+        "ageSeconds": 1273
       },
       {
         "name": "西施でた／／",
         "rank": "Ruby",
-        "point": 3040,
+        "point": 2980,
         "car": "CT9Aエボ9[AR]",
         "shop": "半田メトロポリス",
-        "update": "2026/09/02 03:00:51",
-        "status": "yellow",
-        "ageSeconds": 1064
+        "update": "2026/09/02 03:14:38",
+        "status": "green",
+        "ageSeconds": 300
       },
       {
         "name": "Ａｑｎｓｙ",
@@ -84,17 +84,27 @@
         "shop": "ウェアハウス三橋店",
         "update": "2026/09/02 03:00:52",
         "status": "yellow",
-        "ageSeconds": 1063
+        "ageSeconds": 1126
       },
       {
         "name": "ＡＲＯＭＡ",
         "rank": "Ruby",
-        "point": 800,
+        "point": 740,
         "car": "CE9Aエボ3[DH]",
         "shop": "ラウンドワン千種店",
-        "update": "2026/09/02 02:50:20",
+        "update": "2026/09/02 03:03:57",
         "status": "yellow",
-        "ageSeconds": 1695
+        "ageSeconds": 941
+      },
+      {
+        "name": "あたいがふー",
+        "rank": "Ruby",
+        "point": 140,
+        "car": "ZC6[AR]",
+        "shop": "滋賀レジャーランド大津店",
+        "update": "2026/09/02 03:06:44",
+        "status": "green",
+        "ageSeconds": 774
       }
     ],
     "Sapphire": [],
