@@ -1,29 +1,59 @@
 {
-  "trackerTime": "2026-09-01 09:18:50",
-  "activeSince": "2026-09-01 08:48:50",
-  "total": 2,
+  "trackerTime": "2026-09-01 09:20:49",
+  "activeSince": "2026-09-01 08:50:49",
+  "total": 5,
   "ranks": {
     "Pride": [],
     "Ruby": [
       {
+        "name": "レジェンド",
+        "rank": "Ruby",
+        "point": 75920,
+        "car": "EG6[HC]",
+        "shop": "ラウンドワンＪＲ尼崎駅前店",
+        "update": "2026/09/01 09:14:16",
+        "status": "green",
+        "ageSeconds": 393
+      },
+      {
+        "name": "るな",
+        "rank": "Ruby",
+        "point": 56380,
+        "car": "86トレノ2[HC]",
+        "shop": "ＧｉＧＯ今福",
+        "update": "2026/09/01 09:14:16",
+        "status": "green",
+        "ageSeconds": 393
+      },
+      {
+        "name": "一ノ瀬　麗",
+        "rank": "Ruby",
+        "point": 15540,
+        "car": "FD3S[AR]",
+        "shop": "ラウンドワン宮崎店",
+        "update": "2026/09/01 09:09:33",
+        "status": "green",
+        "ageSeconds": 676
+      },
+      {
         "name": "Ｘ３２６Ｘ",
         "rank": "Ruby",
-        "point": 14200,
-        "car": "SW20[AR]",
+        "point": 14400,
+        "car": "ST205[AR]",
         "shop": "ラウンドワン札幌すすきの店",
-        "update": "2026/09/01 08:52:12",
-        "status": "yellow",
-        "ageSeconds": 1598
+        "update": "2026/09/01 09:12:56",
+        "status": "green",
+        "ageSeconds": 473
       },
       {
         "name": "ＲＡＩＲＡ",
         "rank": "Ruby",
-        "point": 5000,
-        "car": "EK9[AR]",
+        "point": 5200,
+        "car": "RZ34[AR]",
         "shop": "シルクハット川崎モアーズ",
-        "update": "2026/09/01 08:52:11",
-        "status": "yellow",
-        "ageSeconds": 1599
+        "update": "2026/09/01 09:12:56",
+        "status": "green",
+        "ageSeconds": 473
       }
     ],
     "Sapphire": [],
