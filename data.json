@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-09-01 09:53:50",
-  "activeSince": "2026-09-01 09:23:50",
-  "total": 10,
+  "trackerTime": "2026-09-01 09:55:37",
+  "activeSince": "2026-09-01 09:25:37",
+  "total": 8,
   "ranks": {
     "Pride": [],
     "Ruby": [
@@ -13,7 +13,7 @@
         "shop": "ラウンドワンＪＲ尼崎駅前店",
         "update": "2026/09/01 09:42:54",
         "status": "green",
-        "ageSeconds": 656
+        "ageSeconds": 763
       },
       {
         "name": "るな",
@@ -23,7 +23,7 @@
         "shop": "ＧｉＧＯ今福",
         "update": "2026/09/01 09:44:12",
         "status": "green",
-        "ageSeconds": 578
+        "ageSeconds": 685
       },
       {
         "name": "たろりみっと",
@@ -33,7 +33,7 @@
         "shop": "ＧｉＧＯ豊田",
         "update": "2026/09/01 09:42:55",
         "status": "green",
-        "ageSeconds": 655
+        "ageSeconds": 762
       },
       {
         "name": "オリパ芸人",
@@ -43,7 +43,7 @@
         "shop": "ラウンドワン市川鬼高店",
         "update": "2026/09/01 09:41:36",
         "status": "green",
-        "ageSeconds": 734
+        "ageSeconds": 841
       },
       {
         "name": "Ｘ３２６Ｘ",
@@ -53,7 +53,7 @@
         "shop": "ラウンドワン札幌すすきの店",
         "update": "2026/09/01 09:44:12",
         "status": "green",
-        "ageSeconds": 578
+        "ageSeconds": 685
       },
       {
         "name": "ＲＡＩＲＡ",
@@ -63,7 +63,7 @@
         "shop": "シルクハット川崎モアーズ",
         "update": "2026/09/01 09:26:00",
         "status": "yellow",
-        "ageSeconds": 1670
+        "ageSeconds": 1777
       },
       {
         "name": "ひめろっとぉ",
@@ -73,7 +73,7 @@
         "shop": "ラウンドワン松山店",
         "update": "2026/09/01 09:41:35",
         "status": "green",
-        "ageSeconds": 735
+        "ageSeconds": 842
       },
       {
         "name": "ああ",
@@ -83,35 +83,13 @@
         "shop": "ＧｉＧＯイオンモール高岡",
         "update": "2026/09/01 09:27:49",
         "status": "yellow",
-        "ageSeconds": 1561
+        "ageSeconds": 1668
       }
     ],
     "Sapphire": [],
-    "Emerald": [
-      {
-        "name": "・",
-        "rank": "Emerald",
-        "point": 9780,
-        "car": "CE9Aエボ3[DH]",
-        "shop": "アピナ下館店",
-        "update": "2026/09/01 09:23:52",
-        "status": "yellow",
-        "ageSeconds": 1798
-      }
-    ],
+    "Emerald": [],
     "Clear Blue": [],
-    "Clear Red": [
-      {
-        "name": "伝説の塗装屋",
-        "rank": "Clear Red",
-        "point": 5080,
-        "car": "シルエイティ[AR]",
-        "shop": "サービスエリアイン高岡",
-        "update": "2026/09/01 09:23:53",
-        "status": "yellow",
-        "ageSeconds": 1797
-      }
-    ],
+    "Clear Red": [],
     "Clear Green": [],
     "Unknown Online Rank": []
   }
