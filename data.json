@@ -1,50 +1,70 @@
 {
-  "trackerTime": "2026-09-02 01:33:51",
-  "activeSince": "2026-09-02 01:03:51",
-  "total": 6,
+  "trackerTime": "2026-09-02 01:35:41",
+  "activeSince": "2026-09-02 01:05:41",
+  "total": 8,
   "ranks": {
     "Pride": [
       {
+        "name": "ゆとりでうす",
+        "rank": "Pride",
+        "point": 46980,
+        "car": "CP9Aエボ6[HC]",
+        "shop": "インターワールド伊勢崎店",
+        "update": "2026/09/02 01:28:41",
+        "status": "green",
+        "ageSeconds": 420
+      },
+      {
         "name": "夏草の線路",
         "rank": "Pride",
-        "point": 18660,
-        "car": "ST205[AR]",
+        "point": 18920,
+        "car": "CP9Aエボ6[HC]",
         "shop": "M's PARK豊田店",
-        "update": "2026/09/02 01:14:50",
-        "status": "yellow",
-        "ageSeconds": 1140
+        "update": "2026/09/02 01:30:54",
+        "status": "green",
+        "ageSeconds": 287
       },
       {
         "name": "ＡＤＲＥＮＡ",
         "rank": "Pride",
-        "point": 340,
-        "car": "ST205[AR]",
+        "point": 860,
+        "car": "CP9Aエボ5[AR]",
         "shop": "ジョイランドアミューズ諏訪店",
-        "update": "2026/09/02 01:14:50",
-        "status": "yellow",
-        "ageSeconds": 1140
+        "update": "2026/09/02 01:24:18",
+        "status": "green",
+        "ageSeconds": 683
       }
     ],
     "Ruby": [
       {
+        "name": "ルイボス新山",
+        "rank": "Ruby",
+        "point": 13580,
+        "car": "FD3S[AR]",
+        "shop": "ゲーム　アルカナ",
+        "update": "2026/09/02 01:26:11",
+        "status": "green",
+        "ageSeconds": 570
+      },
+      {
         "name": "甘い生活へ",
         "rank": "Ruby",
-        "point": 3800,
+        "point": 3940,
         "car": "CP9Aエボ6[AR]",
         "shop": "アミューズメントフィールドバイヨン",
-        "update": "2026/09/02 01:14:31",
-        "status": "yellow",
-        "ageSeconds": 1159
+        "update": "2026/09/02 01:31:01",
+        "status": "green",
+        "ageSeconds": 280
       },
       {
         "name": "西施でた／／",
         "rank": "Ruby",
-        "point": 2880,
-        "car": "CT9Aエボ7[DH]",
+        "point": 3080,
+        "car": "CT9Aエボ9[AR]",
         "shop": "半田メトロポリス",
-        "update": "2026/09/02 01:14:30",
-        "status": "yellow",
-        "ageSeconds": 1160
+        "update": "2026/09/02 01:26:07",
+        "status": "green",
+        "ageSeconds": 574
       },
       {
         "name": "ＧＯＮ",
@@ -54,17 +74,17 @@
         "shop": "ＧｉＧＯ函館昭和",
         "update": "2026/09/02 01:12:47",
         "status": "yellow",
-        "ageSeconds": 1263
+        "ageSeconds": 1374
       },
       {
         "name": "ラムレザル",
         "rank": "Ruby",
-        "point": 880,
-        "car": "BNR34[AR]",
+        "point": 1080,
+        "car": "CN9Aエボ4[HC]",
         "shop": "群馬レジャーランド太田店",
-        "update": "2026/09/02 01:12:47",
-        "status": "yellow",
-        "ageSeconds": 1263
+        "update": "2026/09/02 01:28:34",
+        "status": "green",
+        "ageSeconds": 427
       }
     ],
     "Sapphire": [],
