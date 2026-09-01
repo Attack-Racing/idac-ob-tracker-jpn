@@ -1,29 +1,39 @@
 {
-  "trackerTime": "2026-09-01 09:33:51",
-  "activeSince": "2026-09-01 09:03:51",
-  "total": 5,
+  "trackerTime": "2026-09-01 09:35:45",
+  "activeSince": "2026-09-01 09:05:45",
+  "total": 10,
   "ranks": {
     "Pride": [],
     "Ruby": [
       {
         "name": "レジェンド",
         "rank": "Ruby",
-        "point": 75920,
-        "car": "EG6[HC]",
+        "point": 76120,
+        "car": "EG6[DH]",
         "shop": "ラウンドワンＪＲ尼崎駅前店",
-        "update": "2026/09/01 09:14:16",
-        "status": "yellow",
-        "ageSeconds": 1175
+        "update": "2026/09/01 09:27:50",
+        "status": "green",
+        "ageSeconds": 475
       },
       {
         "name": "るな",
         "rank": "Ruby",
-        "point": 56380,
-        "car": "86トレノ2[HC]",
+        "point": 56320,
+        "car": "86トレノ[AR]",
         "shop": "ＧｉＧＯ今福",
-        "update": "2026/09/01 09:14:16",
-        "status": "yellow",
-        "ageSeconds": 1175
+        "update": "2026/09/01 09:26:00",
+        "status": "green",
+        "ageSeconds": 585
+      },
+      {
+        "name": "オリパ芸人",
+        "rank": "Ruby",
+        "point": 31260,
+        "car": "CP9Aエボ6[AR]",
+        "shop": "ラウンドワン市川鬼高店",
+        "update": "2026/09/01 09:23:10",
+        "status": "green",
+        "ageSeconds": 755
       },
       {
         "name": "一ノ瀬　麗",
@@ -33,33 +43,75 @@
         "shop": "ラウンドワン宮崎店",
         "update": "2026/09/01 09:09:33",
         "status": "yellow",
-        "ageSeconds": 1458
+        "ageSeconds": 1572
       },
       {
         "name": "Ｘ３２６Ｘ",
         "rank": "Ruby",
-        "point": 14400,
-        "car": "ST205[AR]",
+        "point": 14660,
+        "car": "SW20[AR]",
         "shop": "ラウンドワン札幌すすきの店",
-        "update": "2026/09/01 09:12:56",
-        "status": "yellow",
-        "ageSeconds": 1255
+        "update": "2026/09/01 09:23:10",
+        "status": "green",
+        "ageSeconds": 755
       },
       {
         "name": "ＲＡＩＲＡ",
         "rank": "Ruby",
-        "point": 5200,
-        "car": "RZ34[AR]",
+        "point": 5720,
+        "car": "EK9[AR]",
         "shop": "シルクハット川崎モアーズ",
-        "update": "2026/09/01 09:12:56",
-        "status": "yellow",
-        "ageSeconds": 1255
+        "update": "2026/09/01 09:26:00",
+        "status": "green",
+        "ageSeconds": 585
+      },
+      {
+        "name": "ああ",
+        "rank": "Ruby",
+        "point": 740,
+        "car": "ZC33S[AR]",
+        "shop": "ＧｉＧＯイオンモール高岡",
+        "update": "2026/09/01 09:27:49",
+        "status": "green",
+        "ageSeconds": 476
       }
     ],
     "Sapphire": [],
-    "Emerald": [],
+    "Emerald": [
+      {
+        "name": "・",
+        "rank": "Emerald",
+        "point": 9780,
+        "car": "CE9Aエボ3[DH]",
+        "shop": "アピナ下館店",
+        "update": "2026/09/01 09:23:52",
+        "status": "green",
+        "ageSeconds": 713
+      },
+      {
+        "name": "かちまる",
+        "rank": "Emerald",
+        "point": 800,
+        "car": "ZN8[DH]",
+        "shop": "ＧｉＧＯ豊橋飯村",
+        "update": "2026/09/01 09:18:13",
+        "status": "yellow",
+        "ageSeconds": 1052
+      }
+    ],
     "Clear Blue": [],
-    "Clear Red": [],
+    "Clear Red": [
+      {
+        "name": "伝説の塗装屋",
+        "rank": "Clear Red",
+        "point": 5080,
+        "car": "シルエイティ[AR]",
+        "shop": "サービスエリアイン高岡",
+        "update": "2026/09/01 09:23:53",
+        "status": "green",
+        "ageSeconds": 712
+      }
+    ],
     "Clear Green": [],
     "Unknown Online Rank": []
   }
