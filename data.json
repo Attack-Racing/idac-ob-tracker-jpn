@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-09-02 00:28:43",
-  "activeSince": "2026-09-01 23:58:43",
-  "total": 14,
+  "trackerTime": "2026-09-02 00:30:48",
+  "activeSince": "2026-09-02 00:00:48",
+  "total": 10,
   "ranks": {
     "Pride": [
       {
@@ -11,8 +11,8 @@
         "car": "CE9Aエボ3[AR]",
         "shop": "アミパラ松江店",
         "update": "2026/09/02 00:15:35",
-        "status": "green",
-        "ageSeconds": 788
+        "status": "yellow",
+        "ageSeconds": 913
       },
       {
         "name": "千石　唯華",
@@ -21,8 +21,8 @@
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯイオンモールむさし村山",
         "update": "2026/09/02 00:14:31",
-        "status": "green",
-        "ageSeconds": 852
+        "status": "yellow",
+        "ageSeconds": 977
       },
       {
         "name": "Ｃｌｕｂ　Ａ",
@@ -32,7 +32,7 @@
         "shop": "アレックス",
         "update": "2026/09/02 00:12:31",
         "status": "yellow",
-        "ageSeconds": 972
+        "ageSeconds": 1097
       },
       {
         "name": "Ｏｊｉｐｏｎ",
@@ -42,40 +42,10 @@
         "shop": "ラウンドワン宮崎店",
         "update": "2026/09/02 00:12:31",
         "status": "yellow",
-        "ageSeconds": 972
+        "ageSeconds": 1097
       }
     ],
     "Ruby": [
-      {
-        "name": "ぷっちょ＠Ｓ",
-        "rank": "Ruby",
-        "point": 30940,
-        "car": "CP9Aエボ5[AR]",
-        "shop": "モーリーファンタジー上尾店",
-        "update": "2026/09/01 23:59:33",
-        "status": "yellow",
-        "ageSeconds": 1750
-      },
-      {
-        "name": "ナイトＮＦＣ",
-        "rank": "Ruby",
-        "point": 25980,
-        "car": "FD3S[AR]",
-        "shop": "ウェアハウス三橋店",
-        "update": "2026/09/02 00:00:33",
-        "status": "yellow",
-        "ageSeconds": 1690
-      },
-      {
-        "name": "１６０なのら",
-        "rank": "Ruby",
-        "point": 21340,
-        "car": "CP9Aエボ5[AR]",
-        "shop": "アピナ長岡店",
-        "update": "2026/09/02 00:00:26",
-        "status": "yellow",
-        "ageSeconds": 1697
-      },
       {
         "name": "パトランラン",
         "rank": "Ruby",
@@ -84,17 +54,7 @@
         "shop": "シルクハット川口",
         "update": "2026/09/02 00:15:52",
         "status": "green",
-        "ageSeconds": 771
-      },
-      {
-        "name": "幸福の絶頂期",
-        "rank": "Ruby",
-        "point": 5840,
-        "car": "ST205[AR]",
-        "shop": "ＧｉＧＯ成増",
-        "update": "2026/09/01 23:59:57",
-        "status": "yellow",
-        "ageSeconds": 1726
+        "ageSeconds": 896
       },
       {
         "name": "コマネっち",
@@ -104,7 +64,7 @@
         "shop": "楽市楽座イオンモール宮崎店",
         "update": "2026/09/02 00:11:35",
         "status": "yellow",
-        "ageSeconds": 1028
+        "ageSeconds": 1153
       },
       {
         "name": "ＴＷ∞モモ",
@@ -114,7 +74,7 @@
         "shop": "楽市楽座イオンモール宮崎店",
         "update": "2026/09/02 00:15:53",
         "status": "green",
-        "ageSeconds": 770
+        "ageSeconds": 895
       },
       {
         "name": "今この瞬間を",
@@ -123,8 +83,8 @@
         "car": "86トレノ2[HC]",
         "shop": "アミューズメントフィールドバイヨン",
         "update": "2026/09/02 00:14:37",
-        "status": "green",
-        "ageSeconds": 846
+        "status": "yellow",
+        "ageSeconds": 971
       }
     ],
     "Sapphire": [
@@ -136,7 +96,7 @@
         "shop": "ウェアハウス三橋店",
         "update": "2026/09/02 00:08:35",
         "status": "yellow",
-        "ageSeconds": 1208
+        "ageSeconds": 1333
       }
     ],
     "Emerald": [],
@@ -149,7 +109,7 @@
         "shop": "キャッツアイ西葛西店",
         "update": "2026/09/02 00:10:46",
         "status": "yellow",
-        "ageSeconds": 1077
+        "ageSeconds": 1202
       }
     ],
     "Clear Red": [],
