@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-09-02 03:34:47",
-  "activeSince": "2026-09-02 03:04:47",
-  "total": 7,
+  "trackerTime": "2026-09-02 03:36:52",
+  "activeSince": "2026-09-02 03:06:52",
+  "total": 6,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/09/02 03:27:12",
         "status": "green",
-        "ageSeconds": 455
+        "ageSeconds": 580
       },
       {
         "name": "ゆとりでうす",
@@ -22,7 +22,7 @@
         "shop": "インターワールド伊勢崎店",
         "update": "2026/09/02 03:27:12",
         "status": "green",
-        "ageSeconds": 455
+        "ageSeconds": 580
       },
       {
         "name": "絶対的第六感",
@@ -32,7 +32,7 @@
         "shop": "アミューズメントゲーム　マグレブ",
         "update": "2026/09/02 03:22:34",
         "status": "green",
-        "ageSeconds": 733
+        "ageSeconds": 858
       },
       {
         "name": "夏草の線路",
@@ -42,7 +42,7 @@
         "shop": "M's PARK豊田店",
         "update": "2026/09/02 03:15:57",
         "status": "yellow",
-        "ageSeconds": 1130
+        "ageSeconds": 1255
       }
     ],
     "Ruby": [
@@ -53,8 +53,8 @@
         "car": "ST205[AR]",
         "shop": "ｎａｍｃｏ博多バスターミナル店",
         "update": "2026/09/02 03:20:27",
-        "status": "green",
-        "ageSeconds": 860
+        "status": "yellow",
+        "ageSeconds": 985
       },
       {
         "name": "西施でた／／",
@@ -64,17 +64,7 @@
         "shop": "半田メトロポリス",
         "update": "2026/09/02 03:14:38",
         "status": "yellow",
-        "ageSeconds": 1209
-      },
-      {
-        "name": "あたいがふー",
-        "rank": "Ruby",
-        "point": 140,
-        "car": "ZC6[AR]",
-        "shop": "滋賀レジャーランド大津店",
-        "update": "2026/09/02 03:06:44",
-        "status": "yellow",
-        "ageSeconds": 1683
+        "ageSeconds": 1334
       }
     ],
     "Sapphire": [],
