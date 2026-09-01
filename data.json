@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-09-02 07:33:41",
-  "activeSince": "2026-09-02 07:03:41",
-  "total": 6,
+  "trackerTime": "2026-09-02 07:34:35",
+  "activeSince": "2026-09-02 07:04:35",
+  "total": 7,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/09/02 07:16:27",
         "status": "yellow",
-        "ageSeconds": 1034
+        "ageSeconds": 1088
       },
       {
         "name": "Ｏｃｈｏｉｒ",
@@ -22,7 +22,17 @@
         "shop": "ＧｉＧＯ日立",
         "update": "2026/09/02 07:15:49",
         "status": "yellow",
-        "ageSeconds": 1072
+        "ageSeconds": 1126
+      },
+      {
+        "name": "　　らーめん",
+        "rank": "Pride",
+        "point": 15180,
+        "car": "ST205[AR]",
+        "shop": "関大前フタバボウル",
+        "update": "2026/09/02 07:27:39",
+        "status": "green",
+        "ageSeconds": 416
       }
     ],
     "Ruby": [
@@ -34,7 +44,7 @@
         "shop": "ゲームランド草津店",
         "update": "2026/09/02 07:11:31",
         "status": "yellow",
-        "ageSeconds": 1330
+        "ageSeconds": 1384
       },
       {
         "name": "ゆうらんきー",
@@ -44,7 +54,7 @@
         "shop": "ＧｉＧＯ勿来",
         "update": "2026/09/02 07:15:56",
         "status": "yellow",
-        "ageSeconds": 1065
+        "ageSeconds": 1119
       },
       {
         "name": "２０１４りく",
@@ -54,7 +64,7 @@
         "shop": "ＧｉＧＯ総本店",
         "update": "2026/09/02 07:07:15",
         "status": "yellow",
-        "ageSeconds": 1586
+        "ageSeconds": 1640
       },
       {
         "name": "笑顔のレシピ",
@@ -64,7 +74,7 @@
         "shop": "セガ東京ドームシティ",
         "update": "2026/09/02 07:07:45",
         "status": "yellow",
-        "ageSeconds": 1556
+        "ageSeconds": 1610
       }
     ],
     "Sapphire": [],
