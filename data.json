@@ -1,28 +1,28 @@
 {
-  "trackerTime": "2026-09-02 07:34:35",
-  "activeSince": "2026-09-02 07:04:35",
-  "total": 7,
+  "trackerTime": "2026-09-02 07:35:30",
+  "activeSince": "2026-09-02 07:05:30",
+  "total": 10,
   "ranks": {
     "Pride": [
       {
         "name": "わがまますぎ",
         "rank": "Pride",
-        "point": 104440,
+        "point": 105220,
         "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/09/02 07:16:27",
-        "status": "yellow",
-        "ageSeconds": 1088
+        "update": "2026/09/02 07:30:08",
+        "status": "green",
+        "ageSeconds": 322
       },
       {
         "name": "Ｏｃｈｏｉｒ",
         "rank": "Pride",
-        "point": 38640,
+        "point": 39420,
         "car": "GDBF[AR]",
         "shop": "ＧｉＧＯ日立",
-        "update": "2026/09/02 07:15:49",
-        "status": "yellow",
-        "ageSeconds": 1126
+        "update": "2026/09/02 07:29:18",
+        "status": "green",
+        "ageSeconds": 372
       },
       {
         "name": "　　らーめん",
@@ -32,7 +32,7 @@
         "shop": "関大前フタバボウル",
         "update": "2026/09/02 07:27:39",
         "status": "green",
-        "ageSeconds": 416
+        "ageSeconds": 471
       }
     ],
     "Ruby": [
@@ -44,7 +44,7 @@
         "shop": "ゲームランド草津店",
         "update": "2026/09/02 07:11:31",
         "status": "yellow",
-        "ageSeconds": 1384
+        "ageSeconds": 1439
       },
       {
         "name": "ゆうらんきー",
@@ -54,7 +54,7 @@
         "shop": "ＧｉＧＯ勿来",
         "update": "2026/09/02 07:15:56",
         "status": "yellow",
-        "ageSeconds": 1119
+        "ageSeconds": 1174
       },
       {
         "name": "２０１４りく",
@@ -64,7 +64,17 @@
         "shop": "ＧｉＧＯ総本店",
         "update": "2026/09/02 07:07:15",
         "status": "yellow",
-        "ageSeconds": 1640
+        "ageSeconds": 1695
+      },
+      {
+        "name": "啓悟の弟子",
+        "rank": "Ruby",
+        "point": 2480,
+        "car": "NA1[AR]",
+        "shop": "ＧｉＧＯ福島南",
+        "update": "2026/09/02 07:20:22",
+        "status": "yellow",
+        "ageSeconds": 908
       },
       {
         "name": "笑顔のレシピ",
@@ -74,7 +84,27 @@
         "shop": "セガ東京ドームシティ",
         "update": "2026/09/02 07:07:45",
         "status": "yellow",
-        "ageSeconds": 1610
+        "ageSeconds": 1665
+      },
+      {
+        "name": "青空　ひかり",
+        "rank": "Ruby",
+        "point": 1720,
+        "car": "ER34[AR]",
+        "shop": "キャッツアイ新札幌店",
+        "update": "2026/09/02 07:29:25",
+        "status": "green",
+        "ageSeconds": 365
+      },
+      {
+        "name": "Ｐｅｔｒａ．",
+        "rank": "Ruby",
+        "point": 820,
+        "car": "FD3S6[AR]",
+        "shop": "ハロータイトー むつ店",
+        "update": "2026/09/02 07:25:13",
+        "status": "green",
+        "ageSeconds": 617
       }
     ],
     "Sapphire": [],
