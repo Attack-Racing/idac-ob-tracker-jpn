@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-09-02 00:49:31",
-  "activeSince": "2026-09-02 00:19:31",
-  "total": 7,
+  "trackerTime": "2026-09-02 00:50:32",
+  "activeSince": "2026-09-02 00:20:32",
+  "total": 9,
   "ranks": {
     "Pride": [
       {
@@ -12,17 +12,17 @@
         "shop": "アミパラ松江店",
         "update": "2026/09/02 00:43:48",
         "status": "green",
-        "ageSeconds": 343
+        "ageSeconds": 404
       },
       {
         "name": "夏草の線路",
         "rank": "Pride",
-        "point": 16640,
+        "point": 17100,
         "car": "CE9Aエボ3[AR]",
         "shop": "M's PARK豊田店",
-        "update": "2026/09/02 00:28:38",
-        "status": "yellow",
-        "ageSeconds": 1253
+        "update": "2026/09/02 00:43:48",
+        "status": "green",
+        "ageSeconds": 404
       },
       {
         "name": "Ｃｌｕｂ　Ａ",
@@ -32,20 +32,30 @@
         "shop": "アレックス",
         "update": "2026/09/02 00:44:14",
         "status": "green",
-        "ageSeconds": 317
+        "ageSeconds": 378
       },
       {
         "name": "聖園　ミカ",
         "rank": "Pride",
-        "point": 860,
-        "car": "AP1[AR]",
+        "point": 680,
+        "car": "RPS13[AR]",
         "shop": "インターワールド伊勢崎店",
-        "update": "2026/09/02 00:26:46",
-        "status": "yellow",
-        "ageSeconds": 1365
+        "update": "2026/09/02 00:44:14",
+        "status": "green",
+        "ageSeconds": 378
       }
     ],
     "Ruby": [
+      {
+        "name": "満腹丸パグ様",
+        "rank": "Ruby",
+        "point": 43460,
+        "car": "ST205[AR]",
+        "shop": "シルクハット伊勢佐木町",
+        "update": "2026/09/02 00:44:13",
+        "status": "green",
+        "ageSeconds": 379
+      },
       {
         "name": "コマネっち",
         "rank": "Ruby",
@@ -54,7 +64,7 @@
         "shop": "楽市楽座イオンモール宮崎店",
         "update": "2026/09/02 00:27:25",
         "status": "yellow",
-        "ageSeconds": 1326
+        "ageSeconds": 1387
       },
       {
         "name": "ＴＷ∞モモ",
@@ -64,7 +74,17 @@
         "shop": "楽市楽座イオンモール宮崎店",
         "update": "2026/09/02 00:20:40",
         "status": "yellow",
-        "ageSeconds": 1731
+        "ageSeconds": 1792
+      },
+      {
+        "name": "ＧＯＮ",
+        "rank": "Ruby",
+        "point": 2220,
+        "car": "CT9Aエボ9[AR]",
+        "shop": "ＧｉＧＯ函館昭和",
+        "update": "2026/09/02 00:44:13",
+        "status": "green",
+        "ageSeconds": 379
       },
       {
         "name": "今この瞬間を",
@@ -74,7 +94,7 @@
         "shop": "アミューズメントフィールドバイヨン",
         "update": "2026/09/02 00:26:18",
         "status": "yellow",
-        "ageSeconds": 1393
+        "ageSeconds": 1454
       }
     ],
     "Sapphire": [],
