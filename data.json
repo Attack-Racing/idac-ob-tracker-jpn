@@ -1,59 +1,59 @@
 {
-  "trackerTime": "2026-09-01 10:04:53",
-  "activeSince": "2026-09-01 09:34:53",
-  "total": 8,
+  "trackerTime": "2026-09-01 10:06:51",
+  "activeSince": "2026-09-01 09:36:51",
+  "total": 11,
   "ranks": {
     "Pride": [],
     "Ruby": [
       {
         "name": "レジェンド",
         "rank": "Ruby",
-        "point": 76260,
+        "point": 76780,
         "car": "CT9Aエボ9[AR]",
         "shop": "ラウンドワンＪＲ尼崎駅前店",
-        "update": "2026/09/01 09:42:54",
-        "status": "yellow",
-        "ageSeconds": 1318
+        "update": "2026/09/01 09:53:37",
+        "status": "green",
+        "ageSeconds": 794
       },
       {
         "name": "るな",
         "rank": "Ruby",
-        "point": 56460,
-        "car": "FD3S6[AR]",
+        "point": 56340,
+        "car": "86トレノ[AR]",
         "shop": "ＧｉＧＯ今福",
-        "update": "2026/09/01 09:44:12",
-        "status": "yellow",
-        "ageSeconds": 1240
+        "update": "2026/09/01 09:58:31",
+        "status": "green",
+        "ageSeconds": 500
       },
       {
         "name": "たろりみっと",
         "rank": "Ruby",
-        "point": 48240,
-        "car": "ST205[AR]",
+        "point": 48760,
+        "car": "86レビン[AR]",
         "shop": "ＧｉＧＯ豊田",
-        "update": "2026/09/01 09:42:55",
-        "status": "yellow",
-        "ageSeconds": 1317
+        "update": "2026/09/01 09:58:31",
+        "status": "green",
+        "ageSeconds": 500
       },
       {
         "name": "オリパ芸人",
         "rank": "Ruby",
-        "point": 31780,
+        "point": 31980,
         "car": "FD3S6[AR]",
         "shop": "ラウンドワン市川鬼高店",
-        "update": "2026/09/01 09:41:36",
-        "status": "yellow",
-        "ageSeconds": 1396
+        "update": "2026/09/01 09:53:37",
+        "status": "green",
+        "ageSeconds": 794
       },
       {
         "name": "Ｘ３２６Ｘ",
         "rank": "Ruby",
-        "point": 14540,
+        "point": 14480,
         "car": "ST205[AR]",
         "shop": "ラウンドワン札幌すすきの店",
-        "update": "2026/09/01 09:44:12",
+        "update": "2026/09/01 09:48:39",
         "status": "yellow",
-        "ageSeconds": 1240
+        "ageSeconds": 1092
       },
       {
         "name": "Ｅ１ａＶｏｘ",
@@ -63,7 +63,7 @@
         "shop": "アミューズメントパークＭＧキスケ",
         "update": "2026/09/01 09:58:04",
         "status": "green",
-        "ageSeconds": 408
+        "ageSeconds": 527
       },
       {
         "name": "ひめちゅわん",
@@ -73,7 +73,7 @@
         "shop": "アミューズメントパークＭＧキスケ",
         "update": "2026/09/01 09:58:05",
         "status": "green",
-        "ageSeconds": 407
+        "ageSeconds": 526
       },
       {
         "name": "ひめろっとぉ",
@@ -83,11 +83,43 @@
         "shop": "ラウンドワン松山店",
         "update": "2026/09/01 09:41:35",
         "status": "yellow",
-        "ageSeconds": 1397
+        "ageSeconds": 1516
       }
     ],
-    "Sapphire": [],
-    "Emerald": [],
+    "Sapphire": [
+      {
+        "name": "Ｌｅｅ",
+        "rank": "Sapphire",
+        "point": 1480,
+        "car": "CP9Aエボ5[AR]",
+        "shop": "ラウンドワン金沢店",
+        "update": "2026/09/01 10:00:56",
+        "status": "green",
+        "ageSeconds": 355
+      },
+      {
+        "name": "夢之旅",
+        "rank": "Sapphire",
+        "point": 220,
+        "car": "RPS13[AR]",
+        "shop": "ピンクパンサー下妻店",
+        "update": "2026/09/01 09:57:40",
+        "status": "green",
+        "ageSeconds": 551
+      }
+    ],
+    "Emerald": [
+      {
+        "name": "Ｌａｙ",
+        "rank": "Emerald",
+        "point": 380,
+        "car": "ZN8[DH]",
+        "shop": "ラウンドワン郡山店",
+        "update": "2026/09/01 09:57:39",
+        "status": "green",
+        "ageSeconds": 552
+      }
+    ],
     "Clear Blue": [],
     "Clear Red": [],
     "Clear Green": [],
