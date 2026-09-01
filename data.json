@@ -1,28 +1,28 @@
 {
-  "trackerTime": "2026-09-02 07:48:48",
-  "activeSince": "2026-09-02 07:18:48",
-  "total": 6,
+  "trackerTime": "2026-09-02 07:50:50",
+  "activeSince": "2026-09-02 07:20:50",
+  "total": 14,
   "ranks": {
     "Pride": [
       {
         "name": "わがまますぎ",
         "rank": "Pride",
-        "point": 105220,
+        "point": 106000,
         "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/09/02 07:30:08",
-        "status": "yellow",
-        "ageSeconds": 1120
+        "update": "2026/09/02 07:43:44",
+        "status": "green",
+        "ageSeconds": 426
       },
       {
         "name": "Ｏｃｈｏｉｒ",
         "rank": "Pride",
-        "point": 39420,
+        "point": 40200,
         "car": "GDBF[AR]",
         "shop": "ＧｉＧＯ日立",
-        "update": "2026/09/02 07:29:18",
-        "status": "yellow",
-        "ageSeconds": 1170
+        "update": "2026/09/02 07:43:05",
+        "status": "green",
+        "ageSeconds": 465
       },
       {
         "name": "　　らーめん",
@@ -32,19 +32,79 @@
         "shop": "関大前フタバボウル",
         "update": "2026/09/02 07:27:39",
         "status": "yellow",
-        "ageSeconds": 1269
+        "ageSeconds": 1391
+      },
+      {
+        "name": "チョイノリ＠",
+        "rank": "Pride",
+        "point": 3520,
+        "car": "DB42[AR]",
+        "shop": "ウェアハウス越谷店",
+        "update": "2026/09/02 07:42:34",
+        "status": "green",
+        "ageSeconds": 496
       }
     ],
     "Ruby": [
       {
-        "name": "啓悟の弟子",
+        "name": "ｓｃｕｍｐ．",
         "rank": "Ruby",
-        "point": 2480,
-        "car": "NA1[AR]",
-        "shop": "ＧｉＧＯ福島南",
-        "update": "2026/09/02 07:20:22",
+        "point": 26960,
+        "car": "FD3S[AR]",
+        "shop": "ゲームランド草津店",
+        "update": "2026/09/02 07:37:58",
+        "status": "green",
+        "ageSeconds": 772
+      },
+      {
+        "name": "祐良の弟子＾",
+        "rank": "Ruby",
+        "point": 3520,
+        "car": "CT9Aエボ9[AR]",
+        "shop": "山田レジャーセンター",
+        "update": "2026/09/02 07:43:50",
+        "status": "green",
+        "ageSeconds": 420
+      },
+      {
+        "name": "ゆうらんきー",
+        "rank": "Ruby",
+        "point": 3500,
+        "car": "CN9Aエボ4[AR]",
+        "shop": "ＧｉＧＯ勿来",
+        "update": "2026/09/02 07:42:56",
+        "status": "green",
+        "ageSeconds": 474
+      },
+      {
+        "name": "悠羽の弟子",
+        "rank": "Ruby",
+        "point": 3200,
+        "car": "CT9Aエボ9[AR]",
+        "shop": "ＧｉＧＯ神栖",
+        "update": "2026/09/02 07:34:43",
         "status": "yellow",
-        "ageSeconds": 1706
+        "ageSeconds": 967
+      },
+      {
+        "name": "水野　乃愛",
+        "rank": "Ruby",
+        "point": 2900,
+        "car": "86トレノ2[DH]",
+        "shop": "アミパラここじゃ店",
+        "update": "2026/09/02 07:32:42",
+        "status": "yellow",
+        "ageSeconds": 1088
+      },
+      {
+        "name": "菅波　美玲",
+        "rank": "Ruby",
+        "point": 2020,
+        "car": "BNR32[AR]",
+        "shop": "アミューズパークいわき神谷店",
+        "update": "2026/09/02 07:42:41",
+        "status": "green",
+        "ageSeconds": 489
       },
       {
         "name": "青空　ひかり",
@@ -54,7 +114,27 @@
         "shop": "キャッツアイ新札幌店",
         "update": "2026/09/02 07:29:25",
         "status": "yellow",
-        "ageSeconds": 1163
+        "ageSeconds": 1285
+      },
+      {
+        "name": "ｈａｏｓ．",
+        "rank": "Ruby",
+        "point": 1560,
+        "car": "FC3S[AR]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/09/02 07:33:44",
+        "status": "yellow",
+        "ageSeconds": 1026
+      },
+      {
+        "name": "藤田陸の弟子",
+        "rank": "Ruby",
+        "point": 1540,
+        "car": "SW20[AR]",
+        "shop": "ＧｉＧＯトナリエ四日市",
+        "update": "2026/09/02 07:39:04",
+        "status": "green",
+        "ageSeconds": 706
       },
       {
         "name": "Ｐｅｔｒａ．",
@@ -64,7 +144,7 @@
         "shop": "ハロータイトー むつ店",
         "update": "2026/09/02 07:25:13",
         "status": "yellow",
-        "ageSeconds": 1415
+        "ageSeconds": 1537
       }
     ],
     "Sapphire": [],
