@@ -1,41 +1,71 @@
 {
-  "trackerTime": "2026-09-02 09:18:53",
-  "activeSince": "2026-09-02 08:48:53",
-  "total": 5,
+  "trackerTime": "2026-09-02 09:20:38",
+  "activeSince": "2026-09-02 08:50:38",
+  "total": 12,
   "ranks": {
     "Pride": [
       {
         "name": "わがまますぎ",
         "rank": "Pride",
-        "point": 109640,
+        "point": 110160,
         "car": "ST205[AR]",
         "shop": "千葉レジャーランド野田店",
-        "update": "2026/09/02 08:58:39",
-        "status": "yellow",
-        "ageSeconds": 1214
+        "update": "2026/09/02 09:11:43",
+        "status": "green",
+        "ageSeconds": 535
       },
       {
         "name": "Ｏｃｈｏｉｒ",
         "rank": "Pride",
-        "point": 44100,
-        "car": "GDBF[AR]",
+        "point": 44360,
+        "car": "CT9Aエボ9[AR]",
         "shop": "ＧｉＧＯ日立",
-        "update": "2026/09/02 08:59:50",
-        "status": "yellow",
-        "ageSeconds": 1143
+        "update": "2026/09/02 09:13:05",
+        "status": "green",
+        "ageSeconds": 453
       },
       {
         "name": "小野瀬　真奈",
         "rank": "Pride",
-        "point": 33940,
-        "car": "ST205[AR]",
+        "point": 34460,
+        "car": "CP9Aエボ6[HC]",
         "shop": "群馬レジャーランド太田店",
-        "update": "2026/09/02 08:58:49",
-        "status": "yellow",
-        "ageSeconds": 1204
+        "update": "2026/09/02 09:10:32",
+        "status": "green",
+        "ageSeconds": 606
       }
     ],
     "Ruby": [
+      {
+        "name": "レジェンド",
+        "rank": "Ruby",
+        "point": 84040,
+        "car": "CT9Aエボ9[AR]",
+        "shop": "ラウンドワンＪＲ尼崎駅前店",
+        "update": "2026/09/02 09:14:57",
+        "status": "green",
+        "ageSeconds": 341
+      },
+      {
+        "name": "ダークネス☆",
+        "rank": "Ruby",
+        "point": 8800,
+        "car": "FD3S[AR]",
+        "shop": "フタバボウル泉大津店",
+        "update": "2026/09/02 09:13:34",
+        "status": "green",
+        "ageSeconds": 424
+      },
+      {
+        "name": "Ｒａｉ☆",
+        "rank": "Ruby",
+        "point": 7020,
+        "car": "ST205[AR]",
+        "shop": "ＧｉＧＯ神戸ｕｍｉｅサウスモール",
+        "update": "2026/09/02 09:14:56",
+        "status": "green",
+        "ageSeconds": 342
+      },
       {
         "name": "日頃からモブ",
         "rank": "Ruby",
@@ -44,20 +74,61 @@
         "shop": "楽市楽座黒崎店",
         "update": "2026/09/02 08:59:57",
         "status": "yellow",
-        "ageSeconds": 1136
+        "ageSeconds": 1241
       },
       {
         "name": "ＲＡＩＲＡ",
         "rank": "Ruby",
-        "point": 5920,
+        "point": 5800,
         "car": "RZ34[AR]",
         "shop": "シルクハット川崎モアーズ",
-        "update": "2026/09/02 08:58:38",
-        "status": "yellow",
-        "ageSeconds": 1215
+        "update": "2026/09/02 09:11:39",
+        "status": "green",
+        "ageSeconds": 539
+      },
+      {
+        "name": "笑顔のレシピ",
+        "rank": "Ruby",
+        "point": 2300,
+        "car": "S15[AR]",
+        "shop": "セガ東京ドームシティ",
+        "update": "2026/09/02 09:11:47",
+        "status": "green",
+        "ageSeconds": 531
+      },
+      {
+        "name": "キャバ嬢送迎",
+        "rank": "Ruby",
+        "point": 1800,
+        "car": "CZ4Aエボ10[HC]",
+        "shop": "群馬レジャーランド高崎駅東口店",
+        "update": "2026/09/02 09:13:35",
+        "status": "green",
+        "ageSeconds": 423
+      },
+      {
+        "name": "ｈａｏｓ．",
+        "rank": "Ruby",
+        "point": 1380,
+        "car": "FC3S[AR]",
+        "shop": "千葉レジャーランド野田店",
+        "update": "2026/09/02 09:13:12",
+        "status": "green",
+        "ageSeconds": 446
       }
     ],
-    "Sapphire": [],
+    "Sapphire": [
+      {
+        "name": "フォッカー",
+        "rank": "Sapphire",
+        "point": 280,
+        "car": "FD3S6[AR]",
+        "shop": "アミューズメントパークＭＧ徳島",
+        "update": "2026/09/02 09:11:39",
+        "status": "green",
+        "ageSeconds": 539
+      }
+    ],
     "Emerald": [],
     "Clear Blue": [],
     "Clear Red": [],
