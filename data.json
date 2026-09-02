@@ -1,9 +1,29 @@
 {
-  "trackerTime": "2026-09-03 01:17:52",
-  "activeSince": "2026-09-03 00:47:52",
-  "total": 10,
+  "trackerTime": "2026-09-03 01:19:50",
+  "activeSince": "2026-09-03 00:49:50",
+  "total": 15,
   "ranks": {
     "Pride": [
+      {
+        "name": "ＧＲパイセン",
+        "rank": "Pride",
+        "point": 126120,
+        "car": "NB8C[AR]",
+        "shop": "滋賀レジャーランド大津店",
+        "update": "2026/09/03 01:15:58",
+        "status": "green",
+        "ageSeconds": 232
+      },
+      {
+        "name": "あ＠とくしま",
+        "rank": "Pride",
+        "point": 95040,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "ラウンドワン徳島・万代店",
+        "update": "2026/09/03 01:16:25",
+        "status": "green",
+        "ageSeconds": 205
+      },
       {
         "name": "Ｍαｓｄα？",
         "rank": "Pride",
@@ -12,7 +32,7 @@
         "shop": "モーリーファンタジー能代",
         "update": "2026/09/03 01:00:07",
         "status": "yellow",
-        "ageSeconds": 1065
+        "ageSeconds": 1183
       },
       {
         "name": "ひなこのはな",
@@ -22,39 +42,49 @@
         "shop": "ＧｉＧＯイオン札幌手稲駅前ＳＣ",
         "update": "2026/09/03 00:58:13",
         "status": "yellow",
-        "ageSeconds": 1179
+        "ageSeconds": 1297
+      },
+      {
+        "name": "夏草の線路",
+        "rank": "Pride",
+        "point": 25440,
+        "car": "CE9Aエボ3[AR]",
+        "shop": "M's PARK豊田店",
+        "update": "2026/09/03 01:16:18",
+        "status": "green",
+        "ageSeconds": 212
       }
     ],
     "Ruby": [
       {
         "name": "夢咲乃愛",
         "rank": "Ruby",
-        "point": 106400,
+        "point": 106280,
         "car": "CE9Aエボ3[DH]",
         "shop": "関大前フタバボウル",
-        "update": "2026/09/03 00:59:20",
-        "status": "yellow",
-        "ageSeconds": 1112
+        "update": "2026/09/03 01:12:22",
+        "status": "green",
+        "ageSeconds": 448
       },
       {
         "name": "人間の端くれ",
         "rank": "Ruby",
-        "point": 85000,
+        "point": 85140,
         "car": "ST205[AR]",
         "shop": "ｎａｍｃｏ博多バスターミナル店",
-        "update": "2026/09/03 00:58:12",
-        "status": "yellow",
-        "ageSeconds": 1180
+        "update": "2026/09/03 01:15:43",
+        "status": "green",
+        "ageSeconds": 247
       },
       {
         "name": "ルイボス新山",
         "rank": "Ruby",
-        "point": 13460,
-        "car": "86トレノ2[HC]",
+        "point": 13660,
+        "car": "FD3S[AR]",
         "shop": "ゲーム　アルカナ",
-        "update": "2026/09/03 00:55:00",
-        "status": "yellow",
-        "ageSeconds": 1372
+        "update": "2026/09/03 01:06:33",
+        "status": "green",
+        "ageSeconds": 797
       },
       {
         "name": "甘い生活へ",
@@ -64,7 +94,17 @@
         "shop": "アミューズメントフィールドバイヨン",
         "update": "2026/09/03 00:51:14",
         "status": "yellow",
-        "ageSeconds": 1598
+        "ageSeconds": 1716
+      },
+      {
+        "name": "霊感少女Ｄ",
+        "rank": "Ruby",
+        "point": 8980,
+        "car": "FD3S6[AR]",
+        "shop": "ＧｉＧＯ北岡崎",
+        "update": "2026/09/03 01:14:36",
+        "status": "green",
+        "ageSeconds": 314
       },
       {
         "name": "プレイヤー",
@@ -74,7 +114,7 @@
         "shop": "ＧｉＧＯイオン新浦安ショッピングセンター",
         "update": "2026/09/03 01:00:07",
         "status": "yellow",
-        "ageSeconds": 1065
+        "ageSeconds": 1183
       },
       {
         "name": "湿滑の司機",
@@ -84,7 +124,17 @@
         "shop": "ＧｉＧＯ仙台",
         "update": "2026/09/03 00:59:21",
         "status": "yellow",
-        "ageSeconds": 1111
+        "ageSeconds": 1229
+      },
+      {
+        "name": "橿母鴨２５元",
+        "rank": "Ruby",
+        "point": 1700,
+        "car": "CP9Aエボ5[AR]",
+        "shop": "サンアミューズ鹿屋店",
+        "update": "2026/09/03 01:12:23",
+        "status": "green",
+        "ageSeconds": 447
       }
     ],
     "Sapphire": [
@@ -96,7 +146,7 @@
         "shop": "スポーツウェーブ鉄腕24",
         "update": "2026/09/03 00:58:08",
         "status": "yellow",
-        "ageSeconds": 1184
+        "ageSeconds": 1302
       },
       {
         "name": "与田　祐希",
@@ -106,7 +156,7 @@
         "shop": "楽市楽座イオンモール甲府店",
         "update": "2026/09/03 00:53:44",
         "status": "yellow",
-        "ageSeconds": 1448
+        "ageSeconds": 1566
       }
     ],
     "Emerald": [],
