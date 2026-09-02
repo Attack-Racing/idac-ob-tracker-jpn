@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-09-02 10:44:47",
-  "activeSince": "2026-09-02 10:14:47",
-  "total": 51,
+  "trackerTime": "2026-09-02 10:46:49",
+  "activeSince": "2026-09-02 10:16:49",
+  "total": 50,
   "ranks": {
     "Pride": [
       {
@@ -11,8 +11,8 @@
         "car": "シルエイティ[HC]",
         "shop": "滋賀レジャーランド大津店",
         "update": "2026/09/02 10:30:21",
-        "status": "green",
-        "ageSeconds": 865
+        "status": "yellow",
+        "ageSeconds": 988
       },
       {
         "name": "格闘家αｙμ",
@@ -21,8 +21,8 @@
         "car": "GC8[DH]",
         "shop": "アミューズメントパークＭＧ西条",
         "update": "2026/09/02 10:31:20",
-        "status": "green",
-        "ageSeconds": 806
+        "status": "yellow",
+        "ageSeconds": 929
       },
       {
         "name": "小野瀬　真奈",
@@ -31,8 +31,8 @@
         "car": "ST205[AR]",
         "shop": "群馬レジャーランド太田店",
         "update": "2026/09/02 10:30:12",
-        "status": "green",
-        "ageSeconds": 874
+        "status": "yellow",
+        "ageSeconds": 997
       }
     ],
     "Ruby": [
@@ -44,7 +44,7 @@
         "shop": "関大前フタバボウル",
         "update": "2026/09/02 10:28:40",
         "status": "yellow",
-        "ageSeconds": 966
+        "ageSeconds": 1089
       },
       {
         "name": "レジェンド",
@@ -54,7 +54,7 @@
         "shop": "ラウンドワンＪＲ尼崎駅前店",
         "update": "2026/09/02 10:27:03",
         "status": "yellow",
-        "ageSeconds": 1063
+        "ageSeconds": 1186
       },
       {
         "name": "なかのよつば",
@@ -64,7 +64,7 @@
         "shop": "ｎａｍｃｏ中野店",
         "update": "2026/09/02 10:26:16",
         "status": "yellow",
-        "ageSeconds": 1110
+        "ageSeconds": 1233
       },
       {
         "name": "ＳＨＲ",
@@ -74,7 +74,7 @@
         "shop": "ＧｉＧＯ尾道",
         "update": "2026/09/02 10:26:39",
         "status": "yellow",
-        "ageSeconds": 1087
+        "ageSeconds": 1210
       },
       {
         "name": "れいにゃん",
@@ -83,8 +83,8 @@
         "car": "ST205[AR]",
         "shop": "ソユーゲームフィールド小名浜店",
         "update": "2026/09/02 10:30:39",
-        "status": "green",
-        "ageSeconds": 847
+        "status": "yellow",
+        "ageSeconds": 970
       },
       {
         "name": "タローマン",
@@ -93,8 +93,8 @@
         "car": "ST205[AR]",
         "shop": "ラウンドワンアリオ柏店",
         "update": "2026/09/02 10:30:11",
-        "status": "green",
-        "ageSeconds": 875
+        "status": "yellow",
+        "ageSeconds": 998
       },
       {
         "name": "サンドローネ",
@@ -104,7 +104,7 @@
         "shop": "ベネクス浦和店",
         "update": "2026/09/02 10:29:08",
         "status": "yellow",
-        "ageSeconds": 938
+        "ageSeconds": 1061
       },
       {
         "name": "ダークネス☆",
@@ -114,7 +114,7 @@
         "shop": "フタバボウル泉大津店",
         "update": "2026/09/02 10:28:20",
         "status": "yellow",
-        "ageSeconds": 986
+        "ageSeconds": 1109
       },
       {
         "name": "美琴",
@@ -124,7 +124,7 @@
         "shop": "ゲームアイビス太子",
         "update": "2026/09/02 10:28:19",
         "status": "yellow",
-        "ageSeconds": 987
+        "ageSeconds": 1110
       },
       {
         "name": "もりなべさ",
@@ -133,8 +133,8 @@
         "car": "CP9Aエボ6[HC]",
         "shop": "楽市街道箱崎店",
         "update": "2026/09/02 10:31:36",
-        "status": "green",
-        "ageSeconds": 790
+        "status": "yellow",
+        "ageSeconds": 913
       },
       {
         "name": "先バレ４割",
@@ -144,7 +144,7 @@
         "shop": "東京レジャーランド亀有店",
         "update": "2026/09/02 10:29:02",
         "status": "yellow",
-        "ageSeconds": 944
+        "ageSeconds": 1067
       },
       {
         "name": "パトランラン",
@@ -153,8 +153,8 @@
         "car": "CT9Aエボ7[HC]",
         "shop": "シルクハット川口",
         "update": "2026/09/02 10:31:20",
-        "status": "green",
-        "ageSeconds": 806
+        "status": "yellow",
+        "ageSeconds": 929
       },
       {
         "name": "麗羽　くるみ",
@@ -164,17 +164,7 @@
         "shop": "ＧｉＧＯ入間",
         "update": "2026/09/02 10:26:15",
         "status": "yellow",
-        "ageSeconds": 1111
-      },
-      {
-        "name": "ウマ娘の○○",
-        "rank": "Ruby",
-        "point": 5800,
-        "car": "86トレノ[AR]",
-        "shop": "神奈川レジャーランド厚木店",
-        "update": "2026/09/02 10:16:28",
-        "status": "yellow",
-        "ageSeconds": 1698
+        "ageSeconds": 1234
       },
       {
         "name": "Ｈｉｇαｎ＠",
@@ -184,7 +174,7 @@
         "shop": "ＧｉＧＯ仙台",
         "update": "2026/09/02 10:27:56",
         "status": "yellow",
-        "ageSeconds": 1010
+        "ageSeconds": 1133
       },
       {
         "name": "Ｂ・グラッセ",
@@ -194,7 +184,7 @@
         "shop": "ＧｉＧＯ相模原",
         "update": "2026/09/02 10:28:59",
         "status": "yellow",
-        "ageSeconds": 947
+        "ageSeconds": 1070
       },
       {
         "name": "メッチー",
@@ -204,7 +194,7 @@
         "shop": "遊道楽仲原店",
         "update": "2026/09/02 10:27:30",
         "status": "yellow",
-        "ageSeconds": 1036
+        "ageSeconds": 1159
       },
       {
         "name": "Ｈ・ミーク",
@@ -214,7 +204,7 @@
         "shop": "神奈川レジャーランド厚木店",
         "update": "2026/09/02 10:22:09",
         "status": "yellow",
-        "ageSeconds": 1357
+        "ageSeconds": 1480
       },
       {
         "name": "ぱるぱる",
@@ -224,7 +214,7 @@
         "shop": "ラウンドワン半田店",
         "update": "2026/09/02 10:27:36",
         "status": "yellow",
-        "ageSeconds": 1030
+        "ageSeconds": 1153
       },
       {
         "name": "たーん",
@@ -234,7 +224,7 @@
         "shop": "ｎａｍｃｏアリオ鳳店",
         "update": "2026/09/02 10:23:48",
         "status": "yellow",
-        "ageSeconds": 1258
+        "ageSeconds": 1381
       },
       {
         "name": "はちみつ",
@@ -244,7 +234,7 @@
         "shop": "タイトーステーション 難波店",
         "update": "2026/09/02 10:27:04",
         "status": "yellow",
-        "ageSeconds": 1062
+        "ageSeconds": 1185
       },
       {
         "name": "ガボンＤ",
@@ -253,8 +243,8 @@
         "car": "CP9Aエボ5[AR]",
         "shop": "ＧｉＧＯ中間",
         "update": "2026/09/02 10:30:28",
-        "status": "green",
-        "ageSeconds": 858
+        "status": "yellow",
+        "ageSeconds": 981
       },
       {
         "name": "ＲＹＯ",
@@ -264,7 +254,7 @@
         "shop": "ＧｉＧＯあべのアポロ３Ｆ",
         "update": "2026/09/02 10:27:57",
         "status": "yellow",
-        "ageSeconds": 1009
+        "ageSeconds": 1132
       },
       {
         "name": "悪彩　にあ",
@@ -274,7 +264,7 @@
         "shop": "ＧｉＧＯ秋葉原３号館",
         "update": "2026/09/02 10:21:12",
         "status": "yellow",
-        "ageSeconds": 1414
+        "ageSeconds": 1537
       },
       {
         "name": "終天のアリア",
@@ -284,7 +274,7 @@
         "shop": "アミパラ佐世保店",
         "update": "2026/09/02 10:27:30",
         "status": "yellow",
-        "ageSeconds": 1036
+        "ageSeconds": 1159
       },
       {
         "name": "リムル",
@@ -294,7 +284,7 @@
         "shop": "ユーズランド倉敷店",
         "update": "2026/09/02 10:28:33",
         "status": "yellow",
-        "ageSeconds": 973
+        "ageSeconds": 1096
       },
       {
         "name": "Ａｙａｍｅ",
@@ -304,7 +294,7 @@
         "shop": "ユーズランド高崎店",
         "update": "2026/09/02 10:27:36",
         "status": "yellow",
-        "ageSeconds": 1030
+        "ageSeconds": 1153
       }
     ],
     "Sapphire": [
@@ -316,7 +306,7 @@
         "shop": "アソビックスゲームワールド",
         "update": "2026/09/02 10:26:01",
         "status": "yellow",
-        "ageSeconds": 1125
+        "ageSeconds": 1248
       },
       {
         "name": "ニッチ＿ラム",
@@ -326,7 +316,7 @@
         "shop": "アミューズメントエース津田沼",
         "update": "2026/09/02 10:27:06",
         "status": "yellow",
-        "ageSeconds": 1060
+        "ageSeconds": 1183
       },
       {
         "name": "Ｋ－Ｐｌｕｓ",
@@ -335,8 +325,8 @@
         "car": "ER34[AR]",
         "shop": "ＧｉＧＯ福島南",
         "update": "2026/09/02 10:30:35",
-        "status": "green",
-        "ageSeconds": 851
+        "status": "yellow",
+        "ageSeconds": 974
       },
       {
         "name": "カツマサ",
@@ -345,8 +335,8 @@
         "car": "シルエイティ[AR]",
         "shop": "ＧｉＧＯ旭",
         "update": "2026/09/02 10:31:18",
-        "status": "green",
-        "ageSeconds": 808
+        "status": "yellow",
+        "ageSeconds": 931
       },
       {
         "name": "タマモクロス",
@@ -356,7 +346,7 @@
         "shop": "ＰＡＬＯ小松島",
         "update": "2026/09/02 10:21:51",
         "status": "yellow",
-        "ageSeconds": 1375
+        "ageSeconds": 1498
       },
       {
         "name": "はまち",
@@ -365,8 +355,8 @@
         "car": "ST205[DH]",
         "shop": "トヤマレジャーランド呉羽店",
         "update": "2026/09/02 10:31:17",
-        "status": "green",
-        "ageSeconds": 809
+        "status": "yellow",
+        "ageSeconds": 932
       },
       {
         "name": "さけちゃん",
@@ -375,8 +365,8 @@
         "car": "FD3S6[AR]",
         "shop": "アミューズメントＣＵＥ奈良三条店",
         "update": "2026/09/02 10:31:17",
-        "status": "green",
-        "ageSeconds": 809
+        "status": "yellow",
+        "ageSeconds": 932
       },
       {
         "name": "ＴＡＭＡ",
@@ -386,7 +376,7 @@
         "shop": "楽市楽座イオンモール新小松店",
         "update": "2026/09/02 10:18:01",
         "status": "yellow",
-        "ageSeconds": 1605
+        "ageSeconds": 1728
       }
     ],
     "Emerald": [
@@ -398,7 +388,7 @@
         "shop": "楽市楽座イオン小郡店",
         "update": "2026/09/02 10:27:07",
         "status": "yellow",
-        "ageSeconds": 1059
+        "ageSeconds": 1182
       },
       {
         "name": "空気を吐く男",
@@ -408,7 +398,7 @@
         "shop": "ラウンドワン豊橋店",
         "update": "2026/09/02 10:25:52",
         "status": "yellow",
-        "ageSeconds": 1134
+        "ageSeconds": 1257
       },
       {
         "name": "だいぽん！？",
@@ -418,7 +408,7 @@
         "shop": "ＧｉＧＯ総本店",
         "update": "2026/09/02 10:20:41",
         "status": "yellow",
-        "ageSeconds": 1445
+        "ageSeconds": 1568
       },
       {
         "name": "みりゅ",
@@ -428,7 +418,7 @@
         "shop": "ラウンドワン沖縄・南風原店",
         "update": "2026/09/02 10:18:31",
         "status": "yellow",
-        "ageSeconds": 1575
+        "ageSeconds": 1698
       },
       {
         "name": "ジュン",
@@ -438,7 +428,7 @@
         "shop": "楽市楽座イオンモール都城駅前店",
         "update": "2026/09/02 10:26:59",
         "status": "yellow",
-        "ageSeconds": 1067
+        "ageSeconds": 1190
       },
       {
         "name": "ＫＩＫＹＯ",
@@ -448,7 +438,7 @@
         "shop": "アピナ松本店",
         "update": "2026/09/02 10:19:48",
         "status": "yellow",
-        "ageSeconds": 1498
+        "ageSeconds": 1621
       },
       {
         "name": "空牙団の大義",
@@ -458,7 +448,7 @@
         "shop": "アピナ塩尻店",
         "update": "2026/09/02 10:27:06",
         "status": "yellow",
-        "ageSeconds": 1060
+        "ageSeconds": 1183
       }
     ],
     "Clear Blue": [
@@ -470,7 +460,7 @@
         "shop": "ＧｉＧＯ町田",
         "update": "2026/09/02 10:18:50",
         "status": "yellow",
-        "ageSeconds": 1556
+        "ageSeconds": 1679
       },
       {
         "name": "プレイヤー",
@@ -480,7 +470,7 @@
         "shop": "関大前フタバボウル",
         "update": "2026/09/02 10:24:35",
         "status": "yellow",
-        "ageSeconds": 1211
+        "ageSeconds": 1334
       },
       {
         "name": "あゆと",
@@ -489,8 +479,8 @@
         "car": "911[HC]",
         "shop": "コミ丸アリババ大垣店",
         "update": "2026/09/02 10:30:24",
-        "status": "green",
-        "ageSeconds": 862
+        "status": "yellow",
+        "ageSeconds": 985
       }
     ],
     "Clear Red": [
@@ -502,7 +492,7 @@
         "shop": "ＧｉＧＯ総本店",
         "update": "2026/09/02 10:27:29",
         "status": "yellow",
-        "ageSeconds": 1037
+        "ageSeconds": 1160
       },
       {
         "name": "あるる",
@@ -512,7 +502,7 @@
         "shop": "ラウンドワン沖縄・南風原店",
         "update": "2026/09/02 10:27:35",
         "status": "yellow",
-        "ageSeconds": 1031
+        "ageSeconds": 1154
       },
       {
         "name": "こだんた",
@@ -521,8 +511,8 @@
         "car": "RZ34[AR]",
         "shop": "ＧｉＧＯイオンタウン刈谷",
         "update": "2026/09/02 10:30:23",
-        "status": "green",
-        "ageSeconds": 863
+        "status": "yellow",
+        "ageSeconds": 986
       }
     ],
     "Clear Green": [],
