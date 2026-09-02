@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-09-03 03:10:52",
-  "activeSince": "2026-09-03 02:40:52",
-  "total": 13,
+  "trackerTime": "2026-09-03 03:12:51",
+  "activeSince": "2026-09-03 02:42:51",
+  "total": 11,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "滋賀レジャーランド大津店",
         "update": "2026/09/03 02:57:53",
         "status": "green",
-        "ageSeconds": 779
+        "ageSeconds": 898
       },
       {
         "name": "あ＠とくしま",
@@ -22,7 +22,7 @@
         "shop": "ラウンドワン徳島・万代店",
         "update": "2026/09/03 02:59:40",
         "status": "green",
-        "ageSeconds": 672
+        "ageSeconds": 791
       },
       {
         "name": "りくちゃん？",
@@ -32,7 +32,7 @@
         "shop": "ウェアハウス三橋店",
         "update": "2026/09/03 02:59:39",
         "status": "green",
-        "ageSeconds": 673
+        "ageSeconds": 792
       },
       {
         "name": "絶対的第六感",
@@ -42,7 +42,7 @@
         "shop": "アミューズメントゲーム　マグレブ",
         "update": "2026/09/03 02:45:03",
         "status": "yellow",
-        "ageSeconds": 1549
+        "ageSeconds": 1668
       },
       {
         "name": "夏草の線路",
@@ -51,8 +51,8 @@
         "car": "ST205[AR]",
         "shop": "M's PARK豊田店",
         "update": "2026/09/03 02:56:05",
-        "status": "green",
-        "ageSeconds": 887
+        "status": "yellow",
+        "ageSeconds": 1006
       },
       {
         "name": "瑠夏が一番！",
@@ -62,7 +62,7 @@
         "shop": "プラサカプコン羽生店",
         "update": "2026/09/03 02:57:53",
         "status": "green",
-        "ageSeconds": 779
+        "ageSeconds": 898
       },
       {
         "name": "佐藤　希＠神",
@@ -72,7 +72,7 @@
         "shop": "ラウンドワン習志野店",
         "update": "2026/09/03 03:00:06",
         "status": "green",
-        "ageSeconds": 646
+        "ageSeconds": 765
       }
     ],
     "Ruby": [
@@ -84,7 +84,7 @@
         "shop": "関大前フタバボウル",
         "update": "2026/09/03 03:00:12",
         "status": "green",
-        "ageSeconds": 640
+        "ageSeconds": 759
       },
       {
         "name": "人間の端くれ",
@@ -94,7 +94,7 @@
         "shop": "ｎａｍｃｏ博多バスターミナル店",
         "update": "2026/09/03 03:01:40",
         "status": "green",
-        "ageSeconds": 552
+        "ageSeconds": 671
       },
       {
         "name": "満腹丸パグ様",
@@ -104,7 +104,7 @@
         "shop": "シルクハット伊勢佐木町",
         "update": "2026/09/03 03:00:37",
         "status": "green",
-        "ageSeconds": 615
+        "ageSeconds": 734
       },
       {
         "name": "霊感少女Ｄ",
@@ -114,31 +114,10 @@
         "shop": "ＧｉＧＯ北岡崎",
         "update": "2026/09/03 02:55:18",
         "status": "yellow",
-        "ageSeconds": 934
-      },
-      {
-        "name": "べ～ちゃん＊",
-        "rank": "Ruby",
-        "point": 500,
-        "car": "EG6[HC]",
-        "shop": "ウェアハウス草加店別館",
-        "update": "2026/09/03 02:42:12",
-        "status": "yellow",
-        "ageSeconds": 1720
+        "ageSeconds": 1053
       }
     ],
-    "Sapphire": [
-      {
-        "name": "水宮　枢",
-        "rank": "Sapphire",
-        "point": 300,
-        "car": "CT9Aエボ7[HC]",
-        "shop": "ＧｉＧＯドリームタウン白樺",
-        "update": "2026/09/03 02:41:10",
-        "status": "yellow",
-        "ageSeconds": 1782
-      }
-    ],
+    "Sapphire": [],
     "Emerald": [],
     "Clear Blue": [],
     "Clear Red": [],
