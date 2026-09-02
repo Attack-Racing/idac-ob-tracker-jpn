@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-09-03 01:10:37",
-  "activeSince": "2026-09-03 00:40:37",
-  "total": 14,
+  "trackerTime": "2026-09-03 01:11:49",
+  "activeSince": "2026-09-03 00:41:49",
+  "total": 11,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "モーリーファンタジー能代",
         "update": "2026/09/03 01:00:07",
         "status": "green",
-        "ageSeconds": 630
+        "ageSeconds": 702
       },
       {
         "name": "ひなこのはな",
@@ -22,7 +22,7 @@
         "shop": "ＧｉＧＯイオン札幌手稲駅前ＳＣ",
         "update": "2026/09/03 00:58:13",
         "status": "green",
-        "ageSeconds": 744
+        "ageSeconds": 816
       }
     ],
     "Ruby": [
@@ -34,7 +34,7 @@
         "shop": "関大前フタバボウル",
         "update": "2026/09/03 00:59:20",
         "status": "green",
-        "ageSeconds": 677
+        "ageSeconds": 749
       },
       {
         "name": "人間の端くれ",
@@ -44,17 +44,7 @@
         "shop": "ｎａｍｃｏ博多バスターミナル店",
         "update": "2026/09/03 00:58:12",
         "status": "green",
-        "ageSeconds": 745
-      },
-      {
-        "name": "満腹丸パグ様",
-        "rank": "Ruby",
-        "point": 55380,
-        "car": "ST205[AR]",
-        "shop": "シルクハット伊勢佐木町",
-        "update": "2026/09/03 00:41:18",
-        "status": "yellow",
-        "ageSeconds": 1759
+        "ageSeconds": 817
       },
       {
         "name": "　清水美早",
@@ -64,7 +54,7 @@
         "shop": "タイトーステーションフジグラン北島店",
         "update": "2026/09/03 00:46:06",
         "status": "yellow",
-        "ageSeconds": 1471
+        "ageSeconds": 1543
       },
       {
         "name": "ルイボス新山",
@@ -74,7 +64,7 @@
         "shop": "ゲーム　アルカナ",
         "update": "2026/09/03 00:55:00",
         "status": "yellow",
-        "ageSeconds": 937
+        "ageSeconds": 1009
       },
       {
         "name": "甘い生活へ",
@@ -84,7 +74,7 @@
         "shop": "アミューズメントフィールドバイヨン",
         "update": "2026/09/03 00:51:14",
         "status": "yellow",
-        "ageSeconds": 1163
+        "ageSeconds": 1235
       },
       {
         "name": "プレイヤー",
@@ -94,7 +84,7 @@
         "shop": "ＧｉＧＯイオン新浦安ショッピングセンター",
         "update": "2026/09/03 01:00:07",
         "status": "green",
-        "ageSeconds": 630
+        "ageSeconds": 702
       },
       {
         "name": "湿滑の司機",
@@ -104,20 +94,10 @@
         "shop": "ＧｉＧＯ仙台",
         "update": "2026/09/03 00:59:21",
         "status": "green",
-        "ageSeconds": 676
+        "ageSeconds": 748
       }
     ],
     "Sapphire": [
-      {
-        "name": "舌尖２４恋",
-        "rank": "Sapphire",
-        "point": 3220,
-        "car": "ST205[AR]",
-        "shop": "ＧｉＧＯアリオ北砂",
-        "update": "2026/09/03 00:41:42",
-        "status": "yellow",
-        "ageSeconds": 1735
-      },
       {
         "name": "ハトソン",
         "rank": "Sapphire",
@@ -126,7 +106,7 @@
         "shop": "スポーツウェーブ鉄腕24",
         "update": "2026/09/03 00:58:08",
         "status": "green",
-        "ageSeconds": 749
+        "ageSeconds": 821
       },
       {
         "name": "与田　祐希",
@@ -136,21 +116,10 @@
         "shop": "楽市楽座イオンモール甲府店",
         "update": "2026/09/03 00:53:44",
         "status": "yellow",
-        "ageSeconds": 1013
+        "ageSeconds": 1085
       }
     ],
-    "Emerald": [
-      {
-        "name": "ＭＯＫＯＵ",
-        "rank": "Emerald",
-        "point": 1420,
-        "car": "FD3S[AR]",
-        "shop": "プレビ　ららぽーとＴＯＫＹＯーＢＡＹ店",
-        "update": "2026/09/03 00:41:48",
-        "status": "yellow",
-        "ageSeconds": 1729
-      }
-    ],
+    "Emerald": [],
     "Clear Blue": [],
     "Clear Red": [],
     "Clear Green": [],
