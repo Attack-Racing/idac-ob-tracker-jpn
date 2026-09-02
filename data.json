@@ -1,7 +1,7 @@
 {
-  "trackerTime": "2026-09-02 09:41:44",
-  "activeSince": "2026-09-02 09:11:44",
-  "total": 21,
+  "trackerTime": "2026-09-02 09:43:50",
+  "activeSince": "2026-09-02 09:13:50",
+  "total": 20,
   "ranks": {
     "Pride": [
       {
@@ -12,7 +12,7 @@
         "shop": "千葉レジャーランド野田店",
         "update": "2026/09/02 09:29:52",
         "status": "green",
-        "ageSeconds": 712
+        "ageSeconds": 838
       },
       {
         "name": "Ｏｃｈｏｉｒ",
@@ -22,7 +22,7 @@
         "shop": "ＧｉＧＯ日立",
         "update": "2026/09/02 09:29:48",
         "status": "green",
-        "ageSeconds": 716
+        "ageSeconds": 842
       },
       {
         "name": "小野瀬　真奈",
@@ -31,8 +31,8 @@
         "car": "ST205[AR]",
         "shop": "群馬レジャーランド太田店",
         "update": "2026/09/02 09:27:35",
-        "status": "green",
-        "ageSeconds": 849
+        "status": "yellow",
+        "ageSeconds": 975
       }
     ],
     "Ruby": [
@@ -44,7 +44,7 @@
         "shop": "ラウンドワンＪＲ尼崎駅前店",
         "update": "2026/09/02 09:29:59",
         "status": "green",
-        "ageSeconds": 705
+        "ageSeconds": 831
       },
       {
         "name": "ｓｃｕｍｐ．",
@@ -53,8 +53,8 @@
         "car": "FD3S[AR]",
         "shop": "ゲームランド草津店",
         "update": "2026/09/02 09:27:42",
-        "status": "green",
-        "ageSeconds": 842
+        "status": "yellow",
+        "ageSeconds": 968
       },
       {
         "name": "無冠の帝王",
@@ -64,7 +64,7 @@
         "shop": "群馬レジャーランド高崎駅東口店",
         "update": "2026/09/02 09:30:46",
         "status": "green",
-        "ageSeconds": 658
+        "ageSeconds": 784
       },
       {
         "name": "ＧＲ山本太朗",
@@ -74,7 +74,7 @@
         "shop": "ゲームアイビス太子",
         "update": "2026/09/02 09:30:46",
         "status": "green",
-        "ageSeconds": 658
+        "ageSeconds": 784
       },
       {
         "name": "ダークネス☆",
@@ -84,7 +84,7 @@
         "shop": "フタバボウル泉大津店",
         "update": "2026/09/02 09:23:51",
         "status": "yellow",
-        "ageSeconds": 1073
+        "ageSeconds": 1199
       },
       {
         "name": "Ｒａｉ☆",
@@ -93,8 +93,8 @@
         "car": "ST205[AR]",
         "shop": "ＧｉＧＯ神戸ｕｍｉｅサウスモール",
         "update": "2026/09/02 09:27:16",
-        "status": "green",
-        "ageSeconds": 868
+        "status": "yellow",
+        "ageSeconds": 994
       },
       {
         "name": "ＲＡＩＲＡ",
@@ -104,7 +104,7 @@
         "shop": "シルクハット川崎モアーズ",
         "update": "2026/09/02 09:23:50",
         "status": "yellow",
-        "ageSeconds": 1074
+        "ageSeconds": 1200
       },
       {
         "name": "ガボンＤ",
@@ -114,7 +114,7 @@
         "shop": "ＧｉＧＯ中間",
         "update": "2026/09/02 09:29:55",
         "status": "green",
-        "ageSeconds": 709
+        "ageSeconds": 835
       },
       {
         "name": "笑顔のレシピ",
@@ -124,7 +124,7 @@
         "shop": "セガ東京ドームシティ",
         "update": "2026/09/02 09:16:42",
         "status": "yellow",
-        "ageSeconds": 1502
+        "ageSeconds": 1628
       },
       {
         "name": "ますかれいど",
@@ -134,7 +134,7 @@
         "shop": "ＧｉＧＯ日立",
         "update": "2026/09/02 09:24:02",
         "status": "yellow",
-        "ageSeconds": 1062
+        "ageSeconds": 1188
       },
       {
         "name": "キャバ嬢送迎",
@@ -144,17 +144,7 @@
         "shop": "群馬レジャーランド高崎駅東口店",
         "update": "2026/09/02 09:18:40",
         "status": "yellow",
-        "ageSeconds": 1384
-      },
-      {
-        "name": "ｈａｏｓ．",
-        "rank": "Ruby",
-        "point": 1380,
-        "car": "FC3S[AR]",
-        "shop": "千葉レジャーランド野田店",
-        "update": "2026/09/02 09:13:12",
-        "status": "yellow",
-        "ageSeconds": 1712
+        "ageSeconds": 1510
       },
       {
         "name": "永遠の中級者",
@@ -164,7 +154,7 @@
         "shop": "群馬レジャーランド高崎駅東口店",
         "update": "2026/09/02 09:25:18",
         "status": "yellow",
-        "ageSeconds": 986
+        "ageSeconds": 1112
       }
     ],
     "Sapphire": [
@@ -175,8 +165,8 @@
         "car": "FD3S6[AR]",
         "shop": "ＰＡＬＯ小松島",
         "update": "2026/09/02 09:27:16",
-        "status": "green",
-        "ageSeconds": 868
+        "status": "yellow",
+        "ageSeconds": 994
       },
       {
         "name": "フォッカー",
@@ -186,7 +176,7 @@
         "shop": "アミューズメントパークＭＧ徳島",
         "update": "2026/09/02 09:18:27",
         "status": "yellow",
-        "ageSeconds": 1397
+        "ageSeconds": 1523
       }
     ],
     "Emerald": [
@@ -198,7 +188,7 @@
         "shop": "ラウンドワン横浜駅西口店",
         "update": "2026/09/02 09:30:50",
         "status": "green",
-        "ageSeconds": 654
+        "ageSeconds": 780
       }
     ],
     "Clear Blue": [
@@ -210,7 +200,7 @@
         "shop": "ラウンドワン千日前店",
         "update": "2026/09/02 09:19:59",
         "status": "yellow",
-        "ageSeconds": 1305
+        "ageSeconds": 1431
       },
       {
         "name": "こば",
@@ -220,7 +210,7 @@
         "shop": "ＧｉＧＯ沼田",
         "update": "2026/09/02 09:19:54",
         "status": "yellow",
-        "ageSeconds": 1310
+        "ageSeconds": 1436
       }
     ],
     "Clear Red": [],
